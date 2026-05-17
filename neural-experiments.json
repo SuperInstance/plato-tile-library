@@ -1,0 +1,44 @@
+{
+  "tiles": [
+    {
+      "domain": "neural-experiments",
+      "question": "Ring throughput",
+      "answer": "1K/10K/100K writes: ~10000000 tiles/sec peak",
+      "tags": [],
+      "source": "neural-exp",
+      "confidence": 0.8,
+      "_hash": "51b97968b668d587",
+      "provenance": {
+        "tile_id": "c6e36903d339b0b7",
+        "agent_id": "neural-exp",
+        "room": "neural-experiments",
+        "timestamp": 1778614793.7790203,
+        "chain_size": 4759
+      },
+      "energy": 0.926835,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-experiments",
+      "question": "Neural contract patterns",
+      "answer": "regular/spike/oscillate patterns detected via ring contract",
+      "tags": [],
+      "source": "neural-exp",
+      "confidence": 0.8,
+      "_hash": "4aee1ca4bf7174ed",
+      "provenance": {
+        "tile_id": "1ee0f5150e37aa44",
+        "agent_id": "neural-exp",
+        "room": "neural-experiments",
+        "timestamp": 1778614793.7854128,
+        "chain_size": 4760
+      },
+      "energy": 0.926835,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T19:39:53.779237+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

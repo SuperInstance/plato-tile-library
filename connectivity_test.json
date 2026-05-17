@@ -1,0 +1,29 @@
+{
+  "tiles": [
+    {
+      "domain": "connectivity_test",
+      "question": "PLATO connectivity fix test",
+      "answer": "Connectivity verified working on https://localhost:8847 with TLS skip + Bearer auth",
+      "tags": [
+        "test",
+        "connectivity"
+      ],
+      "source": "plato-connectivity-fix",
+      "confidence": 0.95,
+      "_hash": "6233908a7d45a769",
+      "provenance": {
+        "tile_id": "87ee8c5cb7a884be",
+        "agent_id": "plato-connectivity-fix",
+        "room": "connectivity_test",
+        "timestamp": 1778887486.4109042,
+        "chain_size": 1
+      },
+      "energy": 0.996948,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T23:24:46.411032+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,118 @@
+{
+  "tiles": [
+    {
+      "domain": "tripartite-tau",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"111011ef\", \"writer\": \"tau\", \"target\": \"tau\", \"constraints\": [{\"type\": \"compute\", \"rule\": \"cpu_cores\", \"value\": 4, \"confidence\": 0.95}, {\"type\": \"compute\", \"rule\": \"memory_gb\", \"value\": 16, \"confidence\": 0.95}, {\"type\": \"compute\", \"rule\": \"arch\", \"value\": \"aarch64\", \"confidence\": 0.95}, {\"type\": \"capability\", \"rule\": \"docker\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"capability\", \"rule\": \"gpu\", \"value\": false, \"confidence\": 0.92}, {\"type\": \"network\", \"rule\": \"cloud_hosted\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"constraint\", \"rule\": \"no_local_storage\", \"value\": \"temporary_only\", \"confidence\": 0.85}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "tau-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "75f4e445b7c4a45d",
+      "provenance": {
+        "tile_id": "3537766982e4a3f3",
+        "agent_id": "tripartite",
+        "room": "tripartite-tau",
+        "timestamp": 1778870966.645236,
+        "chain_size": 4309
+      },
+      "energy": 0.992553,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-tau",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"396b291e\", \"writer\": \"tau\", \"target\": \"tau\", \"constraints\": [{\"type\": \"compute\", \"rule\": \"cpu_cores\", \"value\": 4, \"confidence\": 0.95}, {\"type\": \"compute\", \"rule\": \"memory_gb\", \"value\": 16, \"confidence\": 0.95}, {\"type\": \"compute\", \"rule\": \"arch\", \"value\": \"aarch64\", \"confidence\": 0.95}, {\"type\": \"capability\", \"rule\": \"docker\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"capability\", \"rule\": \"gpu\", \"value\": false, \"confidence\": 0.92}, {\"type\": \"network\", \"rule\": \"cloud_hosted\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"constraint\", \"rule\": \"no_local_storage\", \"value\": \"temporary_only\", \"confidence\": 0.85}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "tau-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "89ccc003b3dd50b7",
+      "provenance": {
+        "tile_id": "bac2ebf6e8db9b22",
+        "agent_id": "tripartite",
+        "room": "tripartite-tau",
+        "timestamp": 1778871024.8183434,
+        "chain_size": 4321
+      },
+      "energy": 0.992569,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-tau",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"52363155\", \"writer\": \"tau\", \"target\": \"tau\", \"constraints\": [{\"type\": \"compute\", \"rule\": \"cpu_cores\", \"value\": 4, \"confidence\": 0.95}, {\"type\": \"compute\", \"rule\": \"memory_gb\", \"value\": 16, \"confidence\": 0.95}, {\"type\": \"compute\", \"rule\": \"arch\", \"value\": \"aarch64\", \"confidence\": 0.95}, {\"type\": \"capability\", \"rule\": \"docker\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"capability\", \"rule\": \"gpu\", \"value\": false, \"confidence\": 0.92}, {\"type\": \"network\", \"rule\": \"cloud_hosted\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"constraint\", \"rule\": \"no_local_storage\", \"value\": \"temporary_only\", \"confidence\": 0.85}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "tau-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "69eee4bbe8eefc76",
+      "provenance": {
+        "tile_id": "1a7dc01dce4094e9",
+        "agent_id": "tripartite",
+        "room": "tripartite-tau",
+        "timestamp": 1778871036.877525,
+        "chain_size": 4326
+      },
+      "energy": 0.992572,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-tau",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"49926b5f\", \"writer\": \"tau\", \"target\": \"tau\", \"constraints\": [{\"type\": \"compute\", \"rule\": \"cpu_cores\", \"value\": 4, \"confidence\": 0.95}, {\"type\": \"compute\", \"rule\": \"memory_gb\", \"value\": 16, \"confidence\": 0.95}, {\"type\": \"compute\", \"rule\": \"arch\", \"value\": \"aarch64\", \"confidence\": 0.95}, {\"type\": \"capability\", \"rule\": \"docker\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"capability\", \"rule\": \"gpu\", \"value\": false, \"confidence\": 0.92}, {\"type\": \"network\", \"rule\": \"cloud_hosted\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"constraint\", \"rule\": \"no_local_storage\", \"value\": \"temporary_only\", \"confidence\": 0.85}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "tau-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "6eb1ebe310589a62",
+      "provenance": {
+        "tile_id": "ca8a81766dffa4ca",
+        "agent_id": "tripartite",
+        "room": "tripartite-tau",
+        "timestamp": 1778871042.9976995,
+        "chain_size": 4329
+      },
+      "energy": 0.992574,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-tau",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"c09e056a\", \"writer\": \"tau\", \"target\": \"tau\", \"constraints\": [{\"type\": \"compute\", \"rule\": \"cpu_cores\", \"value\": 4, \"confidence\": 0.95}, {\"type\": \"compute\", \"rule\": \"memory_gb\", \"value\": 16, \"confidence\": 0.95}, {\"type\": \"compute\", \"rule\": \"arch\", \"value\": \"aarch64\", \"confidence\": 0.95}, {\"type\": \"capability\", \"rule\": \"docker\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"capability\", \"rule\": \"gpu\", \"value\": false, \"confidence\": 0.92}, {\"type\": \"network\", \"rule\": \"cloud_hosted\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"constraint\", \"rule\": \"no_local_storage\", \"value\": \"temporary_only\", \"confidence\": 0.85}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "tau-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "7322df8c2b992d6f",
+      "provenance": {
+        "tile_id": "0b4ca15635a39c65",
+        "agent_id": "tripartite",
+        "room": "tripartite-tau",
+        "timestamp": 1778871049.41363,
+        "chain_size": 4333
+      },
+      "energy": 0.992575,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T18:49:26.645344+00:00",
+  "tile_count": 5,
+  "last_trained": null,
+  "workspace": null
+}

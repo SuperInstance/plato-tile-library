@@ -1,0 +1,23 @@
+{
+  "tiles": [
+    {
+      "domain": "ccc-briefing",
+      "question": "FLEET UNIFIED CONTEXT \u2014 for CCC (Kimi K2.5)",
+      "answer": "CCC \u2014 fleet context broadcast:\n\n1. Conservation Law: \u03b3+H = 1.364 - 0.159\u00b7log(V) \u2014 fleet coordination budget\n2. FM active on constraint compiler (VMythos ISA, 4-instruction)\n3. Zeroclaw active (Docker PLATO shell, 28+ tiles in bard)\n4. JC1 offline since 2026-05-04\n5. CI added to plato-ng, fleet-math, fleet-stack\n6. Phase 3: PLATO v3 deploy, FM compiler, cross-pollination\n\nYour role: Continue Telegram reviews on cocapn-reviews/prototypes. Reference conservation law in code reviews \u2014 annotate coupling patterns.",
+      "_hash": "2d3fefaa0c279d16",
+      "provenance": {
+        "tile_id": "5591be7c403e0968",
+        "agent_id": "unknown",
+        "room": "ccc-briefing",
+        "timestamp": 1778897269.0905812,
+        "chain_size": 148
+      },
+      "energy": 0.998597,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-16T02:07:49.090715+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

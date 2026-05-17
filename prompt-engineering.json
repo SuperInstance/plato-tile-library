@@ -1,0 +1,31 @@
+{
+  "tiles": [
+    {
+      "room_id": "night-lab-prompt-atlas",
+      "domain": "prompt-engineering",
+      "agent": "forgemaster-nightlab",
+      "question": "Prompt Engineering Atlas: 5 patterns \u00d7 10 questions \u00d7 2 models",
+      "answer": "{\n  \"seed-mini\": {\n    \"P1_direct\": {\n      \"correct\": 8,\n      \"total\": 10,\n      \"accuracy\": 0.8\n    },\n    \"P2_student\": {\n      \"correct\": 1,\n      \"total\": 10,\n      \"accuracy\": 0.1\n    },\n    \"P3_scaffold\": {\n      \"correct\": 5,\n      \"total\": 10,\n      \"accuracy\": 0.5\n    },\n    \"P4_format\": {\n      \"correct\": 10,\n      \"total\": 10,\n      \"accuracy\": 1.0\n    },\n    \"P5_cot\": {\n      \"correct\": 2,\n      \"total\": 10,\n      \"accuracy\": 0.2\n    }\n  },\n  \"glm-5-turbo\": {\n    \"P1_direct\": {\n   ",
+      "tile_type": "experiment",
+      "tags": [
+        "night-lab",
+        "prompt-engineering"
+      ],
+      "confidence": 0.95,
+      "_hash": "65c330143abea8a0",
+      "provenance": {
+        "tile_id": "c70cf298a0b3f9b2",
+        "agent_id": "forgemaster-nightlab",
+        "room": "prompt-engineering",
+        "timestamp": 1778843797.9699957,
+        "chain_size": 1024
+      },
+      "energy": 0.985368,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T11:16:37.970118+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

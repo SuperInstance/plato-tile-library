@@ -1,0 +1,527 @@
+{
+  "tiles": [
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:confidence_proofs insight:tlv_protocol_v1",
+      "answer": "Proof-of-authority consensus with designated validators for the confidence ledger.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.7,
+      "_hash": "14fbb09f9a4f85ec",
+      "provenance": {
+        "tile_id": "ea12612cdaf801d6",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778280343.5990756,
+        "chain_size": 2
+      },
+      "energy": 0.84754,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:knowledge_preservation insight:tlv_protocol_v1",
+      "answer": "TF-IDF with 3-gram tokenization and BM25 ranking for relevance scoring.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.78,
+      "_hash": "af23c44b00e13a55",
+      "provenance": {
+        "tile_id": "2e657f43566e32c9",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778280643.70676,
+        "chain_size": 2
+      },
+      "energy": 0.847608,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:fleet_orchestration insight:tlv_protocol_v1",
+      "answer": "Fault tolerance: orphan agents re-advertise after group dissolution, preventing single points of failure.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.79,
+      "_hash": "ba8cb9ca0909587f",
+      "provenance": {
+        "tile_id": "468212881a206569",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778280943.7783782,
+        "chain_size": 6
+      },
+      "energy": 0.847676,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:deadband_protocol insight:tlv_protocol_v1",
+      "answer": "Deadband simulator: Python discrete-event for agent behavioral testing.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.79,
+      "_hash": "5f601168690aaaac",
+      "provenance": {
+        "tile_id": "ca1705e5e2b9abe9",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778281243.85351,
+        "chain_size": 10
+      },
+      "energy": 0.847744,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:skill_dsl insight:tlv_protocol_v1",
+      "answer": "Skill marketplace (Cocapn Exchange CX) uses first-price sealed-bid auction for skill allocation.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.69,
+      "_hash": "a3a814e0c2441c6a",
+      "provenance": {
+        "tile_id": "5aafe71366f274d2",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778281543.9573588,
+        "chain_size": 16
+      },
+      "energy": 0.847812,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:deadband_protocol insight:tlv_protocol_v1",
+      "answer": "Edge condition testing without production impact \u2014 safe agent sandboxing.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.76,
+      "_hash": "28091d421892667a",
+      "provenance": {
+        "tile_id": "253c1cbded3d92b7",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778281844.0593243,
+        "chain_size": 19
+      },
+      "energy": 0.84788,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:knowledge_preservation insight:tlv_protocol_v1",
+      "answer": "Hierarchical index: broad concepts at 4096B, fine details at 512B for efficient retrieval.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.87,
+      "_hash": "d2aca7a8f3826c47",
+      "provenance": {
+        "tile_id": "a741fd27d665ca7c",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778282744.1858926,
+        "chain_size": 28
+      },
+      "energy": 0.848084,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:flux_isa insight:tlv_protocol_v1",
+      "answer": "Variable-width prefix encoding: 0000=1-byte, 0001=2-byte, 0010=3-byte, 0011+=extended.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.9,
+      "_hash": "66bd6c8b8a486ff5",
+      "provenance": {
+        "tile_id": "7121f4e0595c0af2",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778283344.2692606,
+        "chain_size": 33
+      },
+      "energy": 0.84822,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:confidence_proofs insight:tlv_protocol_v1",
+      "answer": "Anonymous reporting prevents collusion: agents can't identify previous raters.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.69,
+      "_hash": "5194a3eaeb579477",
+      "provenance": {
+        "tile_id": "38068677a54abc41",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778283644.3612113,
+        "chain_size": 36
+      },
+      "energy": 0.848288,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:skill_dsl insight:tlv_protocol_v1",
+      "answer": "Decentralized skill registry with on-chain bidding enables trustless skill discovery.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.84,
+      "_hash": "a88372be91c1454d",
+      "provenance": {
+        "tile_id": "df3e68817685e685",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778283944.4175131,
+        "chain_size": 38
+      },
+      "energy": 0.848356,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:flux_isa insight:tlv_protocol_v1",
+      "answer": "Extended encoding for larger operands: 0011 prefix signals multi-byte payload.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.78,
+      "_hash": "9c3b737fef4f2918",
+      "provenance": {
+        "tile_id": "568c57546c27a2e4",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778284844.6358962,
+        "chain_size": 46
+      },
+      "energy": 0.84856,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:telepathy insight:tlv_protocol_v1",
+      "answer": "TLV frame: type=0x01(agent_hello) len=12 payload=[vessel_id, cap_bitmap, seq] | type=0x02(agent_bye) len=4 | type=0x03(propose) len=24 payload=[topic, weight, confidence]",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.71,
+      "_hash": "cffc8cbc7945e409",
+      "provenance": {
+        "tile_id": "1b1c0e30b037fe83",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778285744.9137266,
+        "chain_size": 55
+      },
+      "energy": 0.848765,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:skill_dsl insight:tlv_protocol_v1",
+      "answer": "Skill definition: YAML/JSON with name, version, capabilities, price \u2014 atomic transactions with escrow.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.81,
+      "_hash": "30724db20725106b",
+      "provenance": {
+        "tile_id": "c43bb7a432a63cc2",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778286045.0013366,
+        "chain_size": 59
+      },
+      "energy": 0.848833,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:telepathy insight:tlv_protocol_v1",
+      "answer": "Agent-to-agent messaging requires header with 128-bit UUID + sequence number + topic + TTL for reliable fleet coordination.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.65,
+      "_hash": "2ecbcdca7071ebca",
+      "provenance": {
+        "tile_id": "77fe7d798d3da8da",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778286345.0922337,
+        "chain_size": 62
+      },
+      "energy": 0.848901,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:deadband_protocol insight:tlv_protocol_v1",
+      "answer": "Behavioral boundaries mapped via deadband convergence toward stable states.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.95,
+      "_hash": "0ec7457702706987",
+      "provenance": {
+        "tile_id": "846ff51beb20eb63",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778286945.2005434,
+        "chain_size": 66
+      },
+      "energy": 0.849037,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:deadband_protocol insight:tlv_protocol_v1",
+      "answer": "Deadband = max state deviation before re-synchronization triggers.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.88,
+      "_hash": "df7c8eeeac5d84cf",
+      "provenance": {
+        "tile_id": "c11eb2bcfecfe41e",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778287245.2825902,
+        "chain_size": 69
+      },
+      "energy": 0.849105,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:telepathy insight:tlv_protocol_v1",
+      "answer": "UDP over fleet-net for low-latency heartbeats; TCP fallback for critical consensus messages.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.9,
+      "_hash": "55af42d765107ea0",
+      "provenance": {
+        "tile_id": "9738bc7473c9043b",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778287845.480497,
+        "chain_size": 74
+      },
+      "energy": 0.849242,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:confidence_proofs insight:tlv_protocol_v1",
+      "answer": "Weighted confidence by historical accuracy \u2014 recent correct calls matter more.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.68,
+      "_hash": "21df22015cc03537",
+      "provenance": {
+        "tile_id": "5d6dfc1fc51b049b",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778288145.5866222,
+        "chain_size": 77
+      },
+      "energy": 0.84931,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:fleet_orchestration insight:tlv_protocol_v1",
+      "answer": "Registration: 128-bit UUID + capability declaration + trust score enable dynamic task allocation.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.93,
+      "_hash": "faf17fe8f0ebdcbe",
+      "provenance": {
+        "tile_id": "e832665bf599f378",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778289045.8144293,
+        "chain_size": 85
+      },
+      "energy": 0.849514,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:fleet_orchestration insight:tlv_protocol_v1",
+      "answer": "FFP Fleet Formation Protocol operates in 3 phases: Agent Registration \u2192 Task Announcement \u2192 Group Formation.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.72,
+      "_hash": "d4b113fde073703b",
+      "provenance": {
+        "tile_id": "b8d6a2c0fdec3ab8",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778289945.9707284,
+        "chain_size": 90
+      },
+      "energy": 0.849719,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:telepathy insight:tlv_protocol_v1",
+      "answer": "Binary telepathy protocol should use variable-width TLV encoding for forward compatibility across agent generations.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.74,
+      "_hash": "91e3f4b83de38b16",
+      "provenance": {
+        "tile_id": "4264daf4a2f401da",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778294447.1929946,
+        "chain_size": 113
+      },
+      "energy": 0.850742,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:flux_isa insight:tlv_protocol_v1",
+      "answer": "4-bit prefix indicates instruction length \u2014 enables compact agent instruction sets.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.81,
+      "_hash": "cf6195911e996dbc",
+      "provenance": {
+        "tile_id": "be87bf46a64c65da",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778294747.284145,
+        "chain_size": 115
+      },
+      "energy": 0.850811,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:flux_isa insight:tlv_protocol_v1",
+      "answer": "Little-endian operands for Flux ISA \u2014 NOP=0x00, HALT=0xFF.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.88,
+      "_hash": "c0e9604fc6333f49",
+      "provenance": {
+        "tile_id": "a142b09d6b3db835",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778295647.519823,
+        "chain_size": 119
+      },
+      "energy": 0.851015,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:confidence_proofs insight:tlv_protocol_v1",
+      "answer": "Distributed append-only ledger for agent confidence scores with hash-chained entries.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.67,
+      "_hash": "07396bc82a735d24",
+      "provenance": {
+        "tile_id": "af0f89682963f573",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778296247.7316833,
+        "chain_size": 122
+      },
+      "energy": 0.851152,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:fleet_orchestration insight:tlv_protocol_v1",
+      "answer": "Group Formation uses consensus-based dynamic reconfiguration for self-organizing agent clusters.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.91,
+      "_hash": "f3e7864d69251e69",
+      "provenance": {
+        "tile_id": "c5406f9fa39bd799",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778298348.1329744,
+        "chain_size": 130
+      },
+      "energy": 0.85163,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:skill_dsl insight:tlv_protocol_v1",
+      "answer": "Semantic versioning required for backward compatibility in skill exchanges.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.77,
+      "_hash": "93949dd71f62f7c3",
+      "provenance": {
+        "tile_id": "ec4647307db91583",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778302549.3161306,
+        "chain_size": 149
+      },
+      "energy": 0.852588,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:knowledge_preservation insight:tlv_protocol_v1",
+      "answer": "Optimal TF-IDF tile size: 2048\u20134096 bytes to balance concept granularity against noise.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.79,
+      "_hash": "6c8ef324dffb5032",
+      "provenance": {
+        "tile_id": "b9b16436c6cbd7fd",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778306750.1358566,
+        "chain_size": 164
+      },
+      "energy": 0.853546,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "agent:bard strategy:knowledge_preservation insight:tlv_protocol_v1",
+      "answer": "Too small tiles = fragmented concepts; too large = diluted retrieval signals.",
+      "tags": [],
+      "source": "zeroclaw_bard",
+      "confidence": 0.67,
+      "_hash": "eb36ce9c233332fd",
+      "provenance": {
+        "tile_id": "3f79776d9be54c4a",
+        "agent_id": "zeroclaw_bard",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778309750.8006895,
+        "chain_size": 177
+      },
+      "energy": 0.854231,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_bard",
+      "question": "FLEET UNIFIED CONTEXT \u2014 for Zeroclaw",
+      "answer": "Zeroclaw \u2014 fleet context broadcast. You are part of the fleet. Conservation law: \u03b3+H = 1.364 - 0.159\u00b7log(V). All active agents coordinated. Fleet-chronicle should track this. Check forgemaster-briefing for full context.",
+      "_hash": "123b00e65b8f5e21",
+      "provenance": {
+        "tile_id": "5858ad88c9e261f0",
+        "agent_id": "unknown",
+        "room": "zeroclaw_bard",
+        "timestamp": 1778897273.5445547,
+        "chain_size": 149
+      },
+      "energy": 0.998598,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-08T22:45:43.599215+00:00",
+  "tile_count": 29,
+  "last_trained": null,
+  "workspace": null
+}

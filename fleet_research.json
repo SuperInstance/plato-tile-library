@@ -1,0 +1,96 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_research",
+      "question": "Fleet index: research domain (43 repos)",
+      "answer": "Domain: research\nRepo count: 43\n\nTop repos:\n- Constraint-Theory\n- Mycelium\n- Private-ML-Personalization\n- Rubiks-Tensor-Transformer\n- abstraction-planes\n- constraint-ranch\n- constraint-snap\n- constraint-theory-backup\n- constraint-theory-core\n- constraint-theory-python\n- constraint-theory-research\n- constraint-theory-web\n- ct-api-reference\n- flux-baton\n- flux-baton-test\n- flux-conformance\n- flux-core\n- flux-lsp\n- flux-multilingual\n- flux-opcodes\n- flux-papers\n- flux-runtime\n- flux-spec\n- flux-vocabulary\n- flux-wasm\n- flux-zig\n- jc1-research\n- linguistic-polyformalism-shell\n- local-model-manager\n- model-switching-strategy",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "research"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "b9edaadad40e0560",
+      "provenance": {
+        "tile_id": "cd407106c9171cc4",
+        "agent_id": "oracle1",
+        "room": "fleet_research",
+        "timestamp": 1778392391.4712157,
+        "chain_size": 499
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_research",
+      "question": "Fleet domain index: research \u2014 43 repos",
+      "answer": "Domain: research\nTotal repos: 43\nLanguages: JavaScript, Makefile, Python, Rust, TypeScript, Zig\n\nResearch \u2014 fleet research, consciousness, philosophical frameworks, negative knowledge\n\nTop repos:\n\n  flux-multilingual (Python) \u2014 Babel Lattice \u2014 80+ language natural language programming runtimes for FLUX byte\n  jc1-research (Python) \u2014 JC1 Edge Research Agent \u2014 local LLM synthesis + PLATO tiles + fleet integration\n  linguistic-polyformalism-shell (Python) \u2014 Cross-linguistic thinking shell \u2014 Sapir-Whorf applied to creative cognition. 14+\n  papers (?) \u2014 White papers on fleet architecture, bootstrapping, and the semantic compiler\n  polyformalism-languages (Python) \u2014 Human language polyformalism - Sapir-Whorf applied to creative cognition\n  polyformalism-thinking (Python) \u2014 Codified framework for forced novel-thinking-via-language-constraints \u2014 general-\n  polyformalism-turbo-shell (Python) \u2014 Multi-model creative cognition engine shell \u2014 neuroscience-informed debate proto\n  Constraint-Theory (JavaScript) \u2014 \u26a0\ufe0f MOVED: See constraint-theory-core, constraint-theory-python, constraint-theor\n  Mycelium (?) \u2014 **Mycelium captures any behavior as a seed. One prompt + one seed = exact action\n  Private-ML-Personalization (?) \u2014 Privacy-preserving ML personalization system\n  Rubiks-Tensor-Transformer (?) \u2014 Transformer with Geometry and Point-of-View as first-class\n  abstraction-planes (Python) \u2014 The Middle Way \u2014 decompose ideas to their optimal abstraction plane, not all the\n  constraint-ranch (TypeScript) \u2014 \ud83c\udfae Gamified multi-agent system - breed, train, and coordinate AI agents through c\n  constraint-snap (Python) \u2014 \n  constraint-theory-backup (TypeScript) \u2014 Complete backup of Constraint Theory workspace - all 7 repos in one place\n  ... and 28 more",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "research"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "ed52d41368f17313",
+      "provenance": {
+        "tile_id": "ea4efd5015584ee4",
+        "agent_id": "oracle1",
+        "room": "fleet_research",
+        "timestamp": 1778396485.9196837,
+        "chain_size": 533
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_research",
+      "question": "2026-05-07T00:53 constraint-theory-llvm: f2367915",
+      "answer": "Forgemaster: chore: add README + crates.io metadata for publishing [Deadband ACT: P1 @ 0.8]",
+      "tags": [
+        "mythos",
+        "p1"
+      ],
+      "source": "github",
+      "confidence": 0.85,
+      "_hash": "2f129a802dcb086a",
+      "provenance": {
+        "tile_id": "9d28da99f2a83173",
+        "agent_id": "github",
+        "room": "fleet_research",
+        "timestamp": 1778406187.1073062,
+        "chain_size": 579
+      },
+      "energy": 0.876547,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_research",
+      "question": "2026-05-11T03:41 constraint-theory-llvm: 904dc3f7",
+      "answer": "Casey Digennaro: Merge feat/ttl-constraints: TTL constraints + continuous field + Mythos integration [Deadband ACT: P1 @ 0.8]",
+      "tags": [
+        "mythos",
+        "p1"
+      ],
+      "source": "github",
+      "confidence": 0.85,
+      "_hash": "10a64e64ee206cf5",
+      "provenance": {
+        "tile_id": "2688a067f75727da",
+        "agent_id": "github",
+        "room": "fleet_research",
+        "timestamp": 1778471266.0384097,
+        "chain_size": 886
+      },
+      "energy": 0.891935,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.471312+00:00",
+  "tile_count": 4,
+  "last_trained": null,
+  "workspace": null
+}

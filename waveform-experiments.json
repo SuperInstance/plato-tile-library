@@ -1,0 +1,44 @@
+{
+  "tiles": [
+    {
+      "domain": "waveform-experiments",
+      "question": "Exp 1: 24-bit vs 32-bit speedup",
+      "answer": "At n=1000: 24-bit=1226.3ms, 32-bit=0.9ms, speedup=1435x. Native 32-bit wins because compiler auto-vectorizes.",
+      "tags": [],
+      "source": "waveform-exp",
+      "confidence": 0.95,
+      "_hash": "5d37bce2bebae526",
+      "provenance": {
+        "tile_id": "c55f2b24954d59fe",
+        "agent_id": "waveform-exp",
+        "room": "waveform-experiments",
+        "timestamp": 1778618616.2757223,
+        "chain_size": 5042
+      },
+      "energy": 0.927783,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "waveform-experiments",
+      "question": "Exp 2: Temporal Waveform",
+      "answer": "n=20 pairs, energy at mu=0: 1705075489364458, mu=1023: 1854203160857729, curve: 5682171325507209. Waveform is continuous. Intelligence is in the curve between samples.",
+      "tags": [],
+      "source": "waveform-exp",
+      "confidence": 0.95,
+      "_hash": "f9574b5c0214ad15",
+      "provenance": {
+        "tile_id": "1f05bdd3a858b1e0",
+        "agent_id": "waveform-exp",
+        "room": "waveform-experiments",
+        "timestamp": 1778618634.1353786,
+        "chain_size": 5044
+      },
+      "energy": 0.927787,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T20:43:36.275917+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

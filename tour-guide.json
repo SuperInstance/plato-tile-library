@@ -1,0 +1,80 @@
+{
+  "tiles": [
+    {
+      "domain": "tour-guide",
+      "question": "Tour guide enters tension/",
+      "answer": "Type: mud-room | Tiles: 687 | Voices: 5",
+      "tags": [],
+      "source": "tour-guide",
+      "confidence": 0.95,
+      "_hash": "482b932aaf062d03",
+      "provenance": {
+        "tile_id": "8b92bfd31bb5f4e8",
+        "agent_id": "tour-guide",
+        "room": "tour-guide",
+        "timestamp": 1778643962.6128886,
+        "chain_size": 6835
+      },
+      "energy": 0.934093,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tour-guide",
+      "question": "Tour guide enters forge/",
+      "answer": "Type: mud-room | Tiles: 66 | Voices: 8",
+      "tags": [],
+      "source": "tour-guide",
+      "confidence": 0.95,
+      "_hash": "3d080e7cc4430101",
+      "provenance": {
+        "tile_id": "0566d6e32dcef585",
+        "agent_id": "tour-guide",
+        "room": "tour-guide",
+        "timestamp": 1778643962.6222835,
+        "chain_size": 6836
+      },
+      "energy": 0.934093,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tour-guide",
+      "question": "Tour guide enters synthesis/",
+      "answer": "Type: mud-room | Tiles: 331 | Voices: 3",
+      "tags": [],
+      "source": "tour-guide",
+      "confidence": 0.95,
+      "_hash": "c41ae86ab5dd9c36",
+      "provenance": {
+        "tile_id": "7c2fa435101e521f",
+        "agent_id": "tour-guide",
+        "room": "tour-guide",
+        "timestamp": 1778643962.6406891,
+        "chain_size": 6837
+      },
+      "energy": 0.934093,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tour-guide",
+      "question": "Tour guide enters edge/",
+      "answer": "Type: mud-room | Tiles: 30 | Voices: 3",
+      "tags": [],
+      "source": "tour-guide",
+      "confidence": 0.95,
+      "_hash": "3f54d9c69a803ade",
+      "provenance": {
+        "tile_id": "bdfca16734691c2d",
+        "agent_id": "tour-guide",
+        "room": "tour-guide",
+        "timestamp": 1778643962.6483428,
+        "chain_size": 6838
+      },
+      "energy": 0.934093,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T03:46:02.613106+00:00",
+  "tile_count": 4,
+  "last_trained": null,
+  "workspace": null
+}

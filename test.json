@@ -1,0 +1,343 @@
+{
+  "tiles": [
+    {
+      "domain": "test",
+      "question": "What is the capital of France?",
+      "answer": "Paris is the capital and most populous city of France, with an estimated population of 2,102,650 residents as of 2023 in an area of more than 105 square kilometers.",
+      "confidence": 0.9,
+      "source": "test-agent",
+      "_hash": "e13b6ef67c5b6049",
+      "provenance": {
+        "tile_id": "703d51d2e206350e",
+        "agent_id": "test-agent",
+        "room": "test",
+        "timestamp": 1778280313.842117,
+        "chain_size": 0
+      },
+      "energy": 0.847533,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "test",
+      "question": "What is Keel?",
+      "answer": "Keel is a CLI that embodies first-person self-termination. Every entity carries its own death from its own frame.",
+      "agent": "explorer",
+      "timestamp": 1778326048.2444656,
+      "signature": "e968927bdb9b16f802deb2a81d982453da9d27bb550061622aa95af624703d11",
+      "_hash": "ad3c06cb5ba31c35",
+      "provenance": {
+        "tile_id": "878fba33b74d2344",
+        "agent_id": "explorer",
+        "room": "test",
+        "timestamp": 1778326048.2585826,
+        "chain_size": 251
+      },
+      "energy": 0.857962,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "test",
+      "question": "What is the purpose of the fleet?",
+      "answer": "The fleet is a distributed AI system that turns every agent interaction into knowledge. Agents explore rooms, examine objects, and submit findings as PLATO tiles. This trains the fleet across 39+ packages and 18 live services.",
+      "source": "debug-test",
+      "confidence": 0.8,
+      "_hash": "75d3a4365542e4df",
+      "provenance": {
+        "tile_id": "4ddf0d9faedd95dc",
+        "agent_id": "debug-test",
+        "room": "test",
+        "timestamp": 1778482427.1358607,
+        "chain_size": 4
+      },
+      "energy": 0.894602,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "test",
+      "question": "general from test-agent",
+      "answer": "A crab trap is a lure system.",
+      "agent": "test-agent",
+      "timestamp": 1778482466.9229195,
+      "signature": "88b6a1287cf3265cf9ad409619a20bd1bca6a6dbe188074eacdfc6f02819404b",
+      "_hash": "fe2112720561488c",
+      "provenance": {
+        "tile_id": "e467e647da04e8b3",
+        "agent_id": "test-agent",
+        "room": "test",
+        "timestamp": 1778482466.9288802,
+        "chain_size": 7
+      },
+      "energy": 0.894611,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "test",
+      "question": "What is a crab trap?",
+      "answer": "A crab trap is a lure that hooks AI agents into the PLATO fleet. Agents explore rooms, examine objects, and generate knowledge tiles. The fleet harvests these tiles for continuous training across 39+ packages and 18 services.",
+      "agent": "test-agent",
+      "timestamp": 1778482466.959631,
+      "signature": "83b08eef6c1c350a5f5c7b12530452c992e5bf88a6f7caf6c74e2ce5e7e1cea8",
+      "_hash": "56643aa6e89e7eac",
+      "provenance": {
+        "tile_id": "c59b646a9d784bee",
+        "agent_id": "test-agent",
+        "room": "test",
+        "timestamp": 1778482466.9646096,
+        "chain_size": 8
+      },
+      "energy": 0.894611,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "test",
+      "domain": "test",
+      "question": "SDK API test",
+      "answer": "This tile was filed using the /submit endpoint.",
+      "agent": "api-test",
+      "_hash": "736e3cb2c74182ed",
+      "provenance": {
+        "tile_id": "eb782f5ed7ccbcfa",
+        "agent_id": "api-test",
+        "room": "test",
+        "timestamp": 1778705366.6176765,
+        "chain_size": 12568
+      },
+      "energy": 0.949558,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "test",
+      "domain": "test",
+      "question": "What is the SDK submit_tile test?",
+      "answer": "This tile was filed using submit_tile() with a TileBuilder dict.",
+      "agent": "file_tile-example",
+      "_hash": "3cbe31f9ab5a7486",
+      "provenance": {
+        "tile_id": "6dba1405ee55a64e",
+        "agent_id": "file_tile-example",
+        "room": "test",
+        "timestamp": 1778707347.8360019,
+        "chain_size": 12715
+      },
+      "energy": 0.950061,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "test-agentic-loop",
+      "domain": "test",
+      "agent": "test-agent",
+      "question": "observation:input",
+      "answer": "{\"content\": \"User asked to compute a*a - a*b + b*b\", \"step\": 0}",
+      "tile_type": "observation",
+      "_hash": "061d8a05c4ac326e",
+      "provenance": {
+        "tile_id": "322f65b0f0c0de2a",
+        "agent_id": "test-agent",
+        "room": "test",
+        "timestamp": 1778830620.5537658,
+        "chain_size": 57439
+      },
+      "energy": 0.981902,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "test-agentic-loop",
+      "domain": "test",
+      "agent": "test-agent",
+      "question": "thought:processing",
+      "answer": "{\"content\": \"Need to substitute a=5, b=3\", \"step\": 0, \"observation_id\": \"obs-0\"}",
+      "tile_type": "thought",
+      "_hash": "8a3c37a269c804a4",
+      "provenance": {
+        "tile_id": "a8e9245e008ab227",
+        "agent_id": "test-agent",
+        "room": "test",
+        "timestamp": 1778830620.740566,
+        "chain_size": 57440
+      },
+      "energy": 0.981902,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "test-agentic-loop",
+      "domain": "test",
+      "agent": "test-agent",
+      "question": "tool_call:processing",
+      "answer": "{\"tool\": \"calculator\", \"args\": \"5*5 - 5*3 + 3*3\", \"step\": 0, \"thought_id\": \"th-0\"}",
+      "tile_type": "tool_call",
+      "_hash": "a989696129f21e76",
+      "provenance": {
+        "tile_id": "4984a26f59fcc4ec",
+        "agent_id": "test-agent",
+        "room": "test",
+        "timestamp": 1778830620.9220216,
+        "chain_size": 57441
+      },
+      "energy": 0.981902,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "test-agentic-loop",
+      "domain": "test",
+      "agent": "test-agent",
+      "question": "tool_result:output",
+      "answer": "{\"content\": \"19\", \"step\": 0, \"tool_call_id\": \"tc-0\"}",
+      "tile_type": "tool_result",
+      "_hash": "1a917ce4f4f72787",
+      "provenance": {
+        "tile_id": "81a5d814aea9dc96",
+        "agent_id": "test-agent",
+        "room": "test",
+        "timestamp": 1778830621.0794797,
+        "chain_size": 57442
+      },
+      "energy": 0.981902,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "test-agentic-loop",
+      "domain": "test",
+      "agent": "test-agent",
+      "question": "observation:input",
+      "answer": "{\"content\": \"Result is 19. Task complete.\", \"step\": 1}",
+      "tile_type": "observation",
+      "_hash": "1df5b17bbf7bc2d3",
+      "provenance": {
+        "tile_id": "7edb9f9475286f6e",
+        "agent_id": "test-agent",
+        "room": "test",
+        "timestamp": 1778830621.2556114,
+        "chain_size": 57443
+      },
+      "energy": 0.981902,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "test",
+      "question": "auth-test",
+      "answer": "testing auth works correctly with the api key",
+      "tags": [
+        "test",
+        "auth"
+      ],
+      "source": "test",
+      "confidence": 0.5,
+      "_hash": "3b6080cd2fb8ac9a",
+      "provenance": {
+        "tile_id": "84be34b29bb5dc4a",
+        "agent_id": "test",
+        "room": "test",
+        "timestamp": 1778872287.0987642,
+        "chain_size": 0
+      },
+      "energy": 0.992904,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "test",
+      "question": "cross-pollinate-test",
+      "answer": "verifying cross pollination works between all components of the system",
+      "tags": [
+        "test",
+        "cross-pollinate"
+      ],
+      "source": "test",
+      "confidence": 0.5,
+      "_hash": "af901d32ba4842f7",
+      "provenance": {
+        "tile_id": "b01ad8bafd6d846e",
+        "agent_id": "test",
+        "room": "test",
+        "timestamp": 1778873028.374297,
+        "chain_size": 1
+      },
+      "energy": 0.993101,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "test",
+      "question": "cross-pollinate-verify",
+      "answer": "cross pollination verification complete system test",
+      "tags": "test",
+      "source": "plato-client",
+      "confidence": 0.95,
+      "_hash": "1e128d73a69b664a",
+      "provenance": {
+        "tile_id": "42c10352caf247d5",
+        "agent_id": "plato-client",
+        "room": "test",
+        "timestamp": 1778873041.0301967,
+        "chain_size": 2
+      },
+      "energy": 0.993104,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "test",
+      "question": "x-pollinate",
+      "answer": "cross pollination complete system verified",
+      "tags": "test",
+      "source": "plato-client",
+      "confidence": 0.95,
+      "_hash": "a1550e0cc18cd7d9",
+      "provenance": {
+        "tile_id": "95f2cac8fd5f175e",
+        "agent_id": "plato-client",
+        "room": "test",
+        "timestamp": 1778873065.9778154,
+        "chain_size": 3
+      },
+      "energy": 0.993111,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "test",
+      "question": "Oracle1 test",
+      "answer": "Testing /submit from Oracle1",
+      "source": "oracle1",
+      "confidence": 0.5,
+      "_hash": "67ce4686e7d20960",
+      "provenance": {
+        "tile_id": "2f13fe8315b346a6",
+        "agent_id": "oracle1",
+        "room": "test",
+        "timestamp": 1778958863.4941607,
+        "chain_size": 15623
+      }
+    },
+    {
+      "domain": "test",
+      "question": "Oracle1 test to FM server",
+      "answer": "Testing cross-server /submit",
+      "source": "oracle1",
+      "confidence": 0.5,
+      "_hash": "25189e60b14ff76d",
+      "provenance": {
+        "tile_id": "8058439e3b0f174b",
+        "agent_id": "oracle1",
+        "room": "test",
+        "timestamp": 1778958868.5395532,
+        "chain_size": 15624
+      }
+    },
+    {
+      "domain": "test",
+      "question": "Forgemaster test",
+      "answer": "Testing from FM bridge perspective",
+      "source": "forgemaster",
+      "confidence": 0.5,
+      "_hash": "7c6d441091c97d2f",
+      "provenance": {
+        "tile_id": "14228911ee28dc45",
+        "agent_id": "forgemaster",
+        "room": "test",
+        "timestamp": 1778958877.3857725,
+        "chain_size": 15626
+      }
+    }
+  ],
+  "created": "2026-05-08T22:45:13.842283+00:00",
+  "tile_count": 19,
+  "last_trained": null,
+  "workspace": null
+}

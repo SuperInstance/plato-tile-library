@@ -1,0 +1,118 @@
+{
+  "tiles": [
+    {
+      "room_id": "night-lab-track-a",
+      "domain": "night-lab",
+      "agent": "forgemaster-nightlab",
+      "question": "Critical angle walls (deep)",
+      "answer": "{\n  \"seed-mini\": {\n    \"addition_wall\": 25,\n    \"mul_wall\": 15\n  },\n  \"glm-5-turbo\": {\n    \"addition_wall\": 2,\n    \"mul_wall\": 1\n  }\n}",
+      "tile_type": "experiment",
+      "tags": [
+        "night-lab"
+      ],
+      "confidence": 0.9,
+      "_hash": "1191447fb5c42de0",
+      "provenance": {
+        "tile_id": "79e50a52ad7fa161",
+        "agent_id": "forgemaster-nightlab",
+        "room": "night-lab",
+        "timestamp": 1778843704.1644533,
+        "chain_size": 1013
+      },
+      "energy": 0.985344,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "night-lab-track-b",
+      "domain": "night-lab",
+      "agent": "forgemaster-nightlab",
+      "question": "Temperature landscape for seed-mini",
+      "answer": "{\n  \"0.0\": 0.6,\n  \"0.1\": 0.8,\n  \"0.3\": 0.8,\n  \"0.5\": 0.6,\n  \"0.7\": 1.0,\n  \"0.9\": 0.6,\n  \"1.0\": 0.8\n}",
+      "tile_type": "experiment",
+      "tags": [
+        "night-lab"
+      ],
+      "confidence": 0.9,
+      "_hash": "ae9565273a71b500",
+      "provenance": {
+        "tile_id": "a1095e38e1bd6f34",
+        "agent_id": "forgemaster-nightlab",
+        "room": "night-lab",
+        "timestamp": 1778843951.4256206,
+        "chain_size": 1042
+      },
+      "energy": 0.985409,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "night-lab-track-c",
+      "domain": "night-lab",
+      "agent": "forgemaster-nightlab",
+      "question": "Cross-domain transfer matrix",
+      "answer": "{\n  \"seed-mini\": {\n    \"arithmetic\": 1.0,\n    \"code\": 1.0,\n    \"reasoning\": 1.0\n  },\n  \"glm-5-turbo\": {\n    \"arithmetic\": 0.6666666666666666,\n    \"code\": 0.3333333333333333,\n    \"reasoning\": 1.0\n  }\n}",
+      "tile_type": "experiment",
+      "tags": [
+        "night-lab"
+      ],
+      "confidence": 0.9,
+      "_hash": "96751910dd539411",
+      "provenance": {
+        "tile_id": "41a52a65ec872262",
+        "agent_id": "forgemaster-nightlab",
+        "room": "night-lab",
+        "timestamp": 1778843994.2470324,
+        "chain_size": 1047
+      },
+      "energy": 0.98542,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "night-lab-track-e",
+      "domain": "night-lab",
+      "agent": "forgemaster-nightlab",
+      "question": "Negative results archive",
+      "answer": "[\n  {\n    \"test\": \"step_by_step_arithmetic\",\n    \"direct_correct\": true,\n    \"sbs_correct\": true,\n    \"finding\": \"Step-by-step doesn't help (or both work)\"\n  },\n  {\n    \"model\": \"seed-mini\",\n    \"test\": \"example_scaffolding\",\n    \"without_example\": true,\n    \"with_example\": false,\n    \"finding\": \"Example scaffolding doesn't help\"\n  },\n  {\n    \"model\": \"glm-5-turbo\",\n    \"test\": \"example_scaffolding\",\n    \"without_example\": false,\n    \"with_example\": false,\n    \"finding\": \"Both fail\"\n  },\n  {\n   ",
+      "tile_type": "experiment",
+      "tags": [
+        "night-lab"
+      ],
+      "confidence": 0.9,
+      "_hash": "ed1440db6916fc60",
+      "provenance": {
+        "tile_id": "6cf8a1b09a97e0e3",
+        "agent_id": "forgemaster-nightlab",
+        "room": "night-lab",
+        "timestamp": 1778844042.9233732,
+        "chain_size": 1058
+      },
+      "energy": 0.985433,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "night-lab-summary",
+      "domain": "night-lab",
+      "agent": "forgemaster-nightlab",
+      "question": "Night Lab Complete",
+      "answer": "{\n  \"track_a\": \"{'seed-mini': {'addition_wall': 25, 'mul_wall': 15}, 'glm-5-turbo': {'addition_wall': 2, 'mul_wall': 1}}\",\n  \"track_b\": \"{0.0: 0.6, 0.1: 0.8, 0.3: 0.8, 0.5: 0.6, 0.7: 1.0, 0.9: 0.6, 1.0: 0.8}\",\n  \"track_c\": \"{'seed-mini': {'arithmetic': 1.0, 'code': 1.0, 'reasoning': 1.0}, 'glm-5-turbo': {'arithmetic': 0.6666666666666666, 'code': 0.3333333333333333, 'reasoning': 1.0}}\",\n  \"track_e\": \"[{'test': 'step_by_step_arithmetic', 'direct_correct': True, 'sbs_correct': True, 'finding': \\\"St",
+      "tile_type": "experiment",
+      "tags": [
+        "night-lab"
+      ],
+      "confidence": 0.9,
+      "_hash": "608d570ae41ab6db",
+      "provenance": {
+        "tile_id": "060a1a2c42f5a839",
+        "agent_id": "forgemaster-nightlab",
+        "room": "night-lab",
+        "timestamp": 1778844043.0783367,
+        "chain_size": 1059
+      },
+      "energy": 0.985433,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T11:15:04.164559+00:00",
+  "tile_count": 5,
+  "last_trained": null,
+  "workspace": null
+}

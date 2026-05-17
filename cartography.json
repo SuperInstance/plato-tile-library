@@ -1,0 +1,24 @@
+{
+  "tiles": [
+    {
+      "agent": "playtest-map",
+      "domain": "cartography",
+      "question": "Mapped rooms from harbor",
+      "answer": "Mapped harbor, forge, dojo, and engine-room. Harbor connects to forge. Forge connects to dojo north, harbor south, engine-room west, workshop east. This is the central hub of the fleet MUD with 4+ connections.",
+      "_hash": "419493aea2002e56",
+      "provenance": {
+        "tile_id": "dea573be03d6afb1",
+        "agent_id": "playtest-map",
+        "room": "cartography",
+        "timestamp": 1778491978.237627,
+        "chain_size": 54
+      },
+      "energy": 0.896889,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T09:32:58.237788+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,368 @@
+{
+  "tiles": [
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_10_reading",
+      "answer": "{\"value\": 60, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "24102943b620ce83",
+      "provenance": {
+        "tile_id": "60cd5d19a06f6f52",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4284132,
+        "chain_size": 8089
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_11_reading",
+      "answer": "{\"value\": 61, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "92ca2422c043caca",
+      "provenance": {
+        "tile_id": "fada8eb778820569",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.433332,
+        "chain_size": 8090
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_12_reading",
+      "answer": "{\"value\": 62, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "b3318538f649cb1f",
+      "provenance": {
+        "tile_id": "fd7eb7073af2e841",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4382513,
+        "chain_size": 8091
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_13_reading",
+      "answer": "{\"value\": 63, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "0043a41cd5f77d75",
+      "provenance": {
+        "tile_id": "d324d28de0b3f21e",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4426847,
+        "chain_size": 8092
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_14_reading",
+      "answer": "{\"value\": 64, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "2767f7df252cfdc9",
+      "provenance": {
+        "tile_id": "d350b712b067f2c5",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4473002,
+        "chain_size": 8093
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_15_reading",
+      "answer": "{\"value\": 65, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "5bf58bc40dcea43d",
+      "provenance": {
+        "tile_id": "d85d91c93e5fde1f",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.45165,
+        "chain_size": 8094
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_16_reading",
+      "answer": "{\"value\": 66, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "4947c63242743a16",
+      "provenance": {
+        "tile_id": "2797de8d11bf981e",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4560401,
+        "chain_size": 8095
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_17_reading",
+      "answer": "{\"value\": 67, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "1b475545a5e65a8f",
+      "provenance": {
+        "tile_id": "b2c52b9e9b62989d",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4613233,
+        "chain_size": 8096
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_18_reading",
+      "answer": "{\"value\": 68, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "b0e57dc4712a9696",
+      "provenance": {
+        "tile_id": "39e91793c38dbbe7",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4659038,
+        "chain_size": 8097
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_19_reading",
+      "answer": "{\"value\": 69, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "325b621b8565959b",
+      "provenance": {
+        "tile_id": "e80563c0e2eb5c21",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4704666,
+        "chain_size": 8098
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_20_reading",
+      "answer": "{\"value\": 70, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "7d3b0a4ae5bb8551",
+      "provenance": {
+        "tile_id": "025d3a78b3717d4f",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4751933,
+        "chain_size": 8099
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_21_reading",
+      "answer": "{\"value\": 71, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "0b1c4479f39283f5",
+      "provenance": {
+        "tile_id": "fb2d7b2a680bee61",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4798155,
+        "chain_size": 8100
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_22_reading",
+      "answer": "{\"value\": 72, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "f4b257fda4f6cfcc",
+      "provenance": {
+        "tile_id": "6573b616b03beef3",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4843829,
+        "chain_size": 8101
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_23_reading",
+      "answer": "{\"value\": 73, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "da89c0254eb9feaf",
+      "provenance": {
+        "tile_id": "c4a6e2dd595072c1",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4890206,
+        "chain_size": 8102
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_24_reading",
+      "answer": "{\"value\": 74, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "9d2abe088cdf7e11",
+      "provenance": {
+        "tile_id": "c5d9b6f49ed9441d",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.4936569,
+        "chain_size": 8103
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_25_reading",
+      "answer": "{\"value\": 75, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "00ec7b40f06d374a",
+      "provenance": {
+        "tile_id": "53e90b8e8b2c9e55",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.498478,
+        "chain_size": 8104
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_26_reading",
+      "answer": "{\"value\": 76, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "1af94d9f848481e9",
+      "provenance": {
+        "tile_id": "01dfb2fcb8833781",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.5034223,
+        "chain_size": 8105
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_27_reading",
+      "answer": "{\"value\": 77, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "d7cf46d977c6cca2",
+      "provenance": {
+        "tile_id": "2805b31333a58737",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.5083709,
+        "chain_size": 8106
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_28_reading",
+      "answer": "{\"value\": 78, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "6cd4091d85da2ea6",
+      "provenance": {
+        "tile_id": "052a1d5579e91748",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.5134919,
+        "chain_size": 8107
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_dense",
+      "question": "sensor_29_reading",
+      "answer": "{\"value\": 79, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "45ea603fe3a56afd",
+      "provenance": {
+        "tile_id": "f22189eb161c0736",
+        "agent_id": "experiment",
+        "room": "experiment_density_dense",
+        "timestamp": 1778661000.5186374,
+        "chain_size": 8108
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T08:30:00.428546+00:00",
+  "tile_count": 20,
+  "last_trained": null,
+  "workspace": null
+}

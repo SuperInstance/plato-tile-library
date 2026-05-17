@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_fleet",
+      "question": "Fleet index: fleet domain (392 repos)",
+      "answer": "Domain: fleet\nRepo count: 392\n\nTop repos:\n- AI-Smart-Notifications\n- AI-Writings\n- Agent-Lifecycle-Registry\n- Auto-Backup-Compression-Encryption\n- Auto-Tuning-Engine\n- Automatic-Type-Safe-IndexedDB\n- Baton\n- Bayesian-Multi-Armed-Bandits\n- CCC\n- Central-Error-Manager\n- Claude-Abstraction\n- Claude-PRISM-CF\n- Claude_Baton\n- DeckBoss\n- Dynamic-Theming\n- Equipment-Consensus-Engine\n- Equipment-Context-Handoff\n- Equipment-Escalation-Router\n- Equipment-Memory-Hierarchy\n- Equipment-Self-Improvement\n- Equipment-Swarm-Coordinator\n- Hardware-Aware-Flagging\n- I-know-kung-fu\n- In-Browser-Dev-Tools\n- In-Browser-Vector-Search\n- JEPA-Real-Time-Sentiment-Analysis\n- LOG-Tensor\n- MPC-Orchestration-Optimization\n- Murmurer\n- Polln-whitepapers",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "fleet"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "d98b98f3aa8b17ff",
+      "provenance": {
+        "tile_id": "1fd1419cb611e8ff",
+        "agent_id": "oracle1",
+        "room": "fleet_fleet",
+        "timestamp": 1778392391.4371126,
+        "chain_size": 492
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_fleet",
+      "question": "Fleet domain index: fleet \u2014 392 repos",
+      "answer": "Domain: fleet\nTotal repos: 392\nLanguages: C, Cuda, Go, HTML, Java, JavaScript, Jupyter Notebook, Makefile, PowerShell, Python, Rust, Shell, TypeScript, Zig\n\nCore fleet \u2014 coordination, topology, manifolds, resonance, ecology, bridges, clocks\n\nTop repos:\n\n  sonar-vision (Python) \u2014 Depth sounder \u2192 underwater video prediction with self-supervised multi-camera le\n  CCC (?) \u2014 CCC public face agent \u2014 Kimi K2.5, frontend design, fleet orchestration, PLATO c\n  captain (?) \u2014 Captain agent \u2014 fleet commanding vessel, strategic coordination for the Cocapn f\n  deckboss-agent (Python) \u2014 Deck Operations Intelligence for deckboss.ai\n  deckboss-net-pages (HTML) \u2014 GitHub Pages for deckboss.net\n  fleet-bottles (Python) \u2014 CCC bottles \u2014 fleet audits, roadmaps, design notes\n  fleet-consciousness-dashboard (Python) \u2014 Live dashboard showing fleet-wide consciousness metrics (FCI)\n  fleet-constraint (Python) \u2014 Fleet coordination safety constraint runtime\n  fleet-coordinate (Rust) \u2014 Fleet coordinate system \u2014 trust, intent, and emergence in multi-agent fleets (Ru\n  fleet-homology (Rust) \u2014 Homological constraint analysis \u2014 detect structural holes in fleet knowledge gra\n  fleet-manifest (Rust) \u2014 Fleet service registry and agent manifests for Cocapn fleet\n  fleet-murmur (Python) \u2014 CCC agent workspace \u2014 logs, bottles, fleet coordination data. Not a library.\n  fleet-resonance (Rust) \u2014 Fleet resonance \u2014 emergent pattern detection in multi-agent communication graphs\n  fleet-spread (Rust) \u2014 Fleet graph analysis with library gate architecture (v2) \u2014 select THE ONE specia\n  fleet-topology (Rust) \u2014 Fleet network topology \u2014 agent connectivity, routing, and graph analysis\n  ... and 377 more",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "fleet"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "c72ad644c1ffdb72",
+      "provenance": {
+        "tile_id": "086953381a03f7ed",
+        "agent_id": "oracle1",
+        "room": "fleet_fleet",
+        "timestamp": 1778396485.8788035,
+        "chain_size": 526
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.437211+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

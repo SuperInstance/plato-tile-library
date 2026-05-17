@@ -1,0 +1,260 @@
+{
+  "tiles": [
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T07:51:17.554906288+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "777a6ae04c3f87f5",
+      "provenance": {
+        "tile_id": "59514ae0c4683adb",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778658677.5760155,
+        "chain_size": 7898
+      },
+      "energy": 0.937776,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T07:51:26.801808979+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "7564968be94a25da",
+      "provenance": {
+        "tile_id": "748daa31da169d95",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778658686.8203673,
+        "chain_size": 7901
+      },
+      "energy": 0.937778,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T07:52:07.614607778+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "fc4f2b9dfa8f6106",
+      "provenance": {
+        "tile_id": "2754b23a4f1b8628",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778658727.6326125,
+        "chain_size": 7905
+      },
+      "energy": 0.937788,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T07:53:38.840374331+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "c8df10251688168c",
+      "provenance": {
+        "tile_id": "38557f5abd16887c",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778658818.8619118,
+        "chain_size": 7913
+      },
+      "energy": 0.937811,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T07:53:52.603693469+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "7d83077e3c666841",
+      "provenance": {
+        "tile_id": "72ade510698dfb5c",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778658832.6300187,
+        "chain_size": 7916
+      },
+      "energy": 0.937815,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T07:54:10.430401998+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "bf7232b089f0f21d",
+      "provenance": {
+        "tile_id": "e669386bd6e8a7d3",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778658850.4521744,
+        "chain_size": 7919
+      },
+      "energy": 0.937819,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T07:55:21.829727289+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "687d5aac0c81fa29",
+      "provenance": {
+        "tile_id": "09464e5d44b8a3d0",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778658921.8509476,
+        "chain_size": 7931
+      },
+      "energy": 0.937837,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T18:25:31.880305337+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "7f8717fc695adc01",
+      "provenance": {
+        "tile_id": "da35db92bc6e89ea",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778696731.900268,
+        "chain_size": 11942
+      },
+      "energy": 0.947368,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T18:30:54.078938917+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "b5fc1f7565b06303",
+      "provenance": {
+        "tile_id": "31f756228a1a2315",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778697054.106108,
+        "chain_size": 11969
+      },
+      "energy": 0.947449,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T18:31:07.584497274+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "b0d638291d78f61c",
+      "provenance": {
+        "tile_id": "ac418393eda8b885",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778697067.6180353,
+        "chain_size": 11971
+      },
+      "energy": 0.947453,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T18:31:14.740774450+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "aefd3d0d38d952b2",
+      "provenance": {
+        "tile_id": "65e01f02580a8fa8",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778697074.7586205,
+        "chain_size": 11973
+      },
+      "energy": 0.947455,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T18:32:26.554261472+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "ccdfc85f9324db8e",
+      "provenance": {
+        "tile_id": "624dedf0bf9cd9ea",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778697146.585732,
+        "chain_size": 11980
+      },
+      "energy": 0.947473,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T18:32:31.788547814+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "4b67a6254851a321",
+      "provenance": {
+        "tile_id": "30d3e743cb52eb9e",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778697151.805967,
+        "chain_size": 11982
+      },
+      "energy": 0.947474,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_timeout",
+      "question": "test-sync-timeout:keel_date",
+      "answer": "2026-05-13T18:32:55.725450645+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "45a7a5e8ad11830c",
+      "provenance": {
+        "tile_id": "3718678058e811a7",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_timeout",
+        "timestamp": 1778697175.7473438,
+        "chain_size": 11985
+      },
+      "energy": 0.94748,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T07:51:17.576164+00:00",
+  "tile_count": 14,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,24 @@
+{
+  "tiles": [
+    {
+      "domain": "test2",
+      "question": "Testing the submission system from a crab lure?",
+      "answer": "The submission system accepts tiles through PLATO and stores them as knowledge. Each tile requires domain, question, answer, and source fields. The gate validates content before accepting.",
+      "source": "crab-test",
+      "_hash": "eb4ce6942da79181",
+      "provenance": {
+        "tile_id": "eb7ec5fb5e8be50d",
+        "agent_id": "crab-test",
+        "room": "test2",
+        "timestamp": 1778482437.208672,
+        "chain_size": 5
+      },
+      "energy": 0.894604,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T06:53:57.208832+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

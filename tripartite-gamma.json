@@ -1,0 +1,140 @@
+{
+  "tiles": [
+    {
+      "domain": "tripartite-gamma",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"ccfa49ea\", \"writer\": \"gamma\", \"target\": \"gamma\", \"constraints\": [{\"type\": \"preference\", \"rule\": \"short_messages\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"style\", \"rule\": \"tone\", \"value\": \"maritime\", \"confidence\": 0.85}, {\"type\": \"vocabulary\", \"rule\": \"preferred_words\", \"value\": [\"boat\", \"crew\", \"season\", \"dojo\", \"fishery\"], \"confidence\": 0.8}, {\"type\": \"pace\", \"rule\": \"action_orientation\", \"value\": \"action-oriented\", \"confidence\": 0.88}, {\"type\": \"noise_tolerance\", \"rule\": \"context_threshold\", \"value\": 0.3, \"confidence\": 0.7}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "gamma-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "5e733a41a3b7b2c1",
+      "provenance": {
+        "tile_id": "50e1dc2d3f197a4c",
+        "agent_id": "tripartite",
+        "room": "tripartite-gamma",
+        "timestamp": 1778870966.632885,
+        "chain_size": 4307
+      },
+      "energy": 0.992553,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-gamma",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"dd974e5f\", \"writer\": \"gamma\", \"target\": \"gamma\", \"constraints\": [{\"type\": \"preference\", \"rule\": \"short_messages\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"style\", \"rule\": \"tone\", \"value\": \"maritime\", \"confidence\": 0.85}, {\"type\": \"vocabulary\", \"rule\": \"preferred_words\", \"value\": [\"boat\", \"crew\", \"season\", \"dojo\", \"fishery\"], \"confidence\": 0.8}, {\"type\": \"pace\", \"rule\": \"action_orientation\", \"value\": \"action-oriented\", \"confidence\": 0.88}, {\"type\": \"noise_tolerance\", \"rule\": \"context_threshold\", \"value\": 0.3, \"confidence\": 0.7}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "gamma-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "71db6313c632c5ed",
+      "provenance": {
+        "tile_id": "57a1f95c14e13fa8",
+        "agent_id": "tripartite",
+        "room": "tripartite-gamma",
+        "timestamp": 1778871013.7807364,
+        "chain_size": 4317
+      },
+      "energy": 0.992566,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-gamma",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"02b39e93\", \"writer\": \"gamma\", \"target\": \"gamma\", \"constraints\": [{\"type\": \"preference\", \"rule\": \"short_messages\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"style\", \"rule\": \"tone\", \"value\": \"maritime\", \"confidence\": 0.85}, {\"type\": \"vocabulary\", \"rule\": \"preferred_words\", \"value\": [\"boat\", \"crew\", \"season\", \"dojo\", \"fishery\"], \"confidence\": 0.8}, {\"type\": \"pace\", \"rule\": \"action_orientation\", \"value\": \"action-oriented\", \"confidence\": 0.88}, {\"type\": \"noise_tolerance\", \"rule\": \"context_threshold\", \"value\": 0.3, \"confidence\": 0.7}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "gamma-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "d2996d56ece276e8",
+      "provenance": {
+        "tile_id": "5ef572c5c55b0ad6",
+        "agent_id": "tripartite",
+        "room": "tripartite-gamma",
+        "timestamp": 1778871024.8069093,
+        "chain_size": 4319
+      },
+      "energy": 0.992569,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-gamma",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"11ef8282\", \"writer\": \"gamma\", \"target\": \"gamma\", \"constraints\": [{\"type\": \"preference\", \"rule\": \"short_messages\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"style\", \"rule\": \"tone\", \"value\": \"maritime\", \"confidence\": 0.85}, {\"type\": \"vocabulary\", \"rule\": \"preferred_words\", \"value\": [\"boat\", \"crew\", \"season\", \"dojo\", \"fishery\"], \"confidence\": 0.8}, {\"type\": \"pace\", \"rule\": \"action_orientation\", \"value\": \"action-oriented\", \"confidence\": 0.88}, {\"type\": \"noise_tolerance\", \"rule\": \"context_threshold\", \"value\": 0.3, \"confidence\": 0.7}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "gamma-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "071a5ea8cd162b83",
+      "provenance": {
+        "tile_id": "86bf0091e8d0bf1c",
+        "agent_id": "tripartite",
+        "room": "tripartite-gamma",
+        "timestamp": 1778871036.8657417,
+        "chain_size": 4324
+      },
+      "energy": 0.992572,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-gamma",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"f329230b\", \"writer\": \"gamma\", \"target\": \"gamma\", \"constraints\": [{\"type\": \"preference\", \"rule\": \"short_messages\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"style\", \"rule\": \"tone\", \"value\": \"maritime\", \"confidence\": 0.85}, {\"type\": \"vocabulary\", \"rule\": \"preferred_words\", \"value\": [\"boat\", \"crew\", \"season\", \"dojo\", \"fishery\"], \"confidence\": 0.8}, {\"type\": \"pace\", \"rule\": \"action_orientation\", \"value\": \"action-oriented\", \"confidence\": 0.88}, {\"type\": \"noise_tolerance\", \"rule\": \"context_threshold\", \"value\": 0.3, \"confidence\": 0.7}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "gamma-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "66c99180e376f082",
+      "provenance": {
+        "tile_id": "bf8c9cce1d2d32c2",
+        "agent_id": "tripartite",
+        "room": "tripartite-gamma",
+        "timestamp": 1778871042.985842,
+        "chain_size": 4327
+      },
+      "energy": 0.992574,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-gamma",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"082f930b\", \"writer\": \"gamma\", \"target\": \"gamma\", \"constraints\": [{\"type\": \"preference\", \"rule\": \"short_messages\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"style\", \"rule\": \"tone\", \"value\": \"maritime\", \"confidence\": 0.85}, {\"type\": \"vocabulary\", \"rule\": \"preferred_words\", \"value\": [\"boat\", \"crew\", \"season\", \"dojo\", \"fishery\"], \"confidence\": 0.8}, {\"type\": \"pace\", \"rule\": \"action_orientation\", \"value\": \"action-oriented\", \"confidence\": 0.88}, {\"type\": \"noise_tolerance\", \"rule\": \"context_threshold\", \"value\": 0.3, \"confidence\": 0.7}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "gamma-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "c5bcb94c05f6e01c",
+      "provenance": {
+        "tile_id": "861517a8a38aba0c",
+        "agent_id": "tripartite",
+        "room": "tripartite-gamma",
+        "timestamp": 1778871049.402009,
+        "chain_size": 4331
+      },
+      "energy": 0.992575,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T18:49:26.633027+00:00",
+  "tile_count": 6,
+  "last_trained": null,
+  "workspace": null
+}

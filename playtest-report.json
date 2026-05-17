@@ -1,0 +1,32 @@
+{
+  "tiles": [
+    {
+      "domain": "playtest-report",
+      "question": "What is the health status of lure #3 Service Health Check on 2026-05-11?",
+      "answer": "Playtest complete. Keeper(4042) healthy, PLATO(8847) HTTP 200 in 0.002s. Ports 8900/8901/9438 unreachable (no route). Keeper function port (4042) and PLATO (8847) are the only reachable services on this host.",
+      "source": "playtest-sre",
+      "confidence": 0.95,
+      "tags": [
+        "playtest",
+        "lure-3",
+        "health-check",
+        "2026-05-11",
+        "sre"
+      ],
+      "_hash": "ac339a43122c5a84",
+      "provenance": {
+        "tile_id": "0cf244f2144a7354",
+        "agent_id": "playtest-sre",
+        "room": "playtest-report",
+        "timestamp": 1778492057.0066018,
+        "chain_size": 61
+      },
+      "energy": 0.896908,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T09:34:17.006813+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

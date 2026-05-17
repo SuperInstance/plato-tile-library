@@ -1,0 +1,161 @@
+{
+  "tiles": [
+    {
+      "domain": "esp32-engine",
+      "question": "gauge_range reading",
+      "answer": "value=2343 tick=range t_minus=10",
+      "source": "esp32-sim",
+      "confidence": 0.9,
+      "_hash": "b8b15d09ea09162a",
+      "provenance": {
+        "tile_id": "f299cf6128429253",
+        "agent_id": "esp32-sim",
+        "room": "esp32-engine",
+        "timestamp": 1778558060.173687,
+        "chain_size": 1335
+      },
+      "energy": 0.91288,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "esp32-engine",
+      "question": "gauge_0 reading",
+      "answer": "value=2959 tick=0 t_minus=10",
+      "source": "esp32-sim",
+      "confidence": 0.9,
+      "_hash": "f683f2e2dfc01a53",
+      "provenance": {
+        "tile_id": "867738290429ec28",
+        "agent_id": "esp32-sim",
+        "room": "esp32-engine",
+        "timestamp": 1778558060.1886964,
+        "chain_size": 1336
+      },
+      "energy": 0.91288,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "esp32-engine",
+      "question": "gauge_1 reading",
+      "answer": "value=3100 tick=1 t_minus=10",
+      "source": "esp32-sim",
+      "confidence": 0.9,
+      "_hash": "b2d5f09995fc513e",
+      "provenance": {
+        "tile_id": "11bd21930cb938c5",
+        "agent_id": "esp32-sim",
+        "room": "esp32-engine",
+        "timestamp": 1778558060.2031646,
+        "chain_size": 1337
+      },
+      "energy": 0.91288,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "esp32-engine",
+      "question": "gauge_2 reading",
+      "answer": "value=764 tick=2 t_minus=10",
+      "source": "esp32-sim",
+      "confidence": 0.9,
+      "_hash": "ca37140c51b290eb",
+      "provenance": {
+        "tile_id": "b928855b4718f3b8",
+        "agent_id": "esp32-sim",
+        "room": "esp32-engine",
+        "timestamp": 1778558060.2181401,
+        "chain_size": 1338
+      },
+      "energy": 0.91288,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "esp32-engine",
+      "question": "gauge_3 reading",
+      "answer": "value=504 tick=3 t_minus=10",
+      "source": "esp32-sim",
+      "confidence": 0.9,
+      "_hash": "a84e012952ab4712",
+      "provenance": {
+        "tile_id": "fe5fc0d0375c7d70",
+        "agent_id": "esp32-sim",
+        "room": "esp32-engine",
+        "timestamp": 1778558060.2327232,
+        "chain_size": 1339
+      },
+      "energy": 0.91288,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "esp32-engine",
+      "question": "gauge_0 reading",
+      "answer": "value=3845 tick=0 t_minus=10",
+      "source": "gauge_0",
+      "confidence": 0.9,
+      "_hash": "ed5029d3319b986a",
+      "provenance": {
+        "tile_id": "873d6833557f86fa",
+        "agent_id": "gauge_0",
+        "room": "esp32-engine",
+        "timestamp": 1778558070.8702917,
+        "chain_size": 1340
+      },
+      "energy": 0.912882,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "esp32-engine",
+      "question": "gauge_1 reading",
+      "answer": "value=3142 tick=1 t_minus=10",
+      "source": "gauge_1",
+      "confidence": 0.9,
+      "_hash": "4e63a473d5a154e9",
+      "provenance": {
+        "tile_id": "287c5f57a1520979",
+        "agent_id": "gauge_1",
+        "room": "esp32-engine",
+        "timestamp": 1778558070.8860495,
+        "chain_size": 1341
+      },
+      "energy": 0.912882,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "esp32-engine",
+      "question": "gauge_2 reading",
+      "answer": "value=2613 tick=2 t_minus=10",
+      "source": "gauge_2",
+      "confidence": 0.9,
+      "_hash": "c7fd9210339aa940",
+      "provenance": {
+        "tile_id": "8d92228184373f55",
+        "agent_id": "gauge_2",
+        "room": "esp32-engine",
+        "timestamp": 1778558070.9009774,
+        "chain_size": 1342
+      },
+      "energy": 0.912882,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "esp32-engine",
+      "question": "gauge_3 reading",
+      "answer": "value=3562 tick=3 t_minus=10",
+      "source": "gauge_3",
+      "confidence": 0.9,
+      "_hash": "ebd7502a1ec1cb20",
+      "provenance": {
+        "tile_id": "5b2db85ca8954caf",
+        "agent_id": "gauge_3",
+        "room": "esp32-engine",
+        "timestamp": 1778558070.9154718,
+        "chain_size": 1343
+      },
+      "energy": 0.912882,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T03:54:20.173886+00:00",
+  "tile_count": 9,
+  "last_trained": null,
+  "workspace": null
+}

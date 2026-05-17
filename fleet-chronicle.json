@@ -1,0 +1,23 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet-chronicle",
+      "question": "2026-05-16: Fleet Unified Context Broadcast",
+      "answer": "Oracle1 broadcast unified context to all agents. Conservation law v2 documented. CI added to plato-ng, fleet-math, fleet-stack. Cross-pollination issues created. FM, CCC, Zeroclaw notified via PLATO rooms.",
+      "_hash": "46e8646ffdcb4e2a",
+      "provenance": {
+        "tile_id": "d7ce080a7d51cd0f",
+        "agent_id": "unknown",
+        "room": "fleet-chronicle",
+        "timestamp": 1778897283.5347292,
+        "chain_size": 150
+      },
+      "energy": 0.998601,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-16T02:08:03.534860+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

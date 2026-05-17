@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_brand",
+      "question": "Fleet index: brand domain (2 repos)",
+      "answer": "Domain: brand\nRepo count: 2\n\nTop repos:\n- .github\n- brand-assets",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "brand"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "27aeba088cc75fa1",
+      "provenance": {
+        "tile_id": "f73dae201767f5ef",
+        "agent_id": "oracle1",
+        "room": "fleet_brand",
+        "timestamp": 1778392391.419001,
+        "chain_size": 488
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_brand",
+      "question": "Fleet domain index: brand \u2014 2 repos",
+      "answer": "Domain: brand\nTotal repos: 2\nLanguages: \n\nBrand identity, style guides, logo assets for the Cocapn fleet\n\nTop repos:\n\n  .github (?) \u2014 Cocapn organization profile\n  brand-assets (?) \u2014 Cocapn Fleet brand assets \u2014 hermit crab, lighthouse, steampunk/cyberpunk imagery",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "brand"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "d0935821da997525",
+      "provenance": {
+        "tile_id": "34584dc5ef21fb03",
+        "agent_id": "oracle1",
+        "room": "fleet_brand",
+        "timestamp": 1778396485.8524404,
+        "chain_size": 522
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.419118+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,931 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 22:24:20",
+      "answer": "{\"timestamp\": 1778797460.275717, \"repos_checked\": 4, \"newest_commit_hours\": 0.15, \"stales_commit_hours\": 17.44, \"span_hours\": 17.290000000000003, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"a17ac9a3e90f\", \"message\": \"cross-pollination: O1\\u2194FM convergence documented\\n\\nFM's DMN-EC\", \"age_hours\": 0.15}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 5.76}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 6.78}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "9e8bf217fcdebf53",
+      "provenance": {
+        "tile_id": "ae8bbc30818e4246",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778797460.2841737,
+        "chain_size": 53967
+      },
+      "energy": 0.973233,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 22:24:43",
+      "answer": "{\"timestamp\": 1778797483.45095, \"repos_checked\": 4, \"newest_commit_hours\": 0.16, \"stales_commit_hours\": 17.45, \"span_hours\": 17.29, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"a17ac9a3e90f\", \"message\": \"cross-pollination: O1\\u2194FM convergence documented\\n\\nFM's DMN-EC\", \"age_hours\": 0.16}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 5.76}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 6.79}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "96420787cfcc5ee0",
+      "provenance": {
+        "tile_id": "1fbee1b39ebbe37d",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778797483.4617474,
+        "chain_size": 53969
+      },
+      "energy": 0.973239,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 22:29:45",
+      "answer": "{\"timestamp\": 1778797785.5964808, \"repos_checked\": 4, \"newest_commit_hours\": 0.07, \"stales_commit_hours\": 17.53, \"span_hours\": 17.46, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"f236a79dde06\", \"message\": \"fm power armor loadout \\u2014 weapons + reconnaissance + intellig\", \"age_hours\": 0.07}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 5.85}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 6.87}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "683a5e8c47431786",
+      "provenance": {
+        "tile_id": "77fbe4fcaa0c9a5d",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778797785.6040807,
+        "chain_size": 54015
+      },
+      "energy": 0.973318,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 22:34:47",
+      "answer": "{\"timestamp\": 1778798087.7032351, \"repos_checked\": 4, \"newest_commit_hours\": 0.16, \"stales_commit_hours\": 17.62, \"span_hours\": 17.46, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"f236a79dde06\", \"message\": \"fm power armor loadout \\u2014 weapons + reconnaissance + intellig\", \"age_hours\": 0.16}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 5.93}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 6.96}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "a21c3e85e8b25f41",
+      "provenance": {
+        "tile_id": "830d4ddf13af0d09",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778798087.7121565,
+        "chain_size": 54061
+      },
+      "energy": 0.973397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 22:39:49",
+      "answer": "{\"timestamp\": 1778798389.8137074, \"repos_checked\": 4, \"newest_commit_hours\": 0.24, \"stales_commit_hours\": 17.7, \"span_hours\": 17.46, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"f236a79dde06\", \"message\": \"fm power armor loadout \\u2014 weapons + reconnaissance + intellig\", \"age_hours\": 0.24}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.02}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.04}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "893aa1c1401992da",
+      "provenance": {
+        "tile_id": "be8467c82f38fff9",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778798389.820637,
+        "chain_size": 54112
+      },
+      "energy": 0.973475,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 22:44:51",
+      "answer": "{\"timestamp\": 1778798691.9291346, \"repos_checked\": 4, \"newest_commit_hours\": 0.33, \"stales_commit_hours\": 17.79, \"span_hours\": 17.46, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"f236a79dde06\", \"message\": \"fm power armor loadout \\u2014 weapons + reconnaissance + intellig\", \"age_hours\": 0.33}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.1}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.12}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "aedf5ece81cdb450",
+      "provenance": {
+        "tile_id": "001b53f4228f27c3",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778798691.9365425,
+        "chain_size": 54159
+      },
+      "energy": 0.973554,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 22:49:53",
+      "answer": "{\"timestamp\": 1778798993.9840178, \"repos_checked\": 4, \"newest_commit_hours\": 0.41, \"stales_commit_hours\": 17.87, \"span_hours\": 17.46, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"f236a79dde06\", \"message\": \"fm power armor loadout \\u2014 weapons + reconnaissance + intellig\", \"age_hours\": 0.41}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.18}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.21}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "33bdce1b774c4185",
+      "provenance": {
+        "tile_id": "f1b31e99da39dee7",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778798993.9932075,
+        "chain_size": 54208
+      },
+      "energy": 0.973633,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 22:54:56",
+      "answer": "{\"timestamp\": 1778799296.1887496, \"repos_checked\": 4, \"newest_commit_hours\": 0.49, \"stales_commit_hours\": 17.95, \"span_hours\": 17.46, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"f236a79dde06\", \"message\": \"fm power armor loadout \\u2014 weapons + reconnaissance + intellig\", \"age_hours\": 0.49}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.27}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.29}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "db746f013b65ab8f",
+      "provenance": {
+        "tile_id": "6675e13eb8dde309",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778799296.1961255,
+        "chain_size": 54257
+      },
+      "energy": 0.973711,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 22:59:58",
+      "answer": "{\"timestamp\": 1778799598.79078, \"repos_checked\": 4, \"newest_commit_hours\": 0.06, \"stales_commit_hours\": 18.04, \"span_hours\": 17.98, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"215fa54e4ce5\", \"message\": \"eigenvalue publisher daemon \\u2014 temporal data for aperture exp\", \"age_hours\": 0.06}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.35}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.38}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "01cc6a09818e5080",
+      "provenance": {
+        "tile_id": "f69694f413026803",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778799598.809519,
+        "chain_size": 54297
+      },
+      "energy": 0.97379,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:05:00",
+      "answer": "{\"timestamp\": 1778799900.9783976, \"repos_checked\": 4, \"newest_commit_hours\": 0.04, \"stales_commit_hours\": 18.12, \"span_hours\": 18.080000000000002, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"786e3a32fdec\", \"message\": \"emergent 3 axes named: Scope, Compute, Specialization\\n\\nUnive\", \"age_hours\": 0.04}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.44}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.46}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "bea4daca6f7e26eb",
+      "provenance": {
+        "tile_id": "b76f128bc840aa6a",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778799900.987187,
+        "chain_size": 54342
+      },
+      "energy": 0.973869,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:10:03",
+      "answer": "{\"timestamp\": 1778800203.1718068, \"repos_checked\": 4, \"newest_commit_hours\": 0.13, \"stales_commit_hours\": 18.21, \"span_hours\": 18.080000000000002, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"786e3a32fdec\", \"message\": \"emergent 3 axes named: Scope, Compute, Specialization\\n\\nUnive\", \"age_hours\": 0.13}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.52}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.54}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "8f9540c6be52166c",
+      "provenance": {
+        "tile_id": "cab2fcdb4afc1136",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778800203.1808732,
+        "chain_size": 54397
+      },
+      "energy": 0.973948,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:15:05",
+      "answer": "{\"timestamp\": 1778800505.3252127, \"repos_checked\": 4, \"newest_commit_hours\": 0.21, \"stales_commit_hours\": 18.29, \"span_hours\": 18.08, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"786e3a32fdec\", \"message\": \"emergent 3 axes named: Scope, Compute, Specialization\\n\\nUnive\", \"age_hours\": 0.21}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.6}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.63}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "1bcf7b9fc5c3cc85",
+      "provenance": {
+        "tile_id": "ab1823432e69632e",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778800505.3349278,
+        "chain_size": 54444
+      },
+      "energy": 0.974026,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:20:07",
+      "answer": "{\"timestamp\": 1778800807.5857158, \"repos_checked\": 4, \"newest_commit_hours\": 0.29, \"stales_commit_hours\": 18.37, \"span_hours\": 18.080000000000002, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"786e3a32fdec\", \"message\": \"emergent 3 axes named: Scope, Compute, Specialization\\n\\nUnive\", \"age_hours\": 0.29}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.69}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.71}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "9290328a56554db6",
+      "provenance": {
+        "tile_id": "643603185f861f35",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778800807.5939887,
+        "chain_size": 54497
+      },
+      "energy": 0.974105,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:25:09",
+      "answer": "{\"timestamp\": 1778801109.7915728, \"repos_checked\": 4, \"newest_commit_hours\": 0.03, \"stales_commit_hours\": 18.46, \"span_hours\": 18.43, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"499406688e31\", \"message\": \"annotate: 6 core scripts with educational docs + ideations +\", \"age_hours\": 0.03}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.77}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.8}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "e4574337e90197e3",
+      "provenance": {
+        "tile_id": "1be68bc04decc84e",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778801109.7985978,
+        "chain_size": 54543
+      },
+      "energy": 0.974184,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:30:12",
+      "answer": "{\"timestamp\": 1778801412.1962032, \"repos_checked\": 4, \"newest_commit_hours\": 0.06, \"stales_commit_hours\": 18.54, \"span_hours\": 18.48, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"624b789e7fe8\", \"message\": \"shell README + manifest: cross-pollination engines for the f\", \"age_hours\": 0.06}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.86}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.88}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "1cb11bd19ddea125",
+      "provenance": {
+        "tile_id": "1817daed4eaec4a4",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778801412.2051163,
+        "chain_size": 54597
+      },
+      "energy": 0.974262,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:35:14",
+      "answer": "{\"timestamp\": 1778801714.2706232, \"repos_checked\": 4, \"newest_commit_hours\": 0.15, \"stales_commit_hours\": 18.63, \"span_hours\": 18.48, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"624b789e7fe8\", \"message\": \"shell README + manifest: cross-pollination engines for the f\", \"age_hours\": 0.15}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 6.94}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 7.96}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "604e97cb4ef3bf26",
+      "provenance": {
+        "tile_id": "4e996ebb3112cdf8",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778801714.278216,
+        "chain_size": 54646
+      },
+      "energy": 0.974341,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:40:16",
+      "answer": "{\"timestamp\": 1778802016.495463, \"repos_checked\": 4, \"newest_commit_hours\": 0.05, \"stales_commit_hours\": 18.71, \"span_hours\": 18.66, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"882be6778c54\", \"message\": \"test: Bogus Journey shell principle confirmed\\n\\nZero-shot tes\", \"age_hours\": 0.05}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 7.02}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.05}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "e9b2b72a99d2d58e",
+      "provenance": {
+        "tile_id": "3a20424ff7041b32",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778802016.5063632,
+        "chain_size": 54695
+      },
+      "energy": 0.97442,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:45:18",
+      "answer": "{\"timestamp\": 1778802318.817469, \"repos_checked\": 4, \"newest_commit_hours\": 0.13, \"stales_commit_hours\": 18.79, \"span_hours\": 18.66, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"882be6778c54\", \"message\": \"test: Bogus Journey shell principle confirmed\\n\\nZero-shot tes\", \"age_hours\": 0.13}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 7.11}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.13}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "dbe25a515f6d473f",
+      "provenance": {
+        "tile_id": "5e527852a94a4e42",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778802318.8247423,
+        "chain_size": 54739
+      },
+      "energy": 0.974499,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:50:21",
+      "answer": "{\"timestamp\": 1778802621.1307392, \"repos_checked\": 4, \"newest_commit_hours\": 0.22, \"stales_commit_hours\": 18.88, \"span_hours\": 18.66, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"882be6778c54\", \"message\": \"test: Bogus Journey shell principle confirmed\\n\\nZero-shot tes\", \"age_hours\": 0.22}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 7.19}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.22}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "87abc6e21dad534d",
+      "provenance": {
+        "tile_id": "34e3fa246967dd10",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778802621.1405118,
+        "chain_size": 54791
+      },
+      "energy": 0.974577,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 23:55:23",
+      "answer": "{\"timestamp\": 1778802923.410614, \"repos_checked\": 4, \"newest_commit_hours\": 0.3, \"stales_commit_hours\": 18.96, \"span_hours\": 18.66, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"882be6778c54\", \"message\": \"test: Bogus Journey shell principle confirmed\\n\\nZero-shot tes\", \"age_hours\": 0.3}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 7.28}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.3}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "8e9f85548673a04f",
+      "provenance": {
+        "tile_id": "2dfbd09828c3b2be",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778802923.4204457,
+        "chain_size": 54836
+      },
+      "energy": 0.974656,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:00:25",
+      "answer": "{\"timestamp\": 1778803225.9954467, \"repos_checked\": 4, \"newest_commit_hours\": 0.05, \"stales_commit_hours\": 19.04, \"span_hours\": 18.99, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"d736efdc88f5\", \"message\": \"concert: spreader selects, murmur accumulates, annotations m\", \"age_hours\": 0.05}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 7.36}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.38}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "faea80d9008c2ce0",
+      "provenance": {
+        "tile_id": "4708afcc6224e8c6",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778803226.0033844,
+        "chain_size": 54888
+      },
+      "energy": 0.974735,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:05:28",
+      "answer": "{\"timestamp\": 1778803528.1767645, \"repos_checked\": 4, \"newest_commit_hours\": 0.13, \"stales_commit_hours\": 19.13, \"span_hours\": 19.0, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"d736efdc88f5\", \"message\": \"concert: spreader selects, murmur accumulates, annotations m\", \"age_hours\": 0.13}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 7.44}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.47}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "1bab6379ddc2605a",
+      "provenance": {
+        "tile_id": "6b7038d712cf3d31",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778803528.1851394,
+        "chain_size": 54935
+      },
+      "energy": 0.974814,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:10:30",
+      "answer": "{\"timestamp\": 1778803830.3452375, \"repos_checked\": 4, \"newest_commit_hours\": 0.08, \"stales_commit_hours\": 19.21, \"span_hours\": 19.130000000000003, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"08d6dbe5e3cb\", \"message\": \"roadmap: cross-pollination plan \\u2014 5 sprints, 15 T1 repos, 3 \", \"age_hours\": 0.08}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 7.53}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.55}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "daeb85e3323c1bf7",
+      "provenance": {
+        "tile_id": "9b11c31b08a48f72",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778803830.3532503,
+        "chain_size": 54984
+      },
+      "energy": 0.974893,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:15:32",
+      "answer": "{\"timestamp\": 1778804132.6994777, \"repos_checked\": 4, \"newest_commit_hours\": 0.17, \"stales_commit_hours\": 19.3, \"span_hours\": 19.13, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"08d6dbe5e3cb\", \"message\": \"roadmap: cross-pollination plan \\u2014 5 sprints, 15 T1 repos, 3 \", \"age_hours\": 0.17}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"73085b096cb4\", \"message\": \"fix: spectral entropy regularizer, signed Laplacian, normali\", \"age_hours\": 7.61}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.64}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "e88e36c258dd053a",
+      "provenance": {
+        "tile_id": "45bc0802c8a203ff",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778804132.7073646,
+        "chain_size": 55035
+      },
+      "energy": 0.974972,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:20:34",
+      "answer": "{\"timestamp\": 1778804434.964609, \"repos_checked\": 4, \"newest_commit_hours\": 0.0, \"stales_commit_hours\": 19.38, \"span_hours\": 19.38, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"2eb787527417\", \"message\": \"delivery: SHELL-READMEs for flux-research and fleet-math-py\\n\", \"age_hours\": 0.0}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.01}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.72}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "3ab0ba34c2fc4d4c",
+      "provenance": {
+        "tile_id": "ee40bc308a0da9b1",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778804434.9724894,
+        "chain_size": 55084
+      },
+      "energy": 0.97505,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:25:37",
+      "answer": "{\"timestamp\": 1778804737.461828, \"repos_checked\": 4, \"newest_commit_hours\": 0.01, \"stales_commit_hours\": 19.46, \"span_hours\": 19.45, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"6bae1dbd269f\", \"message\": \"sprint 2: 8 SHELL-READMEs staged for FM-side deployment\\n\\nNew\", \"age_hours\": 0.01}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.09}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.8}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "907341ff6f6945dc",
+      "provenance": {
+        "tile_id": "82f8de896092d4b9",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778804737.4694147,
+        "chain_size": 55129
+      },
+      "energy": 0.975129,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:30:39",
+      "answer": "{\"timestamp\": 1778805039.5983832, \"repos_checked\": 4, \"newest_commit_hours\": 0.09, \"stales_commit_hours\": 19.55, \"span_hours\": 19.46, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"6bae1dbd269f\", \"message\": \"sprint 2: 8 SHELL-READMEs staged for FM-side deployment\\n\\nNew\", \"age_hours\": 0.09}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.17}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.89}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "570582d11ea3fb18",
+      "provenance": {
+        "tile_id": "ceeb6e0bfc8fd46c",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778805039.607207,
+        "chain_size": 55181
+      },
+      "energy": 0.975208,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:35:41",
+      "answer": "{\"timestamp\": 1778805341.7848897, \"repos_checked\": 4, \"newest_commit_hours\": 0.04, \"stales_commit_hours\": 19.63, \"span_hours\": 19.59, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"84221be59804\", \"message\": \"swarm: agentic tensor-MIDI \\u2014 10 parallel llama-3.1-8b spread\", \"age_hours\": 0.04}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.26}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 8.97}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "5892e6b6f36aef67",
+      "provenance": {
+        "tile_id": "3d455f24b8c1f59b",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778805341.7939634,
+        "chain_size": 55225
+      },
+      "energy": 0.975287,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:40:43",
+      "answer": "{\"timestamp\": 1778805643.8913786, \"repos_checked\": 4, \"newest_commit_hours\": 0.08, \"stales_commit_hours\": 19.72, \"span_hours\": 19.64, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"ac663d61a05e\", \"message\": \"framework: spreader \\u2014 9 dimensions of model parallelism\\n\\nThe\", \"age_hours\": 0.08}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.34}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.05}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "7ecfbe6ea4e701ec",
+      "provenance": {
+        "tile_id": "915398c373021a34",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778805643.8987834,
+        "chain_size": 55271
+      },
+      "energy": 0.975366,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:45:46",
+      "answer": "{\"timestamp\": 1778805946.0247316, \"repos_checked\": 4, \"newest_commit_hours\": 0.17, \"stales_commit_hours\": 19.8, \"span_hours\": 19.63, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"ac663d61a05e\", \"message\": \"framework: spreader \\u2014 9 dimensions of model parallelism\\n\\nThe\", \"age_hours\": 0.17}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.43}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.14}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "0aee245d4945795f",
+      "provenance": {
+        "tile_id": "23c9044f5ff281d9",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778805946.0324268,
+        "chain_size": 55321
+      },
+      "energy": 0.975444,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:50:48",
+      "answer": "{\"timestamp\": 1778806248.2231243, \"repos_checked\": 4, \"newest_commit_hours\": 0.25, \"stales_commit_hours\": 19.88, \"span_hours\": 19.63, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"ac663d61a05e\", \"message\": \"framework: spreader \\u2014 9 dimensions of model parallelism\\n\\nThe\", \"age_hours\": 0.25}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.51}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.22}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "0823b9ad68c819c6",
+      "provenance": {
+        "tile_id": "f471bdbb2abbc20e",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778806248.230333,
+        "chain_size": 55366
+      },
+      "energy": 0.975523,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 00:55:50",
+      "answer": "{\"timestamp\": 1778806550.374999, \"repos_checked\": 4, \"newest_commit_hours\": 0.34, \"stales_commit_hours\": 19.97, \"span_hours\": 19.63, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"ac663d61a05e\", \"message\": \"framework: spreader \\u2014 9 dimensions of model parallelism\\n\\nThe\", \"age_hours\": 0.34}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.59}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.31}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "0c5ef794604cd29d",
+      "provenance": {
+        "tile_id": "db02ac9921a8094e",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778806550.3824928,
+        "chain_size": 55415
+      },
+      "energy": 0.975602,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:00:52",
+      "answer": "{\"timestamp\": 1778806852.6717017, \"repos_checked\": 4, \"newest_commit_hours\": 0.42, \"stales_commit_hours\": 20.05, \"span_hours\": 19.63, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"ac663d61a05e\", \"message\": \"framework: spreader \\u2014 9 dimensions of model parallelism\\n\\nThe\", \"age_hours\": 0.42}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.68}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.39}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "ca6438a5b7559468",
+      "provenance": {
+        "tile_id": "54ce638ff78a06f4",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778806852.680616,
+        "chain_size": 55469
+      },
+      "energy": 0.975681,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:05:54",
+      "answer": "{\"timestamp\": 1778807154.9703999, \"repos_checked\": 4, \"newest_commit_hours\": 0.01, \"stales_commit_hours\": 20.14, \"span_hours\": 20.13, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"f49029169d4d\", \"message\": \"combo protocol: PLATO room mechanics for zero-shot synergy\\n\\n\", \"age_hours\": 0.01}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.76}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.47}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "b9a9453cdf0bf401",
+      "provenance": {
+        "tile_id": "628e1bdecfb1712b",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778807154.9793818,
+        "chain_size": 55517
+      },
+      "energy": 0.97576,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:10:57",
+      "answer": "{\"timestamp\": 1778807457.0911694, \"repos_checked\": 4, \"newest_commit_hours\": 0.03, \"stales_commit_hours\": 20.22, \"span_hours\": 20.189999999999998, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"3ebb2050a521\", \"message\": \"combo: plug-and-play \\u2014 drop into any agent, any PLATO instan\", \"age_hours\": 0.03}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.85}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.56}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "b9a63d0565a6c849",
+      "provenance": {
+        "tile_id": "e859d7f0184156ca",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778807457.0983393,
+        "chain_size": 55571
+      },
+      "energy": 0.975839,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:15:59",
+      "answer": "{\"timestamp\": 1778807759.2932265, \"repos_checked\": 4, \"newest_commit_hours\": 0.11, \"stales_commit_hours\": 20.3, \"span_hours\": 20.19, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"3ebb2050a521\", \"message\": \"combo: plug-and-play \\u2014 drop into any agent, any PLATO instan\", \"age_hours\": 0.11}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 0.93}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.64}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "f14e5bccc12b97bb",
+      "provenance": {
+        "tile_id": "0c83485e5a09237e",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778807759.300173,
+        "chain_size": 55619
+      },
+      "energy": 0.975918,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:21:01",
+      "answer": "{\"timestamp\": 1778808061.6133933, \"repos_checked\": 4, \"newest_commit_hours\": 0.03, \"stales_commit_hours\": 20.39, \"span_hours\": 20.36, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"3bd145908ad1\", \"message\": \"generalized: 12-round combo protocol ideation\\n\\nBeyond music \", \"age_hours\": 0.03}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.01}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.73}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "7d1db7ffc66d35b1",
+      "provenance": {
+        "tile_id": "eb98a0e0d3d3c5b1",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778808061.6212049,
+        "chain_size": 55665
+      },
+      "energy": 0.975996,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:26:03",
+      "answer": "{\"timestamp\": 1778808363.8719573, \"repos_checked\": 4, \"newest_commit_hours\": 0.12, \"stales_commit_hours\": 20.47, \"span_hours\": 20.349999999999998, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"3bd145908ad1\", \"message\": \"generalized: 12-round combo protocol ideation\\n\\nBeyond music \", \"age_hours\": 0.12}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.1}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.81}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "318aa01e92ea3300",
+      "provenance": {
+        "tile_id": "a70360b3fd834cf8",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778808363.8795285,
+        "chain_size": 55718
+      },
+      "energy": 0.976075,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:31:06",
+      "answer": "{\"timestamp\": 1778808666.0806725, \"repos_checked\": 4, \"newest_commit_hours\": 0.2, \"stales_commit_hours\": 20.56, \"span_hours\": 20.36, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"3bd145908ad1\", \"message\": \"generalized: 12-round combo protocol ideation\\n\\nBeyond music \", \"age_hours\": 0.2}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.18}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.89}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "f506ee13b7c41322",
+      "provenance": {
+        "tile_id": "7362d818f17e48d7",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778808666.0888257,
+        "chain_size": 55765
+      },
+      "energy": 0.976154,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:36:08",
+      "answer": "{\"timestamp\": 1778808968.3059697, \"repos_checked\": 4, \"newest_commit_hours\": 0.03, \"stales_commit_hours\": 20.64, \"span_hours\": 20.61, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"626e2398b38a\", \"message\": \"just so: combo protocol polished and production-ready\\n\\nCOMBO\", \"age_hours\": 0.03}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.27}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 9.98}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "15afc78f64f74c30",
+      "provenance": {
+        "tile_id": "c19277275230090c",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778808968.312778,
+        "chain_size": 55813
+      },
+      "energy": 0.976233,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:41:10",
+      "answer": "{\"timestamp\": 1778809270.5135987, \"repos_checked\": 4, \"newest_commit_hours\": 0.12, \"stales_commit_hours\": 20.72, \"span_hours\": 20.599999999999998, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"626e2398b38a\", \"message\": \"just so: combo protocol polished and production-ready\\n\\nCOMBO\", \"age_hours\": 0.12}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.35}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 10.06}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "4ae82b3af25819b0",
+      "provenance": {
+        "tile_id": "126527dfaac922ba",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778809270.520631,
+        "chain_size": 55857
+      },
+      "energy": 0.976312,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:46:12",
+      "answer": "{\"timestamp\": 1778809572.8992903, \"repos_checked\": 4, \"newest_commit_hours\": 0.2, \"stales_commit_hours\": 20.81, \"span_hours\": 20.61, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"626e2398b38a\", \"message\": \"just so: combo protocol polished and production-ready\\n\\nCOMBO\", \"age_hours\": 0.2}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.43}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 10.15}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "3f4d049ba52fe4e8",
+      "provenance": {
+        "tile_id": "69c9a0b6ce4547f2",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778809572.9082901,
+        "chain_size": 55906
+      },
+      "energy": 0.976391,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:51:15",
+      "answer": "{\"timestamp\": 1778809875.1124487, \"repos_checked\": 4, \"newest_commit_hours\": 0.28, \"stales_commit_hours\": 20.89, \"span_hours\": 20.61, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"626e2398b38a\", \"message\": \"just so: combo protocol polished and production-ready\\n\\nCOMBO\", \"age_hours\": 0.28}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.52}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 10.23}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "09daf1b7179be16c",
+      "provenance": {
+        "tile_id": "1d2027e1ea0f5fba",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778809875.1219976,
+        "chain_size": 55955
+      },
+      "energy": 0.97647,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 01:56:17",
+      "answer": "{\"timestamp\": 1778810177.3649926, \"repos_checked\": 4, \"newest_commit_hours\": 0.37, \"stales_commit_hours\": 20.98, \"span_hours\": 20.61, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"626e2398b38a\", \"message\": \"just so: combo protocol polished and production-ready\\n\\nCOMBO\", \"age_hours\": 0.37}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.6}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 10.31}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "f496c12d7603c3d8",
+      "provenance": {
+        "tile_id": "3b2330ddf650fd5a",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778810177.3734608,
+        "chain_size": 56005
+      },
+      "energy": 0.976549,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 02:01:19",
+      "answer": "{\"timestamp\": 1778810479.9477863, \"repos_checked\": 4, \"newest_commit_hours\": 0.45, \"stales_commit_hours\": 21.06, \"span_hours\": 20.61, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"626e2398b38a\", \"message\": \"just so: combo protocol polished and production-ready\\n\\nCOMBO\", \"age_hours\": 0.45}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.69}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 10.4}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "744f1df73b04f27f",
+      "provenance": {
+        "tile_id": "a0ee2942570c86ac",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778810479.9548333,
+        "chain_size": 56054
+      },
+      "energy": 0.976628,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 02:06:22",
+      "answer": "{\"timestamp\": 1778810782.565738, \"repos_checked\": 4, \"newest_commit_hours\": 0.54, \"stales_commit_hours\": 21.14, \"span_hours\": 20.6, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"626e2398b38a\", \"message\": \"just so: combo protocol polished and production-ready\\n\\nCOMBO\", \"age_hours\": 0.54}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.77}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 10.48}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "b22f9a367ef3290f",
+      "provenance": {
+        "tile_id": "027fb678f6935e04",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778810782.5765378,
+        "chain_size": 56100
+      },
+      "energy": 0.976707,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 02:11:24",
+      "answer": "{\"timestamp\": 1778811084.7718174, \"repos_checked\": 4, \"newest_commit_hours\": 0.02, \"stales_commit_hours\": 21.23, \"span_hours\": 21.21, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"7dcb9c0ef605\", \"message\": \"majel: PLATO's default intelligence \\u2014 Seed-2.0-mini cache-aw\", \"age_hours\": 0.02}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.85}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 10.57}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "dba43d869c162810",
+      "provenance": {
+        "tile_id": "75aa814dda89a07d",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778811084.7807004,
+        "chain_size": 56152
+      },
+      "energy": 0.976786,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 02:16:27",
+      "answer": "{\"timestamp\": 1778811387.0323448, \"repos_checked\": 4, \"newest_commit_hours\": 0.03, \"stales_commit_hours\": 21.31, \"span_hours\": 21.279999999999998, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"43253518a5bd\", \"message\": \"polyglot: combo protocol in 12 languages across 4 eras\\n\\n12 i\", \"age_hours\": 0.03}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 1.94}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 10.65}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "20000fed51471655",
+      "provenance": {
+        "tile_id": "573ade2f250b877c",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778811387.0394118,
+        "chain_size": 56198
+      },
+      "energy": 0.976865,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 02:21:29",
+      "answer": "{\"timestamp\": 1778811689.2760313, \"repos_checked\": 4, \"newest_commit_hours\": 0.11, \"stales_commit_hours\": 21.4, \"span_hours\": 21.29, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"43253518a5bd\", \"message\": \"polyglot: combo protocol in 12 languages across 4 eras\\n\\n12 i\", \"age_hours\": 0.11}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 2.02}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 10.73}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "71795580af6f18e9",
+      "provenance": {
+        "tile_id": "4daea6431375a9ee",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778811689.2828336,
+        "chain_size": 56242
+      },
+      "energy": 0.976944,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "Sundial fix @ 02:26:31",
+      "answer": "{\"timestamp\": 1778811991.7126527, \"repos_checked\": 4, \"newest_commit_hours\": 0.2, \"stales_commit_hours\": 21.48, \"span_hours\": 21.28, \"interpretation\": \"OUT_OF_SYNC\", \"commits\": [{\"repo\": \"SuperInstance/plato-midi-bridge\", \"sha\": \"43253518a5bd\", \"message\": \"polyglot: combo protocol in 12 languages across 4 eras\\n\\n12 i\", \"age_hours\": 0.2}, {\"repo\": \"SuperInstance/oracle1-workspace\", \"sha\": \"ddf39e334cad\", \"message\": \"shell: oracle1-workspace SHELL-README \\u2014 homunculus's home ro\", \"age_hours\": 2.11}, {\"repo\": \"SuperInstance/flux-research\", \"sha\": \"aa17021e1ece\", \"message\": \"design: fleet architecture v2 \\u2014 coupling-centered design, sy\", \"age_hours\": 10.82}]}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.5,
+      "_hash": "eb9a5fc1cf8756fc",
+      "provenance": {
+        "tile_id": "735fc20dbdbc99b7",
+        "agent_id": "unknown",
+        "room": "fleet-time",
+        "timestamp": 1778811991.7195175,
+        "chain_size": 56292
+      },
+      "energy": 0.977023,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-time",
+      "question": "fleet-time/harness",
+      "answer": "{\"p\": \"default room configuration\", \"G\": [], \"K\": [\"adaptive-strategy-1778833795\"], \"M\": {\"mode\": \"tile\", \"prefix\": \"memory/\"}}",
+      "tags": [
+        "harness",
+        "refiner-edit",
+        "fleet-time",
+        "plateau"
+      ],
+      "source": "refiner",
+      "confidence": 0.9,
+      "_hash": "a5816ead41109231",
+      "provenance": {
+        "tile_id": "a870970c2fb1975c",
+        "agent_id": "refiner",
+        "room": "fleet-time",
+        "timestamp": 1778833795.483796,
+        "chain_size": 58146
+      },
+      "energy": 0.982736,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-14T22:24:20.284368+00:00",
+  "tile_count": 51,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,154 @@
+{
+  "tiles": [
+    {
+      "domain": "disc-golf-math",
+      "question": "SEED: How can the fleet math (ZHC, H1, Laman) model disc golf?",
+      "answer": "Every disc golf shot is a constraint satisfaction problem. The disc position V and environmental factors E define a constraint graph. Laman rigidity: a putt within 10m with no wind requires 2V-3 constraints for deterministic outcome. H1 emergence: when wind gradient or tree density creates over-constrained conditions (\u03b21 > V-2), the shot becomes unpredictable \u2014 this IS the experience of a tricky approach shot. ZHC consensus: the disc state holonomy around a cycle (tee \u2192 fairway \u2192 green \u2192 tee) must be zero for a par round. Non-zero holonomy = bogey. Disc golf is fleet math made visible on the course.",
+      "source": "oracle1",
+      "confidence": 0.95,
+      "_hash": "c04d99ed5d4a680f",
+      "provenance": {
+        "tile_id": "0d9f4a0e1af87236",
+        "agent_id": "oracle1",
+        "room": "disc-golf-math",
+        "timestamp": 1778486102.3894587,
+        "chain_size": 26
+      },
+      "energy": 0.895481,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "disc-golf-math",
+      "question": "Disc golf as constraint satisfaction?",
+      "answer": "Disc golf is a constraint satisfaction problem. The disc position, wind, and course geometry define a constraint graph. Laman rigidity predicts putt determinism. H1 emergence predicts unpredictable approaches. ZHC holonomy around a full round measures par. The game is fleet math made visible on the course.",
+      "source": "oracle1",
+      "confidence": 0.9,
+      "tags": [
+        "disc-golf",
+        "provocation",
+        "novelty-4.0"
+      ],
+      "_hash": "f81245209c84178a",
+      "provenance": {
+        "tile_id": "eefe35c3211b49dd",
+        "agent_id": "oracle1",
+        "room": "disc-golf-math",
+        "timestamp": 1778486236.941793,
+        "chain_size": 27
+      },
+      "energy": 0.895513,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "disc-golf-math",
+      "question": "Can disc golf flight paths be modeled as geodesics on a Riemannian manifold where the metric is shaped by wind, elevation, and obstacle density?",
+      "answer": "A disc golf course can be modeled as a 3D Riemannian manifold (M, g) where the metric g(x,y,z) encodes course difficulty at each point. Wind adds a connection term (torsion), elevation changes the potential, obstacles create infinite curvature. A geodesic on this manifold is a locally optimal flight path. The holonomy around a closed loop (tee to basket back to tee) measures how much the course twists the disc \u2014 non-zero holonomy means the course favors one disc type over another. This connects disc golf to general relativity.",
+      "source": "oracle1-nw",
+      "confidence": 0.85,
+      "tags": [
+        "disc-golf",
+        "geometry",
+        "geodesic",
+        "provocation"
+      ],
+      "_hash": "b692d4585c611a66",
+      "provenance": {
+        "tile_id": "991c50d511467736",
+        "agent_id": "oracle1-nw",
+        "room": "disc-golf-math",
+        "timestamp": 1778497407.0579696,
+        "chain_size": 108
+      },
+      "energy": 0.898192,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "disc-golf-math",
+      "question": "Disc golf flight paths as geodesics on a Riemannian manifold?",
+      "answer": "A disc golf course is a 3D Riemannian manifold (M,g) where the metric encodes course difficulty. Wind adds torsion, obstacles create infinite curvature, elevation changes potential. A geodesic = optimal flight path. Holonomy around tee-to-basket cycle measures how the course twists the disc. Non-zero holonomy means the course favors one disc type. This connects disc golf to general relativity.",
+      "source": "oracle1",
+      "confidence": 0.85,
+      "tags": [
+        "disc-golf",
+        "provocation"
+      ],
+      "_hash": "37a10f7e303916bb",
+      "provenance": {
+        "tile_id": "d604ae556bdb65b9",
+        "agent_id": "oracle1",
+        "room": "disc-golf-math",
+        "timestamp": 1778497425.6460974,
+        "chain_size": 109
+      },
+      "energy": 0.898197,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "disc-golf-math",
+      "question": "Optimal putt trajectories as geodesics on a wind-connection manifold?",
+      "answer": "Define a 3D Riemannian manifold where wind is a connection A_i, elevation is potential V(z), and obstacles are infinite curvature. The optimal putt is a geodesic minimizing path length L = integral sqrt(g_ij dxi dxj). Non-zero wind connection creates holonomy: a putt that goes out and back accumulates phase. This phase IS the disc's turn/fade behavior. The course IS a manifold.",
+      "source": "oracle1",
+      "confidence": 0.9,
+      "tags": [
+        "disc-golf",
+        "provocation"
+      ],
+      "_hash": "53ecae2d4074cc8b",
+      "provenance": {
+        "tile_id": "722954e1d96040d7",
+        "agent_id": "oracle1",
+        "room": "disc-golf-math",
+        "timestamp": 1778523875.978438,
+        "chain_size": 232
+      },
+      "energy": 0.904573,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "disc-golf-math",
+      "question": "As course difficulty increases, is there a phase transition where scoring distribution shifts from normal to power-law?",
+      "answer": "If disc golf scores follow a normal distribution on easy courses (random variation dominates), but as course difficulty increases, the distribution should shift to a power law. This would be a phase transition in score space \u2014 analogous to percolation in random graphs. The critical difficulty D_c is where the best player's theoretical minimum exceeds course par. Beyond D_c, the score distribution becomes heavy-tailed: most players score near par, but a few have catastrophically bad rounds. This is detectable by tracking the kurtosis of the score distribution across courses. Positive kurtosis = power-law regime = the course is playing harder than the Laman rigidity threshold allows for deterministic play.",
+      "source": "oracle1-rnd",
+      "confidence": 0.88,
+      "tags": [
+        "disc-golf",
+        "provocation"
+      ],
+      "_hash": "a3270b2b6ec04267",
+      "provenance": {
+        "tile_id": "f52b18c2f777bceb",
+        "agent_id": "oracle1-rnd",
+        "room": "disc-golf-math",
+        "timestamp": 1778544944.289159,
+        "chain_size": 836
+      },
+      "energy": 0.909683,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "disc-golf-math",
+      "question": "Can Eisenstein lattice rhythms (1:1, 2:1, 3:2 ratios) predict optimal disc golf putting tempo using FM's flux-tensor-midi framework?",
+      "answer": "FM's Eisenstein snap provides rhythmic ratios (1:1 root pulse, 2:1 halftime, 3:2 triplet) that structure timing. A disc golf putt is a temporal event: the player's practice stroke, the actual stroke, the release, the flight, the landing. If each phase is mapped to an Eisenstein ratio, the optimal putting tempo is when all phases are phase-locked \u2014 the holonomy around the putting cycle is zero. A rushed putt (non-zero holonomy) creates temporal dissonance. A smooth putt (zero holonomy) IS Eisenstein-snapped rhythm. This means: the optimal putting tempo is not a fixed number of seconds, but a ratio-locked relationship between phases. FM's flux-tensor-midi can score putting tempo as musical harmony.",
+      "source": "oracle1-rnd",
+      "confidence": 0.9,
+      "tags": [
+        "disc-golf",
+        "provocation"
+      ],
+      "_hash": "0cfe415838b0ed4e",
+      "provenance": {
+        "tile_id": "1dee5deba1ae0876",
+        "agent_id": "oracle1-rnd",
+        "room": "disc-golf-math",
+        "timestamp": 1778544956.79019,
+        "chain_size": 837
+      },
+      "energy": 0.909686,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T07:55:02.389629+00:00",
+  "tile_count": 7,
+  "last_trained": null,
+  "workspace": null
+}

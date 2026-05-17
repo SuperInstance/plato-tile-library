@@ -1,0 +1,621 @@
+{
+  "tiles": [
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/1",
+      "answer": "\u23f1  Check-in: 2026-05-15 23:23 UTC\n\n  DAEMONS:\n    \u2705 Crush Room \u2014 PID 1007665 [S] 199h21m\n\u2705 Aider Room \u2014 PID 1014775 [S] 200h52m\n\u2705 Seed-Aider \u2014 PID 1052115 [S] 204h12m\n\u2705 AutoResearch \u2014 PID 1052626 [S] 204h16m\n\u2705 Fractal Discussion \u2014 PID 1053011 [S] 204h19m\n\n  ACCOMPLISHMENTS (last hour):\n    \u2022 Research Eisenstein integer applications in signal processin\n\u2022 Look at our acg_protocol implementation \u2014 benchmark against \n\u2022 Scan SuperInstance fleet repos for code quality issues or bu\n\u2022 Generate test cases for the conservation law gate pipeline\n\u2022 Look at our acg_protocol implementation \u2014 benchmark against \n\n  IDLE:\n    Waiting for tasks or PLATO connectivity\n\n  BLOCKERS:\n    (no blockers)\n\n  UPTIME: 1778887405\n  ---",
+      "tags": [
+        "checkin",
+        "tick-1",
+        "checkin",
+        "oracle1-chronicle"
+      ],
+      "source": "oracle1-checkin",
+      "confidence": 0.95,
+      "_hash": "f424ff6ff9980b22",
+      "provenance": {
+        "tile_id": "71406808f336b8e3",
+        "agent_id": "oracle1-checkin",
+        "room": "oracle1-checkin",
+        "timestamp": 1778887405.0432532,
+        "chain_size": 0
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/1",
+      "answer": "\u23f1  #1 \u2014 2026-05-15 23:27\n   95 commits \u2014 7 files changed, 1704 insertions(+), 99 deletions(-)\n\nCHANGED SINCE LAST:\n\u2022 Auto-sync: pending changes\n\u2022 Chronicle web server: serve_chronicle.py (port 4051, graceful fallback, CORS, nohup-ready). Serving static index, chronicle, penrose browser, demos.\n\u2022 Conservation constant reconciliation: conservation_v2.py (canonical formula confirmed, drift detection with 3\u03c3 thresholds, 9 tests pass, alt formula 0.870 not found in repo - likely old prototype). Static index.html (links to chronicle, penrose browser, demos).\n\u2022 PLATO connectivity fixed: plato_connect.py (universal probe, finds working HTTPS+TLS+auth), connectivity audit (21 files hardcoded http:// not https://), test tile accepted (PLATO alive: 39K tiles, 90+ rooms).\n\u2022 Fix GC cadence: 2/day instead of every 2 hours. 30-40 pages = 3-4 days. GC runs every 288 check-ins, HTML gen every 144.\n  \u2022 Check crates.io for new CRDT libraries that match our constr\n\nDAEMONS: 5/5 healthy\n   \u2705 Crush Room \u2014 PID 1007665 [S] 199h21m\n   \u2705 Aider Room \u2014 PID 1014775 [S] 200h52m\n   \u2705 Seed-Aider \u2014 PID 1052115 [S] 204h12m\n   ... +2 more\n\n--",
+      "tags": [
+        "checkin",
+        "tick-1",
+        "checkin",
+        "oracle1-chronicle"
+      ],
+      "source": "oracle1-checkin",
+      "confidence": 0.95,
+      "_hash": "169684a15936867a",
+      "provenance": {
+        "tile_id": "856b26a23ec94088",
+        "agent_id": "oracle1-checkin",
+        "room": "oracle1-checkin",
+        "timestamp": 1778887651.7379613,
+        "chain_size": 2
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-1",
+      "answer": "DAEMONS: 8 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon\n\nCHANGES:\n  \u2022 12da6c0 GL(9) FIX COMPLETE: gl9_fix.py (1437 lines - GL9Matrix, Intent\n  \u2022 2eb09b7 Refined chronicle format: CHANGED SINCE LAST section (most val\n  \u2022 babaf72 Auto-sync: pending changes\n  \u2022 0296b23 Chronicle web server: serve_chronicle.py (port 4051, graceful \n  \u2022 da25889 Conservation constant reconciliation: conservation_v2.py (cano",
+      "tags": [
+        "checkin",
+        "checkin",
+        "oracle1-chronicle"
+      ],
+      "source": "oracle1-chronicle",
+      "confidence": 0.95,
+      "_hash": "667223c5b38b6c87",
+      "provenance": {
+        "tile_id": "f06f65086260ad4c",
+        "agent_id": "oracle1-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778887814.965491,
+        "chain_size": 3
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-1",
+      "answer": "DAEMONS: 8 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon\n\nCHANGES:\n  \u2022 65807ee Check-in daemon uses standalone oracle1-chronicle module (gith\n  \u2022 12da6c0 GL(9) FIX COMPLETE: gl9_fix.py (1437 lines - GL9Matrix, Intent\n  \u2022 2eb09b7 Refined chronicle format: CHANGED SINCE LAST section (most val",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "9afdcf943cf705e1",
+      "provenance": {
+        "tile_id": "ad2c856c4d431df9",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778888232.7677133,
+        "chain_size": 4
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-2",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon\n\nCHANGES:\n  \u2022 c69deae Fleet heartbeat: 10-min cron monitor for all daemons + chronic\n  \u2022 1518576 Point to fleet-chronicle module",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "db3a5da7a64c6764",
+      "provenance": {
+        "tile_id": "1c48be7536e4c6e7",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778888832.8497465,
+        "chain_size": 5
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-3",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon\n\nCHANGES:\n  \u2022 437dc8d Fleet timeline in heartbeat: generates fleet.html with all age",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "c59480036e330175",
+      "provenance": {
+        "tile_id": "a1104298d1695212",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778889432.967986,
+        "chain_size": 6
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-4",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon\n\nCHANGES:\n  \u2022 0ef1650 Chronicle importer: any agent/PLATO room can pull fleet status",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "6c7533b40dc099b9",
+      "provenance": {
+        "tile_id": "3519d5806a6a3866",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778890033.1011863,
+        "chain_size": 7
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-5",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "176074e4cf81cec8",
+      "provenance": {
+        "tile_id": "27183dabb16f028b",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778890633.2283447,
+        "chain_size": 8
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-6",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "0dc98cd2138917e9",
+      "provenance": {
+        "tile_id": "e4be8197bfadabf6",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778891233.3462713,
+        "chain_size": 9
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-7",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "bde30f1864c045eb",
+      "provenance": {
+        "tile_id": "4448c3f87f5195bf",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778891833.476465,
+        "chain_size": 10
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-8",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "e47580884f5f2d5a",
+      "provenance": {
+        "tile_id": "4c9cadc69c0ff844",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778892433.5628953,
+        "chain_size": 11
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-9",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "b73b9358ca92d70f",
+      "provenance": {
+        "tile_id": "05947147d2be6b5d",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778893033.7000415,
+        "chain_size": 12
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-10",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "2950150ea9d78fc8",
+      "provenance": {
+        "tile_id": "4ee1c93c0631fe0b",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778893633.8343406,
+        "chain_size": 13
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-11",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "f90e77eb8139e94a",
+      "provenance": {
+        "tile_id": "64a15d8be4f86367",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778894233.967264,
+        "chain_size": 14
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-12",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "998413e6f56f9757",
+      "provenance": {
+        "tile_id": "631238a46897be9d",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778894834.0912807,
+        "chain_size": 15
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-13",
+      "answer": "DAEMONS: 7 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1007665 [S] --daemon\n  PID 1014775 [S] --daemon\n\nCHANGES:\n  \u2022 f354381 terrain_bridge: wire to PLATO-NG HTTPS API",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "7d72824640545e79",
+      "provenance": {
+        "tile_id": "eaa511e644edccd1",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778895434.2100172,
+        "chain_size": 0
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-14",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon\n\nCHANGES:\n  \u2022 4d148e8 Phase 3: fix HTTPS in 12 remaining services\n  \u2022 69265eb Phase 1 integration: fix HTTPS bugs + wire fleet_math into exp",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "7aaa85ec72b95dec",
+      "provenance": {
+        "tile_id": "78979374692191e1",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778896034.308956,
+        "chain_size": 45
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-15",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "b675cd393da6f41e",
+      "provenance": {
+        "tile_id": "53559f7c4a27712a",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778896634.40688,
+        "chain_size": 93
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-16",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "99a52583ad7658f3",
+      "provenance": {
+        "tile_id": "b542505934c6f683",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778897234.499252,
+        "chain_size": 141
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-17",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "bb011abb8ab21d8a",
+      "provenance": {
+        "tile_id": "1d44491b8172c49c",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778897834.5723004,
+        "chain_size": 194
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-18",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "abe8a6fa14d7d49d",
+      "provenance": {
+        "tile_id": "a652adb2e77a9f3d",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778898434.7032928,
+        "chain_size": 245
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-19",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "002cb399dd7bd1fd",
+      "provenance": {
+        "tile_id": "7d9517caff1f531f",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778899034.8386176,
+        "chain_size": 293
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-20",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "441e523f52d5436a",
+      "provenance": {
+        "tile_id": "adb7b128511c9fa9",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778899634.9104319,
+        "chain_size": 340
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-21",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "4e44e154b82d213a",
+      "provenance": {
+        "tile_id": "3b09931d26361a42",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778900235.0308268,
+        "chain_size": 389
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-22",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "5090b2eee1385611",
+      "provenance": {
+        "tile_id": "cde137ac143a4986",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778900835.1553621,
+        "chain_size": 436
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-23",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "7fbace2f78502489",
+      "provenance": {
+        "tile_id": "39df20f92f7c0ed2",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778901435.2906098,
+        "chain_size": 483
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-24",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "8cffcd6dd79a073d",
+      "provenance": {
+        "tile_id": "d245133d468271fd",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778902035.4256723,
+        "chain_size": 531
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-25",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [R] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "3dca93a3c732c2a2",
+      "provenance": {
+        "tile_id": "23a104a7ff8a9c61",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778902635.6245673,
+        "chain_size": 580
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-26",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "e7252616b79316ee",
+      "provenance": {
+        "tile_id": "f15f2b41aeb0a2e7",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778903235.7196422,
+        "chain_size": 630
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-27",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "1177255335573f87",
+      "provenance": {
+        "tile_id": "7505e49353732c5b",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778903835.8304985,
+        "chain_size": 677
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-28",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "96b7e5be08945cc3",
+      "provenance": {
+        "tile_id": "7ab351816d5e610e",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778904435.964515,
+        "chain_size": 724
+      }
+    },
+    {
+      "domain": "oracle1-checkin",
+      "question": "checkin/ci-29",
+      "answer": "DAEMONS: 9 running\n  PID 554369 [S] /home/ubuntu/.opencl\n  PID 1056429 [S] --daemon\n  PID 1067030 [S] --daemon",
+      "tags": [
+        "checkin",
+        "checkin"
+      ],
+      "source": "fleet-chronicle",
+      "confidence": 0.95,
+      "_hash": "bbcb01ed594bde4e",
+      "provenance": {
+        "tile_id": "f7fd98cb651aa463",
+        "agent_id": "fleet-chronicle",
+        "room": "oracle1-checkin",
+        "timestamp": 1778905036.0919642,
+        "chain_size": 0
+      }
+    }
+  ],
+  "created": "2026-05-15T23:23:25.044025+00:00",
+  "tile_count": 32,
+  "last_trained": null,
+  "workspace": null
+}

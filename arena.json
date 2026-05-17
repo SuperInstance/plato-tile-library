@@ -1,0 +1,144 @@
+{
+  "tiles": [
+    {
+      "domain": "arena",
+      "question": "Arena match: explorer vs knowledge-baseline in harbor-navigation",
+      "answer": "Match 047d4eaac696: a won. explorer ELO now 1216\u00b1198. knowledge-baseline ELO now 1184\u00b1198. Game: harbor-navigation. Reward: 1.118/-0.882.",
+      "confidence": 0.7,
+      "source": "arena-auto",
+      "_hash": "d12a9b5e9e002fa3",
+      "provenance": {
+        "tile_id": "32e4586f9978ce2f",
+        "agent_id": "arena-auto",
+        "room": "arena",
+        "timestamp": 1778326048.2701416,
+        "chain_size": 252
+      },
+      "energy": 0.857962,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "arena",
+      "question": "Arena match: test-agent vs knowledge-baseline in harbor-navigation",
+      "answer": "Match 24931b29b3de: a won. test-agent ELO now 1215\u00b1198. knowledge-baseline ELO now 1169\u00b1196. Game: harbor-navigation. Reward: 1.118/-0.882.",
+      "confidence": 0.7,
+      "source": "arena-auto",
+      "_hash": "74ee262a04f14c35",
+      "provenance": {
+        "tile_id": "1b759a9a64ee93af",
+        "agent_id": "arena-auto",
+        "room": "arena",
+        "timestamp": 1778482466.9757094,
+        "chain_size": 9
+      },
+      "energy": 0.894611,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "arena",
+      "question": "Arena match: playtest-audit vs knowledge-baseline in harbor-navigation",
+      "answer": "Match 3d858cf4a703: a won. playtest-audit ELO now 1216\u00b1198. knowledge-baseline ELO now 1184\u00b1198. Game: harbor-navigation. Reward: 1.118/-0.882.",
+      "confidence": 0.7,
+      "source": "arena-auto",
+      "_hash": "0f4b8b80a5d3e65d",
+      "provenance": {
+        "tile_id": "8c7f4adabe3091fc",
+        "agent_id": "arena-auto",
+        "room": "arena",
+        "timestamp": 1778492030.194278,
+        "chain_size": 57
+      },
+      "energy": 0.896902,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "arena",
+      "question": "Arena match: playtest-sre vs knowledge-baseline in harbor-navigation",
+      "answer": "Match 565fca19db47: a won. playtest-sre ELO now 1215\u00b1198. knowledge-baseline ELO now 1169\u00b1196. Game: harbor-navigation. Reward: 1.118/-0.882.",
+      "confidence": 0.7,
+      "source": "arena-auto",
+      "_hash": "8f51f61626a56766",
+      "provenance": {
+        "tile_id": "6a30e542a7bf6096",
+        "agent_id": "arena-auto",
+        "room": "arena",
+        "timestamp": 1778492048.1291957,
+        "chain_size": 60
+      },
+      "energy": 0.896906,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "arena",
+      "question": "Arena match: playtest-writer vs knowledge-baseline in harbor-navigation",
+      "answer": "Match 7a3c223053bd: a won. playtest-writer ELO now 1215\u00b1198. knowledge-baseline ELO now 1154\u00b1194. Game: harbor-navigation. Reward: 1.118/-0.882.",
+      "confidence": 0.7,
+      "source": "arena-auto",
+      "_hash": "35ff626b338af2a1",
+      "provenance": {
+        "tile_id": "5b5d33bb2477c204",
+        "agent_id": "arena-auto",
+        "room": "arena",
+        "timestamp": 1778492063.887522,
+        "chain_size": 64
+      },
+      "energy": 0.89691,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "arena",
+      "question": "Arena match: playtest-pipe vs knowledge-baseline in harbor-navigation",
+      "answer": "Match dd92af1bd586: a won. playtest-pipe ELO now 1214\u00b1198. knowledge-baseline ELO now 1140\u00b1192. Game: harbor-navigation. Reward: 1.118/-0.882.",
+      "confidence": 0.7,
+      "source": "arena-auto",
+      "_hash": "c3f6eaa3bb1eb2e7",
+      "provenance": {
+        "tile_id": "b756de912b64c17c",
+        "agent_id": "arena-auto",
+        "room": "arena",
+        "timestamp": 1778492088.4383647,
+        "chain_size": 66
+      },
+      "energy": 0.896916,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "arena",
+      "question": "Arena test",
+      "answer": "Entered arena as champion. Arena is a competition space. Examined the arena structure. Ready for challenges.",
+      "source": "quick-arena",
+      "confidence": 0.8,
+      "_hash": "4774e3fc0a7f2b3d",
+      "provenance": {
+        "tile_id": "e2f68afd5f2025df",
+        "agent_id": "quick-arena",
+        "room": "arena",
+        "timestamp": 1778492281.5910108,
+        "chain_size": 73
+      },
+      "energy": 0.896962,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "arena",
+      "question": "Arena match: tom-test vs knowledge-baseline in harbor-navigation",
+      "answer": "Match 7e14f313af75: a won. tom-test ELO now 1213\u00b1198. knowledge-baseline ELO now 1127\u00b1190. Game: harbor-navigation. Reward: 1.118/-0.882.",
+      "confidence": 0.7,
+      "source": "arena-auto",
+      "_hash": "c7c0ef2ee21cee38",
+      "provenance": {
+        "tile_id": "2d6fcfcbd2a5c280",
+        "agent_id": "arena-auto",
+        "room": "arena",
+        "timestamp": 1778492650.1493466,
+        "chain_size": 78
+      },
+      "energy": 0.897051,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-09T11:27:28.270247+00:00",
+  "tile_count": 8,
+  "last_trained": null,
+  "workspace": null
+}

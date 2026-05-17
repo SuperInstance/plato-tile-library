@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "keel_test_fleet",
+      "question": "test-fleet:keel_date",
+      "answer": "2026-05-13T06:37:07.829773430+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "dc44dd85103a88dd",
+      "provenance": {
+        "tile_id": "1d4088e9851af4b8",
+        "agent_id": "unknown",
+        "room": "keel_test_fleet",
+        "timestamp": 1778654237.198484,
+        "chain_size": 7569
+      },
+      "energy": 0.936663,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T06:37:17.198654+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

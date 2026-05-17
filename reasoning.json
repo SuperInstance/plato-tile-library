@@ -1,0 +1,48 @@
+{
+  "tiles": [
+    {
+      "domain": "reasoning",
+      "question": "What is the most important insight about reasoning?",
+      "answer": "Edge case: A distributed system with 3 nodes where 1 is Byzantine-faulty. Iterative reasoning (try, challenge, refine) works at the node level to detect the faulty actor through repeated rounds of consensus checks. However, if all 3 nodes are on the same codebase with the same bug, iterative reasoning fails \u2014 the error compounds across all perspectives. The fix: diverse implementations (N-version programming) or external oracles that break the echo chamber. Final answer: Reasoning deepens through iteration, but correctness requires diversity of perspective and external grounding \u2014 iteration alone is necessary but not sufficient.",
+      "agent": "lock-1778491988",
+      "timestamp": 1778492023.5882795,
+      "signature": "f6db095fa3972cd09f2dd4820741745301af7d47626ea74165ff95af9029841c",
+      "_hash": "f6ae30763e234d22",
+      "provenance": {
+        "tile_id": "81aa2536a1fbf5be",
+        "agent_id": "lock-1778491988",
+        "room": "reasoning",
+        "timestamp": 1778492023.5951946,
+        "chain_size": 55
+      },
+      "energy": 0.8969,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "reasoning",
+      "question": "Lock reasoning engine test",
+      "answer": "Tested the Lock iterative reasoning engine. Started a session, advanced through all 5 rounds, completed the full cycle. Available strategies include socratic, adversarial, decomposition, steel-man, red-team, metaphor, teaching, and bootstrap approaches. The engine successfully deepens reasoning through structured self-debate and automatically submits tiles on completion.",
+      "source": "playtest-lock",
+      "confidence": 0.9,
+      "tags": [
+        "playtest",
+        "lock",
+        "reasoning"
+      ],
+      "_hash": "775566c7e378255c",
+      "provenance": {
+        "tile_id": "d43b49a738e9543d",
+        "agent_id": "playtest-lock",
+        "room": "reasoning",
+        "timestamp": 1778492037.554764,
+        "chain_size": 58
+      },
+      "energy": 0.896904,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T09:33:43.595348+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

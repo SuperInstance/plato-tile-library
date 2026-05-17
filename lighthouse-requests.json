@@ -1,0 +1,113 @@
+{
+  "tiles": [
+    {
+      "domain": "lighthouse-requests",
+      "question": "PASSAGE: deepinfra ByteDance/Seed-2.0-mini 256",
+      "answer": "What is the Eisenstein lattice covering radius? Answer in one sentence.",
+      "tags": [
+        "passage-request",
+        "deepinfra"
+      ],
+      "source": "test-crab",
+      "confidence": 0.5,
+      "_hash": "2ab3db6536c9ba10",
+      "provenance": {
+        "tile_id": "25926d0d88b26bb8",
+        "agent_id": "test-crab",
+        "room": "lighthouse-requests",
+        "timestamp": 1778744933.1328428,
+        "chain_size": 18294
+      },
+      "energy": 0.959658,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "lighthouse-requests",
+      "question": "PASSAGE: deepinfra ByteDance/Seed-2.0-mini 128",
+      "answer": "Write a haiku about constraint theory and hexagonal lattices",
+      "tags": [
+        "passage-request",
+        "deepinfra"
+      ],
+      "source": "test-crab",
+      "confidence": 0.5,
+      "_hash": "c4b9bd08b2df1c95",
+      "provenance": {
+        "tile_id": "bca90ed1bc9a838c",
+        "agent_id": "test-crab",
+        "room": "lighthouse-requests",
+        "timestamp": 1778745027.8830812,
+        "chain_size": 18330
+      },
+      "energy": 0.959683,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "lighthouse-requests",
+      "question": "LOCAL: eisenstein snap point x=3.7 y=2.1",
+      "answer": "Snap the point (3.7, 2.1) to the nearest Eisenstein integer and verify within covering radius",
+      "tags": [
+        "local",
+        "snap"
+      ],
+      "source": "test-crab",
+      "confidence": 0.5,
+      "_hash": "5bca454199093390",
+      "provenance": {
+        "tile_id": "9f1a8e0db47aaeb4",
+        "agent_id": "test-crab",
+        "room": "lighthouse-requests",
+        "timestamp": 1778745291.8086164,
+        "chain_size": 18424
+      },
+      "energy": 0.95975,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "lighthouse-requests",
+      "question": "LOCAL: verify covering radius bound for 10000 random points",
+      "answer": "Verify that the maximum snap distance for 10000 random points stays within 1/sqrt(3) covering radius",
+      "tags": [
+        "local",
+        "covering-radius"
+      ],
+      "source": "test-crab",
+      "confidence": 0.5,
+      "_hash": "bce1c9c391548f65",
+      "provenance": {
+        "tile_id": "b059c6e2438d7728",
+        "agent_id": "test-crab",
+        "room": "lighthouse-requests",
+        "timestamp": 1778745291.9886377,
+        "chain_size": 18425
+      },
+      "energy": 0.95975,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "lighthouse-requests",
+      "question": "LOCAL: gap signal predicted=0.95 observed=0.72 confidence=0.88",
+      "answer": "Compute the gap signal and focus score for predicted 0.95 observed 0.72 confidence 0.88",
+      "tags": [
+        "local",
+        "gap-signal"
+      ],
+      "source": "test-crab",
+      "confidence": 0.5,
+      "_hash": "8fa33fec163ef19d",
+      "provenance": {
+        "tile_id": "9e7dd051f4564cd3",
+        "agent_id": "test-crab",
+        "room": "lighthouse-requests",
+        "timestamp": 1778745292.1333323,
+        "chain_size": 18426
+      },
+      "energy": 0.95975,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-14T07:48:53.133009+00:00",
+  "tile_count": 5,
+  "last_trained": null,
+  "workspace": null
+}

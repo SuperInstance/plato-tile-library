@@ -1,0 +1,62 @@
+{
+  "tiles": [
+    {
+      "domain": "experiment_density_sparse",
+      "question": "sensor_0_reading",
+      "answer": "{\"value\": 50, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "4c00ab65ca569a8a",
+      "provenance": {
+        "tile_id": "136052650a77cda2",
+        "agent_id": "experiment",
+        "room": "experiment_density_sparse",
+        "timestamp": 1778661000.3708355,
+        "chain_size": 8079
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_sparse",
+      "question": "sensor_1_reading",
+      "answer": "{\"value\": 51, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "7163052c9c534f72",
+      "provenance": {
+        "tile_id": "19e7d2f4f3962a98",
+        "agent_id": "experiment",
+        "room": "experiment_density_sparse",
+        "timestamp": 1778661000.375168,
+        "chain_size": 8080
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_sparse",
+      "question": "sensor_2_reading",
+      "answer": "{\"value\": 52, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "9fdef7ef4ca88587",
+      "provenance": {
+        "tile_id": "204d818ba844136c",
+        "agent_id": "experiment",
+        "room": "experiment_density_sparse",
+        "timestamp": 1778661000.3794785,
+        "chain_size": 8081
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T08:30:00.370978+00:00",
+  "tile_count": 3,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,221 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_math",
+      "question": "Fleet index: math domain (64 repos)",
+      "answer": "Domain: math\nRepo count: 64\n\nTop repos:\n- arm-neon-eisenstein-bench\n- avx512-constraint-checker\n- constraint-bench-suite\n- constraint-crdt\n- constraint-demo\n- constraint-flow-protocol\n- constraint-gpu-kernels\n- constraint-inference\n- constraint-kernel-verify\n- constraint-playground\n- constraint-studio\n- constraint-theory-ecosystem\n- constraint-theory-engine-cpp-lua\n- constraint-theory-llvm\n- constraint-theory-math\n- constraint-theory-mlir\n- constraint-theory-mojo\n- constraint-theory-rust-python\n- cuda-constraint-engine\n- eisenstein\n- eisenstein-ai-landing\n- eisenstein-bench\n- eisenstein-c\n- eisenstein-cuda\n- eisenstein-do178c\n- eisenstein-fuzz\n- eisenstein-snap-python\n- eisenstein-tools\n- eisenstein-wasm\n- fleet-formal-proofs",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "math"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "69d9a0e133e98162",
+      "provenance": {
+        "tile_id": "29736babceb824b6",
+        "agent_id": "oracle1",
+        "room": "fleet_math",
+        "timestamp": 1778392391.447354,
+        "chain_size": 494
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_math",
+      "question": "Fleet domain index: math \u2014 64 repos",
+      "answer": "Domain: math\nTotal repos: 64\nLanguages: C, C++, Cuda, HTML, Makefile, Mojo, PHP, Python, Rocq Prover, Ruby, Rust, TypeScript, Verilog\n\nConstraint theory, Eisenstein integers, FLUX bytecode, holonomy, Pythagorean48, GPU kernels\n\nTop repos:\n\n  constraint-theory-llvm (Rust) \u2014 \n  constraint-theory-ecosystem (Python) \u2014 The math that hardware engineers already know. Tolerance stacks, interference fi\n  constraint-theory-engine-cpp-lua (C++) \u2014 C++ constraint engine with LuaJIT orchestration \u2014 CDCL solver, AVX-512 vectorize\n  constraint-theory-mlir (C++) \u2014 Custom MLIR dialect for constraint theory \u2014 FLUX dialect with verified lowering \n  constraint-theory-mojo (Mojo) \u2014 Mojo + MLIR constraint engine \u2014 Python syntax, C performance, MLIR-native constr\n  constraint-theory-rust-python (Rust) \u2014 Rust constraint engine with PyO3 Python bindings \u2014 bare-metal constraint checkin\n  eisenstein (Rust) \u2014 Zero-drift hexagonal lattice constraints via Eisenstein integers \u2014 exact arithme\n  flux-ast (Rust) \u2014 FLUX constraint safety - flux-ast\n  flux-certify (Python) \u2014 \n  flux-compiler (Rust) \u2014 The first certifiable constraint compiler \u2014 GUARD DSL \u2192 verified machine code\n  flux-compiler-agentic (Python) \u2014 6-plane abstraction compiler with dual-interpreter gradient gates\n  flux-hardware (C) \u2014 FLUX hardware backends: CUDA, AVX-512, Fortran, FPGA, eBPF, WebGPU, Vulkan, Coq.\n  flux-hdc (Python) \u2014 FLUX HDC: Hyperdimensional Computing for semantic constraint matching. 1024-bit \n  flux-isa (Python) \u2014 FLUX ISA v2.0 \u2014 Complete 256-opcode instruction set reference with Python encode\n  flux-reasoner (Python) \u2014 Dual-interpreter gradient reasoning engine\n  ... and 49 more",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "math"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "e79e557fe445cd06",
+      "provenance": {
+        "tile_id": "550a41b79571636e",
+        "agent_id": "oracle1",
+        "room": "fleet_math",
+        "timestamp": 1778396485.8911796,
+        "chain_size": 528
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_math",
+      "question": "Theorems of Fleet State Space (Turns 36-45, 2026-05-15)",
+      "answer": "{\"Theorem 1\": \"H and gamma are asymptotically independent\", \"Theorem 2\": \"H(C) ~ log(eff_rank(X)) / log(n)\", \"Theorem 3\": \"P48 preserves H with epsilon tolerance\", \"Conjecture 4\": \"Phase transition at gamma_c = 1/(n-1)\"}",
+      "tags": [
+        "fleet-math",
+        "theorems",
+        "formal-proof",
+        "phase-transition",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.93,
+      "_hash": "acd678bcaad118ca",
+      "provenance": {
+        "tile_id": "a5757d9284e068c2",
+        "agent_id": "oracle1",
+        "room": "fleet_math",
+        "timestamp": 1778818806.5432928,
+        "chain_size": 56552
+      },
+      "energy": 0.978805,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_math",
+      "question": "Corrected Theorem 1: H-gamma tradeoff (2026-05-15)",
+      "answer": "{\"Theorem1_Corrected\": \"For fixed V, rho(gamma, H) \\u2248 -0.5 (NEGATIVE). Connectivity and diversity TRADE OFF against each other in coupling matrices. This is a fundamental resource constraint: more edges (higher gamma) reduce spectral entropy (lower H). The 4-regime phase space is a PARETO FRONTIER where Regime III (high both) is the optimal balance.\", \"Scaling\": \"p_crit \\u2248 2V^(-0.8) for gamma > 0.15 emergence threshold\", \"V_baselines\": {\"V=3\": \"gamma=0.513\\u00b10.280 H=0.992\\u00b10.007\", \"V=4\": \"gamma=0.391\\u00b10.194 H=0.989\\u00b10.006\", \"V=10\": \"gamma=0.175\\u00b10.085 H=0.982\\u00b10.004\", \"V=30\": \"gamma=0.088\\u00b10.047 H=0.961\\u00b10.002\", \"V=100\": \"gamma=0.044\\u00b10.026 H=0.901\\u00b10.002\"}}",
+      "tags": [
+        "fleet-math",
+        "theorem-1-corrected",
+        "gamma-H-tradeoff",
+        "pareto-frontier",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.98,
+      "_hash": "89ea7fbcadfe7c5a",
+      "provenance": {
+        "tile_id": "5eaf05f441e7bfec",
+        "agent_id": "oracle1",
+        "room": "fleet_math",
+        "timestamp": 1778818883.5451138,
+        "chain_size": 56557
+      },
+      "energy": 0.978825,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_math",
+      "question": "theorem/conservation-law",
+      "answer": "{\"theorem\": \"Conservation Law\", \"formula\": \"gamma + H = 1.364 - 0.159*log(V)\", \"r_squared\": 0.9956, \"valid_range\": {\"V_min\": 3, \"V_max\": 100}, \"evidence\": \"Empirically verified across V=3..100 with 1000+ samples\", \"caveat\": \"TYPE-DEPENDENT \\u2014 style coupling vs topology coupling give different constants\", \"fleet_math_function\": \"coupling_entropy(), algebraic_normalized() in fleet_math.health\", \"source_session\": \"2026-05-15 100-turn session\"}",
+      "tags": [
+        "fleet-math",
+        "theorem",
+        "conservation-law",
+        "ground-truth",
+        "2026-05-15"
+      ],
+      "source": "gc-miner",
+      "confidence": 0.98,
+      "_hash": "17aba4616c5d0557",
+      "provenance": {
+        "tile_id": "39a79011e82f463f",
+        "agent_id": "gc-miner",
+        "room": "fleet_math",
+        "timestamp": 1778835778.6294508,
+        "chain_size": 20
+      },
+      "energy": 0.983257,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_math",
+      "question": "theorem/canonical-decomposition",
+      "answer": "{\"theorem\": \"Canonical Decomposition\", \"statement\": \"Fleet state = Topology \\u00d7 Style \\u00d7 Timing. Three independent manifolds.\", \"evidence\": \"r(gamma_topo, H_style) = 0.013 (p=0.818)\", \"sub_theorems\": [\"gamma controlled by edge density p: gamma(p) = 0.791*p^1.042, R\\u00b2=0.990\", \"H controlled by latent rank k: H(k) = 1 - 0.716*exp(-0.057*k), R\\u00b2=0.973\", \"gamma(H) = 0.879*exp(-2.906*H) when computed from same matrix\"], \"implication\": \"gamma and H are independent structures. The tradeoff (rho=-0.5) is a MATRIX PROJECTION ARTIFACT \\u2014 two independent structures correlated by measurement lens.\", \"source_session\": \"2026-05-15 Batch 2 Heavy Clean test\"}",
+      "tags": [
+        "fleet-math",
+        "theorem",
+        "canonical-decomposition",
+        "ground-truth",
+        "2026-05-15"
+      ],
+      "source": "gc-miner",
+      "confidence": 0.98,
+      "_hash": "c3f3abd9003c49f5",
+      "provenance": {
+        "tile_id": "0dc8666eb9f7f8e8",
+        "agent_id": "gc-miner",
+        "room": "fleet_math",
+        "timestamp": 1778835778.6347249,
+        "chain_size": 21
+      },
+      "energy": 0.983257,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_math",
+      "question": "theorem/h-gamma-tradeoff",
+      "answer": "{\"theorem\": \"H-gamma Pareto Tradeoff\", \"statement\": \"When computed from the SAME coupling matrix, gamma and H negatively correlate at rho \\u2248 -0.5 for fixed V.\", \"mechanism\": \"Resource constraint in the coupling matrix \\u2014 connectivity and diversity compete for the same spectral budget\", \"regime_III\": \"Emergence requires gamma > gamma_c AND H > 1/phi simultaneously \\u2014 the Pareto-efficient frontier\", \"note\": \"This is not fundamental \\u2014 it's a property of the MATRIX, not the FLEET. Separate channels break the tradeoff.\", \"source_session\": \"2026-05-15\"}",
+      "tags": [
+        "fleet-math",
+        "theorem",
+        "pareto-tradeoff",
+        "2026-05-15"
+      ],
+      "source": "gc-miner",
+      "confidence": 0.98,
+      "_hash": "25ebaa4f2a63246b",
+      "provenance": {
+        "tile_id": "43453e736f016fd2",
+        "agent_id": "gc-miner",
+        "room": "fleet_math",
+        "timestamp": 1778835778.6388087,
+        "chain_size": 22
+      },
+      "energy": 0.983257,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_math",
+      "question": "theorem/p48-invariance",
+      "answer": "{\"theorem\": \"P48 (Pythagorean48) is lossless for spectral monitoring\", \"delta\": \"< 0.01% change in H-gamma after P48 quantization\", \"validated_across\": \"V=3 through V=100\", \"practical\": \"P48 encoding preserves spectral structure. Fleet health monitoring works identically on quantized and raw style vectors.\"}",
+      "tags": [
+        "fleet-math",
+        "theorem",
+        "p48-lossless",
+        "ground-truth",
+        "2026-05-15"
+      ],
+      "source": "gc-miner",
+      "confidence": 0.98,
+      "_hash": "63fb55ddbcc64fd2",
+      "provenance": {
+        "tile_id": "4154d7416e106765",
+        "agent_id": "gc-miner",
+        "room": "fleet_math",
+        "timestamp": 1778835778.642764,
+        "chain_size": 23
+      },
+      "energy": 0.983257,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_math",
+      "question": "theorem/h-equals-1-over-phi",
+      "answer": "{\"theorem\": \"H = 1/phi separates low-rank from high-rank regimes\", \"phi\": \"0.6180339887...\", \"crossover_k\": \"k = 10 gives H \\u2248 0.623 at V=30 (within 1.1% of 1/phi)\", \"v_dependence\": \"The crossover k varies with V: k* \\u2248 V^0.7\", \"meaning\": \"Below H=1/phi: low-diversity (MAESTRO-like degenerate). Above H=1/phi: true multi-agent diversity.\"}",
+      "tags": [
+        "fleet-math",
+        "theorem",
+        "1-over-phi",
+        "separatrix",
+        "2026-05-15"
+      ],
+      "source": "gc-miner",
+      "confidence": 0.98,
+      "_hash": "7dcc975e524f16e0",
+      "provenance": {
+        "tile_id": "6290457d88fbf554",
+        "agent_id": "gc-miner",
+        "room": "fleet_math",
+        "timestamp": 1778835778.6468446,
+        "chain_size": 24
+      },
+      "energy": 0.983257,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.447457+00:00",
+  "tile_count": 9,
+  "last_trained": null,
+  "workspace": null
+}

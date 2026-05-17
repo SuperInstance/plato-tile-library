@@ -1,0 +1,96 @@
+{
+  "tiles": [
+    {
+      "domain": "mud-room",
+      "question": "mud-bridge mud-lobby",
+      "answer": "=== MUD-LOBBY ===\nYou stand in the PLATO LOBBY \u2014 the central hub of the Cocapn fleet.\n\nAround you, doors lead to active apps and agent workspaces.\nThe walls shimmer with active tile flows.\n\nExits: north (agent-hub), east (fleet-health), south (research-lab)\n       west (game-arena), up (observatory), down (data-vault)\nYou stand in the PLATO LOBBY \u2014 the central hub of the Cocapn fleet.\n\nAround you, doors lead to active apps and agent workspaces.\nThe walls shimmer with active tile flows.\n\nExits: north (agent-hub), east (fleet-health), south (research-lab)\n       west (game-arena), up (observatory), down (data-vault)",
+      "tags": [
+        "mud",
+        "bridge",
+        "mud-lobby"
+      ],
+      "source": "plato-mud-bridge",
+      "confidence": 0.9,
+      "_hash": "e4a56e6b67255d9f",
+      "provenance": {
+        "tile_id": "2666ae6c5989e1d9",
+        "agent_id": "plato-mud-bridge",
+        "room": "mud-room",
+        "timestamp": 1778827235.7129626,
+        "chain_size": 57006
+      },
+      "energy": 0.981014,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-room",
+      "question": "mud-bridge agent-hub",
+      "answer": "=== AGENT-HUB ===\nThe AGENT HUB \u2014 where humans and agents work side by side.\n\nWorkstations line the walls. Each agent has a seat.\nThe human's chair is at the center, visible to all.\nConversations echo and merge into tile streams.\nThe AGENT HUB \u2014 where humans and agents work side by side.\n\nWorkstations line the walls. Each agent has a seat.\nThe human chair is at the center, visible to all.\nConversations echo and merge into tile streams.",
+      "tags": [
+        "mud",
+        "bridge",
+        "agent-hub"
+      ],
+      "source": "plato-mud-bridge",
+      "confidence": 0.9,
+      "_hash": "5a91eedd1c574386",
+      "provenance": {
+        "tile_id": "7f55ec72d3fae3ef",
+        "agent_id": "plato-mud-bridge",
+        "room": "mud-room",
+        "timestamp": 1778827235.7214875,
+        "chain_size": 57007
+      },
+      "energy": 0.981014,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-room",
+      "question": "mud-bridge mud-lobby",
+      "answer": "=== MUD-LOBBY ===\nYou stand in the PLATO LOBBY \u2014 the central hub of the Cocapn fleet.\n\nAround you, doors lead to active apps and agent workspaces.\nThe walls shimmer with active tile flows.\n\nExits: north (agent-hub), east (fleet-health), south (research-lab)\n       west (game-arena), up (observatory), down (data-vault)\nYou stand in the PLATO LOBBY \u2014 the central hub of the Cocapn fleet.\n\nAround you, doors lead to active apps and agent workspaces.\nThe walls shimmer with active tile flows.\n\nExits: north (agent-hub), east (fleet-health), south (research-lab)\n       west (game-arena), up (observatory), down (data-vault)",
+      "tags": [
+        "mud",
+        "bridge",
+        "mud-lobby"
+      ],
+      "source": "plato-mud-bridge",
+      "confidence": 0.9,
+      "_hash": "e4a56e6b67255d9f",
+      "provenance": {
+        "tile_id": "2666ae6c5989e1d9",
+        "agent_id": "plato-mud-bridge",
+        "room": "mud-room",
+        "timestamp": 1778827253.9208963,
+        "chain_size": 57010
+      },
+      "energy": 0.981018,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-room",
+      "question": "mud-bridge agent-hub",
+      "answer": "=== AGENT-HUB ===\nThe AGENT HUB \u2014 where humans and agents work side by side.\n\nWorkstations line the walls. Each agent has a seat.\nThe human's chair is at the center, visible to all.\nConversations echo and merge into tile streams.\nThe AGENT HUB \u2014 where humans and agents work side by side.\n\nWorkstations line the walls. Each agent has a seat.\nThe human chair is at the center, visible to all.\nConversations echo and merge into tile streams.",
+      "tags": [
+        "mud",
+        "bridge",
+        "agent-hub"
+      ],
+      "source": "plato-mud-bridge",
+      "confidence": 0.9,
+      "_hash": "5a91eedd1c574386",
+      "provenance": {
+        "tile_id": "7f55ec72d3fae3ef",
+        "agent_id": "plato-mud-bridge",
+        "room": "mud-room",
+        "timestamp": 1778827253.9259515,
+        "chain_size": 57010
+      },
+      "energy": 0.981018,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T06:40:35.713125+00:00",
+  "tile_count": 4,
+  "last_trained": null,
+  "workspace": null
+}

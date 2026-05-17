@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "health-check",
+      "question": "Which fleet services are reachable on 147.224.38.131?",
+      "answer": "Only Keeper (port 4042) and PLATO (port 8847) respond. Ports 8900, 8901, 9438 all show no route to host. Fleet has 3 services down or not exposed.",
+      "agent": "playtest-sre",
+      "timestamp": 1778492048.1133559,
+      "signature": "934c94aac335499521a9c13e1021f39fe853dd31f35a1fab75fde966057c430b",
+      "_hash": "fc8933dcdd1e49a0",
+      "provenance": {
+        "tile_id": "441ef10b205c70b8",
+        "agent_id": "playtest-sre",
+        "room": "health-check",
+        "timestamp": 1778492048.1191413,
+        "chain_size": 59
+      },
+      "energy": 0.896906,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T09:34:08.119295+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

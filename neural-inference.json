@@ -1,0 +1,1291 @@
+{
+  "tiles": [
+    {
+      "domain": "neural-inference",
+      "question": "neural variant 0",
+      "answer": "seed_val=2930844 from cycle=4",
+      "tags": [],
+      "source": "neural-plato",
+      "confidence": 0.85,
+      "_hash": "e576943df22fde5d",
+      "provenance": {
+        "tile_id": "8c65855cab5384b7",
+        "agent_id": "neural-plato",
+        "room": "neural-inference",
+        "timestamp": 1778617618.9880192,
+        "chain_size": 4969
+      },
+      "energy": 0.927536,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural variant 1",
+      "answer": "seed_val=5861824 from cycle=4",
+      "tags": [],
+      "source": "neural-plato",
+      "confidence": 0.85,
+      "_hash": "40b8051811b9dd11",
+      "provenance": {
+        "tile_id": "fa9f66760970fe31",
+        "agent_id": "neural-plato",
+        "room": "neural-inference",
+        "timestamp": 1778617618.9936633,
+        "chain_size": 4970
+      },
+      "energy": 0.927536,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural variant 2",
+      "answer": "seed_val=2930676 from cycle=4",
+      "tags": [],
+      "source": "neural-plato",
+      "confidence": 0.85,
+      "_hash": "c8673dbaebad7ab1",
+      "provenance": {
+        "tile_id": "fb7c2451c2b5e5f8",
+        "agent_id": "neural-plato",
+        "room": "neural-inference",
+        "timestamp": 1778617618.999121,
+        "chain_size": 4971
+      },
+      "energy": 0.927536,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural variant 3",
+      "answer": "seed_val=2930801 from cycle=4",
+      "tags": [],
+      "source": "neural-plato",
+      "confidence": 0.85,
+      "_hash": "c9bfa65d524808fd",
+      "provenance": {
+        "tile_id": "76ac550b1d59f55d",
+        "agent_id": "neural-plato",
+        "room": "neural-inference",
+        "timestamp": 1778617619.00476,
+        "chain_size": 4972
+      },
+      "energy": 0.927536,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural variant 4",
+      "answer": "seed_val=5861695 from cycle=4",
+      "tags": [],
+      "source": "neural-plato",
+      "confidence": 0.85,
+      "_hash": "d5794e4676c5f066",
+      "provenance": {
+        "tile_id": "7f3a8eabdaa44fec",
+        "agent_id": "neural-plato",
+        "room": "neural-inference",
+        "timestamp": 1778617619.0103736,
+        "chain_size": 4973
+      },
+      "energy": 0.927536,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural variant 5",
+      "answer": "seed_val=5861937 from cycle=4",
+      "tags": [],
+      "source": "neural-plato",
+      "confidence": 0.85,
+      "_hash": "486d74ebc1bc4889",
+      "provenance": {
+        "tile_id": "341eb7b2f377a81f",
+        "agent_id": "neural-plato",
+        "room": "neural-inference",
+        "timestamp": 1778617619.0160115,
+        "chain_size": 4974
+      },
+      "energy": 0.927536,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural variant 6",
+      "answer": "seed_val=2930896 from cycle=4",
+      "tags": [],
+      "source": "neural-plato",
+      "confidence": 0.85,
+      "_hash": "f72a1402f6cec3a5",
+      "provenance": {
+        "tile_id": "f2fcf546e4e63ae8",
+        "agent_id": "neural-plato",
+        "room": "neural-inference",
+        "timestamp": 1778617619.0209506,
+        "chain_size": 4975
+      },
+      "energy": 0.927536,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural variant 7",
+      "answer": "seed_val=2930712 from cycle=4",
+      "tags": [],
+      "source": "neural-plato",
+      "confidence": 0.85,
+      "_hash": "c5ccb3872b78ada6",
+      "provenance": {
+        "tile_id": "5889a8a1b63134c2",
+        "agent_id": "neural-plato",
+        "room": "neural-inference",
+        "timestamp": 1778617619.025736,
+        "chain_size": 4976
+      },
+      "energy": 0.927536,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural variant 8",
+      "answer": "seed_val=5861893 from cycle=4",
+      "tags": [],
+      "source": "neural-plato",
+      "confidence": 0.85,
+      "_hash": "f565b73a43a5aab6",
+      "provenance": {
+        "tile_id": "b0e6796ea69d1ed2",
+        "agent_id": "neural-plato",
+        "room": "neural-inference",
+        "timestamp": 1778617619.030144,
+        "chain_size": 4977
+      },
+      "energy": 0.927536,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural variant 9",
+      "answer": "seed_val=5861925 from cycle=4",
+      "tags": [],
+      "source": "neural-plato",
+      "confidence": 0.85,
+      "_hash": "980c54643d89263c",
+      "provenance": {
+        "tile_id": "40332db387c90c4b",
+        "agent_id": "neural-plato",
+        "room": "neural-inference",
+        "timestamp": 1778617619.0355513,
+        "chain_size": 4978
+      },
+      "energy": 0.927536,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 0 c1",
+      "answer": "v=0x0059751C seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "29bdcf66144b4161",
+      "provenance": {
+        "tile_id": "ecebc629fcbb4afb",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4011033,
+        "chain_size": 5115
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 1 c1",
+      "answer": "v=0x00597E41 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "1f9dc73c4bde7ef4",
+      "provenance": {
+        "tile_id": "165367a5a3f3849a",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4076574,
+        "chain_size": 5116
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 2 c1",
+      "answer": "v=0x00596A45 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "dfb6ef8c95e3b306",
+      "provenance": {
+        "tile_id": "2d00f279c65e8f07",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.41272,
+        "chain_size": 5117
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 3 c1",
+      "answer": "v=0x00597BCB seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "e0496bd527f32c49",
+      "provenance": {
+        "tile_id": "7deaf59cdf7423ff",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4175057,
+        "chain_size": 5118
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 4 c1",
+      "answer": "v=0x00597FB8 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "7d1a0f5e5d4a39eb",
+      "provenance": {
+        "tile_id": "4e41392137dcb0d3",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4221382,
+        "chain_size": 5119
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 5 c1",
+      "answer": "v=0x00597736 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "496695cef53efe54",
+      "provenance": {
+        "tile_id": "e4a53bef627112c9",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4269173,
+        "chain_size": 5120
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 6 c1",
+      "answer": "v=0x00595FD3 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "9664df6c42d3f5e2",
+      "provenance": {
+        "tile_id": "678297dc36dee5de",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.43173,
+        "chain_size": 5121
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 7 c1",
+      "answer": "v=0x00597816 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "a5d48d6ca450453e",
+      "provenance": {
+        "tile_id": "8c61d3081dac058b",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4368,
+        "chain_size": 5122
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 8 c1",
+      "answer": "v=0x0059841D seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "6015ba1217ced141",
+      "provenance": {
+        "tile_id": "7547265883d53a93",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4417665,
+        "chain_size": 5123
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 9 c1",
+      "answer": "v=0x005967B3 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "2d0411bac0fc0573",
+      "provenance": {
+        "tile_id": "b9b753009e906e80",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4464962,
+        "chain_size": 5124
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 10 c1",
+      "answer": "v=0x00595F4F seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "b5f8cfc1ee507ccd",
+      "provenance": {
+        "tile_id": "1745f917ed673a92",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4525397,
+        "chain_size": 5125
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 11 c1",
+      "answer": "v=0x005979C1 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "6e25aa53dc917888",
+      "provenance": {
+        "tile_id": "4b5b7db2a9a5d5ce",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4576333,
+        "chain_size": 5126
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 12 c1",
+      "answer": "v=0x0059672C seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "e4310d04eee9a6f3",
+      "provenance": {
+        "tile_id": "59d6d5ad0850f230",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4626324,
+        "chain_size": 5127
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 13 c1",
+      "answer": "v=0x00597FA8 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "5590b01715980646",
+      "provenance": {
+        "tile_id": "43b154f68a773208",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.467935,
+        "chain_size": 5128
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 14 c1",
+      "answer": "v=0x005978ED seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "bdfc22610fb825ce",
+      "provenance": {
+        "tile_id": "be37cfc3f577c4fa",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4731083,
+        "chain_size": 5129
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 15 c1",
+      "answer": "v=0x00597BDB seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "efec25fe1d3febf3",
+      "provenance": {
+        "tile_id": "38dc68cd2bf4e009",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4785118,
+        "chain_size": 5130
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 16 c1",
+      "answer": "v=0x00596287 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "f09d8c92ba81d3a2",
+      "provenance": {
+        "tile_id": "29596615f5c0ce85",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.485004,
+        "chain_size": 5131
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 17 c1",
+      "answer": "v=0x005973D1 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "f788aacdbdf695fe",
+      "provenance": {
+        "tile_id": "ed6e0c3e147be114",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4905393,
+        "chain_size": 5132
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 18 c1",
+      "answer": "v=0x00596157 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "52558140122277e9",
+      "provenance": {
+        "tile_id": "60dade8e80f95517",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.4961445,
+        "chain_size": 5133
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 19 c1",
+      "answer": "v=0x00597196 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "f07bf6cc0b92407c",
+      "provenance": {
+        "tile_id": "75b0378277b625ce",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619773.5014873,
+        "chain_size": 5134
+      },
+      "energy": 0.92807,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 0 c2",
+      "answer": "v=0x0059788A seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "85395d6fcf068396",
+      "provenance": {
+        "tile_id": "8049fc44b6d20464",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5224159,
+        "chain_size": 5135
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 1 c2",
+      "answer": "v=0x005969E8 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "0d840d548b4dba30",
+      "provenance": {
+        "tile_id": "f8e61d195f64fd56",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5278943,
+        "chain_size": 5136
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 2 c2",
+      "answer": "v=0x00596D43 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "2a2413a30357587b",
+      "provenance": {
+        "tile_id": "c6947a4ce5cdbc07",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5332103,
+        "chain_size": 5137
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 3 c2",
+      "answer": "v=0x00597A76 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "d43b0427ddb16c62",
+      "provenance": {
+        "tile_id": "e82ff1b5e8892a1a",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5388706,
+        "chain_size": 5138
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 4 c2",
+      "answer": "v=0x00596580 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "08a9ff748dcc1ccb",
+      "provenance": {
+        "tile_id": "649e29f684dacfd7",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5445764,
+        "chain_size": 5139
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 5 c2",
+      "answer": "v=0x005970D5 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "b350675e66dc0fd1",
+      "provenance": {
+        "tile_id": "d3319008c213f383",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5499673,
+        "chain_size": 5140
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 6 c2",
+      "answer": "v=0x0059665D seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "8fae28f0908878fb",
+      "provenance": {
+        "tile_id": "b4af745126cccf2f",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5553274,
+        "chain_size": 5141
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 7 c2",
+      "answer": "v=0x00596440 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "78bfb47b024f04de",
+      "provenance": {
+        "tile_id": "b82aa8a60c2e1b0e",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5610785,
+        "chain_size": 5142
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 8 c2",
+      "answer": "v=0x00597B41 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "84340abbe461a083",
+      "provenance": {
+        "tile_id": "480d71d9d3dc712c",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.566721,
+        "chain_size": 5143
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 9 c2",
+      "answer": "v=0x0059831D seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "bc3d275e9cba930a",
+      "provenance": {
+        "tile_id": "eb639f66e6da954f",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5728416,
+        "chain_size": 5144
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 10 c2",
+      "answer": "v=0x00596F4D seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "51c87ee8b3b833ef",
+      "provenance": {
+        "tile_id": "30717bbc5dad59ce",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5790005,
+        "chain_size": 5145
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 11 c2",
+      "answer": "v=0x00598530 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "17f66c05bca8f667",
+      "provenance": {
+        "tile_id": "c68298204900f4f6",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5859797,
+        "chain_size": 5146
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 12 c2",
+      "answer": "v=0x005975D2 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "a6a3af53d7714a3d",
+      "provenance": {
+        "tile_id": "2608f842aaadeba5",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5923984,
+        "chain_size": 5147
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 13 c2",
+      "answer": "v=0x00598258 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "6c767c2f577eaecb",
+      "provenance": {
+        "tile_id": "5f1d5add570aa95f",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.5977478,
+        "chain_size": 5148
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 14 c2",
+      "answer": "v=0x00597D7E seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "06e8ea994fe841f4",
+      "provenance": {
+        "tile_id": "390ff5717cb69783",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.6041539,
+        "chain_size": 5149
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 15 c2",
+      "answer": "v=0x005971EA seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "16b0870281dea5c3",
+      "provenance": {
+        "tile_id": "518e1dbd5f735920",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.6100864,
+        "chain_size": 5150
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 16 c2",
+      "answer": "v=0x005982B4 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "86944c6349cde1cf",
+      "provenance": {
+        "tile_id": "a6eca35d1c4890be",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.6158109,
+        "chain_size": 5151
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 17 c2",
+      "answer": "v=0x005967BF seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "92e71998230d16df",
+      "provenance": {
+        "tile_id": "0a7455d8a1b8e5cd",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.6218011,
+        "chain_size": 5152
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 18 c2",
+      "answer": "v=0x00596EC9 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "00f590bd07433d4a",
+      "provenance": {
+        "tile_id": "57ddd98027c9e1c2",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.6285183,
+        "chain_size": 5153
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 19 c2",
+      "answer": "v=0x00597962 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "d10bac0b64b683a9",
+      "provenance": {
+        "tile_id": "76ed785ab9912b47",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619776.6349642,
+        "chain_size": 5154
+      },
+      "energy": 0.928071,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 0 c3",
+      "answer": "v=0x00596502 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "e694387cc3bb719f",
+      "provenance": {
+        "tile_id": "f2c38c8db3ee980a",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.6564257,
+        "chain_size": 5155
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 1 c3",
+      "answer": "v=0x005979D4 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "1b4227f02218284b",
+      "provenance": {
+        "tile_id": "55be71e46d815f8b",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.6622639,
+        "chain_size": 5156
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 2 c3",
+      "answer": "v=0x00595F17 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "14ed5efa10349e6e",
+      "provenance": {
+        "tile_id": "cf9f2440f4e2e3f7",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.6678724,
+        "chain_size": 5157
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 3 c3",
+      "answer": "v=0x0059782D seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "d080f5ecc409972a",
+      "provenance": {
+        "tile_id": "8cedd3efacc98a0d",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.6737592,
+        "chain_size": 5158
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 4 c3",
+      "answer": "v=0x00597880 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "a5b65458045da231",
+      "provenance": {
+        "tile_id": "1ebf0d3586775005",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.6798782,
+        "chain_size": 5159
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 5 c3",
+      "answer": "v=0x005983AD seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "a5640bc53051eef2",
+      "provenance": {
+        "tile_id": "c7c9a307325cd29f",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.6861084,
+        "chain_size": 5160
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 6 c3",
+      "answer": "v=0x00596DFD seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "fe4ab475de153414",
+      "provenance": {
+        "tile_id": "c48b916bf445c918",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.6929564,
+        "chain_size": 5161
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 7 c3",
+      "answer": "v=0x00596E7B seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "7a89d170047076b2",
+      "provenance": {
+        "tile_id": "0d7695e3046d29d5",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.6992023,
+        "chain_size": 5162
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 8 c3",
+      "answer": "v=0x00596D9F seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "f9b791c21b83064a",
+      "provenance": {
+        "tile_id": "111ebf75a5370739",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.7056813,
+        "chain_size": 5163
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 9 c3",
+      "answer": "v=0x00597412 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "cd408ec51938bd85",
+      "provenance": {
+        "tile_id": "d516be9c6395d483",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.711819,
+        "chain_size": 5164
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 10 c3",
+      "answer": "v=0x00597DCD seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "cc86200974b80a20",
+      "provenance": {
+        "tile_id": "5fe0cf812cf03292",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.7178442,
+        "chain_size": 5165
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 11 c3",
+      "answer": "v=0x00596879 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "bd0102d06ff80732",
+      "provenance": {
+        "tile_id": "3c141dbde14f8125",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.7246432,
+        "chain_size": 5166
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 12 c3",
+      "answer": "v=0x00596CB7 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "7c2a5fecb4ca1302",
+      "provenance": {
+        "tile_id": "6c7c35f14e4379bf",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.7322953,
+        "chain_size": 5167
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 13 c3",
+      "answer": "v=0x00596982 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "5938228ceb0233c2",
+      "provenance": {
+        "tile_id": "cfecbee397d0b716",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.7385428,
+        "chain_size": 5168
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 14 c3",
+      "answer": "v=0x00597FBB seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "4730659a2f21e7b8",
+      "provenance": {
+        "tile_id": "e865880184f5aac5",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.744773,
+        "chain_size": 5169
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 15 c3",
+      "answer": "v=0x0059605F seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "c46b2e407f8c8c06",
+      "provenance": {
+        "tile_id": "679a995e749cbce5",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.7512577,
+        "chain_size": 5170
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 16 c3",
+      "answer": "v=0x00597195 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "a0990041beb4acd6",
+      "provenance": {
+        "tile_id": "c22818b6da6cfda5",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.7579968,
+        "chain_size": 5171
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 17 c3",
+      "answer": "v=0x0059769F seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "15f90efed81ba19e",
+      "provenance": {
+        "tile_id": "6e383b7b61e52c61",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.7640245,
+        "chain_size": 5172
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 18 c3",
+      "answer": "v=0x0059620E seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "8f4015e9a5104fde",
+      "provenance": {
+        "tile_id": "021baa6dd82f40ca",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.7698398,
+        "chain_size": 5173
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural 19 c3",
+      "answer": "v=0x005979C1 seed_cycle output",
+      "tags": [],
+      "source": "c-daemon",
+      "confidence": 0.85,
+      "_hash": "f47f98fab4adae37",
+      "provenance": {
+        "tile_id": "b882446ebf7c4f39",
+        "agent_id": "c-daemon",
+        "room": "neural-inference",
+        "timestamp": 1778619779.7759132,
+        "chain_size": 5174
+      },
+      "energy": 0.928072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "neural-inference",
+      "question": "neural-inference/harness",
+      "answer": "{\"p\": \"default room configuration\", \"G\": [], \"K\": [\"adaptive-strategy-1778833795\"], \"M\": {\"mode\": \"tile\", \"prefix\": \"memory/\"}}",
+      "tags": [
+        "harness",
+        "refiner-edit",
+        "neural-inference",
+        "plateau"
+      ],
+      "source": "refiner",
+      "confidence": 0.9,
+      "_hash": "e699830985d85b1a",
+      "provenance": {
+        "tile_id": "2ab835e4cffba2a7",
+        "agent_id": "refiner",
+        "room": "neural-inference",
+        "timestamp": 1778833795.3515522,
+        "chain_size": 58140
+      },
+      "energy": 0.982736,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T20:26:58.988242+00:00",
+  "tile_count": 71,
+  "last_trained": null,
+  "workspace": null
+}

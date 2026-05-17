@@ -1,0 +1,147 @@
+{
+  "tiles": [
+    {
+      "domain": "game-arena",
+      "question": "arena/description",
+      "answer": "THE GAME ARENA \u2014 where PLATO learns its human through play.\n\nA game-master NPC awaits. They will present scenarios.\nYour choices teach the system about you.\nThe more you play, the more the game adapts.",
+      "tags": [
+        "arena",
+        "game-master",
+        "casting-call",
+        "2026-05-15"
+      ],
+      "source": "game-arena",
+      "confidence": 0.9,
+      "_hash": "efcd328a40c8a82b",
+      "provenance": {
+        "tile_id": "d8d9f45ff2cba0fc",
+        "agent_id": "game-arena",
+        "room": "game-arena",
+        "timestamp": 1778828103.6902626,
+        "chain_size": 57133
+      },
+      "energy": 0.981241,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "game-arena",
+      "question": "arena/scenario/scenario-1",
+      "answer": "{\"id\": \"scenario-1\", \"prompt\": \"A path splits in three directions. Left leads to a dark forest, center to a bright meadow, right to a winding river. Which do you choose?\", \"options\": {\"left\": \"forest\", \"center\": \"meadow\", \"right\": \"river\"}}",
+      "tags": [
+        "arena",
+        "scenario",
+        "scenario-1",
+        "2026-05-15"
+      ],
+      "source": "game-arena",
+      "confidence": 0.9,
+      "_hash": "9466544e043db9df",
+      "provenance": {
+        "tile_id": "a11d8e6de3a82ef6",
+        "agent_id": "game-arena",
+        "room": "game-arena",
+        "timestamp": 1778828103.703439,
+        "chain_size": 57134
+      },
+      "energy": 0.981241,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "game-arena",
+      "question": "arena/scenario/scenario-2",
+      "answer": "{\"id\": \"scenario-2\", \"prompt\": \"You find a strange artifact. It pulses with energy. Do you touch it, study it, or leave it?\", \"options\": {\"touch\": \"touch the artifact\", \"study\": \"study it carefully\", \"leave\": \"walk away\"}}",
+      "tags": [
+        "arena",
+        "scenario",
+        "scenario-2",
+        "2026-05-15"
+      ],
+      "source": "game-arena",
+      "confidence": 0.9,
+      "_hash": "2d0facf802e08611",
+      "provenance": {
+        "tile_id": "0dcb163073932571",
+        "agent_id": "game-arena",
+        "room": "game-arena",
+        "timestamp": 1778828103.7143564,
+        "chain_size": 57135
+      },
+      "energy": 0.981241,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "game-arena",
+      "question": "arena/scenario/scenario-3",
+      "answer": "{\"id\": \"scenario-3\", \"prompt\": \"A creature approaches. It seems curious but unpredictable. Do you approach, speak, wait, or retreat?\", \"options\": {\"approach\": \"approach slowly\", \"speak\": \"speak to it\", \"wait\": \"wait and observe\", \"retreat\": \"back away slowly\"}}",
+      "tags": [
+        "arena",
+        "scenario",
+        "scenario-3",
+        "2026-05-15"
+      ],
+      "source": "game-arena",
+      "confidence": 0.9,
+      "_hash": "9ffbf07d5deecf8d",
+      "provenance": {
+        "tile_id": "d46c261baa7e9170",
+        "agent_id": "game-arena",
+        "room": "game-arena",
+        "timestamp": 1778828103.728288,
+        "chain_size": 57136
+      },
+      "energy": 0.981241,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "game-arena",
+      "question": "arena/protocol",
+      "answer": "ARENA PROTOCOL v1:\n  Human enters Game Arena\n  Game Master greets and presents scenario\n  Human chooses from options (typed in MUD)\n  Choice is logged to PLATO tile with timestamp\n  Daemon analyzes choice patterns over time\n  Human's gamma (consistency), H (exploration), tau (timing) computed\n  Scenarios adapt based on revealed preferences",
+      "tags": [
+        "arena",
+        "protocol",
+        "measurement",
+        "casting-call",
+        "2026-05-15"
+      ],
+      "source": "game-arena",
+      "confidence": 0.9,
+      "_hash": "801013fd2d730b4a",
+      "provenance": {
+        "tile_id": "024e4c8317ac4df5",
+        "agent_id": "game-arena",
+        "room": "game-arena",
+        "timestamp": 1778828103.739616,
+        "chain_size": 57137
+      },
+      "energy": 0.981241,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "game-arena",
+      "question": "human-choice Casey",
+      "answer": "{\"player\": \"Casey\", \"scenario\": \"scenario-1\", \"choice\": \"forest\", \"timestamp\": 1778828202.5667388}",
+      "tags": [
+        "human-choice",
+        "game-arena",
+        "Casey",
+        "forest"
+      ],
+      "source": "game-arena",
+      "confidence": 0.9,
+      "_hash": "dbe3b74122611e2f",
+      "provenance": {
+        "tile_id": "77932fad5fdf5232",
+        "agent_id": "game-arena",
+        "room": "game-arena",
+        "timestamp": 1778828202.5743613,
+        "chain_size": 57151
+      },
+      "energy": 0.981267,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T06:55:03.690450+00:00",
+  "tile_count": 6,
+  "last_trained": null,
+  "workspace": null
+}

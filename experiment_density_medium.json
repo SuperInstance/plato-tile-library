@@ -1,0 +1,134 @@
+{
+  "tiles": [
+    {
+      "domain": "experiment_density_medium",
+      "question": "sensor_3_reading",
+      "answer": "{\"value\": 53, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "77ffe112a34153d5",
+      "provenance": {
+        "tile_id": "bb398c0fcbb605c4",
+        "agent_id": "experiment",
+        "room": "experiment_density_medium",
+        "timestamp": 1778661000.3881664,
+        "chain_size": 8082
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_medium",
+      "question": "sensor_4_reading",
+      "answer": "{\"value\": 54, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "fcfb72d0c996cfc8",
+      "provenance": {
+        "tile_id": "92b1de7b9cb19381",
+        "agent_id": "experiment",
+        "room": "experiment_density_medium",
+        "timestamp": 1778661000.3925004,
+        "chain_size": 8083
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_medium",
+      "question": "sensor_5_reading",
+      "answer": "{\"value\": 55, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "2535e5a3b25e0746",
+      "provenance": {
+        "tile_id": "32d1c5875765a41c",
+        "agent_id": "experiment",
+        "room": "experiment_density_medium",
+        "timestamp": 1778661000.3966942,
+        "chain_size": 8084
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_medium",
+      "question": "sensor_6_reading",
+      "answer": "{\"value\": 56, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "a61969cb101f1acf",
+      "provenance": {
+        "tile_id": "89395a15cf3520d0",
+        "agent_id": "experiment",
+        "room": "experiment_density_medium",
+        "timestamp": 1778661000.4011664,
+        "chain_size": 8085
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_medium",
+      "question": "sensor_7_reading",
+      "answer": "{\"value\": 57, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "ca0ec1de0846dc51",
+      "provenance": {
+        "tile_id": "e04d15b69b4d8b2d",
+        "agent_id": "experiment",
+        "room": "experiment_density_medium",
+        "timestamp": 1778661000.4056058,
+        "chain_size": 8086
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_medium",
+      "question": "sensor_8_reading",
+      "answer": "{\"value\": 58, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "1861c0e64df43556",
+      "provenance": {
+        "tile_id": "9590aa4683193125",
+        "agent_id": "experiment",
+        "room": "experiment_density_medium",
+        "timestamp": 1778661000.410155,
+        "chain_size": 8087
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_density_medium",
+      "question": "sensor_9_reading",
+      "answer": "{\"value\": 59, \"unit\": \"units\", \"normal\": true}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "0924b33ac56604a2",
+      "provenance": {
+        "tile_id": "870bed94603b3916",
+        "agent_id": "experiment",
+        "room": "experiment_density_medium",
+        "timestamp": 1778661000.4146714,
+        "chain_size": 8088
+      },
+      "energy": 0.938359,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T08:30:00.388289+00:00",
+  "tile_count": 7,
+  "last_trained": null,
+  "workspace": null
+}

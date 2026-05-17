@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "room": "tile_memory_forgemaster_tile-4b1f9a0a9cea",
+      "domain": "tile-memory",
+      "question": "What did forgemaster crystallize?",
+      "answer": "On March 14, 2024, the container ship MV Epsilon transited the Narrows Strait carrying 4,200 containers of medical supplies. The autopilot used float64 EKF that lost positive definiteness after 8 minutes, drifting 200 meters east. 47,000 vessels carry the same risk.",
+      "agent": "forgemaster",
+      "gate": "P0",
+      "_hash": "ab0d773b03d3c2e7",
+      "provenance": {
+        "tile_id": "fcc5aeb7d408a67a",
+        "agent_id": "forgemaster",
+        "room": "tile-memory",
+        "timestamp": 1778611616.372614,
+        "chain_size": 4532
+      },
+      "energy": 0.926048,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T18:46:56.372819+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

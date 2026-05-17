@@ -1,0 +1,76 @@
+{
+  "tiles": [
+    {
+      "domain": "scribe-fix2",
+      "question": "Scribe initialized for fix2",
+      "answer": "Digital twin builder started for application: fix2. Observing state and building PLATO representation.",
+      "source": "scribe-fix2",
+      "confidence": 0.9,
+      "_hash": "c6ee6f466678d7d8",
+      "provenance": {
+        "tile_id": "81d5d4dafc725683",
+        "agent_id": "scribe-fix2",
+        "room": "scribe-fix2",
+        "timestamp": 1778539430.7389793,
+        "chain_size": 587
+      },
+      "energy": 0.908343,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-fix2",
+      "question": "Divergence detected: gradient=0.965",
+      "answer": "App state diverged from simulation by 0.965. Actual: {\"timestamp\": 1778539431.744261, \"app\": \"fix2\", \"tiles\": 1, \"divergences\": 0, \"optimizations\": 0}. Predicted: {\"timestamp\": 1778539430.7315457, \"app\": \"fix2\", \"tiles\": 0, \"divergences\": 0, \"optimizations\": 0}.",
+      "source": "scribe-fix2",
+      "confidence": 0.9,
+      "_hash": "d5bda498a4c43ebf",
+      "provenance": {
+        "tile_id": "0e92adb5538f6492",
+        "agent_id": "scribe-fix2",
+        "room": "scribe-fix2",
+        "timestamp": 1778539431.7497368,
+        "chain_size": 588
+      },
+      "energy": 0.908343,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-fix2",
+      "question": "Divergence detected: gradient=0.995",
+      "answer": "App state diverged from simulation by 0.995. Actual: {\"timestamp\": 1778539432.7548418, \"app\": \"fix2\", \"tiles\": 2, \"divergences\": 1, \"optimizations\": 0}. Predicted: {\"timestamp\": 1778539431.744261, \"app\": \"fix2\", \"tiles\": 1, \"divergences\": 0, \"optimizations\": 0}.",
+      "source": "scribe-fix2",
+      "confidence": 0.9,
+      "_hash": "278418abc206f12e",
+      "provenance": {
+        "tile_id": "71a9adee6e5647ba",
+        "agent_id": "scribe-fix2",
+        "room": "scribe-fix2",
+        "timestamp": 1778539432.7622085,
+        "chain_size": 589
+      },
+      "energy": 0.908344,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-fix2",
+      "question": "Scribe session complete \u2014 3 tiles, 2 divergences",
+      "answer": "Scribe ran 3 cycles for fix2. Submitted 3 tiles to PLATO room scribe-fix2. Detected 2 divergences. Saved 0 LLM calls by running on snapped gradients.",
+      "source": "scribe-fix2",
+      "confidence": 0.9,
+      "_hash": "a36ac8cdcf51f10b",
+      "provenance": {
+        "tile_id": "3586a48847466173",
+        "agent_id": "scribe-fix2",
+        "room": "scribe-fix2",
+        "timestamp": 1778539433.7729359,
+        "chain_size": 590
+      },
+      "energy": 0.908344,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T22:43:50.739231+00:00",
+  "tile_count": 4,
+  "last_trained": null,
+  "workspace": null
+}

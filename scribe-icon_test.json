@@ -1,0 +1,127 @@
+{
+  "tiles": [
+    {
+      "domain": "scribe-icon_test",
+      "question": "Scribe initialized for icon_test",
+      "answer": "Digital twin builder started for icon_test.",
+      "source": "scribe-icon_test",
+      "confidence": 0.9,
+      "_hash": "cc25fe4e196dd87d",
+      "provenance": {
+        "tile_id": "3a547340f4af280e",
+        "agent_id": "scribe-icon_test",
+        "room": "scribe-icon_test",
+        "timestamp": 1778539666.624389,
+        "chain_size": 613
+      },
+      "energy": 0.9084,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-icon_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"timestamp\", 1778539667.6294441, 1778539666.6173882]",
+      "source": "scribe-icon_test",
+      "confidence": 0.9,
+      "_hash": "01a0cd3f8c46ff58",
+      "provenance": {
+        "tile_id": "65e0a95094af2b89",
+        "agent_id": "scribe-icon_test",
+        "room": "scribe-icon_test",
+        "timestamp": 1778539667.6353579,
+        "chain_size": 614
+      },
+      "energy": 0.908401,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-icon_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"tiles\", 1, 0]",
+      "source": "scribe-icon_test",
+      "confidence": 0.9,
+      "_hash": "12bec3a52112350e",
+      "provenance": {
+        "tile_id": "193f340e6b2caae6",
+        "agent_id": "scribe-icon_test",
+        "room": "scribe-icon_test",
+        "timestamp": 1778539667.6451373,
+        "chain_size": 615
+      },
+      "energy": 0.908401,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-icon_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"timestamp\", 1778539668.6501544, 1778539667.6294441]",
+      "source": "scribe-icon_test",
+      "confidence": 0.9,
+      "_hash": "0a862db9be5ee59e",
+      "provenance": {
+        "tile_id": "0e89adf7e76e1e7f",
+        "agent_id": "scribe-icon_test",
+        "room": "scribe-icon_test",
+        "timestamp": 1778539668.6554792,
+        "chain_size": 616
+      },
+      "energy": 0.908401,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-icon_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"tiles\", 3, 1]",
+      "source": "scribe-icon_test",
+      "confidence": 0.9,
+      "_hash": "943e9790a311100c",
+      "provenance": {
+        "tile_id": "8262cd10de2a8af4",
+        "agent_id": "scribe-icon_test",
+        "room": "scribe-icon_test",
+        "timestamp": 1778539668.6655414,
+        "chain_size": 617
+      },
+      "energy": 0.908401,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-icon_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"divergences\", 2, 0]",
+      "source": "scribe-icon_test",
+      "confidence": 0.9,
+      "_hash": "feb93282d543fe9d",
+      "provenance": {
+        "tile_id": "d14600a52ec51473",
+        "agent_id": "scribe-icon_test",
+        "room": "scribe-icon_test",
+        "timestamp": 1778539668.6750062,
+        "chain_size": 618
+      },
+      "energy": 0.908401,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-icon_test",
+      "question": "Scribe session complete \u2014 6 tiles, 5 divergences",
+      "answer": "Scribe ran 3 cycles for icon_test. Submitted 6 tiles to PLATO room scribe-icon_test. Detected 5 divergences. Saved 0 LLM calls by running on snapped gradients.",
+      "source": "scribe-icon_test",
+      "confidence": 0.9,
+      "_hash": "3ca06df0e99a0cff",
+      "provenance": {
+        "tile_id": "cc01b2ecd9c7896b",
+        "agent_id": "scribe-icon_test",
+        "room": "scribe-icon_test",
+        "timestamp": 1778539669.684806,
+        "chain_size": 619
+      },
+      "energy": 0.908401,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T22:47:46.624580+00:00",
+  "tile_count": 7,
+  "last_trained": null,
+  "workspace": null
+}

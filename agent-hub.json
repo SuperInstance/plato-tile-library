@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "agent-hub",
+      "question": "agent-hub/description",
+      "answer": "The AGENT HUB \u2014 where humans and agents work side by side.\n\nWorkstations line the walls. Each agent has a seat.\nThe human's chair is at the center, visible to all.\nConversations echo and merge into tile streams.",
+      "tags": [
+        "agent-hub",
+        "room",
+        "collaboration",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "159797c7f5afcfa7",
+      "provenance": {
+        "tile_id": "99c6f462720b977b",
+        "agent_id": "oracle1",
+        "room": "agent-hub",
+        "timestamp": 1778827216.536237,
+        "chain_size": 56996
+      },
+      "energy": 0.981009,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "agent-hub",
+      "question": "agent-hub/description",
+      "answer": "The AGENT HUB \u2014 where humans and agents work side by side.\n\nWorkstations line the walls. Each agent has a seat.\nThe human chair is at the center, visible to all.\nConversations echo and merge into tile streams.",
+      "tags": [
+        "agent-hub",
+        "room",
+        "collaboration",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "87526090aa00a3ab",
+      "provenance": {
+        "tile_id": "21ca235f881038d4",
+        "agent_id": "oracle1",
+        "room": "agent-hub",
+        "timestamp": 1778827235.6411996,
+        "chain_size": 57005
+      },
+      "energy": 0.981014,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T06:40:16.536346+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

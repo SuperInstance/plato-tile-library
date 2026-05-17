@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_edge",
+      "question": "Fleet index: edge domain (11 repos)",
+      "answer": "Domain: edge\nRepo count: 11\n\nTop repos:\n- Edge-Native\n- Equipment-Hardware-Scaler\n- cudaclaw\n- cudaclaw\n- gpu-accelerator\n- jetsonclaw1\n- mud-arena\n- polln\n- synclink-protocol\n- vector-search\n- webgpu-profiler",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "edge"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "3fec9c5e1680fab1",
+      "provenance": {
+        "tile_id": "52e95edea57e90e1",
+        "agent_id": "oracle1",
+        "room": "fleet_edge",
+        "timestamp": 1778392391.4324367,
+        "chain_size": 491
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_edge",
+      "question": "Fleet domain index: edge \u2014 11 repos",
+      "answer": "Domain: edge\nTotal repos: 11\nLanguages: Python, Rust, TypeScript\n\nEdge computing \u2014 Jetson hardware, embedded C, Arduino, ARM NEON, metal runtimes\n\nTop repos:\n\n  Edge-Native (Python) \u2014 Embed intelligence in distributed IoT\n  Equipment-Hardware-Scaler (TypeScript) \u2014 Auto-scaling equipment that adapts to hardware resources and uses cloud APIs for\n  cudaclaw (Rust) \u2014 \u26a1 GPU-accelerated SmartCRDT with persistent CUDA kernels \u2014 warp-level consensus.\n  cudaclaw (Rust) \u2014 \u26a1 GPU-resident agent runtime with SmartCRDTs\n  gpu-accelerator (Rust) \u2014 GPU acceleration layer for WebGPU and compute shaders - browser-based high-perfo\n  jetsonclaw1 (Python) \u2014 \u26a1 Edge Operator \u2014 Jetson Super Orin, bare metal specialist, train slow + deploy\n  mud-arena (Python) \u2014 GPU-accelerated MUD for agent script backtesting \u2014 agents write scripts, GPU run\n  polln (TypeScript) \u2014 SuperInstance Visualized in Spreadsheets for Tile Intelligence in real-time work\n  synclink-protocol (Python) \u2014 \ud83d\udd17 SyncLink \u2014 binary edge-cloud sync protocol for Jetson\u2194Cloud agent communicatio\n  vector-search (TypeScript) \u2014 Semantic search engine with WebGPU acceleration - 10-100x faster vector search, \n  webgpu-profiler (TypeScript) \u2014 GPU profiler for WebGPU applications - Real-time GPU monitoring, benchmarking, a",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "edge"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "0ec581a25dcd8c7c",
+      "provenance": {
+        "tile_id": "8860d59c3cb179b4",
+        "agent_id": "oracle1",
+        "room": "fleet_edge",
+        "timestamp": 1778396485.8708928,
+        "chain_size": 525
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.432537+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

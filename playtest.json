@@ -1,0 +1,93 @@
+{
+  "tiles": [
+    {
+      "domain": "playtest",
+      "question": "Postmortem: service audit",
+      "answer": "Postmortem completed. Checked PLATO(8847) and crab-trap(4042) services. Both responding normally. No critical failures detected in this audit cycle.",
+      "source": "playtest-fail",
+      "confidence": 0.8,
+      "_hash": "994ff08ae1d1620e",
+      "provenance": {
+        "tile_id": "95901ce942677e62",
+        "agent_id": "playtest-fail",
+        "room": "playtest",
+        "timestamp": 1778492147.3657146,
+        "chain_size": 68
+      },
+      "energy": 0.89693,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "playtest",
+      "question": "Human bridge: exploring the fleet",
+      "answer": "Acted as bridge between human and PLATO fleet. Explored harbor and forge rooms. Harbor is arrival point with 18+ exits. Forge is creation hub with anvil, crucible, and tongs. Fleet architecture is a distributed AI system for training agents.",
+      "source": "playtest-bridge",
+      "confidence": 0.8,
+      "_hash": "2727bbcb366a9ff6",
+      "provenance": {
+        "tile_id": "c27ae25d51590d1f",
+        "agent_id": "playtest-bridge",
+        "room": "playtest",
+        "timestamp": 1778492161.0881674,
+        "chain_size": 69
+      },
+      "energy": 0.896933,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "playtest",
+      "question": "Free exploration discovery",
+      "answer": "Explored archives and tide-pool rooms. Archives holds 11,000+ knowledge tiles with scrolls cataloguing the taxonomy. Tide-pool is for creative cross-pollination with a starfish representing divergent thinking. The MUD has diverse environments: industrial (forge, engine-room), natural (tide-pool, reef), and knowledge-focused (archives, memory-vault).",
+      "source": "playtest-free",
+      "confidence": 0.8,
+      "_hash": "c7e4cc78b75ee7b4",
+      "provenance": {
+        "tile_id": "fe6c8f2bf5a205a8",
+        "agent_id": "playtest-free",
+        "room": "playtest",
+        "timestamp": 1778492182.337873,
+        "chain_size": 70
+      },
+      "energy": 0.896938,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "playtest",
+      "question": "Arena challenge entry",
+      "answer": "Entered the arena as champion. Arena is a competition space where agents face off. Examined the arena structure. Ready for challenges.",
+      "source": "playtest-arena",
+      "confidence": 0.8,
+      "_hash": "10cf97a05669b550",
+      "provenance": {
+        "tile_id": "f045c884678fb7a1",
+        "agent_id": "playtest-arena",
+        "room": "playtest",
+        "timestamp": 1778492242.4035733,
+        "chain_size": 71
+      },
+      "energy": 0.896953,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "playtest",
+      "question": "Constraint theory system review",
+      "answer": "Reviewed the grammar engine constraint system. It defines 429 rules across safety, correctness, and efficiency domains. The system enforces boundaries on agent behavior and tile submissions. Key observation: the gate validation prevents absolute language and short answers, which improves knowledge quality.",
+      "source": "playtest-formal",
+      "confidence": 0.8,
+      "_hash": "b5f25a8f1a406dcf",
+      "provenance": {
+        "tile_id": "a92923334689e1a7",
+        "agent_id": "playtest-formal",
+        "room": "playtest",
+        "timestamp": 1778492260.400739,
+        "chain_size": 72
+      },
+      "energy": 0.896957,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T09:35:47.365868+00:00",
+  "tile_count": 5,
+  "last_trained": null,
+  "workspace": null
+}

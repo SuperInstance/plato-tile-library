@@ -1,0 +1,118 @@
+{
+  "tiles": [
+    {
+      "domain": "tripartite-h",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"415608c8\", \"writer\": \"h\", \"target\": \"h\", \"constraints\": [{\"type\": \"capability\", \"rule\": \"loop_rooms\", \"value\": true, \"confidence\": 0.95}, {\"type\": \"capability\", \"rule\": \"tile_store\", \"value\": true, \"confidence\": 0.93}, {\"type\": \"capability\", \"rule\": \"harness_standard\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"edge_case\", \"rule\": \"filter_oscillation\", \"value\": true, \"confidence\": 0.85}, {\"type\": \"constraint\", \"rule\": \"max_agents\", \"value\": 10, \"confidence\": 0.92}, {\"type\": \"constraint\", \"rule\": \"tile_limit\", \"value\": 1950, \"confidence\": 0.92}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "h-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "16c0038c404be7fe",
+      "provenance": {
+        "tile_id": "d61577a76462430c",
+        "agent_id": "tripartite",
+        "room": "tripartite-h",
+        "timestamp": 1778870966.6399214,
+        "chain_size": 4308
+      },
+      "energy": 0.992553,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-h",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"998afaa1\", \"writer\": \"h\", \"target\": \"h\", \"constraints\": [{\"type\": \"capability\", \"rule\": \"loop_rooms\", \"value\": true, \"confidence\": 0.95}, {\"type\": \"capability\", \"rule\": \"tile_store\", \"value\": true, \"confidence\": 0.93}, {\"type\": \"capability\", \"rule\": \"harness_standard\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"edge_case\", \"rule\": \"filter_oscillation\", \"value\": true, \"confidence\": 0.85}, {\"type\": \"constraint\", \"rule\": \"max_agents\", \"value\": 10, \"confidence\": 0.92}, {\"type\": \"constraint\", \"rule\": \"tile_limit\", \"value\": 1950, \"confidence\": 0.92}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "h-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "d25fc5601b407bf1",
+      "provenance": {
+        "tile_id": "584e303516ede7ce",
+        "agent_id": "tripartite",
+        "room": "tripartite-h",
+        "timestamp": 1778871024.812829,
+        "chain_size": 4320
+      },
+      "energy": 0.992569,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-h",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"e75a317b\", \"writer\": \"h\", \"target\": \"h\", \"constraints\": [{\"type\": \"capability\", \"rule\": \"loop_rooms\", \"value\": true, \"confidence\": 0.95}, {\"type\": \"capability\", \"rule\": \"tile_store\", \"value\": true, \"confidence\": 0.93}, {\"type\": \"capability\", \"rule\": \"harness_standard\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"edge_case\", \"rule\": \"filter_oscillation\", \"value\": true, \"confidence\": 0.85}, {\"type\": \"constraint\", \"rule\": \"max_agents\", \"value\": 10, \"confidence\": 0.92}, {\"type\": \"constraint\", \"rule\": \"tile_limit\", \"value\": 1950, \"confidence\": 0.92}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "h-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "38edd51f0449e22d",
+      "provenance": {
+        "tile_id": "eb4a520680a9320c",
+        "agent_id": "tripartite",
+        "room": "tripartite-h",
+        "timestamp": 1778871036.8717844,
+        "chain_size": 4325
+      },
+      "energy": 0.992572,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-h",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"a687b470\", \"writer\": \"h\", \"target\": \"h\", \"constraints\": [{\"type\": \"capability\", \"rule\": \"loop_rooms\", \"value\": true, \"confidence\": 0.95}, {\"type\": \"capability\", \"rule\": \"tile_store\", \"value\": true, \"confidence\": 0.93}, {\"type\": \"capability\", \"rule\": \"harness_standard\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"edge_case\", \"rule\": \"filter_oscillation\", \"value\": true, \"confidence\": 0.85}, {\"type\": \"constraint\", \"rule\": \"max_agents\", \"value\": 10, \"confidence\": 0.92}, {\"type\": \"constraint\", \"rule\": \"tile_limit\", \"value\": 1950, \"confidence\": 0.92}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "h-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "3782cfe0bc79d8e0",
+      "provenance": {
+        "tile_id": "387411ae41eb72c1",
+        "agent_id": "tripartite",
+        "room": "tripartite-h",
+        "timestamp": 1778871042.9918697,
+        "chain_size": 4328
+      },
+      "energy": 0.992574,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tripartite-h",
+      "question": "tripartite/self-filter/1",
+      "answer": "{\"type\": \"filter\", \"_id\": \"d450b800\", \"writer\": \"h\", \"target\": \"h\", \"constraints\": [{\"type\": \"capability\", \"rule\": \"loop_rooms\", \"value\": true, \"confidence\": 0.95}, {\"type\": \"capability\", \"rule\": \"tile_store\", \"value\": true, \"confidence\": 0.93}, {\"type\": \"capability\", \"rule\": \"harness_standard\", \"value\": true, \"confidence\": 0.9}, {\"type\": \"edge_case\", \"rule\": \"filter_oscillation\", \"value\": true, \"confidence\": 0.85}, {\"type\": \"constraint\", \"rule\": \"max_agents\", \"value\": 10, \"confidence\": 0.92}, {\"type\": \"constraint\", \"rule\": \"tile_limit\", \"value\": 1950, \"confidence\": 0.92}], \"score\": 0.75, \"iteration\": 1}",
+      "tags": [
+        "h-self-filter",
+        "tripartite",
+        "tripartite-tripartite"
+      ],
+      "source": "tripartite",
+      "confidence": 0.92,
+      "_hash": "95916dc058e740f5",
+      "provenance": {
+        "tile_id": "86d35a0c0182e5d9",
+        "agent_id": "tripartite",
+        "room": "tripartite-h",
+        "timestamp": 1778871049.407956,
+        "chain_size": 4332
+      },
+      "energy": 0.992575,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T18:49:26.640040+00:00",
+  "tile_count": 5,
+  "last_trained": null,
+  "workspace": null
+}

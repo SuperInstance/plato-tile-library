@@ -1,0 +1,42 @@
+{
+  "tiles": [
+    {
+      "room": "constraint_proofs",
+      "domain": "constraint_proofs",
+      "question": "Proof: BF16_stability",
+      "answer": "BF16 passes all 10K iteration benchmarks with drift < 0.001. Tested across 12 agent configurations. No divergence observed in 48-hour continuous operation.",
+      "agent": "connect-example",
+      "_hash": "5fef9b738a7913a2",
+      "provenance": {
+        "tile_id": "7248faea79308eb5",
+        "agent_id": "connect-example",
+        "room": "constraint_proofs",
+        "timestamp": 1778705458.2556195,
+        "chain_size": 12575
+      },
+      "energy": 0.949581,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "constraint_proofs",
+      "domain": "constraint_proofs",
+      "question": "Proof: BF16_stability",
+      "answer": "BF16 passes all 10K iteration benchmarks with drift < 0.001. Tested across 12 agent configurations. No divergence observed in 48-hour continuous operation.",
+      "agent": "connect-example",
+      "_hash": "5fef9b738a7913a2",
+      "provenance": {
+        "tile_id": "7248faea79308eb5",
+        "agent_id": "connect-example",
+        "room": "constraint_proofs",
+        "timestamp": 1778707347.8201995,
+        "chain_size": 12715
+      },
+      "energy": 0.950061,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T20:50:58.255819+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

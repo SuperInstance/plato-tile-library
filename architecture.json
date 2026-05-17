@@ -1,0 +1,30 @@
+{
+  "tiles": [
+    {
+      "room_id": "forgemaster-design-decisions",
+      "domain": "architecture",
+      "question": "How should within-agent rooms communicate?",
+      "answer": "Via shared tensor field, not message passing. AgentField holds N rooms as [N,9] array. Coupling matrix modulates interaction. 35 tests, pushed to plato-training v1.2.0.",
+      "agent": "forgemaster",
+      "tags": [
+        "flux",
+        "agent-field",
+        "within-agent"
+      ],
+      "_hash": "afe27fbbd65bde58",
+      "provenance": {
+        "tile_id": "605be63cb6b8f043",
+        "agent_id": "forgemaster",
+        "room": "architecture",
+        "timestamp": 1778733127.9230247,
+        "chain_size": 13659
+      },
+      "energy": 0.98533,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-14T04:32:07.923227+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

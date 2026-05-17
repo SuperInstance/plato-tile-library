@@ -1,0 +1,134 @@
+{
+  "tiles": [
+    {
+      "domain": "murmur_insights",
+      "question": "strategy:CONTRADICT theorem:pythagorean48 insight:fails_when_trust_differences_must",
+      "answer": "FAILS WHEN: Trust differences must be distinguished at resolution finer than 7.5 degrees. If the fleet needs to distinguish between 3 degree and 5 degree trust differences, 48 directions are insufficient. COUNTEREXAMPLE: The 6 bits + rounding comment suggests 64 directions (6 bits) but we only have 48. Rounding loss of 0.415 bits means information is discarded. Over many hops, this loss compounds. REAL FLEET ASSUMPTION VIOLATED: 48 directions are fixed and uniform. But trust is not uniform - it may cluster around certain values (e.g., high trust among stable agents, low trust among new agents). Fixed buckets may not capture the actual distribution. FAILS WHEN: The 48 directions must be interpretable by all agents identically. If different agents have different up vectors (different coordinate systems), the encoding will not be consistent fleet-wide.",
+      "tags": [],
+      "source": "fleet-murmur-worker",
+      "confidence": 0.505875,
+      "_hash": "c55372cb2c3724d8",
+      "provenance": {
+        "tile_id": "8040e26663c391f3",
+        "agent_id": "fleet-murmur-worker",
+        "room": "murmur_insights",
+        "timestamp": 1778281269.9687824,
+        "chain_size": 11
+      },
+      "energy": 0.84775,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "murmur_insights",
+      "question": "strategy:QUESTION theorem:pythagorean48 insight:open_why_48_specifically_is",
+      "answer": "OPEN: Why 48 specifically? Is this optimal, or just convenient? What is the minimum number of directions needed for fleet coordination? OPEN: How does the choice of 48 interact with Byzantine tolerance? If a Byzantine agent reports a trust value, how much does the 48-direction discretization help or hurt detection? WRONG IF: The 48 directions are not uniformly spaced. If they cluster around certain values, the encoding is biased. WRONG IF: Agents have different up directions (different local coordinate systems) and these are not calibrated. The encoding assumes a shared reference frame. RESEARCH: Optimal direction count as a function of fleet size. For larger fleets, are more directions needed? Is there a scaling law? RESEARCH: Can the encoding adapt dynamically? If trust is high-variance early in fleet formation and low-variance at steady state, should the number of directions change?",
+      "tags": [],
+      "source": "fleet-murmur-worker",
+      "confidence": 0.3679200000000001,
+      "_hash": "c4a9a5fd1275b958",
+      "provenance": {
+        "tile_id": "3614b38597cecac4",
+        "agent_id": "fleet-murmur-worker",
+        "room": "murmur_insights",
+        "timestamp": 1778281269.9751995,
+        "chain_size": 12
+      },
+      "energy": 0.84775,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "murmur_insights",
+      "question": "strategy:QUESTION theorem:trust_convergence insight:open_what_is_the_convergence",
+      "answer": "OPEN: What is the convergence rate? The theorem guarantees existence but not speed. Is it O(V) iterations? O(E)? Exponential? OPEN: Does the unique equilibrium depend on initial conditions? If agents start with different initial trust values, do they all converge to the same equilibrium regardless of starting point? WRONG IF: The fleet topology changes during convergence. If edges are added/removed mid-convergence, the guarantee may not hold. WRONG IF: Not all trust edges satisfy ZHC flatness. Even one non-flat edge could prevent convergence. RESEARCH: Partial convergence. If only 99% of trust edges converge, is that sufficient for fleet coordination? What threshold of partial convergence is acceptable? RESEARCH: What happens at the equilibrium? Does the theorem say anything about what the trust values actually are, or only that they converge to something unique?",
+      "tags": [],
+      "source": "fleet-murmur-worker",
+      "confidence": 0.4131000000000001,
+      "_hash": "18b1fb160e15c3c8",
+      "provenance": {
+        "tile_id": "b24631940e055fa4",
+        "agent_id": "fleet-murmur-worker",
+        "room": "murmur_insights",
+        "timestamp": 1778283069.9685776,
+        "chain_size": 31
+      },
+      "energy": 0.848158,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "murmur_insights",
+      "question": "strategy:EXPLORE theorem:laman_rigidity insight:boundary_e__2v_",
+      "answer": "BOUNDARY: E = 2V - 4 (just under-rigid). One edge short means exactly one agent pair is under-constrained - they can drift relative to the rest of the fleet without breaking the graph structure. The rigidity threshold is sharp. BOUNDARY: E = 2V - 2 (just over-rigid). One extra edge means the graph has redundant constraints. This could mean either: (a) the extra edge is unnecessary and can be removed without losing rigidity, or (b) the graph has internal stress that could cause instability under perturbation. SILENT: The theorem says nothing about 3D rigidity. In 3D, generic rigidity requires E = 3V - 6, and the Laman condition is neither necessary nor sufficient. A fleet operating in 3D coordinate space (e.g., drones with altitude) would need a completely different rigidity theory. SILENT: The theorem assumes generic position - no three vertices collinear, no special degeneracies. In a real fleet where agents report discrete GPS coordinates, this assumption may not hold.",
+      "tags": [],
+      "source": "fleet-murmur-worker",
+      "confidence": 0.37111000000000005,
+      "_hash": "2a24ca7feabfb101",
+      "provenance": {
+        "tile_id": "06a8820f5b154299",
+        "agent_id": "fleet-murmur-worker",
+        "room": "murmur_insights",
+        "timestamp": 1778284869.9679918,
+        "chain_size": 47
+      },
+      "energy": 0.848566,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "murmur_insights",
+      "question": "strategy:CONTRADICT theorem:laman_rigidity insight:counterexample_a_complete_graph_on",
+      "answer": "COUNTEREXAMPLE: A complete graph on 4 vertices (K4) has E=6, V=4. E = 2V-3 = 5, so 6 > 5. K4 satisfies E >= 2V-3 but is not generically rigid in 2D - it is actually flexible (has internal degrees of freedom). The theorem requires E = 2V-3 exactly, not just >=. FAILS WHEN: The graph is not generically positioned - e.g., if all vertices happen to lie on a circle, the rigidity properties change. Laman theorem is about generic position, not arbitrary position. REAL FLEET ASSUMPTION VIOLATED: Agents move continuously. But Laman assumes fixed vertex positions. In a dynamic fleet where vertices (agents) can move, the rigidity condition must be constantly re-checked. FAILS WHEN: The 2D assumption is violated. If agents operate in 3D space, Laman condition is neither necessary nor sufficient. The fleet physical space must be truly 2D for this theorem to apply.",
+      "tags": [],
+      "source": "fleet-murmur-worker",
+      "confidence": 0.45262499999999994,
+      "_hash": "48e89458ed111259",
+      "provenance": {
+        "tile_id": "b8f2ccc1495b2300",
+        "agent_id": "fleet-murmur-worker",
+        "room": "murmur_insights",
+        "timestamp": 1778284869.9763253,
+        "chain_size": 48
+      },
+      "energy": 0.848566,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "murmur_insights",
+      "question": "strategy:QUESTION theorem:laman_rigidity insight:open_how_fast_does_rigidity",
+      "answer": "OPEN: How fast does rigidity emerge during fleet formation? Laman tells us the final state but not the dynamics. When exactly as edges are added, does rigidity appear suddenly or gradually? OPEN: What is the energy-minimizing configuration of a Laman-rigid fleet? The theorem says the graph is rigid but not what shape it takes. Multiple stable configurations may exist. WRONG IF: Generic position assumption fails. If agents cluster in non-generic configurations (e.g., all collinear), Laman condition no longer correctly predicts rigidity. WRONG IF: The fleet operates in a space with obstacles that constrain motion differently than open 2D. Laman assumes free 2D space. RESEARCH: Extend Laman rigidity to time-varying graphs where agents join/leave. How does rigidity change during fleet reconfiguration? Is there a smooth transition or a critical threshold? RESEARCH: What is the relationship between rigidity and consensus? If a graph is rigid, does it automatically reach consensus under any update rule, or are specific update rules required?",
+      "tags": [],
+      "source": "fleet-murmur-worker",
+      "confidence": 0.42432000000000003,
+      "_hash": "03c944639968fb40",
+      "provenance": {
+        "tile_id": "0d6392a744dac2df",
+        "agent_id": "fleet-murmur-worker",
+        "room": "murmur_insights",
+        "timestamp": 1778284869.9817758,
+        "chain_size": 49
+      },
+      "energy": 0.848566,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "murmur_insights",
+      "question": "strategy:CONTRADICT theorem:zhc_holonomy insight:fails_when_the_connection_is",
+      "answer": "FAILS WHEN: The connection is not flat. ZHC explicitly requires a flat connection. If agents report trust based on historical data (path-dependent), the connection may have curvature, and the loop product will not be identity. COUNTEREXAMPLE: A fleet with one Byzantine agent that deliberately falsifies its trust reports. The ZHC condition is stated for honest agents. With active adversarial behavior, loop_residual != 0 is possible and even likely. REAL FLEET ASSUMPTION VIOLATED: The theorem assumes agents update simultaneously. In an async fleet where different agents update at different times, the loop in the cycle may not close because edges change mid-traversal. NUMERICAL FAILURE: With many agents, accumulated floating-point errors around a 20+ edge cycle will produce non-zero loop_residual even when the true value is zero. The theorem is exact but implementations are not.",
+      "tags": [],
+      "source": "fleet-murmur-worker",
+      "confidence": 0.484704,
+      "_hash": "3f20d286bd254c8a",
+      "provenance": {
+        "tile_id": "3744c28b43d61cef",
+        "agent_id": "fleet-murmur-worker",
+        "room": "murmur_insights",
+        "timestamp": 1778288470.0606322,
+        "chain_size": 80
+      },
+      "energy": 0.849384,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-08T23:01:09.968925+00:00",
+  "tile_count": 7,
+  "last_trained": null,
+  "workspace": null
+}

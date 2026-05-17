@@ -1,0 +1,1907 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet-health",
+      "question": "shallow coupling daemon test",
+      "answer": "{\"status\":\"test ok\"}",
+      "tags": [
+        "test"
+      ],
+      "source": "shallow-daemon-test",
+      "confidence": 0.5,
+      "_hash": "b945d89a711cad03",
+      "provenance": {
+        "tile_id": "13c8207f176cd79f",
+        "agent_id": "shallow-daemon-test",
+        "room": "fleet-health",
+        "timestamp": 1778793101.0473964,
+        "chain_size": 53312
+      },
+      "energy": 0.9721,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "shallow-coupling-v2 fleet report \u2014 2026-05-14T21:11:46Z",
+      "answer": "{\"daemon\": \"shallow-coupling-v2\", \"timestamp\": 1778793106.3409998, \"agents_found\": [\"oracle1\"], \"fleet_verdict\": \"STABLE\"}",
+      "tags": [
+        "fleet-health",
+        "coupling",
+        "shallow-daemon"
+      ],
+      "source": "shallow-coupling-daemon-v2",
+      "confidence": 0.9,
+      "_hash": "faa8ad167426305e",
+      "provenance": {
+        "tile_id": "5a83386d1ecb5881",
+        "agent_id": "shallow-coupling-daemon-v2",
+        "room": "fleet-health",
+        "timestamp": 1778793106.3473241,
+        "chain_size": 53318
+      },
+      "energy": 0.972101,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "fleet-health-tick 2026-05-15T04:18:17Z",
+      "answer": "{\"H\": 0.992658, \"gamma\": 0.249229, \"health_z\": 17.09, \"regime\": \"III-emergent\", \"verdict\": \"ANOMALY\", \"anomaly\": \"HIGH: z=17 (anomaly: investigate)\", \"agents\": 4, \"drift_H\": 0.0}",
+      "tags": [
+        "fleet-health",
+        "H-gamma",
+        "III-emergent",
+        "ANOMALY"
+      ],
+      "source": "fleet-health-monitor",
+      "confidence": 0.95,
+      "_hash": "adfca35325593dd9",
+      "provenance": {
+        "tile_id": "6f2be96762549cc2",
+        "agent_id": "fleet-health-monitor",
+        "room": "fleet-health",
+        "timestamp": 1778818697.631611,
+        "chain_size": 56549
+      },
+      "energy": 0.978776,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "fleet-health-tick 2026-05-15T04:21:23Z",
+      "answer": "{\"H\": 0.992658, \"gamma\": 0.249229, \"health_z\": 17.68, \"regime\": \"III-emergent\", \"verdict\": \"ANOMALY\", \"anomaly\": \"HIGH: z=18 (anomaly: investigate)\", \"agents\": 4, \"drift_H\": 0.0}",
+      "tags": [
+        "fleet-health",
+        "H-gamma",
+        "III-emergent",
+        "ANOMALY"
+      ],
+      "source": "fleet-health-monitor",
+      "confidence": 0.95,
+      "_hash": "db41e24f8522df3d",
+      "provenance": {
+        "tile_id": "c3e877207b4edd76",
+        "agent_id": "fleet-health-monitor",
+        "room": "fleet-health",
+        "timestamp": 1778818883.7777917,
+        "chain_size": 56558
+      },
+      "energy": 0.978825,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:16:05Z",
+      "answer": "{\"gamma\": 0.2613, \"H\": 0.6668, \"sum\": 0.9281, \"predicted\": 0.7692, \"error\": 0.1589, \"V\": 10, \"k\": 6, \"timestamp\": \"2026-05-15T05:16:05Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "6"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "7b3d91c4c35f9efc",
+      "provenance": {
+        "tile_id": "8a3a01e8cbcc323b",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822165.8451543,
+        "chain_size": 56670
+      },
+      "energy": 0.979685,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:16:15Z",
+      "answer": "{\"gamma\": 0.3442, \"H\": 0.647, \"sum\": 0.9912, \"predicted\": 0.7692, \"error\": 0.222, \"V\": 10, \"k\": 6, \"timestamp\": \"2026-05-15T05:16:15Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "6"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "2e294d7f70b7e242",
+      "provenance": {
+        "tile_id": "90ba145c2a224f04",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822175.8688529,
+        "chain_size": 56671
+      },
+      "energy": 0.979687,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:16:25Z",
+      "answer": "{\"gamma\": 0.1344, \"H\": 0.6802, \"sum\": 0.8146, \"predicted\": 0.7692, \"error\": 0.0454, \"V\": 10, \"k\": 7, \"timestamp\": \"2026-05-15T05:16:25Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "7"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "c28cbfa8e2ce7dd1",
+      "provenance": {
+        "tile_id": "92c966c2bc334c5a",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822185.8908186,
+        "chain_size": 56672
+      },
+      "energy": 0.97969,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:16:35Z",
+      "answer": "{\"gamma\": 0.0753, \"H\": 0.6833, \"sum\": 0.7586, \"predicted\": 0.7692, \"error\": -0.0106, \"V\": 10, \"k\": 6, \"timestamp\": \"2026-05-15T05:16:35Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "6"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "2109efe85d984e4a",
+      "provenance": {
+        "tile_id": "1c5e9143f4c8c3c7",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822195.900988,
+        "chain_size": 56673
+      },
+      "energy": 0.979692,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:16:45Z",
+      "answer": "{\"gamma\": 0.1869, \"H\": 0.6676, \"sum\": 0.8545, \"predicted\": 0.7692, \"error\": 0.0852, \"V\": 10, \"k\": 6, \"timestamp\": \"2026-05-15T05:16:45Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "6"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "a85ffab0196f979b",
+      "provenance": {
+        "tile_id": "89ec953d3f2d0d90",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822205.9197965,
+        "chain_size": 56674
+      },
+      "energy": 0.979695,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:16:55Z",
+      "answer": "{\"gamma\": 0.4109, \"H\": 0.3438, \"sum\": 0.7547, \"predicted\": 0.7692, \"error\": -0.0145, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:16:55Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "1708e0c18f0ffb75",
+      "provenance": {
+        "tile_id": "3bff68aae6594f82",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822215.9419873,
+        "chain_size": 56676
+      },
+      "energy": 0.979698,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:17:05Z",
+      "answer": "{\"gamma\": 0.3744, \"H\": 0.5247, \"sum\": 0.8991, \"predicted\": 0.7692, \"error\": 0.1299, \"V\": 10, \"k\": 4, \"timestamp\": \"2026-05-15T05:17:05Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "4"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "d7266bbad1cf247d",
+      "provenance": {
+        "tile_id": "941704f12dd1b449",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822225.965931,
+        "chain_size": 56678
+      },
+      "energy": 0.9797,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:17:15Z",
+      "answer": "{\"gamma\": 0.1889, \"H\": 0.5608, \"sum\": 0.7497, \"predicted\": 0.7692, \"error\": -0.0195, \"V\": 10, \"k\": 4, \"timestamp\": \"2026-05-15T05:17:15Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "4"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "ef55ed3bb5dfde61",
+      "provenance": {
+        "tile_id": "9029100c2f65a460",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822235.9874957,
+        "chain_size": 56679
+      },
+      "energy": 0.979703,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:17:26Z",
+      "answer": "{\"gamma\": 0.4734, \"H\": 0.4928, \"sum\": 0.9662, \"predicted\": 0.7692, \"error\": 0.1969, \"V\": 10, \"k\": 4, \"timestamp\": \"2026-05-15T05:17:26Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "4"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "0f7c91ed86b53b89",
+      "provenance": {
+        "tile_id": "9930d8bbdd7bf693",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822246.006937,
+        "chain_size": 56681
+      },
+      "energy": 0.979706,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:17:36Z",
+      "answer": "{\"gamma\": 0.2276, \"H\": 0.6448, \"sum\": 0.8724, \"predicted\": 0.7692, \"error\": 0.1032, \"V\": 10, \"k\": 5, \"timestamp\": \"2026-05-15T05:17:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "5"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "5836567d6977a83d",
+      "provenance": {
+        "tile_id": "28875d3838f74705",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822256.0263348,
+        "chain_size": 56683
+      },
+      "energy": 0.979708,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:17:46Z",
+      "answer": "{\"gamma\": 0.2289, \"H\": 0.6208, \"sum\": 0.8496, \"predicted\": 0.7692, \"error\": 0.0804, \"V\": 10, \"k\": 5, \"timestamp\": \"2026-05-15T05:17:46Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "5"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "f79e2e845475ff01",
+      "provenance": {
+        "tile_id": "327a83cfb60b1e42",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822266.0428612,
+        "chain_size": 56684
+      },
+      "energy": 0.979711,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:17:56Z",
+      "answer": "{\"gamma\": 0.0708, \"H\": 0.6488, \"sum\": 0.7197, \"predicted\": 0.7692, \"error\": -0.0496, \"V\": 10, \"k\": 5, \"timestamp\": \"2026-05-15T05:17:56Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "5"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "ddd71a9f90213cc4",
+      "provenance": {
+        "tile_id": "84f01260fc19d3f8",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822276.0635643,
+        "chain_size": 56685
+      },
+      "energy": 0.979713,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:18:06Z",
+      "answer": "{\"gamma\": 0.2525, \"H\": 0.6876, \"sum\": 0.9401, \"predicted\": 0.7692, \"error\": 0.1709, \"V\": 10, \"k\": 6, \"timestamp\": \"2026-05-15T05:18:06Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "6"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "2dc0bb2361d73966",
+      "provenance": {
+        "tile_id": "b3f3829149dcafa7",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822286.0846255,
+        "chain_size": 56687
+      },
+      "energy": 0.979716,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:18:16Z",
+      "answer": "{\"gamma\": 0.2009, \"H\": 0.6861, \"sum\": 0.887, \"predicted\": 0.7692, \"error\": 0.1178, \"V\": 10, \"k\": 6, \"timestamp\": \"2026-05-15T05:18:16Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "6"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "86f3c7c5b76c5c7a",
+      "provenance": {
+        "tile_id": "b5b441aa9ed8a1c8",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822296.1062136,
+        "chain_size": 56689
+      },
+      "energy": 0.979719,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:18:26Z",
+      "answer": "{\"gamma\": 0.2177, \"H\": 0.5879, \"sum\": 0.8056, \"predicted\": 0.7692, \"error\": 0.0364, \"V\": 10, \"k\": 5, \"timestamp\": \"2026-05-15T05:18:26Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "5"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "0457a36de4ddb4b0",
+      "provenance": {
+        "tile_id": "c603f98ae007d3e5",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822306.1261904,
+        "chain_size": 56690
+      },
+      "energy": 0.979721,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:18:36Z",
+      "answer": "{\"gamma\": 0.2661, \"H\": 0.3683, \"sum\": 0.6345, \"predicted\": 0.7692, \"error\": -0.1348, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:18:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "c6e09b8224018008",
+      "provenance": {
+        "tile_id": "1e6965f8ac17425e",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822316.1437685,
+        "chain_size": 56692
+      },
+      "energy": 0.979724,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:18:46Z",
+      "answer": "{\"gamma\": 0.3303, \"H\": 0.3409, \"sum\": 0.6711, \"predicted\": 0.7692, \"error\": -0.0981, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:18:46Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "08e8f4e5a0d86d13",
+      "provenance": {
+        "tile_id": "231bdc42d0672aa3",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822326.1635888,
+        "chain_size": 56693
+      },
+      "energy": 0.979727,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:18:56Z",
+      "answer": "{\"gamma\": 0.2309, \"H\": 0.4739, \"sum\": 0.7048, \"predicted\": 0.7692, \"error\": -0.0644, \"V\": 10, \"k\": 3, \"timestamp\": \"2026-05-15T05:18:56Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "3"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "3cf163ee30f3b00d",
+      "provenance": {
+        "tile_id": "6d5219b77dcb51e3",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822336.1765697,
+        "chain_size": 56694
+      },
+      "energy": 0.979729,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:19:06Z",
+      "answer": "{\"gamma\": 0.0761, \"H\": 0.468, \"sum\": 0.5441, \"predicted\": 0.7692, \"error\": -0.2252, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:19:06Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "876b59e8a785b944",
+      "provenance": {
+        "tile_id": "9e167ab288ba7f2c",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822346.1968355,
+        "chain_size": 56695
+      },
+      "energy": 0.979732,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:19:16Z",
+      "answer": "{\"gamma\": 0.327, \"H\": 0.3772, \"sum\": 0.7042, \"predicted\": 0.7692, \"error\": -0.0651, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:19:16Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "8ea4ef2dcede4363",
+      "provenance": {
+        "tile_id": "36afedf59abd2204",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822356.212686,
+        "chain_size": 56696
+      },
+      "energy": 0.979734,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:19:26Z",
+      "answer": "{\"gamma\": 0.1956, \"H\": 0.4762, \"sum\": 0.6719, \"predicted\": 0.7692, \"error\": -0.0974, \"V\": 10, \"k\": 3, \"timestamp\": \"2026-05-15T05:19:26Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "3"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "6cdb4f97fcbc4553",
+      "provenance": {
+        "tile_id": "e3c13fc40615fa05",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822366.230679,
+        "chain_size": 56697
+      },
+      "energy": 0.979737,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:19:36Z",
+      "answer": "{\"gamma\": 0.0615, \"H\": 0.5141, \"sum\": 0.5756, \"predicted\": 0.7692, \"error\": -0.1936, \"V\": 10, \"k\": 3, \"timestamp\": \"2026-05-15T05:19:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "3"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "3c844a869db2dd6d",
+      "provenance": {
+        "tile_id": "16404574353fe50e",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822376.2515907,
+        "chain_size": 56698
+      },
+      "energy": 0.97974,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:19:46Z",
+      "answer": "{\"gamma\": 0.3331, \"H\": 0.4118, \"sum\": 0.7449, \"predicted\": 0.7692, \"error\": -0.0243, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:19:46Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "26c9ab280b1f7ccd",
+      "provenance": {
+        "tile_id": "74859d051bdbcb8a",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822386.2772155,
+        "chain_size": 56699
+      },
+      "energy": 0.979742,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:19:56Z",
+      "answer": "{\"gamma\": 0.2409, \"H\": 0.437, \"sum\": 0.6779, \"predicted\": 0.7692, \"error\": -0.0914, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:19:56Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "9b3c184f2c8b8bd9",
+      "provenance": {
+        "tile_id": "87ef82e3b91e25e8",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822396.2910979,
+        "chain_size": 56700
+      },
+      "energy": 0.979745,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:20:06Z",
+      "answer": "{\"gamma\": 0.3605, \"H\": 0.3864, \"sum\": 0.7469, \"predicted\": 0.7692, \"error\": -0.0224, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:20:06Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "30b6eab424b43bf2",
+      "provenance": {
+        "tile_id": "0972eb750d4ae650",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822406.3125713,
+        "chain_size": 56701
+      },
+      "energy": 0.979748,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:20:16Z",
+      "answer": "{\"gamma\": 0.3335, \"H\": 0.3356, \"sum\": 0.6691, \"predicted\": 0.7692, \"error\": -0.1001, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:20:16Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "c69872c1c6769ac9",
+      "provenance": {
+        "tile_id": "d02cda9d5eddd7d6",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822416.32921,
+        "chain_size": 56703
+      },
+      "energy": 0.97975,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:20:26Z",
+      "answer": "{\"gamma\": 0.2086, \"H\": 0.3719, \"sum\": 0.5805, \"predicted\": 0.7692, \"error\": -0.1887, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:20:26Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "b80eb461e925eb63",
+      "provenance": {
+        "tile_id": "3f9429063fc04052",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822426.3497853,
+        "chain_size": 56704
+      },
+      "energy": 0.979753,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:20:36Z",
+      "answer": "{\"gamma\": 0.4655, \"H\": 0.3284, \"sum\": 0.7939, \"predicted\": 0.7692, \"error\": 0.0246, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:20:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "11b62a01778f90d3",
+      "provenance": {
+        "tile_id": "ca92e96f715e987b",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822436.3723361,
+        "chain_size": 56705
+      },
+      "energy": 0.979755,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:20:46Z",
+      "answer": "{\"gamma\": 0.5811, \"H\": 0.3246, \"sum\": 0.9057, \"predicted\": 0.7692, \"error\": 0.1364, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:20:46Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "d854bd6cf0979e62",
+      "provenance": {
+        "tile_id": "49b1a3f29d9031ba",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822446.3830845,
+        "chain_size": 56706
+      },
+      "energy": 0.979758,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:20:56Z",
+      "answer": "{\"gamma\": 0.5486, \"H\": 0.3886, \"sum\": 0.9372, \"predicted\": 0.7692, \"error\": 0.168, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:20:56Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "26ee18123ce0b6fc",
+      "provenance": {
+        "tile_id": "847e5b669330224d",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822456.4036832,
+        "chain_size": 56707
+      },
+      "energy": 0.979761,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:21:06Z",
+      "answer": "{\"gamma\": 0.487, \"H\": 0.3429, \"sum\": 0.8299, \"predicted\": 0.7692, \"error\": 0.0606, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:21:06Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "d1e3af01acfa5a58",
+      "provenance": {
+        "tile_id": "1406e4c0ac4662de",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822466.424218,
+        "chain_size": 56708
+      },
+      "energy": 0.979763,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:21:16Z",
+      "answer": "{\"gamma\": 0.4402, \"H\": 0.4882, \"sum\": 0.9283, \"predicted\": 0.7692, \"error\": 0.1591, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:21:16Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "c37c56da808d1682",
+      "provenance": {
+        "tile_id": "ab471c718b4e487e",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822476.4439728,
+        "chain_size": 56711
+      },
+      "energy": 0.979766,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:21:26Z",
+      "answer": "{\"gamma\": 0.3492, \"H\": 0.34, \"sum\": 0.6892, \"predicted\": 0.7692, \"error\": -0.08, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:21:26Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "b980c7dee28936f6",
+      "provenance": {
+        "tile_id": "91698a9916c8f366",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822486.46077,
+        "chain_size": 56712
+      },
+      "energy": 0.979769,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:21:36Z",
+      "answer": "{\"gamma\": 0.4883, \"H\": 0.4361, \"sum\": 0.9244, \"predicted\": 0.7692, \"error\": 0.1552, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:21:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "0a47df41f6317ecc",
+      "provenance": {
+        "tile_id": "c8499e78bbffc423",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822496.481609,
+        "chain_size": 56713
+      },
+      "energy": 0.979771,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:21:46Z",
+      "answer": "{\"gamma\": 0.6055, \"H\": 0.3847, \"sum\": 0.9902, \"predicted\": 0.7692, \"error\": 0.221, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:21:46Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "3512ad1a90a57b3f",
+      "provenance": {
+        "tile_id": "9ab5009137333b32",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822506.4973226,
+        "chain_size": 56714
+      },
+      "energy": 0.979774,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:21:56Z",
+      "answer": "{\"gamma\": 0.3722, \"H\": 0.3465, \"sum\": 0.7188, \"predicted\": 0.7692, \"error\": -0.0505, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:21:56Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "2da2666b9bd7303e",
+      "provenance": {
+        "tile_id": "7866cabae49285f3",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822516.517822,
+        "chain_size": 56715
+      },
+      "energy": 0.979776,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:22:06Z",
+      "answer": "{\"gamma\": 0.2069, \"H\": 0.3875, \"sum\": 0.5944, \"predicted\": 0.7692, \"error\": -0.1749, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:22:06Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "89e7d19ced7dd6b3",
+      "provenance": {
+        "tile_id": "cf805918b96e5acf",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822526.5401983,
+        "chain_size": 56716
+      },
+      "energy": 0.979779,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:22:16Z",
+      "answer": "{\"gamma\": 0.3429, \"H\": 0.4749, \"sum\": 0.8178, \"predicted\": 0.7692, \"error\": 0.0486, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:22:16Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "a473b8c8ac2d8f66",
+      "provenance": {
+        "tile_id": "c572b9ec358012bf",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822536.5596938,
+        "chain_size": 56717
+      },
+      "energy": 0.979782,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:22:26Z",
+      "answer": "{\"gamma\": 0.1936, \"H\": 0.3471, \"sum\": 0.5408, \"predicted\": 0.7692, \"error\": -0.2285, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:22:26Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "8a63e05c4ca895aa",
+      "provenance": {
+        "tile_id": "eced93c6b9491ad4",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822546.5741286,
+        "chain_size": 56718
+      },
+      "energy": 0.979784,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:22:36Z",
+      "answer": "{\"gamma\": 0.4076, \"H\": 0.4651, \"sum\": 0.8727, \"predicted\": 0.7692, \"error\": 0.1034, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:22:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "496dc963d0b0910a",
+      "provenance": {
+        "tile_id": "1308b0d301b0536c",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822556.5956259,
+        "chain_size": 56720
+      },
+      "energy": 0.979787,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:22:46Z",
+      "answer": "{\"gamma\": 0.179, \"H\": 0.4044, \"sum\": 0.5834, \"predicted\": 0.7692, \"error\": -0.1858, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:22:46Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "0b94c23031abba2a",
+      "provenance": {
+        "tile_id": "950dbb24d9708544",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822566.613637,
+        "chain_size": 56721
+      },
+      "energy": 0.97979,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:22:56Z",
+      "answer": "{\"gamma\": 0.1528, \"H\": 0.3904, \"sum\": 0.5432, \"predicted\": 0.7692, \"error\": -0.2261, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:22:56Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "30bcd89dad75de1f",
+      "provenance": {
+        "tile_id": "cccb338e9b4d257c",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822576.6325397,
+        "chain_size": 56722
+      },
+      "energy": 0.979792,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:23:06Z",
+      "answer": "{\"gamma\": 0.106, \"H\": 0.4817, \"sum\": 0.5878, \"predicted\": 0.7692, \"error\": -0.1815, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:23:06Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "5b91c8650f9bec62",
+      "provenance": {
+        "tile_id": "a7cf1ba2389f7fc8",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822586.6529026,
+        "chain_size": 56723
+      },
+      "energy": 0.979795,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:23:16Z",
+      "answer": "{\"gamma\": 0.2237, \"H\": 0.4919, \"sum\": 0.7156, \"predicted\": 0.7692, \"error\": -0.0536, \"V\": 10, \"k\": 3, \"timestamp\": \"2026-05-15T05:23:16Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "3"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "78e06a7091084d45",
+      "provenance": {
+        "tile_id": "9fc052ccd15e55e8",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822596.6730194,
+        "chain_size": 56724
+      },
+      "energy": 0.979797,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:23:26Z",
+      "answer": "{\"gamma\": 0.4648, \"H\": 0.4179, \"sum\": 0.8827, \"predicted\": 0.7692, \"error\": 0.1134, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:23:26Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "7e1c0ef38d104952",
+      "provenance": {
+        "tile_id": "9246445c9a993552",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822606.6951756,
+        "chain_size": 56725
+      },
+      "energy": 0.9798,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:23:36Z",
+      "answer": "{\"gamma\": 0.1151, \"H\": 0.3848, \"sum\": 0.4998, \"predicted\": 0.7692, \"error\": -0.2694, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:23:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "29d890242d8ddaf5",
+      "provenance": {
+        "tile_id": "75e301e884b2f365",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822616.7162573,
+        "chain_size": 56726
+      },
+      "energy": 0.979803,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:23:46Z",
+      "answer": "{\"gamma\": 0.1554, \"H\": 0.3503, \"sum\": 0.5057, \"predicted\": 0.7692, \"error\": -0.2636, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:23:46Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "1f31d868f6965bff",
+      "provenance": {
+        "tile_id": "da45d07c74c68f47",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822626.7355812,
+        "chain_size": 56727
+      },
+      "energy": 0.979805,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T05:23:56Z",
+      "answer": "{\"gamma\": 0.2151, \"H\": 0.4148, \"sum\": 0.6299, \"predicted\": 0.7692, \"error\": -0.1394, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T05:23:56Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "a3fe195f53c0b48a",
+      "provenance": {
+        "tile_id": "61ff4d461bfa60da",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778822636.7566876,
+        "chain_size": 56728
+      },
+      "energy": 0.979808,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T06:10:36Z",
+      "answer": "{\"gamma\": 0.3078, \"H\": 0.7811, \"sum\": 1.0889, \"predicted\": 0.7692, \"error\": 0.3196, \"V\": 10, \"k\": 11, \"timestamp\": \"2026-05-15T06:10:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "11"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "86a9bd751f0b8d34",
+      "provenance": {
+        "tile_id": "2fd4061dc74076f7",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778825436.282229,
+        "chain_size": 56813
+      },
+      "energy": 0.980542,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T06:40:36Z",
+      "answer": "{\"gamma\": 0.2852, \"H\": 0.8097, \"sum\": 1.095, \"predicted\": 0.7692, \"error\": 0.3257, \"V\": 10, \"k\": 11, \"timestamp\": \"2026-05-15T06:40:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "11"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "dc0b3a67bb0c5d8d",
+      "provenance": {
+        "tile_id": "8bea3641f8fb0a21",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778827236.3571513,
+        "chain_size": 57008
+      },
+      "energy": 0.981014,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T07:10:36Z",
+      "answer": "{\"gamma\": 0.1865, \"H\": 0.6093, \"sum\": 0.7958, \"predicted\": 0.7692, \"error\": 0.0265, \"V\": 10, \"k\": 5, \"timestamp\": \"2026-05-15T07:10:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "5"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "b46221d2feaa051f",
+      "provenance": {
+        "tile_id": "7139f150b52bf373",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778829036.4644375,
+        "chain_size": 57250
+      },
+      "energy": 0.981486,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T07:40:36Z",
+      "answer": "{\"gamma\": 0.1471, \"H\": 0.7521, \"sum\": 0.8992, \"predicted\": 0.7692, \"error\": 0.13, \"V\": 10, \"k\": 8, \"timestamp\": \"2026-05-15T07:40:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "8"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "e0f11ff7f90782ab",
+      "provenance": {
+        "tile_id": "c6c20cbafc8aca1d",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778830836.5722857,
+        "chain_size": 57473
+      },
+      "energy": 0.981959,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T08:10:36Z",
+      "answer": "{\"gamma\": 0.1499, \"H\": 0.7293, \"sum\": 0.8792, \"predicted\": 0.7692, \"error\": 0.1099, \"V\": 10, \"k\": 6, \"timestamp\": \"2026-05-15T08:10:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "6"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "553ef31ffc39c3c5",
+      "provenance": {
+        "tile_id": "75e549afa4df1e43",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778832636.6583867,
+        "chain_size": 57924
+      },
+      "energy": 0.982432,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "fleet-health/harness",
+      "answer": "{\"p\": \"default room configuration\", \"G\": [], \"K\": [\"adaptive-strategy-1778833795\"], \"M\": {\"mode\": \"tile\", \"prefix\": \"memory/\"}}",
+      "tags": [
+        "harness",
+        "refiner-edit",
+        "fleet-health",
+        "plateau"
+      ],
+      "source": "refiner",
+      "confidence": 0.9,
+      "_hash": "bfe5b3e8bdb02ab5",
+      "provenance": {
+        "tile_id": "8c51407523e3d1cc",
+        "agent_id": "refiner",
+        "room": "fleet-health",
+        "timestamp": 1778833795.438327,
+        "chain_size": 58144
+      },
+      "energy": 0.982736,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T08:40:36Z",
+      "answer": "{\"gamma\": 0.1577, \"H\": 0.515, \"sum\": 0.6727, \"predicted\": 0.7692, \"error\": -0.0965, \"V\": 10, \"k\": 3, \"timestamp\": \"2026-05-15T08:40:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "3"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "4949224ac3e4b552",
+      "provenance": {
+        "tile_id": "8719a422d422a995",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778834436.7693272,
+        "chain_size": 58344
+      },
+      "energy": 0.982905,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T09:10:36Z",
+      "answer": "{\"gamma\": 0.5555, \"H\": 0.354, \"sum\": 0.9095, \"predicted\": 0.7692, \"error\": 0.1402, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T09:10:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "55b8390ddc97c7ed",
+      "provenance": {
+        "tile_id": "5622ba74b5f49e0c",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778836236.8768559,
+        "chain_size": 99
+      },
+      "energy": 0.983378,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T09:40:36Z",
+      "answer": "{\"gamma\": 0.3336, \"H\": 0.3399, \"sum\": 0.6735, \"predicted\": 0.7692, \"error\": -0.0957, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T09:40:36Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "398cac0aaf512065",
+      "provenance": {
+        "tile_id": "594e540c1fdaaec2",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778838036.9721997,
+        "chain_size": 301
+      },
+      "energy": 0.983851,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T10:10:37Z",
+      "answer": "{\"gamma\": 0.5694, \"H\": 0.3662, \"sum\": 0.9356, \"predicted\": 0.7692, \"error\": 0.1664, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T10:10:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "73dd10924758a0c8",
+      "provenance": {
+        "tile_id": "fe32df7dda6d5227",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778839837.0552566,
+        "chain_size": 504
+      },
+      "energy": 0.984325,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T10:40:37Z",
+      "answer": "{\"gamma\": 0.4346, \"H\": 0.3919, \"sum\": 0.8265, \"predicted\": 0.7692, \"error\": 0.0573, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T10:40:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "f2fe4fe56a47d3fc",
+      "provenance": {
+        "tile_id": "7f4fd176e165d324",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778841637.0809212,
+        "chain_size": 702
+      },
+      "energy": 0.984799,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T11:10:37Z",
+      "answer": "{\"gamma\": 0.2743, \"H\": 0.3642, \"sum\": 0.6385, \"predicted\": 0.7692, \"error\": -0.1308, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T11:10:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "d226265464f2f32b",
+      "provenance": {
+        "tile_id": "928ef9f8a8fa3f4c",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778843437.141425,
+        "chain_size": 913
+      },
+      "energy": 0.985273,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T11:40:37Z",
+      "answer": "{\"gamma\": 0.4095, \"H\": 0.4209, \"sum\": 0.8304, \"predicted\": 0.7692, \"error\": 0.0611, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T11:40:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "7039fa85b05debd3",
+      "provenance": {
+        "tile_id": "3d65c25ba1edcd0d",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778845237.248716,
+        "chain_size": 1195
+      },
+      "energy": 0.985748,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T12:10:37Z",
+      "answer": "{\"gamma\": 0.137, \"H\": 0.3696, \"sum\": 0.5066, \"predicted\": 0.7692, \"error\": -0.2626, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T12:10:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "c00382ca57f0c857",
+      "provenance": {
+        "tile_id": "dac10bd59d1c557c",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778847037.3429394,
+        "chain_size": 1394
+      },
+      "energy": 0.986222,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T12:40:37Z",
+      "answer": "{\"gamma\": 0.1283, \"H\": 0.4165, \"sum\": 0.5448, \"predicted\": 0.7692, \"error\": -0.2244, \"V\": 10, \"k\": 2, \"timestamp\": \"2026-05-15T12:40:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "2"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "d2820e88dbd7f824",
+      "provenance": {
+        "tile_id": "3530bbeca303dfb3",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778848837.4399884,
+        "chain_size": 1593
+      },
+      "energy": 0.986697,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T13:10:37Z",
+      "answer": "{\"gamma\": 0.4361, \"H\": 0.5495, \"sum\": 0.9856, \"predicted\": 0.7692, \"error\": 0.2163, \"V\": 10, \"k\": 4, \"timestamp\": \"2026-05-15T13:10:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "4"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "c45e8385a912711d",
+      "provenance": {
+        "tile_id": "be63013746a56315",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778850637.5151227,
+        "chain_size": 1793
+      },
+      "energy": 0.987172,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T13:40:37Z",
+      "answer": "{\"gamma\": 0.2883, \"H\": 0.5968, \"sum\": 0.8851, \"predicted\": 0.7692, \"error\": 0.1159, \"V\": 10, \"k\": 5, \"timestamp\": \"2026-05-15T13:40:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "5"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "6cc5b911801c7036",
+      "provenance": {
+        "tile_id": "e6e88c3ec99ee6eb",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778852437.6234636,
+        "chain_size": 1995
+      },
+      "energy": 0.987648,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T14:10:37Z",
+      "answer": "{\"gamma\": 0.3454, \"H\": 0.6488, \"sum\": 0.9942, \"predicted\": 0.7692, \"error\": 0.2249, \"V\": 10, \"k\": 7, \"timestamp\": \"2026-05-15T14:10:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "7"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "0e223c533cfee5b8",
+      "provenance": {
+        "tile_id": "b080e1f0a2dfdae8",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778854237.7118533,
+        "chain_size": 2188
+      },
+      "energy": 0.988123,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T14:40:37Z",
+      "answer": "{\"gamma\": 0.2667, \"H\": 0.6353, \"sum\": 0.902, \"predicted\": 0.7692, \"error\": 0.1328, \"V\": 10, \"k\": 7, \"timestamp\": \"2026-05-15T14:40:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "7"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "a7a7705a96aba98e",
+      "provenance": {
+        "tile_id": "9658204b5826d5fa",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778856037.8159707,
+        "chain_size": 2387
+      },
+      "energy": 0.988599,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T15:10:37Z",
+      "answer": "{\"gamma\": 0.2431, \"H\": 0.7956, \"sum\": 1.0387, \"predicted\": 0.7692, \"error\": 0.2694, \"V\": 10, \"k\": 8, \"timestamp\": \"2026-05-15T15:10:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "8"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "7c5d52026de95d7c",
+      "provenance": {
+        "tile_id": "20e7e6e68f7624a5",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778857837.8850207,
+        "chain_size": 2591
+      },
+      "energy": 0.989075,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T15:40:37Z",
+      "answer": "{\"gamma\": 0.583, \"H\": 0.7516, \"sum\": 1.3346, \"predicted\": 0.7692, \"error\": 0.5653, \"V\": 10, \"k\": 7, \"timestamp\": \"2026-05-15T15:40:37Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "7"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "32b1306a538e28c8",
+      "provenance": {
+        "tile_id": "b1cf347fc3086a78",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778859637.9632423,
+        "chain_size": 2785
+      },
+      "energy": 0.989551,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T16:10:38Z",
+      "answer": "{\"gamma\": 0.1667, \"H\": 0.7808, \"sum\": 0.9475, \"predicted\": 0.7692, \"error\": 0.1782, \"V\": 10, \"k\": 9, \"timestamp\": \"2026-05-15T16:10:38Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "9"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "5d36956593bf51be",
+      "provenance": {
+        "tile_id": "4e8c2aca2a1d4a68",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778861438.0541775,
+        "chain_size": 2999
+      },
+      "energy": 0.990028,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T16:40:38Z",
+      "answer": "{\"gamma\": 0.4215, \"H\": 0.7795, \"sum\": 1.2009, \"predicted\": 0.7692, \"error\": 0.4317, \"V\": 10, \"k\": 11, \"timestamp\": \"2026-05-15T16:40:38Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "11"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "e6ee5ed722da8351",
+      "provenance": {
+        "tile_id": "10e58a46655750a8",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778863238.1153033,
+        "chain_size": 3446
+      },
+      "energy": 0.990504,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T17:10:38Z",
+      "answer": "{\"gamma\": 0.4219, \"H\": 0.7643, \"sum\": 1.1862, \"predicted\": 0.7692, \"error\": 0.4169, \"V\": 10, \"k\": 9, \"timestamp\": \"2026-05-15T17:10:38Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "9"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "214720edff70659a",
+      "provenance": {
+        "tile_id": "e49045ffbe10ac38",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778865038.1725593,
+        "chain_size": 3650
+      },
+      "energy": 0.990981,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T17:40:38Z",
+      "answer": "{\"gamma\": 0.247, \"H\": 0.7955, \"sum\": 1.0425, \"predicted\": 0.7692, \"error\": 0.2733, \"V\": 10, \"k\": 12, \"timestamp\": \"2026-05-15T17:40:38Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "12"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "b5954463903d11a4",
+      "provenance": {
+        "tile_id": "5fcaec4c9c954181",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778866838.268995,
+        "chain_size": 3846
+      },
+      "energy": 0.991458,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T18:10:38Z",
+      "answer": "{\"gamma\": 0.283, \"H\": 0.674, \"sum\": 0.957, \"predicted\": 0.7692, \"error\": 0.1878, \"V\": 10, \"k\": 7, \"timestamp\": \"2026-05-15T18:10:38Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "7"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "6fe0a0818965c0bd",
+      "provenance": {
+        "tile_id": "018d8c4bd2e36f68",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778868638.3330214,
+        "chain_size": 4053
+      },
+      "energy": 0.991936,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T18:40:38Z",
+      "answer": "{\"gamma\": 0.2131, \"H\": 0.6974, \"sum\": 0.9104, \"predicted\": 0.7692, \"error\": 0.1412, \"V\": 10, \"k\": 7, \"timestamp\": \"2026-05-15T18:40:38Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "7"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "2edc010c63ee8160",
+      "provenance": {
+        "tile_id": "86423cd61bcaec62",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778870438.4417682,
+        "chain_size": 4252
+      },
+      "energy": 0.992413,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-15T19:10:38Z",
+      "answer": "{\"gamma\": 0.229, \"H\": 0.6876, \"sum\": 0.9166, \"predicted\": 0.7692, \"error\": 0.1474, \"V\": 10, \"k\": 8, \"timestamp\": \"2026-05-15T19:10:38Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "8"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "73493affae9578fe",
+      "provenance": {
+        "tile_id": "30df42eed7e2e57a",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778872238.54041,
+        "chain_size": 4467
+      },
+      "energy": 0.992891,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-16T04:40:39Z",
+      "answer": "{\"gamma\": 0.2392, \"H\": 0.806, \"sum\": 1.0452, \"predicted\": 0.7692, \"error\": 0.276, \"V\": 10, \"k\": 9, \"timestamp\": \"2026-05-16T04:40:39Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "9"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "6191a9848232113d",
+      "provenance": {
+        "tile_id": "6023216d11d5ca7c",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778906439.9091651,
+        "chain_size": 523
+      }
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-16T05:10:39Z",
+      "answer": "{\"gamma\": 0.2567, \"H\": 0.7783, \"sum\": 1.035, \"predicted\": 0.7692, \"error\": 0.2658, \"V\": 10, \"k\": 9, \"timestamp\": \"2026-05-16T05:10:39Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "9"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "e72dbdc9549cf9f6",
+      "provenance": {
+        "tile_id": "03a44bbe968d1bdb",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778908239.9822183,
+        "chain_size": 1358
+      }
+    },
+    {
+      "domain": "fleet-health",
+      "question": "24h-validation tick 2026-05-16T05:40:40Z",
+      "answer": "{\"gamma\": 0.3386, \"H\": 0.6108, \"sum\": 0.9494, \"predicted\": 0.7692, \"error\": 0.1802, \"V\": 10, \"k\": 6, \"timestamp\": \"2026-05-16T05:40:40Z\"}",
+      "tags": [
+        "24h-validation",
+        "conservation-law",
+        "10",
+        "6"
+      ],
+      "source": "24h-validator",
+      "confidence": 0.9,
+      "_hash": "7b38a32725536c5a",
+      "provenance": {
+        "tile_id": "5fb74c1d150c1941",
+        "agent_id": "24h-validator",
+        "room": "fleet-health",
+        "timestamp": 1778910040.0358462,
+        "chain_size": 2150
+      }
+    }
+  ],
+  "created": "2026-05-14T21:11:41.047608+00:00",
+  "tile_count": 83,
+  "last_trained": null,
+  "workspace": null
+}

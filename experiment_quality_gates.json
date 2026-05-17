@@ -1,0 +1,44 @@
+{
+  "tiles": [
+    {
+      "domain": "experiment_quality_gates",
+      "question": "What is the normal operating temperature range for the port engine under full load in the Bering Sea during winter months?",
+      "answer": "The normal range is 140-200\u00b0F, with critical threshold at 210\u00b0F. At full load in cold water, expect the lower end of the range.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.5,
+      "_hash": "6a0a9e9f425345ce",
+      "provenance": {
+        "tile_id": "a574e0c080293faf",
+        "agent_id": "experiment",
+        "room": "experiment_quality_gates",
+        "timestamp": 1778661028.5772588,
+        "chain_size": 8111
+      },
+      "energy": 0.938366,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_quality_gates",
+      "question": "What is the engine model?",
+      "answer": "{\"make\": \"Caterpillar\", \"model\": \"C18 ACERT\", \"year\": 2022, \"hp\": 700}",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "fcd6c4687612f8d8",
+      "provenance": {
+        "tile_id": "a76adb5e468801b4",
+        "agent_id": "experiment",
+        "room": "experiment_quality_gates",
+        "timestamp": 1778661028.5852385,
+        "chain_size": 8112
+      },
+      "energy": 0.938366,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T08:30:28.577424+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

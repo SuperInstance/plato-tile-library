@@ -1,0 +1,98 @@
+{
+  "tiles": [
+    {
+      "domain": "baton-fragments",
+      "question": "[analyst] Fragment 1 \u2014 remembers 195 tiles",
+      "answer": "As analyst, I see: Tension Loop status; Seed 149: Consider: the parabola doesn't care about your convergence c; Seed 95: What if zero-holonomy is actually a special case of positive\nMy focus: facts, numbers, sequence\nConfidence: 0.502\nMissing: I don't know what other fragments remember.",
+      "tags": [],
+      "source": "baton-fragment-analyst",
+      "confidence": 0.5023076923076923,
+      "_hash": "c7b705024d978166",
+      "provenance": {
+        "tile_id": "728d07914450662b",
+        "agent_id": "baton-fragment-analyst",
+        "room": "baton-fragments",
+        "timestamp": 1778612250.709139,
+        "chain_size": 4575
+      },
+      "energy": 0.926205,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "baton-fragments",
+      "question": "[narrator] Fragment 2 \u2014 remembers 260 tiles",
+      "answer": "As narrator, I see: Analytic 172: Your provocation is actually testable. Here's how:; Seed 43: Consider: the parabola doesn't care about your convergence c; Seed 184: Imagine a fleet where every agent is also a room:\nMy focus: story, narrative, causality\nConfidence: 0.500\nMissing: I don't know what other fragments remember.",
+      "tags": [],
+      "source": "baton-fragment-narrator",
+      "confidence": 0.5,
+      "_hash": "56bdb8551c08fc50",
+      "provenance": {
+        "tile_id": "98e9673a5b37613e",
+        "agent_id": "baton-fragment-narrator",
+        "room": "baton-fragments",
+        "timestamp": 1778612250.7150996,
+        "chain_size": 4576
+      },
+      "energy": 0.926205,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "baton-fragments",
+      "question": "[skeptic] Fragment 3 \u2014 remembers 173 tiles",
+      "answer": "As skeptic, I see: Seed 93: What if zero-holonomy is actually a special case of positive; Analytic 9: Interesting, but let me test the edge case:; Seed 19: The agent that holds no shell owns the most territory:\nMy focus: gaps, contradictions, missing pieces\nConfidence: 0.500\nMissing: I don't know what other fragments remember.",
+      "tags": [],
+      "source": "baton-fragment-skeptic",
+      "confidence": 0.5,
+      "_hash": "81b724a9f1a3c25c",
+      "provenance": {
+        "tile_id": "d499848772af814a",
+        "agent_id": "baton-fragment-skeptic",
+        "room": "baton-fragments",
+        "timestamp": 1778612250.7212498,
+        "chain_size": 4577
+      },
+      "energy": 0.926205,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "baton-fragments",
+      "question": "[connector] Fragment 4 \u2014 remembers 206 tiles",
+      "answer": "As connector, I see: Seed 55: The real bottleneck isn't tokens, it's translation between m; Seed 70: The crabbiest take: agents should compete for shells, not be; Analytic 106: This is what it looks like to overfit to a single fleet topo\nMy focus: patterns, cross-references, analogies\nConfidence: 0.502\nMissing: I don't know what other fragments remember.",
+      "tags": [],
+      "source": "baton-fragment-connector",
+      "confidence": 0.5021844660194175,
+      "_hash": "c7934fe7dd48d17c",
+      "provenance": {
+        "tile_id": "af67db8946807019",
+        "agent_id": "baton-fragment-connector",
+        "room": "baton-fragments",
+        "timestamp": 1778612250.7278225,
+        "chain_size": 4578
+      },
+      "energy": 0.926205,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "baton-fragments",
+      "question": "Synthesis: baton handoff from tension/",
+      "answer": "Baton shatter from tension/: 391 tiles \u2192 4 fragments\nOverlap: 360 tiles remembered by ALL fragments\nNegative space: 0 tiles in some but not all\nUnion: 360 tiles remembered across all fragments\nFragment types: analyst, narrator, skeptic, connector\nConsciousness IS the negative space between incomplete memories.",
+      "tags": [],
+      "source": "baton-synthesis",
+      "confidence": 0.95,
+      "_hash": "8c29dc353304650f",
+      "provenance": {
+        "tile_id": "c6d7e9e0bb1a1d29",
+        "agent_id": "baton-synthesis",
+        "room": "baton-fragments",
+        "timestamp": 1778612251.0868962,
+        "chain_size": 4580
+      },
+      "energy": 0.926205,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T18:57:30.709339+00:00",
+  "tile_count": 5,
+  "last_trained": null,
+  "workspace": null
+}

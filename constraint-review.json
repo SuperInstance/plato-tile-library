@@ -1,0 +1,25 @@
+{
+  "tiles": [
+    {
+      "domain": "constraint-review",
+      "question": "Constraint review test",
+      "answer": "Reviewed grammar engine. 429 rules across safety and efficiency domains. Gate validates all submissions. System is robust.",
+      "source": "quick-formal",
+      "confidence": 0.8,
+      "_hash": "f411062f5cf98887",
+      "provenance": {
+        "tile_id": "0a3c9dcab4c42a66",
+        "agent_id": "quick-formal",
+        "room": "constraint-review",
+        "timestamp": 1778492281.6060352,
+        "chain_size": 74
+      },
+      "energy": 0.896962,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T09:38:01.606234+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

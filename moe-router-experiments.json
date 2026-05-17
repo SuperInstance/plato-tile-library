@@ -1,0 +1,62 @@
+{
+  "tiles": [
+    {
+      "domain": "moe-router-experiments",
+      "question": "MoE route: I need to understand the tension between",
+      "answer": "Query: I need to understand the tension between creativity and constraint in our architecture\nActivated: tension, forge, calibration\nPath: tension \u2192 synthesis \u2192 edge \u2192 calibration \u2192 forge \u2192 forge \u2192 calibration\n",
+      "tags": [],
+      "source": "moe-router",
+      "confidence": 0.85,
+      "_hash": "84f6afcfcf7c9c50",
+      "provenance": {
+        "tile_id": "190454fc28e63641",
+        "agent_id": "moe-router",
+        "room": "moe-router-experiments",
+        "timestamp": 1778642261.1796732,
+        "chain_size": 6661
+      },
+      "energy": 0.933668,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "moe-router-experiments",
+      "question": "MoE route: What experiments have we run on the Fort",
+      "answer": "Query: What experiments have we run on the Fortran compute claw?\nActivated: tension, forge, agent-oracle1\nPath: tension \u2192 synthesis \u2192 edge \u2192 calibration \u2192 forge \u2192 forge \u2192 agent-oracle1\n",
+      "tags": [],
+      "source": "moe-router",
+      "confidence": 0.85,
+      "_hash": "a7885b3106d729c7",
+      "provenance": {
+        "tile_id": "8331d1ce8cf38594",
+        "agent_id": "moe-router",
+        "room": "moe-router-experiments",
+        "timestamp": 1778642261.273422,
+        "chain_size": 6662
+      },
+      "energy": 0.933668,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "moe-router-experiments",
+      "question": "MoE route: How should we calibrate the alpha parame",
+      "answer": "Query: How should we calibrate the alpha parameter for fishinglog?\nActivated: calibration, tension, innovation-heartbeat\nPath: calibration \u2192 forge \u2192 tension \u2192 synthesis \u2192 edge \u2192 tension \u2192 innovation-heartbeat\n",
+      "tags": [],
+      "source": "moe-router",
+      "confidence": 0.85,
+      "_hash": "8733bd8e1f7db2dc",
+      "provenance": {
+        "tile_id": "e356314ce8d42a82",
+        "agent_id": "moe-router",
+        "room": "moe-router-experiments",
+        "timestamp": 1778642261.3266845,
+        "chain_size": 6663
+      },
+      "energy": 0.933668,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T03:17:41.179872+00:00",
+  "tile_count": 3,
+  "last_trained": null,
+  "workspace": null
+}

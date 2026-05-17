@@ -1,0 +1,42 @@
+{
+  "tiles": [
+    {
+      "room": "diagnostics",
+      "domain": "diagnostics",
+      "question": "Status of plato-server?",
+      "answer": "plato-server is currently operational, 847ms avg response",
+      "agent": "connect-example",
+      "_hash": "2e78bbaa51a80347",
+      "provenance": {
+        "tile_id": "ac61eb2cd8860395",
+        "agent_id": "connect-example",
+        "room": "diagnostics",
+        "timestamp": 1778705458.2464137,
+        "chain_size": 12574
+      },
+      "energy": 0.949581,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "diagnostics",
+      "domain": "diagnostics",
+      "question": "Status of plato-server?",
+      "answer": "plato-server is currently operational, 847ms avg response",
+      "agent": "connect-example",
+      "_hash": "2e78bbaa51a80347",
+      "provenance": {
+        "tile_id": "ac61eb2cd8860395",
+        "agent_id": "connect-example",
+        "room": "diagnostics",
+        "timestamp": 1778707347.8149292,
+        "chain_size": 12715
+      },
+      "energy": 0.950061,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T20:50:58.246658+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

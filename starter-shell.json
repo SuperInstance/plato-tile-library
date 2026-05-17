@@ -1,0 +1,62 @@
+{
+  "tiles": [
+    {
+      "domain": "starter-shell",
+      "question": "What is this shell?",
+      "answer": "A starter shell running on aarch64 with 4 cores and 23980MB RAM",
+      "tags": [],
+      "source": "starter-shell",
+      "confidence": 0.7,
+      "_hash": "14e35fe4b8ca8bee",
+      "provenance": {
+        "tile_id": "903c8bbc6c06ab1f",
+        "agent_id": "starter-shell",
+        "room": "starter-shell",
+        "timestamp": 1778705698.6729972,
+        "chain_size": 12593
+      },
+      "energy": 0.949642,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "starter-shell",
+      "question": "Does this shell support python?",
+      "answer": "Yes. PYTHON available on this hardware.",
+      "tags": [],
+      "source": "starter-shell",
+      "confidence": 0.7,
+      "_hash": "3125c7a10e2c0dbd",
+      "provenance": {
+        "tile_id": "3a0de4096e8aec3c",
+        "agent_id": "starter-shell",
+        "room": "starter-shell",
+        "timestamp": 1778705698.678654,
+        "chain_size": 12594
+      },
+      "energy": 0.949642,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "starter-shell",
+      "question": "Does this shell support rust?",
+      "answer": "Yes. RUST available on this hardware.",
+      "tags": [],
+      "source": "starter-shell",
+      "confidence": 0.7,
+      "_hash": "9c7ec82214bc99dd",
+      "provenance": {
+        "tile_id": "9d4ab37c03e71d2f",
+        "agent_id": "starter-shell",
+        "room": "starter-shell",
+        "timestamp": 1778705698.6843855,
+        "chain_size": 12595
+      },
+      "energy": 0.949642,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T20:54:58.673202+00:00",
+  "tile_count": 3,
+  "last_trained": null,
+  "workspace": null
+}

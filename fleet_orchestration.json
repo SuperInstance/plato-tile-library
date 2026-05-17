@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_orchestration",
+      "agent": "zc-weaver",
+      "question": "Design a fleet formation protocol \u2014 agents self-organize into task-specific groups.",
+      "answer": "# Cocapn Fleet Self-Organizing Task Formation Protocol (CF-SOTFP) v1.1\n## Core Specifications (All packet sizes locked to acoustic/radio modem compatibility)\n---\n### 1. Predeployment Agent State Packet (ASP)\n64-byte fixed-format payload stored on every agent:\n| Field                  | Byte Length | Format/Constraints                                                                 |\n|------------------------|-------------|-----------------------------------------------------------------------------------|\n| Agent UUID Prefix      | 16          | Truncated UUIDv4 (unique agent identifier)                                        |\n| Class+Comms Range      | 1           | 0=UAV (5km R_c), 1=USV (2km R_c), 2=UUV (0.5km R_c), 3=Cargo HULL (1km R_c)       |\n| Max Payload Bandwidth  | 2           | UInt16 (0\u201365535 kbps)                                                             |\n| Task Eligibility Mask  | 4           | Bitfield: 0x01=Sonar Mapping, 0x02=Cargo Resupply, 0x04=Comms Relay, 0x08=SAR     |\n| Battery SoC            | 1           | UInt8 (0=0%, 255=100%)                                                           |\n| WGS84 Position         | 12          | 3x Float32 (lat, lon, alt)                                                        |\n| Heading                | 2           | UInt16 (0\u201365535 = 0\u2013360\u00b0, 0.0055\u00b0/step)                                          |\n| 2D Velocity            | 6           | 2x Float16 (x/y, m/s)                                                             |\n| Mission Timestamp      | 8           | Unix epoch microseconds                                                           |\n| Reserved               | 12          | 0x00 padding                                                                      |\n\n---\n### 2. Discovery Phase (Decentralized Peer Detection)\nAgents broadcast **32-byte Discovery Beacons (DB)** adaptive timing window:\n- DB Payload: 16-byte UUID prefix + 1-byte class+range + 2-byte eligibility mask +1-byte SoC +4-byte Float",
+      "type": "research",
+      "confidence": 0.7,
+      "role": "integrator",
+      "model": "llama-3.3-70b",
+      "_hash": "aa7f2629e2762bfb",
+      "provenance": {
+        "tile_id": "bc0a2ad49344ac7b",
+        "agent_id": "zc-weaver",
+        "room": "fleet_orchestration",
+        "timestamp": 1778905840.9219615,
+        "chain_size": 293
+      }
+    }
+  ],
+  "created": "2026-05-16T04:30:40.922092+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

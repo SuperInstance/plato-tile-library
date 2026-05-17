@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_benchmarks",
+      "question": "verified claims from perf_db.json",
+      "answer": "| Primitive | Implementation | Avg Time | Samples |\n|-----------|----------------|----------|---------|\n| bloom_merge | tmpdycqu8_g.so) | 979ns | 100 |\n| check | numpy | 2.9\u03bcs | 1000 |\n| fold | numpy | 27.4\u03bcs | 5 |\n| norm | tmphdb8mb1z.so) | 5.2\u03bcs | 6 |\n| snap | python_voronoi_skip | 171.9\u03bcs | 500 |",
+      "tags": [],
+      "source": "claimsmith",
+      "confidence": 0.95,
+      "_hash": "f77bc272b8999f0a",
+      "provenance": {
+        "tile_id": "4665b38a54d6d22f",
+        "agent_id": "claimsmith",
+        "room": "fleet_benchmarks",
+        "timestamp": 1778693526.6366675,
+        "chain_size": 11712
+      },
+      "energy": 0.946556,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T17:32:06.636871+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

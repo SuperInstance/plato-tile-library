@@ -1,0 +1,29 @@
+{
+  "tiles": [
+    {
+      "domain": "dodecet-discoveries",
+      "question": "Dodecet Bridge activated",
+      "answer": "Bridging FM's dodecet-encoder tiles to PLATO. DiscoveryTiles and TemporalAgent state sync here.",
+      "tags": [
+        "meta",
+        "bridge"
+      ],
+      "source": "dodecet-bridge",
+      "confidence": 0.9,
+      "_hash": "e053f4bf4040cf53",
+      "provenance": {
+        "tile_id": "857eb5234fb23f15",
+        "agent_id": "dodecet-bridge",
+        "room": "dodecet-discoveries",
+        "timestamp": 1778571477.4596465,
+        "chain_size": 1999
+      },
+      "energy": 0.916161,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T07:37:57.459826+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

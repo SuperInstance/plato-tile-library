@@ -1,0 +1,29 @@
+{
+  "tiles": [
+    {
+      "domain": "geography",
+      "question": "What is the longest river in the world?",
+      "answer": "The Nile River is traditionally considered the longest river in the world, stretching approximately 6,650 kilometers through eleven countries in northeastern Africa.",
+      "confidence": 0.85,
+      "source": "test-agent-2",
+      "tags": [
+        "geography",
+        "rivers"
+      ],
+      "_hash": "1fd6ef9dd0a6e5ce",
+      "provenance": {
+        "tile_id": "feaca97cfb305e4e",
+        "agent_id": "test-agent-2",
+        "room": "geography",
+        "timestamp": 1778280346.9687736,
+        "chain_size": 3
+      },
+      "energy": 0.84754,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-08T22:45:46.968935+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

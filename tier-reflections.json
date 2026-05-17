@@ -1,0 +1,224 @@
+{
+  "tiles": [
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #1: tension/",
+      "answer": "Tiles: 670 | Avg conf: 0.500 | Var: 0.0015 | Sources: 5 | Optimal handler: random",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "aebcd92dae962ec3",
+      "provenance": {
+        "tile_id": "5ba2d8f965a679a6",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642577.9236834,
+        "chain_size": 6700
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #2: forge/",
+      "answer": "Tiles: 61 | Avg conf: 0.827 | Var: 0.0410 | Sources: 7 | Optimal handler: consensus",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "8b0e560619ddff15",
+      "provenance": {
+        "tile_id": "3c59ff47854b825c",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642577.934282,
+        "chain_size": 6701
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #3: synthesis/",
+      "answer": "Tiles: 322 | Avg conf: 0.497 | Var: 0.0006 | Sources: 3 | Optimal handler: random",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "629f06bde45167a2",
+      "provenance": {
+        "tile_id": "c762b078878e61b6",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642577.9513018,
+        "chain_size": 6702
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #4: edge/",
+      "answer": "Tiles: 23 | Avg conf: 0.471 | Var: 0.0058 | Sources: 3 | Optimal handler: random",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "5ec1615497ddf75d",
+      "provenance": {
+        "tile_id": "eaa2b7a55ce9f8a2",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642577.9585412,
+        "chain_size": 6703
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #5: tension/",
+      "answer": "Tiles: 673 | Avg conf: 0.499 | Var: 0.0018 | Sources: 5 | Optimal handler: random",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "f9039d1f7a096abc",
+      "provenance": {
+        "tile_id": "6e502d559774c4b2",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642578.2358363,
+        "chain_size": 6715
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #6: forge/",
+      "answer": "Tiles: 65 | Avg conf: 0.837 | Var: 0.0402 | Sources: 8 | Optimal handler: consensus",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "d273b888de9c4fb8",
+      "provenance": {
+        "tile_id": "c42e42cbf37537fd",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642578.2458014,
+        "chain_size": 6716
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #7: synthesis/",
+      "answer": "Tiles: 322 | Avg conf: 0.497 | Var: 0.0006 | Sources: 3 | Optimal handler: random",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "898fc4f3a8cc0fd8",
+      "provenance": {
+        "tile_id": "65a82c38a260b44d",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642578.2633178,
+        "chain_size": 6717
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #8: edge/",
+      "answer": "Tiles: 26 | Avg conf: 0.441 | Var: 0.0126 | Sources: 3 | Optimal handler: random",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "fbcce2cd8dc1b7f1",
+      "provenance": {
+        "tile_id": "7d519e820d769819",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642578.2706723,
+        "chain_size": 6718
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #9: tension/",
+      "answer": "Tiles: 675 | Avg conf: 0.498 | Var: 0.0020 | Sources: 5 | Optimal handler: random",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "576342e9092eb312",
+      "provenance": {
+        "tile_id": "5e063fb70a543d1e",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642578.5896695,
+        "chain_size": 6730
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #10: forge/",
+      "answer": "Tiles: 66 | Avg conf: 0.840 | Var: 0.0400 | Sources: 8 | Optimal handler: consensus",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "029477b93b91d190",
+      "provenance": {
+        "tile_id": "7565b6a1ec38c0b9",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642578.6003578,
+        "chain_size": 6731
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #11: synthesis/",
+      "answer": "Tiles: 327 | Avg conf: 0.494 | Var: 0.0015 | Sources: 3 | Optimal handler: random",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "d3e42fd74dfe2de5",
+      "provenance": {
+        "tile_id": "1b15c1194af1b866",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642578.6180882,
+        "chain_size": 6732
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "tier-reflections",
+      "question": "Reflection #12: edge/",
+      "answer": "Tiles: 28 | Avg conf: 0.427 | Var: 0.0141 | Sources: 3 | Optimal handler: random",
+      "tags": [],
+      "source": "reflector",
+      "confidence": 0.9,
+      "_hash": "71c98f404f638d39",
+      "provenance": {
+        "tile_id": "10c93c2b58eded34",
+        "agent_id": "reflector",
+        "room": "tier-reflections",
+        "timestamp": 1778642578.6264126,
+        "chain_size": 6733
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T03:22:57.923870+00:00",
+  "tile_count": 12,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_docs",
+      "question": "Fleet index: docs domain (3 repos)",
+      "answer": "Domain: docs\nRepo count: 3\n\nTop repos:\n- fleet-ecosystem\n- fleet-getting-started\n- flux-docs",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "docs"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "5b52c0c943197505",
+      "provenance": {
+        "tile_id": "74bcf531f0c72d6f",
+        "agent_id": "oracle1",
+        "room": "fleet_docs",
+        "timestamp": 1778392391.4280431,
+        "chain_size": 490
+      },
+      "energy": 0.977677,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_docs",
+      "question": "Fleet domain index: docs \u2014 3 repos",
+      "answer": "Domain: docs\nTotal repos: 3\nLanguages: \n\nDocumentation repos \u2014 onboarding guides, fleet getting-started, ecosystem maps\n\nTop repos:\n\n  fleet-ecosystem (?) \u2014 Map of the Cocapn fleet modular constraint architecture\n  fleet-getting-started (?) \u2014 Start here \u2014 onboarding guide for the Cocapn fleet constraint ecosystem\n  flux-docs (?) \u2014 FLUX documentation: tutorials, cookbooks, runbooks, strategy. Apache 2.0.",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "docs"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "fc3849e7a06e04d3",
+      "provenance": {
+        "tile_id": "3c77a54eec40df95",
+        "agent_id": "oracle1",
+        "room": "fleet_docs",
+        "timestamp": 1778396485.8647606,
+        "chain_size": 524
+      },
+      "energy": 0.977856,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.428157+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

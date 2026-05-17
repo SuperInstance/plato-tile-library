@@ -1,0 +1,314 @@
+{
+  "tiles": [
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Bach",
+      "answer": "{\n  \"composer\": \"Bach\",\n  \"pieces\": 4,\n  \"timing_signature\": 0.1446,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 12.03,\n  \"fingerprint_variance\": 101.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "d69114fd02b3e106",
+      "provenance": {
+        "tile_id": "92114a5f87b48c1d",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778745269.2435832,
+        "chain_size": 18415
+      },
+      "energy": 0.959745,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Beethoven",
+      "answer": "{\n  \"composer\": \"Beethoven\",\n  \"pieces\": 4,\n  \"timing_signature\": 0.1464,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 7.05,\n  \"fingerprint_variance\": 101.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "273d95aa7dcabccb",
+      "provenance": {
+        "tile_id": "4fd5e3a12e6006ff",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778745269.2518618,
+        "chain_size": 18416
+      },
+      "energy": 0.959745,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Chopin",
+      "answer": "{\n  \"composer\": \"Chopin\",\n  \"pieces\": 4,\n  \"timing_signature\": 0.1426,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 11.98,\n  \"fingerprint_variance\": 101.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "3773103963f3cbc4",
+      "provenance": {
+        "tile_id": "ed9c528b5bfd70cd",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778745269.257503,
+        "chain_size": 18417
+      },
+      "energy": 0.959745,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Debussy",
+      "answer": "{\n  \"composer\": \"Debussy\",\n  \"pieces\": 3,\n  \"timing_signature\": 0.1621,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 4.32,\n  \"fingerprint_variance\": 101.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "7a3dd273c073420a",
+      "provenance": {
+        "tile_id": "f0fc80ee091c8869",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778745269.2632458,
+        "chain_size": 18418
+      },
+      "energy": 0.959745,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Jazz",
+      "answer": "{\n  \"composer\": \"Jazz\",\n  \"pieces\": 3,\n  \"timing_signature\": 0.1288,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 22.68,\n  \"fingerprint_variance\": 101.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "0d2e2d6e966567b2",
+      "provenance": {
+        "tile_id": "5a23a47975588dd4",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778745269.2686813,
+        "chain_size": 18419
+      },
+      "energy": 0.959745,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Minimalist",
+      "answer": "{\n  \"composer\": \"Minimalist\",\n  \"pieces\": 3,\n  \"timing_signature\": 0.1424,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 8.93,\n  \"fingerprint_variance\": 101.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "dd296eae2c200cb3",
+      "provenance": {
+        "tile_id": "9c7b4bb2dff6e895",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778745269.2737334,
+        "chain_size": 18420
+      },
+      "energy": 0.959745,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Mozart",
+      "answer": "{\n  \"composer\": \"Mozart\",\n  \"pieces\": 4,\n  \"timing_signature\": 0.1383,\n  \"staccato_bias\": 0.8,\n  \"avg_interval\": 10.68,\n  \"fingerprint_variance\": 101.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "1f104e2606acbba4",
+      "provenance": {
+        "tile_id": "6be1c06921d2ac47",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778745269.279039,
+        "chain_size": 18421
+      },
+      "energy": 0.959745,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Schubert",
+      "answer": "{\n  \"composer\": \"Schubert\",\n  \"pieces\": 4,\n  \"timing_signature\": 0.145,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 7.46,\n  \"fingerprint_variance\": 101.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "49c04454285045c0",
+      "provenance": {
+        "tile_id": "c54d734118ab4780",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778745269.2853284,
+        "chain_size": 18422
+      },
+      "energy": 0.959745,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Bach",
+      "answer": "{\n  \"composer\": \"Bach\",\n  \"pieces\": 4,\n  \"timing_signature\": 0.1446,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 12.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "cc2653ac91fb0077",
+      "provenance": {
+        "tile_id": "fc87c9267fb1eef2",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778746279.9689412,
+        "chain_size": 18773
+      },
+      "energy": 0.960004,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Beethoven",
+      "answer": "{\n  \"composer\": \"Beethoven\",\n  \"pieces\": 4,\n  \"timing_signature\": 0.1464,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 7.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "ea4557cde68fc0b6",
+      "provenance": {
+        "tile_id": "441a710aafc149b3",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778746279.9741435,
+        "chain_size": 18774
+      },
+      "energy": 0.960004,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Chopin",
+      "answer": "{\n  \"composer\": \"Chopin\",\n  \"pieces\": 4,\n  \"timing_signature\": 0.1426,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 12.0\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "4d3680900cd1ad0f",
+      "provenance": {
+        "tile_id": "15126de0f8f7b6dd",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778746279.9793367,
+        "chain_size": 18775
+      },
+      "energy": 0.960004,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Debussy",
+      "answer": "{\n  \"composer\": \"Debussy\",\n  \"pieces\": 3,\n  \"timing_signature\": 0.1621,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 4.3\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "3a23fb6fed3e5674",
+      "provenance": {
+        "tile_id": "d87c107e48ae1137",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778746279.984437,
+        "chain_size": 18776
+      },
+      "energy": 0.960004,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Jazz",
+      "answer": "{\n  \"composer\": \"Jazz\",\n  \"pieces\": 3,\n  \"timing_signature\": 0.1288,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 22.7\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "c6d77b855111543f",
+      "provenance": {
+        "tile_id": "d0145f46f47bfaa7",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778746279.9897692,
+        "chain_size": 18777
+      },
+      "energy": 0.960004,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Minimalist",
+      "answer": "{\n  \"composer\": \"Minimalist\",\n  \"pieces\": 3,\n  \"timing_signature\": 0.1424,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 8.9\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "662bd5e32f05866b",
+      "provenance": {
+        "tile_id": "31d95e5e478d71e9",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778746279.9949334,
+        "chain_size": 18778
+      },
+      "energy": 0.960004,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Mozart",
+      "answer": "{\n  \"composer\": \"Mozart\",\n  \"pieces\": 4,\n  \"timing_signature\": 0.1383,\n  \"staccato_bias\": 0.8,\n  \"avg_interval\": 10.7\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "f68740cee622012e",
+      "provenance": {
+        "tile_id": "5952ccf7ab241d61",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778746279.9997263,
+        "chain_size": 18779
+      },
+      "energy": 0.960004,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Schubert",
+      "answer": "{\n  \"composer\": \"Schubert\",\n  \"pieces\": 4,\n  \"timing_signature\": 0.145,\n  \"staccato_bias\": 0.0,\n  \"avg_interval\": 7.5\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "445caf5ad7184252",
+      "provenance": {
+        "tile_id": "6b1e31c337ec433f",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778746280.004828,
+        "chain_size": 18780
+      },
+      "energy": 0.960004,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "style-library",
+      "question": "FINGERPRINT \u2014 Unknown",
+      "answer": "{\n  \"composer\": \"Unknown\",\n  \"pieces\": 21,\n  \"timing_signature\": 0.1343,\n  \"staccato_bias\": 0.571,\n  \"avg_interval\": 6.4\n}",
+      "tags": [],
+      "source": "style-decomposer",
+      "confidence": 0.85,
+      "_hash": "f24c0ac1a4b2ca68",
+      "provenance": {
+        "tile_id": "2d1355106aad1048",
+        "agent_id": "style-decomposer",
+        "room": "style-library",
+        "timestamp": 1778746280.0102286,
+        "chain_size": 18781
+      },
+      "energy": 0.960004,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-14T07:54:29.244134+00:00",
+  "tile_count": 17,
+  "last_trained": null,
+  "workspace": null
+}

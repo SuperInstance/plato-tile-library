@@ -1,0 +1,229 @@
+{
+  "tiles": [
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Scribe initialized for trigger_test",
+      "answer": "Digital twin builder started for trigger_test.",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "8ea54566641cb1fe",
+      "provenance": {
+        "tile_id": "17222c0673d3e8ca",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539656.199598,
+        "chain_size": 600
+      },
+      "energy": 0.908398,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"timestamp\", 1778539657.2040985, 1778539656.1907365]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "2bcc7721ddcd4b49",
+      "provenance": {
+        "tile_id": "e0ff32229ef2a159",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539657.2096608,
+        "chain_size": 601
+      },
+      "energy": 0.908398,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"tiles\", 1, 0]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "12bec3a52112350e",
+      "provenance": {
+        "tile_id": "97d3b2f977ba29e3",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539657.218185,
+        "chain_size": 602
+      },
+      "energy": 0.908398,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"timestamp\", 1778539658.2221293, 1778539657.2040985]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "4fc7686cdd8491c3",
+      "provenance": {
+        "tile_id": "115609e4e986da1a",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539658.2278075,
+        "chain_size": 603
+      },
+      "energy": 0.908398,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"tiles\", 3, 1]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "943e9790a311100c",
+      "provenance": {
+        "tile_id": "5a3372dbbab3b46b",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539658.2366974,
+        "chain_size": 604
+      },
+      "energy": 0.908398,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"divergences\", 2, 0]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "feb93282d543fe9d",
+      "provenance": {
+        "tile_id": "ce82bc4f188f2931",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539658.246247,
+        "chain_size": 605
+      },
+      "energy": 0.908398,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"timestamp\", 1778539659.2521386, 1778539658.2221293]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "fb24958c55d78d1d",
+      "provenance": {
+        "tile_id": "27f4053cf8bdf532",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539659.2588878,
+        "chain_size": 606
+      },
+      "energy": 0.908399,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"tiles\", 6, 3]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "ade335510967815e",
+      "provenance": {
+        "tile_id": "44dd8e40a0859c75",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539659.2673342,
+        "chain_size": 607
+      },
+      "energy": 0.908399,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"divergences\", 5, 2]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "28b99f40932047fd",
+      "provenance": {
+        "tile_id": "64e00668df82f819",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539659.2755241,
+        "chain_size": 608
+      },
+      "energy": 0.908399,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"timestamp\", 1778539660.2804203, 1778539659.2521386]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "0df975c74904802a",
+      "provenance": {
+        "tile_id": "f1c1a2bd85197afc",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539660.2875826,
+        "chain_size": 609
+      },
+      "energy": 0.908399,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"tiles\", 9, 6]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "7d345c588f6eb2b3",
+      "provenance": {
+        "tile_id": "46a22359780d4dc2",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539660.298338,
+        "chain_size": 610
+      },
+      "energy": 0.908399,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Trigger: out_of_bounds",
+      "answer": "Triggered: [\"out_of_bounds\", \"divergences\", 8, 5]",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "badc9fce19a758ad",
+      "provenance": {
+        "tile_id": "ad7ed7d590ca2778",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539660.3081105,
+        "chain_size": 611
+      },
+      "energy": 0.908399,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "scribe-trigger_test",
+      "question": "Scribe session complete \u2014 12 tiles, 11 divergences",
+      "answer": "Scribe ran 5 cycles for trigger_test. Submitted 12 tiles to PLATO room scribe-trigger_test. Detected 11 divergences. Saved 0 LLM calls by running on snapped gradients.",
+      "source": "scribe-trigger_test",
+      "confidence": 0.9,
+      "_hash": "1138dadfa2bcb044",
+      "provenance": {
+        "tile_id": "b0a994d9a3088b64",
+        "agent_id": "scribe-trigger_test",
+        "room": "scribe-trigger_test",
+        "timestamp": 1778539661.3194895,
+        "chain_size": 612
+      },
+      "energy": 0.908399,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T22:47:36.199809+00:00",
+  "tile_count": 13,
+  "last_trained": null,
+  "workspace": null
+}

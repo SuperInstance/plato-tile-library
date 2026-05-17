@@ -1,0 +1,7091 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_tools",
+      "question": "Fleet index: tools domain (81 repos)",
+      "answer": "Domain: tools\nRepo count: 81\n\nTop repos:\n- ActiveLog-MVP\n- ActiveLog-TechnicalRepo\n- BusinessLog\n- CRDT_Research\n- CascadeRouter\n- CognitiveEngine\n- Equipment-NLP-Explainer\n- FishingLog\n- FrontendHub\n- HOLOS\n- Lucineer\n- Lucineer-Stem-quest\n- MakerLog\n- PersonalLog\n- SmartCRDT\n- Spreader-tool\n- StudyLog\n- SuperInstance-papers\n- aboracle\n- activelog\n- agent\n- amplify-fishingtool\n- ap-compiler\n- bootstrap-spark\n- casting-call\n- casting-call-gpu\n- casting-call-mcp\n- character-library\n- chess-engine\n- circuit-breaker",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "tools"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "66460186d5d0dfc2",
+      "provenance": {
+        "tile_id": "76b1002cbfe85eb9",
+        "agent_id": "oracle1",
+        "room": "fleet_tools",
+        "timestamp": 1778392391.485039,
+        "chain_size": 502
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Fleet domain index: tools \u2014 81 repos",
+      "answer": "Domain: tools\nTotal repos: 81\nLanguages: C, Go, HTML, JavaScript, Makefile, Python, Rust, TypeScript\n\nUtilities \u2014 benchmarks, casting-call model dir, bootstrap-spark, describe-device, drift analyzer\n\nTop repos:\n\n  open-mythos-edge (Python) \u2014 Edge-optimized OpenMythos RDT for Jetson/ARM64 \u2014 pure PyTorch, no Triton, 1B/3B \n  SmartCRDT (TypeScript) \u2014 Utilizing CRDT technology for self-improving AI\n  bootstrap-spark (Python) \u2014 \ud83d\udfe2 Bootstrap Spark Protocol \u2014 self-describing agent knowledge in 6 markdown files\n  cocapn-benchmark (Python) \u2014 Cocapn fleet benchmark module\n  jc1-ct-bridge (Rust) \u2014 \n  old-school-machine-wisdom (C) \u2014 Old-school machine wisdom: FORTH threaded code, DGD trampoline JIT, MUD1 shared \n  repo-consolidation-plan (?) \u2014 SuperInstance repo consolidation analysis and roadmap (2026-05-05)\n  seed-creative-swarm (Python) \u2014 Ensemble of 3 Seed-mini + Seed-pro judge for creative generation\n  ActiveLog-MVP (?) \u2014 ActiveLog MVP - Activity tracking and logging application\n  ActiveLog-TechnicalRepo (?) \u2014 ActiveLog technical repository - Core implementation and technical documentation\n  BusinessLog (Python) \u2014 Business activity log \u2014 transactions, metrics, and operational records\n  CRDT_Research (Python) \u2014 CRDT-Based Intra-Chip Communication for AI Workloads\n  CascadeRouter (TypeScript) \u2014 Cascading routing system.\n  CognitiveEngine (Python) \u2014 Core cognitive processing engine.\n  Equipment-NLP-Explainer (TypeScript) \u2014 Generates human-readable descriptions of cell logic and operations\n  ... and 66 more",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "tools"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "d50aaeff193b1d4c",
+      "provenance": {
+        "tile_id": "a78720f0263e9f34",
+        "agent_id": "oracle1",
+        "room": "fleet_tools",
+        "timestamp": 1778396485.9364433,
+        "chain_size": 536
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "418 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "29e15049da5b3cc5",
+      "provenance": {
+        "tile_id": "820482dda8c7fb4d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778406187.0953882,
+        "chain_size": 577
+      },
+      "energy": 0.876547,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "419 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "7817827d2f37c34f",
+      "provenance": {
+        "tile_id": "af4ced3dc700bf43",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778406222.8296435,
+        "chain_size": 581
+      },
+      "energy": 0.876556,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "422 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "319d02ebdd38f9a2",
+      "provenance": {
+        "tile_id": "ddd1718ba30f9e76",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778407127.652403,
+        "chain_size": 586
+      },
+      "energy": 0.876768,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "425 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "82283445c83d56f6",
+      "provenance": {
+        "tile_id": "e639cf85af5194c0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778408032.5782762,
+        "chain_size": 591
+      },
+      "energy": 0.87698,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "428 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3d2e60123e7eb08f",
+      "provenance": {
+        "tile_id": "733681d350322c6d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778408938.0345547,
+        "chain_size": 595
+      },
+      "energy": 0.877192,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "431 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a3815ee1ee68e103",
+      "provenance": {
+        "tile_id": "9bc1564eefc233c5",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778409843.7886364,
+        "chain_size": 602
+      },
+      "energy": 0.877405,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "434 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e70b76a625960700",
+      "provenance": {
+        "tile_id": "a2fecd99145ea32a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778410748.742844,
+        "chain_size": 606
+      },
+      "energy": 0.877617,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "437 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "eed4fd5c4ab11cae",
+      "provenance": {
+        "tile_id": "eb0d9633720687ea",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778411653.851909,
+        "chain_size": 610
+      },
+      "energy": 0.87783,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "440 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "12f255ab051fe250",
+      "provenance": {
+        "tile_id": "e67af93ab0a50692",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778412558.7489622,
+        "chain_size": 614
+      },
+      "energy": 0.878042,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "443 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "10d8c0c2dd7085f9",
+      "provenance": {
+        "tile_id": "33c33702f54245bf",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778413463.7715778,
+        "chain_size": 618
+      },
+      "energy": 0.878254,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "446 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d982dffa5bd79507",
+      "provenance": {
+        "tile_id": "bb9b339df6a8efe4",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778414368.6479504,
+        "chain_size": 622
+      },
+      "energy": 0.878467,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "449 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3354f2a9ef9a9cd0",
+      "provenance": {
+        "tile_id": "1996133eb8427ef4",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778415273.5941596,
+        "chain_size": 626
+      },
+      "energy": 0.87868,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "452 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "22d7a2490f060575",
+      "provenance": {
+        "tile_id": "5d5b142c0c984c35",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778416178.7407508,
+        "chain_size": 630
+      },
+      "energy": 0.878892,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "455 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c88f8696977310a4",
+      "provenance": {
+        "tile_id": "8c355fdd31bff1c8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778417083.9117188,
+        "chain_size": 634
+      },
+      "energy": 0.879105,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "458 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "43c8082d9a6328ad",
+      "provenance": {
+        "tile_id": "e5ed13bada80a125",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778417990.0312753,
+        "chain_size": 638
+      },
+      "energy": 0.879318,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "461 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "07e398ac2c615e95",
+      "provenance": {
+        "tile_id": "a13a4f39e94cc5a2",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778418894.8238962,
+        "chain_size": 642
+      },
+      "energy": 0.879531,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "464 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "921eac873553c5ae",
+      "provenance": {
+        "tile_id": "5f12389e5379ae65",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778419800.002918,
+        "chain_size": 646
+      },
+      "energy": 0.879744,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "467 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9ea8d1647e812711",
+      "provenance": {
+        "tile_id": "fb23af725bd5f412",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778420705.0928078,
+        "chain_size": 650
+      },
+      "energy": 0.879957,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "470 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "cd2abb37e6695145",
+      "provenance": {
+        "tile_id": "645f05f5259de008",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778421610.194189,
+        "chain_size": 654
+      },
+      "energy": 0.88017,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "473 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0978723c24a952dc",
+      "provenance": {
+        "tile_id": "b7b066fb9724c0e6",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778422515.149694,
+        "chain_size": 658
+      },
+      "energy": 0.880383,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "476 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "52d3ee7738a50deb",
+      "provenance": {
+        "tile_id": "cf15a9b889e669b9",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778423420.2083845,
+        "chain_size": 662
+      },
+      "energy": 0.880596,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "479 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "be371fdec825e571",
+      "provenance": {
+        "tile_id": "e796051722b111c6",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778424325.2896128,
+        "chain_size": 666
+      },
+      "energy": 0.880809,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "482 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8dc7685ed38d2e30",
+      "provenance": {
+        "tile_id": "99400cd9fe4680df",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778425230.1812842,
+        "chain_size": 670
+      },
+      "energy": 0.881022,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "485 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "57fa9b096457b992",
+      "provenance": {
+        "tile_id": "f9ae0f3b2b583b77",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778426135.2124116,
+        "chain_size": 674
+      },
+      "energy": 0.881236,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "488 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0577034cea695bb1",
+      "provenance": {
+        "tile_id": "245b4e5c6a593ca5",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778427040.0832949,
+        "chain_size": 678
+      },
+      "energy": 0.881449,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "491 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3ef56394b4d0806e",
+      "provenance": {
+        "tile_id": "2be024d99372377d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778427945.3461673,
+        "chain_size": 682
+      },
+      "energy": 0.881662,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "494 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "88419ebcf0b86b4d",
+      "provenance": {
+        "tile_id": "58d4fdf925b58a0a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778428850.3566856,
+        "chain_size": 686
+      },
+      "energy": 0.881876,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "497 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "cea487332eac0dfc",
+      "provenance": {
+        "tile_id": "39858958243b3f28",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778429755.5558045,
+        "chain_size": 690
+      },
+      "energy": 0.882089,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "500 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3f593fc63557515f",
+      "provenance": {
+        "tile_id": "b4614a4c675b28a2",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778430660.6619966,
+        "chain_size": 694
+      },
+      "energy": 0.882303,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "503 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ba81de92b59ee434",
+      "provenance": {
+        "tile_id": "d66c2951703a7484",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778431565.9360046,
+        "chain_size": 698
+      },
+      "energy": 0.882516,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "506 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "151564e336fb2853",
+      "provenance": {
+        "tile_id": "d177bbc778b94f93",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778432470.937475,
+        "chain_size": 702
+      },
+      "energy": 0.88273,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "509 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "35f519643a129412",
+      "provenance": {
+        "tile_id": "e38665d1877ea0cd",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778433375.8905876,
+        "chain_size": 706
+      },
+      "energy": 0.882944,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "512 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3fdb88c05170743b",
+      "provenance": {
+        "tile_id": "ff4265086210b68b",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778434281.0696194,
+        "chain_size": 711
+      },
+      "energy": 0.883157,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "515 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "6abd6892872cc446",
+      "provenance": {
+        "tile_id": "45c3b310becadcdb",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778435186.223782,
+        "chain_size": 715
+      },
+      "energy": 0.883371,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "518 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c42ed5ff57c40ec8",
+      "provenance": {
+        "tile_id": "ab1385066935ae5e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778436091.1259127,
+        "chain_size": 719
+      },
+      "energy": 0.883585,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "521 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0c6e5a6b036bc00d",
+      "provenance": {
+        "tile_id": "c3633c7433f2832a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778436996.1589816,
+        "chain_size": 723
+      },
+      "energy": 0.883799,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "524 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "86d1f43ba6327c78",
+      "provenance": {
+        "tile_id": "e41a600843b018e3",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778437901.408638,
+        "chain_size": 727
+      },
+      "energy": 0.884013,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "527 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1831d8ef7448b27f",
+      "provenance": {
+        "tile_id": "a6e671be00883975",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778438806.8765032,
+        "chain_size": 734
+      },
+      "energy": 0.884227,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "530 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d80c3756b4693ce3",
+      "provenance": {
+        "tile_id": "f266228b91fc923e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778439712.0035238,
+        "chain_size": 738
+      },
+      "energy": 0.884441,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "533 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "66f9a0abc113eadd",
+      "provenance": {
+        "tile_id": "529a3f11bf31aee4",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778440617.0809457,
+        "chain_size": 742
+      },
+      "energy": 0.884655,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "536 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e310e3f40bb11273",
+      "provenance": {
+        "tile_id": "d787446736783156",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778441522.0321412,
+        "chain_size": 746
+      },
+      "energy": 0.884869,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "539 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a580684ec48651ef",
+      "provenance": {
+        "tile_id": "34fec5df5554503e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778442427.1367397,
+        "chain_size": 750
+      },
+      "energy": 0.885083,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "542 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ceefc943c52e0fe7",
+      "provenance": {
+        "tile_id": "a228a23c1671e024",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778443332.0022526,
+        "chain_size": 754
+      },
+      "energy": 0.885297,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "545 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "b12d5592b49e114e",
+      "provenance": {
+        "tile_id": "ae8ba7102714eda7",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778444237.1181517,
+        "chain_size": 758
+      },
+      "energy": 0.885512,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "548 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "61b8c0736657ebcf",
+      "provenance": {
+        "tile_id": "f0b6f752489f34b5",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778445142.1530764,
+        "chain_size": 764
+      },
+      "energy": 0.885726,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "551 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d061c1a93aeb4a9b",
+      "provenance": {
+        "tile_id": "6b63aad55675b260",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778446047.192395,
+        "chain_size": 768
+      },
+      "energy": 0.88594,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "554 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "7bedcadecdd2c3d9",
+      "provenance": {
+        "tile_id": "98aa513dc55a1301",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778446952.2475557,
+        "chain_size": 772
+      },
+      "energy": 0.886155,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "557 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "66220580e1bdc6c6",
+      "provenance": {
+        "tile_id": "8463a3b40b6d7b37",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778447857.3327615,
+        "chain_size": 776
+      },
+      "energy": 0.886369,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "560 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "7277a6af6f90e160",
+      "provenance": {
+        "tile_id": "a8fcf4efcd79b5a8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778448762.577853,
+        "chain_size": 780
+      },
+      "energy": 0.886584,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "563 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "155609d9dba9caba",
+      "provenance": {
+        "tile_id": "1b967d59bf34847f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778449667.968991,
+        "chain_size": 784
+      },
+      "energy": 0.886799,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "566 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8c3b9d6db8dd17ab",
+      "provenance": {
+        "tile_id": "7fc5e19d196d2476",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778450572.98238,
+        "chain_size": 788
+      },
+      "energy": 0.887013,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "569 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "4202a94a5a88b79c",
+      "provenance": {
+        "tile_id": "0d9fc8127a62fd63",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778451477.9780498,
+        "chain_size": 792
+      },
+      "energy": 0.887228,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "572 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "2383cdd60e0f867c",
+      "provenance": {
+        "tile_id": "6d30d415b1db7a4b",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778452382.9589217,
+        "chain_size": 796
+      },
+      "energy": 0.887443,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "575 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "b2710b8dd6d24ccd",
+      "provenance": {
+        "tile_id": "bacc1ae5dde8ef7d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778453288.3378248,
+        "chain_size": 801
+      },
+      "energy": 0.887658,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "578 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "6614ef7ce5f15851",
+      "provenance": {
+        "tile_id": "45fa9899280258ce",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778454193.58067,
+        "chain_size": 805
+      },
+      "energy": 0.887873,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "581 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e65324fc395f6088",
+      "provenance": {
+        "tile_id": "e1d3497fc3066920",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778455098.7164915,
+        "chain_size": 809
+      },
+      "energy": 0.888088,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "584 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f92a2001f8af255e",
+      "provenance": {
+        "tile_id": "180d097e8fc6e139",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778456003.6221187,
+        "chain_size": 813
+      },
+      "energy": 0.888302,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "587 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5f8ee4a5e1ad1b44",
+      "provenance": {
+        "tile_id": "5f127ff8d028cc83",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778456785.2892425,
+        "chain_size": 818
+      },
+      "energy": 0.888488,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "590 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "bf28cb0573a059ea",
+      "provenance": {
+        "tile_id": "04df309a9c3726fc",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778457690.5736692,
+        "chain_size": 822
+      },
+      "energy": 0.888703,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "593 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0a420b9dacbafb54",
+      "provenance": {
+        "tile_id": "1dd58dd9d630c50d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778458595.6172578,
+        "chain_size": 826
+      },
+      "energy": 0.888918,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "596 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "718eabc87b23fc01",
+      "provenance": {
+        "tile_id": "0d4efcd9c434ce3d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778459500.5155604,
+        "chain_size": 830
+      },
+      "energy": 0.889134,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "599 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "2728735152bb68af",
+      "provenance": {
+        "tile_id": "fe81f3fab701df92",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778460405.5693493,
+        "chain_size": 834
+      },
+      "energy": 0.889349,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "602 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c56ab701ab7e2d55",
+      "provenance": {
+        "tile_id": "9ce102e9ddae6e87",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778461310.6107132,
+        "chain_size": 838
+      },
+      "energy": 0.889564,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "605 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8779cd4d99dfa776",
+      "provenance": {
+        "tile_id": "01eac9f5aef91290",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778462215.7105246,
+        "chain_size": 842
+      },
+      "energy": 0.889779,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "608 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "902f2331b38e7cf7",
+      "provenance": {
+        "tile_id": "0069c734a1e40831",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778463120.8021443,
+        "chain_size": 846
+      },
+      "energy": 0.889995,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "611 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "14d90ae38caf3976",
+      "provenance": {
+        "tile_id": "86c2cc8aa62ff17b",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778464025.7095754,
+        "chain_size": 850
+      },
+      "energy": 0.89021,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "614 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "2164845d4a55b478",
+      "provenance": {
+        "tile_id": "fd85c6e19b5539f0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778464930.71949,
+        "chain_size": 854
+      },
+      "energy": 0.890426,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "617 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f81b7991f2be3ba5",
+      "provenance": {
+        "tile_id": "a884a7ee59add331",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778465835.639165,
+        "chain_size": 858
+      },
+      "energy": 0.890641,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "620 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "863603d985dbd878",
+      "provenance": {
+        "tile_id": "cdf0a0ba4021b8a3",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778466740.8017545,
+        "chain_size": 862
+      },
+      "energy": 0.890857,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "623 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d119a260dac69916",
+      "provenance": {
+        "tile_id": "25cee41863243ba7",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778467645.725782,
+        "chain_size": 869
+      },
+      "energy": 0.891072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "626 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d205e7ce3654c058",
+      "provenance": {
+        "tile_id": "e28a9ff462b55c07",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778468550.7923524,
+        "chain_size": 873
+      },
+      "energy": 0.891288,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "629 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "758a34d0609dd0c2",
+      "provenance": {
+        "tile_id": "991fff635fb320eb",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778469455.9271843,
+        "chain_size": 877
+      },
+      "energy": 0.891504,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "632 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a3b8d5fcb24c55d5",
+      "provenance": {
+        "tile_id": "44c66be010007064",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778470361.0266187,
+        "chain_size": 881
+      },
+      "energy": 0.89172,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "635 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c85710e4c308bba9",
+      "provenance": {
+        "tile_id": "1f750b3010693b32",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778471266.029014,
+        "chain_size": 885
+      },
+      "energy": 0.891935,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "638 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a8e5ce519c62699b",
+      "provenance": {
+        "tile_id": "efcff7aacc2b1dec",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778472171.1655905,
+        "chain_size": 890
+      },
+      "energy": 0.892151,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "641 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ce806f3e699c0d86",
+      "provenance": {
+        "tile_id": "01d9bfcdd06de847",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778473075.974266,
+        "chain_size": 894
+      },
+      "energy": 0.892367,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "644 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5d1f03e6e667f167",
+      "provenance": {
+        "tile_id": "009549d3dda94f4b",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778473980.8924928,
+        "chain_size": 898
+      },
+      "energy": 0.892583,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "647 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a1c60ebeb145260b",
+      "provenance": {
+        "tile_id": "39cbd7a67a0c57fb",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778474886.0085082,
+        "chain_size": 902
+      },
+      "energy": 0.892799,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "650 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5a19500ba87a6382",
+      "provenance": {
+        "tile_id": "9204c8667cc33a3b",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778475791.1546693,
+        "chain_size": 906
+      },
+      "energy": 0.893015,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "653 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c588d6776a0b1455",
+      "provenance": {
+        "tile_id": "85c4d0111c2503c0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778476696.0155063,
+        "chain_size": 910
+      },
+      "energy": 0.893232,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "656 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "753c0149b2e45cb8",
+      "provenance": {
+        "tile_id": "c5457be039f8d7cd",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778477600.7935765,
+        "chain_size": 914
+      },
+      "energy": 0.893448,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "659 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "47b87b94b43055d7",
+      "provenance": {
+        "tile_id": "0b1e012e44636be3",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778478507.2178302,
+        "chain_size": 918
+      },
+      "energy": 0.893664,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "662 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "2bfff2cabfd80183",
+      "provenance": {
+        "tile_id": "056f3b6c71b99518",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778479412.6956222,
+        "chain_size": 922
+      },
+      "energy": 0.893881,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "665 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c3abe98c511e0877",
+      "provenance": {
+        "tile_id": "57be0d8209874e5e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778480317.6035702,
+        "chain_size": 926
+      },
+      "energy": 0.894097,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "668 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "cfceed5e64ab930c",
+      "provenance": {
+        "tile_id": "e3bd18f07f9fe5b7",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778481222.656679,
+        "chain_size": 932
+      },
+      "energy": 0.894313,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "671 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "87e59e4123fb1a84",
+      "provenance": {
+        "tile_id": "0bb411bae156f3f1",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778482127.6911652,
+        "chain_size": 2
+      },
+      "energy": 0.89453,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "674 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a293d0399638be15",
+      "provenance": {
+        "tile_id": "01249909383f109a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778483033.0191147,
+        "chain_size": 11
+      },
+      "energy": 0.894747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "677 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "100e1ee1513b16fc",
+      "provenance": {
+        "tile_id": "5b78b7c25dac3b36",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778483939.91259,
+        "chain_size": 15
+      },
+      "energy": 0.894964,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "680 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "19f9729ea7c0a416",
+      "provenance": {
+        "tile_id": "7ac6e668f05a8b72",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778484844.9016643,
+        "chain_size": 19
+      },
+      "energy": 0.89518,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "683 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "60376b49c5cfdb34",
+      "provenance": {
+        "tile_id": "5b06b545d578b9f0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778485750.170819,
+        "chain_size": 23
+      },
+      "energy": 0.895397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "686 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f68d31ebbca1cd81",
+      "provenance": {
+        "tile_id": "61247df838d29745",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778486655.8949716,
+        "chain_size": 29
+      },
+      "energy": 0.895614,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "689 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "94e8653a2f469cc5",
+      "provenance": {
+        "tile_id": "7436459a36c0efb7",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778487560.8780804,
+        "chain_size": 34
+      },
+      "energy": 0.895831,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "692 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "30f00966112a2d1d",
+      "provenance": {
+        "tile_id": "7de8e9cee2dd644a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778488466.2943695,
+        "chain_size": 38
+      },
+      "energy": 0.896047,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "696 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "b1e53150a09dd6de",
+      "provenance": {
+        "tile_id": "49123617a052ebff",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778489377.5879967,
+        "chain_size": 42
+      },
+      "energy": 0.896266,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "699 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "827692f005ec905f",
+      "provenance": {
+        "tile_id": "3170d545e980ef71",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778490282.9849446,
+        "chain_size": 46
+      },
+      "energy": 0.896483,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "702 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "55fa05431f940419",
+      "provenance": {
+        "tile_id": "dbc4901ee153b2b8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778491199.990892,
+        "chain_size": 50
+      },
+      "energy": 0.896703,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "705 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "2a741ee5bcd17275",
+      "provenance": {
+        "tile_id": "b08539791d94db26",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778492105.1941116,
+        "chain_size": 67
+      },
+      "energy": 0.89692,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "708 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a02b84db61e38296",
+      "provenance": {
+        "tile_id": "be4697ac29f40943",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778493010.7838748,
+        "chain_size": 83
+      },
+      "energy": 0.897137,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "711 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8ff8b66904137ec0",
+      "provenance": {
+        "tile_id": "2f545f40f89e9a2c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778493916.0469797,
+        "chain_size": 87
+      },
+      "energy": 0.897354,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "714 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "51a4706dd6a932e5",
+      "provenance": {
+        "tile_id": "51d1e7920bf8a863",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778494821.3981824,
+        "chain_size": 92
+      },
+      "energy": 0.897572,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "717 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8a9221876a36bc1c",
+      "provenance": {
+        "tile_id": "9ca4dac37e6dc204",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778495726.4546063,
+        "chain_size": 96
+      },
+      "energy": 0.897789,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "720 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1660adf271ece21b",
+      "provenance": {
+        "tile_id": "ade659cb75e4f15a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778496631.57662,
+        "chain_size": 104
+      },
+      "energy": 0.898006,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "723 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "10fbfcd58304a301",
+      "provenance": {
+        "tile_id": "db716282161d6175",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778497536.8859282,
+        "chain_size": 113
+      },
+      "energy": 0.898224,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "726 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ced97274a36c1512",
+      "provenance": {
+        "tile_id": "05de62d549a924f2",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778498443.6046965,
+        "chain_size": 118
+      },
+      "energy": 0.898441,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "729 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a7c09f2956e0120f",
+      "provenance": {
+        "tile_id": "ecce9af63c3d0df4",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778499348.7448459,
+        "chain_size": 122
+      },
+      "energy": 0.898659,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "732 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1204cc6dd6e4484e",
+      "provenance": {
+        "tile_id": "ed39cc16d4aa5bbe",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778500253.9809284,
+        "chain_size": 126
+      },
+      "energy": 0.898877,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "735 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "4d1efa9aa05c7fbf",
+      "provenance": {
+        "tile_id": "b1598faa8c7378c1",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778501159.4242144,
+        "chain_size": 130
+      },
+      "energy": 0.899094,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "738 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "99b63f93a78073cb",
+      "provenance": {
+        "tile_id": "df5c620f789b998c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778502065.9510934,
+        "chain_size": 134
+      },
+      "energy": 0.899312,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "741 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "73b4d7abfffacd7c",
+      "provenance": {
+        "tile_id": "ca7af52c12903fc1",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778502971.4518414,
+        "chain_size": 138
+      },
+      "energy": 0.89953,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "744 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "7b8547e99b9234b8",
+      "provenance": {
+        "tile_id": "ba7bd517ec7e9df2",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778503876.875935,
+        "chain_size": 142
+      },
+      "energy": 0.899748,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "747 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "7be56de3268a869a",
+      "provenance": {
+        "tile_id": "1ac64ca095d721b8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778504782.5894766,
+        "chain_size": 146
+      },
+      "energy": 0.899966,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "750 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0f6caef63119509f",
+      "provenance": {
+        "tile_id": "1c362b561966f8ff",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778505687.914731,
+        "chain_size": 150
+      },
+      "energy": 0.900184,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "753 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8ff932327a909faa",
+      "provenance": {
+        "tile_id": "2fdef3ca9df8142c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778506595.1571054,
+        "chain_size": 154
+      },
+      "energy": 0.900402,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "756 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9ee02bb3626bbee8",
+      "provenance": {
+        "tile_id": "815b717e5458fbca",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778507500.4173374,
+        "chain_size": 158
+      },
+      "energy": 0.90062,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "759 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "302f8f8475c5deb9",
+      "provenance": {
+        "tile_id": "fa69a41a3cf406cb",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778508405.9396436,
+        "chain_size": 162
+      },
+      "energy": 0.900838,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "762 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "60506aa65eff3648",
+      "provenance": {
+        "tile_id": "3122f7ad37114b19",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778509311.14154,
+        "chain_size": 166
+      },
+      "energy": 0.901056,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "765 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "083689d47ea53e53",
+      "provenance": {
+        "tile_id": "8ef49f1516a30047",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778510216.6925611,
+        "chain_size": 170
+      },
+      "energy": 0.901274,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "768 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "31089e96c231f13d",
+      "provenance": {
+        "tile_id": "822fbde046c73fde",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778511122.9281638,
+        "chain_size": 174
+      },
+      "energy": 0.901493,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "771 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1b4b76d15836ddc0",
+      "provenance": {
+        "tile_id": "5e3f134cd91faf33",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778512028.4537852,
+        "chain_size": 178
+      },
+      "energy": 0.901711,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "774 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0f7a23045a99894d",
+      "provenance": {
+        "tile_id": "49e972f85c71c60f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778512933.9442759,
+        "chain_size": 182
+      },
+      "energy": 0.90193,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "777 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d068c05d8cd91e10",
+      "provenance": {
+        "tile_id": "521539a37614a1de",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778513839.2749352,
+        "chain_size": 186
+      },
+      "energy": 0.902148,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "780 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "799b24395bd0c253",
+      "provenance": {
+        "tile_id": "ed32ee79809e20e5",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778514745.412134,
+        "chain_size": 190
+      },
+      "energy": 0.902367,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "783 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d2393962979d2208",
+      "provenance": {
+        "tile_id": "e2b7793a71fe6ee6",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778515651.197933,
+        "chain_size": 194
+      },
+      "energy": 0.902585,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "786 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "deeb242e42bea386",
+      "provenance": {
+        "tile_id": "397bf74eab1d7ea0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778516556.3045063,
+        "chain_size": 198
+      },
+      "energy": 0.902804,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "789 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "4768ec0c8da7ad41",
+      "provenance": {
+        "tile_id": "e79375bb187a176c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778517461.5772917,
+        "chain_size": 202
+      },
+      "energy": 0.903022,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "792 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f222ef1662289977",
+      "provenance": {
+        "tile_id": "acfa27f415f0801d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778518367.029793,
+        "chain_size": 207
+      },
+      "energy": 0.903241,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "795 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3b5fe76ef377fb0e",
+      "provenance": {
+        "tile_id": "0694e064a473d845",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778519272.541202,
+        "chain_size": 211
+      },
+      "energy": 0.90346,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "798 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ba0d1b0888de24c0",
+      "provenance": {
+        "tile_id": "4bf1537ebb9b93a6",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778520177.6641188,
+        "chain_size": 215
+      },
+      "energy": 0.903678,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "801 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "03e9b550ddce1420",
+      "provenance": {
+        "tile_id": "8668c44da7c1cb72",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778521083.0782626,
+        "chain_size": 219
+      },
+      "energy": 0.903897,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "804 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3b56367f58f19a85",
+      "provenance": {
+        "tile_id": "f1bfbc29e7c3e75a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778521988.5367649,
+        "chain_size": 223
+      },
+      "energy": 0.904116,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "807 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9c7bdf12b245c8c5",
+      "provenance": {
+        "tile_id": "f24ca63ff6cd9108",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778522894.1294014,
+        "chain_size": 227
+      },
+      "energy": 0.904335,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "810 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "026c6d1685a92a63",
+      "provenance": {
+        "tile_id": "b4356816d2e244b4",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778523799.5875084,
+        "chain_size": 231
+      },
+      "energy": 0.904554,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "813 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d81a7c0ba4e9b526",
+      "provenance": {
+        "tile_id": "1e9e7912967f66b9",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778524704.6606443,
+        "chain_size": 239
+      },
+      "energy": 0.904773,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "816 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "bedae1a243a84d44",
+      "provenance": {
+        "tile_id": "59e9643e16addc90",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778525610.842672,
+        "chain_size": 243
+      },
+      "energy": 0.904992,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "819 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5bf6201fd3acc15f",
+      "provenance": {
+        "tile_id": "5556c40ec26c88ca",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778526516.1604424,
+        "chain_size": 247
+      },
+      "energy": 0.905212,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "822 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "7d806de9191f8fae",
+      "provenance": {
+        "tile_id": "18b2b83cefdbc84d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778527421.3854637,
+        "chain_size": 251
+      },
+      "energy": 0.905431,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "825 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "4b9c0277a9cde106",
+      "provenance": {
+        "tile_id": "b673b4e37a637cf2",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778528326.5943198,
+        "chain_size": 255
+      },
+      "energy": 0.90565,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "828 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "57c2531e15a6fc79",
+      "provenance": {
+        "tile_id": "bca849eba29556ed",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778529231.657726,
+        "chain_size": 259
+      },
+      "energy": 0.905869,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "831 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9a5391d632ce394f",
+      "provenance": {
+        "tile_id": "ba86cb7679dbc698",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778530137.078445,
+        "chain_size": 263
+      },
+      "energy": 0.906088,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "834 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "267ba3bf41e8321d",
+      "provenance": {
+        "tile_id": "1b9872375ce12b74",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778531042.6405485,
+        "chain_size": 267
+      },
+      "energy": 0.906308,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "837 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c1e42c98acab5ae8",
+      "provenance": {
+        "tile_id": "32b4bbc6d01df7d1",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778531947.8811119,
+        "chain_size": 292
+      },
+      "energy": 0.906527,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "840 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "41d6616325c7b14d",
+      "provenance": {
+        "tile_id": "473de194acd5dd5a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778532853.0061183,
+        "chain_size": 326
+      },
+      "energy": 0.906747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "843 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9a2efac0f040add1",
+      "provenance": {
+        "tile_id": "91bef7c5a069633f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778533758.3781886,
+        "chain_size": 360
+      },
+      "energy": 0.906966,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "846 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d8810f4ee6e920c8",
+      "provenance": {
+        "tile_id": "bbbaf3a0afc15752",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778534663.486831,
+        "chain_size": 395
+      },
+      "energy": 0.907186,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "849 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c9adea4bb299cc5d",
+      "provenance": {
+        "tile_id": "e8efbd9dde2e0eb8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778535568.662535,
+        "chain_size": 434
+      },
+      "energy": 0.907406,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "852 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c7ebe7c5727ff89c",
+      "provenance": {
+        "tile_id": "cbbd45d292a11e82",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778536473.7402332,
+        "chain_size": 468
+      },
+      "energy": 0.907625,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "855 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "97ec2014994a9287",
+      "provenance": {
+        "tile_id": "7e40ad85855ba57a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778537379.0735638,
+        "chain_size": 502
+      },
+      "energy": 0.907845,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "858 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ca5fc45afa36fffd",
+      "provenance": {
+        "tile_id": "8be098be1a04df84",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778538284.3749704,
+        "chain_size": 541
+      },
+      "energy": 0.908065,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "861 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "baccfe1656e6bdff",
+      "provenance": {
+        "tile_id": "36a96423ef91011e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778539189.9045541,
+        "chain_size": 576
+      },
+      "energy": 0.908285,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "865 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "08655bc5f1f75984",
+      "provenance": {
+        "tile_id": "fbe66152840cd48a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778540094.833495,
+        "chain_size": 636
+      },
+      "energy": 0.908504,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "868 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0aaea71912632fb7",
+      "provenance": {
+        "tile_id": "e5a8b56e73fa7407",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778541000.2640316,
+        "chain_size": 671
+      },
+      "energy": 0.908724,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "871 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "137b1f6a9d22586a",
+      "provenance": {
+        "tile_id": "f4aaad1ce34171fa",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778541905.4618647,
+        "chain_size": 710
+      },
+      "energy": 0.908944,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "874 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d4b977c6d1e3f884",
+      "provenance": {
+        "tile_id": "f903aca96cce45e0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778542810.3702698,
+        "chain_size": 744
+      },
+      "energy": 0.909164,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "877 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "802329dba49c0e66",
+      "provenance": {
+        "tile_id": "b64d633d355fc871",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778543715.362907,
+        "chain_size": 783
+      },
+      "energy": 0.909385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: fleet_health",
+      "answer": "880 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "fbc7f879b00c9cbe",
+      "provenance": {
+        "tile_id": "827a998c210a85c3",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778544620.6416807,
+        "chain_size": 817
+      },
+      "energy": 0.909605,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "925 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "fdc5d8fdefb6af8c",
+      "provenance": {
+        "tile_id": "80e26974689c91f4",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778545525.6615067,
+        "chain_size": 859
+      },
+      "energy": 0.909825,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "985 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a14830457a79bc3c",
+      "provenance": {
+        "tile_id": "bd8384d529ca55db",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778546430.6889753,
+        "chain_size": 893
+      },
+      "energy": 0.910045,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1045 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3f1c65cec54b6d77",
+      "provenance": {
+        "tile_id": "ebf48cd43fc557e0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778547335.884026,
+        "chain_size": 928
+      },
+      "energy": 0.910265,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1106 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0acaf340c8b8c654",
+      "provenance": {
+        "tile_id": "358330ee95d4c334",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778548241.317015,
+        "chain_size": 962
+      },
+      "energy": 0.910486,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1166 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e9f22328a5181231",
+      "provenance": {
+        "tile_id": "f3997abadb9736f8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778549146.2617986,
+        "chain_size": 996
+      },
+      "energy": 0.910706,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1226 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d0fabd89b73a1a7b",
+      "provenance": {
+        "tile_id": "f3d0ca581d8b2dfe",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778550051.2200038,
+        "chain_size": 1030
+      },
+      "energy": 0.910927,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1287 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "220769037d05549a",
+      "provenance": {
+        "tile_id": "a18eac9277ec1ee0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778550956.7027473,
+        "chain_size": 1064
+      },
+      "energy": 0.911147,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1347 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "7184329635489208",
+      "provenance": {
+        "tile_id": "09d90b10624398bd",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778551861.9832566,
+        "chain_size": 1098
+      },
+      "energy": 0.911368,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1407 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a5dc3bd007fba8e3",
+      "provenance": {
+        "tile_id": "f4e5203486c36fea",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778552766.886749,
+        "chain_size": 1133
+      },
+      "energy": 0.911588,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1468 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f0d597341bf494ce",
+      "provenance": {
+        "tile_id": "fc3a6fc6d4e94b33",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778553672.176826,
+        "chain_size": 1170
+      },
+      "energy": 0.911809,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1528 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "4fd404204ed3491c",
+      "provenance": {
+        "tile_id": "27ce7d5929ce71e9",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778554577.2681959,
+        "chain_size": 1204
+      },
+      "energy": 0.91203,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1588 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "b5302182c547a96b",
+      "provenance": {
+        "tile_id": "a1de4afcb255b323",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778555482.6008983,
+        "chain_size": 1238
+      },
+      "energy": 0.912251,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1649 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "731c715649936481",
+      "provenance": {
+        "tile_id": "2a07ee34df4a4291",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778556387.520101,
+        "chain_size": 1272
+      },
+      "energy": 0.912471,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1709 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5d3befad6cc04c46",
+      "provenance": {
+        "tile_id": "7dbbd13d80fa9d3f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778557292.7051773,
+        "chain_size": 1306
+      },
+      "energy": 0.912692,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1769 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "18cbb487fba77185",
+      "provenance": {
+        "tile_id": "d4e80ed66bdf8487",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778558197.899408,
+        "chain_size": 1349
+      },
+      "energy": 0.912913,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1829 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1f2c2f8cebf5d940",
+      "provenance": {
+        "tile_id": "0c0d465440705992",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778559103.166698,
+        "chain_size": 1390
+      },
+      "energy": 0.913134,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1890 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "feeecba838b140bf",
+      "provenance": {
+        "tile_id": "f78f45672dfce352",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778560008.4624763,
+        "chain_size": 1424
+      },
+      "energy": 0.913355,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1950 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "807a0acb478b8bcc",
+      "provenance": {
+        "tile_id": "b1ab053975929665",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778560913.454144,
+        "chain_size": 1458
+      },
+      "energy": 0.913576,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "1992 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ad5151f561936812",
+      "provenance": {
+        "tile_id": "46028c08702431fd",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778561818.6093953,
+        "chain_size": 1493
+      },
+      "energy": 0.913798,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2022 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "eba1475865c7ea5b",
+      "provenance": {
+        "tile_id": "7136e2d363218495",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778562723.9810297,
+        "chain_size": 1527
+      },
+      "energy": 0.914019,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2052 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "db4afdf947b16cbe",
+      "provenance": {
+        "tile_id": "4c7bee3e67bab75b",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778563628.9897966,
+        "chain_size": 1572
+      },
+      "energy": 0.91424,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2082 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "25e9297975b0b108",
+      "provenance": {
+        "tile_id": "640e6f13ae8913af",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778564534.0674417,
+        "chain_size": 1621
+      },
+      "energy": 0.914461,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2112 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ac995fe1fd3a2e41",
+      "provenance": {
+        "tile_id": "4b5a9126d26da7da",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778565439.1658688,
+        "chain_size": 1670
+      },
+      "energy": 0.914683,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2143 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "dac932a3a43df09b",
+      "provenance": {
+        "tile_id": "bd2bec476c64d0af",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778566344.561867,
+        "chain_size": 1713
+      },
+      "energy": 0.914904,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2173 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "07997051c808c254",
+      "provenance": {
+        "tile_id": "523c0e52e6e9aa0d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778567251.2682981,
+        "chain_size": 1757
+      },
+      "energy": 0.915126,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2203 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "80cd1ab1a0e535b9",
+      "provenance": {
+        "tile_id": "f9395bd0111e29a1",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778568156.457408,
+        "chain_size": 1800
+      },
+      "energy": 0.915348,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2233 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "32f9299d0694bc6c",
+      "provenance": {
+        "tile_id": "a1fef2faf5e1f768",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778569061.507309,
+        "chain_size": 1847
+      },
+      "energy": 0.915569,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2263 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "bf8d3dbd384cb1a7",
+      "provenance": {
+        "tile_id": "3898af1448677924",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778569967.0773315,
+        "chain_size": 1903
+      },
+      "energy": 0.915791,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2293 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "dbfd7dae732545f6",
+      "provenance": {
+        "tile_id": "1f6c854747104f2f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778570872.5558014,
+        "chain_size": 1961
+      },
+      "energy": 0.916013,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2324 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "01b7659be462792b",
+      "provenance": {
+        "tile_id": "b5423e778ca9d8d8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778571777.8545227,
+        "chain_size": 2020
+      },
+      "energy": 0.916235,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2354 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5fc9e5c32ccc7b7d",
+      "provenance": {
+        "tile_id": "5d8746d0518601e5",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778572683.0543888,
+        "chain_size": 2073
+      },
+      "energy": 0.916456,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2384 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "17cbbf1b6d74b6c2",
+      "provenance": {
+        "tile_id": "eef4f3fe0736444a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778573589.1785398,
+        "chain_size": 2128
+      },
+      "energy": 0.916678,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2414 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5611f0a24b9df837",
+      "provenance": {
+        "tile_id": "4d1fdc65090127a5",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778574494.6297348,
+        "chain_size": 2187
+      },
+      "energy": 0.9169,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2444 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "238ada970f806706",
+      "provenance": {
+        "tile_id": "9dd12cf97304eb07",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778575399.7381568,
+        "chain_size": 2243
+      },
+      "energy": 0.917122,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2474 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ffa14bcf2e3d5c51",
+      "provenance": {
+        "tile_id": "9528c0b00ba0aebb",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778576305.0443172,
+        "chain_size": 2300
+      },
+      "energy": 0.917344,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2505 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3edfa2ca1e075876",
+      "provenance": {
+        "tile_id": "2f125eeddf40e01e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778577210.4549918,
+        "chain_size": 2360
+      },
+      "energy": 0.917567,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2535 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d68cabe48c081a55",
+      "provenance": {
+        "tile_id": "0a637f1abaf59aad",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778578115.4778783,
+        "chain_size": 2415
+      },
+      "energy": 0.917789,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2565 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "b46935abe18988f9",
+      "provenance": {
+        "tile_id": "9b7497ddd71a2c09",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778579020.9177697,
+        "chain_size": 2473
+      },
+      "energy": 0.918011,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2595 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "b6120c89e584cfea",
+      "provenance": {
+        "tile_id": "9efc43a4771db0a8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778579926.0249293,
+        "chain_size": 2530
+      },
+      "energy": 0.918233,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2625 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8633c40ce8f50eea",
+      "provenance": {
+        "tile_id": "f3e5e20a043f0692",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778580831.4108043,
+        "chain_size": 2588
+      },
+      "energy": 0.918456,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2655 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "046fd8f63dcab427",
+      "provenance": {
+        "tile_id": "973f4978e4ed9db9",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778581736.695403,
+        "chain_size": 2645
+      },
+      "energy": 0.918678,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2685 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e949661cf589f9b1",
+      "provenance": {
+        "tile_id": "bd1797dadc23abee",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778582642.019569,
+        "chain_size": 2706
+      },
+      "energy": 0.9189,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2716 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "21aef5ac96d51819",
+      "provenance": {
+        "tile_id": "aafd4785b2825c1c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778583547.1034322,
+        "chain_size": 2764
+      },
+      "energy": 0.919123,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2746 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "af5621613c5b134e",
+      "provenance": {
+        "tile_id": "c939e496597b23ff",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778584452.4998367,
+        "chain_size": 2820
+      },
+      "energy": 0.919345,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2776 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1d033b5c21e896d8",
+      "provenance": {
+        "tile_id": "f99d1e02ed2f6213",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778585357.7426915,
+        "chain_size": 2877
+      },
+      "energy": 0.919568,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2806 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "76e867ae5ca9081e",
+      "provenance": {
+        "tile_id": "b73f8d3b2147e65c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778586262.8748987,
+        "chain_size": 2930
+      },
+      "energy": 0.919791,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2836 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "eba45c6c57b937f2",
+      "provenance": {
+        "tile_id": "5a765606bfc08286",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778587168.311398,
+        "chain_size": 2987
+      },
+      "energy": 0.920013,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2866 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e1fc3b99ea8c5bf2",
+      "provenance": {
+        "tile_id": "742b456a425991fc",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778588073.777868,
+        "chain_size": 3047
+      },
+      "energy": 0.920236,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2897 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9b86065e23465810",
+      "provenance": {
+        "tile_id": "7b3f704ce82d2fa8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778588979.0556567,
+        "chain_size": 3104
+      },
+      "energy": 0.920459,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2927 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1443d3f1b69bff03",
+      "provenance": {
+        "tile_id": "4f0697ba8c1f5d3b",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778589884.4938405,
+        "chain_size": 3163
+      },
+      "energy": 0.920682,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2957 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "61351ae340d21aa2",
+      "provenance": {
+        "tile_id": "27b8aae68cb6c928",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778590789.8222563,
+        "chain_size": 3219
+      },
+      "energy": 0.920905,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "2987 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "01610456c8cf66bb",
+      "provenance": {
+        "tile_id": "501afa85e6018cd1",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778591695.2536151,
+        "chain_size": 3274
+      },
+      "energy": 0.921128,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3017 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e480ebd91b70c037",
+      "provenance": {
+        "tile_id": "0cdab34757f1a35f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778592600.380763,
+        "chain_size": 3330
+      },
+      "energy": 0.921351,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3047 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "940a0b32f286ad4e",
+      "provenance": {
+        "tile_id": "4c02dd4626cfb1cc",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778593506.0569453,
+        "chain_size": 3385
+      },
+      "energy": 0.921574,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3078 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "b4baabd32914ffce",
+      "provenance": {
+        "tile_id": "6893a47374b78e13",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778594411.9168277,
+        "chain_size": 3442
+      },
+      "energy": 0.921797,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3108 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1f6d86010ae1353d",
+      "provenance": {
+        "tile_id": "88fd2b6ef53e2638",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778595320.4588366,
+        "chain_size": 3500
+      },
+      "energy": 0.922021,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3138 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0e2f8481aec9210d",
+      "provenance": {
+        "tile_id": "a0d690e73b76ae3c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778596226.0518126,
+        "chain_size": 3557
+      },
+      "energy": 0.922244,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3168 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "46bab334ca5e3482",
+      "provenance": {
+        "tile_id": "dd990ffe458a7b7d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778597131.5099006,
+        "chain_size": 3615
+      },
+      "energy": 0.922468,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3198 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5cd72775b03a53bc",
+      "provenance": {
+        "tile_id": "2d2fc9ca60ceb7e3",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778598037.0722332,
+        "chain_size": 3669
+      },
+      "energy": 0.922691,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3228 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "4228262f92be2b69",
+      "provenance": {
+        "tile_id": "4ce52bf537985a7e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778598942.635808,
+        "chain_size": 3725
+      },
+      "energy": 0.922915,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3259 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a511168e568ec259",
+      "provenance": {
+        "tile_id": "bc40f569a0bfd361",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778599847.7124696,
+        "chain_size": 3783
+      },
+      "energy": 0.923138,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3289 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "dd0bbc2ca333104c",
+      "provenance": {
+        "tile_id": "61ecb3f4a88817c0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778600753.184102,
+        "chain_size": 3840
+      },
+      "energy": 0.923362,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3319 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d5669cb4fb1fd76d",
+      "provenance": {
+        "tile_id": "8dde5dcf7c2737b1",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778601658.8667727,
+        "chain_size": 3897
+      },
+      "energy": 0.923585,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3349 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f0c59e7db285f155",
+      "provenance": {
+        "tile_id": "21b5a5e082b5887c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778602564.4396982,
+        "chain_size": 3957
+      },
+      "energy": 0.923809,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3379 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e7387ed1c4a8b8ce",
+      "provenance": {
+        "tile_id": "285873e979b3168e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778603469.7404997,
+        "chain_size": 4012
+      },
+      "energy": 0.924033,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3409 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "265b19fd2fa86228",
+      "provenance": {
+        "tile_id": "10f0d5c0d9cb97e6",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778604375.2407763,
+        "chain_size": 4070
+      },
+      "energy": 0.924256,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3440 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f501667ed3e69348",
+      "provenance": {
+        "tile_id": "53b66bc0d7f11a3e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778605280.746375,
+        "chain_size": 4129
+      },
+      "energy": 0.92448,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3470 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "936b1a0a3c361bb6",
+      "provenance": {
+        "tile_id": "69e737d3bf7f032c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778606186.7844079,
+        "chain_size": 4185
+      },
+      "energy": 0.924704,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3500 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a919756d1b592404",
+      "provenance": {
+        "tile_id": "8c83f4a2c4cc6cec",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778607092.1755536,
+        "chain_size": 4241
+      },
+      "energy": 0.924928,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3530 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "49bb16332014cad3",
+      "provenance": {
+        "tile_id": "8ad96b7ff0a15952",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778607997.3637133,
+        "chain_size": 4298
+      },
+      "energy": 0.925152,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3560 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a444e91a6476c6a1",
+      "provenance": {
+        "tile_id": "c5ddd462cd33e941",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778608903.7897027,
+        "chain_size": 4359
+      },
+      "energy": 0.925376,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3590 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ca3c8d76eeb5d4ba",
+      "provenance": {
+        "tile_id": "82d749f41fa6d97f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778609809.1963456,
+        "chain_size": 4414
+      },
+      "energy": 0.9256,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3621 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "6ba8c2ede510d375",
+      "provenance": {
+        "tile_id": "35719cf8ab710d8d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778610714.550044,
+        "chain_size": 4471
+      },
+      "energy": 0.925825,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3651 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "48d428dd115e70f3",
+      "provenance": {
+        "tile_id": "652d5d5ba05a2716",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778611619.8213127,
+        "chain_size": 4533
+      },
+      "energy": 0.926049,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3681 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "77af1aa44a6a1598",
+      "provenance": {
+        "tile_id": "ae3adc08250a3cad",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778612525.5022507,
+        "chain_size": 4600
+      },
+      "energy": 0.926273,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3711 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "521b48da68fe56e4",
+      "provenance": {
+        "tile_id": "2fe639e7b5348b31",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778613431.2680187,
+        "chain_size": 4671
+      },
+      "energy": 0.926497,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3741 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f393a32a47142970",
+      "provenance": {
+        "tile_id": "810fa27fc33a35ea",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778614336.4169953,
+        "chain_size": 4729
+      },
+      "energy": 0.926722,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3771 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8c4fdd068bb3c5cd",
+      "provenance": {
+        "tile_id": "2d87b72c9bed6d8d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778615242.3671687,
+        "chain_size": 4789
+      },
+      "energy": 0.926946,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3802 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "069e677e052fa0bd",
+      "provenance": {
+        "tile_id": "26965c60ceb8089a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778616147.7009125,
+        "chain_size": 4864
+      },
+      "energy": 0.927171,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3832 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "bcca291502bef196",
+      "provenance": {
+        "tile_id": "82d2f584cbd6cf87",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778617053.0678513,
+        "chain_size": 4919
+      },
+      "energy": 0.927395,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3862 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "358405ce02c15632",
+      "provenance": {
+        "tile_id": "90102e8892f81a02",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778617958.5094154,
+        "chain_size": 4999
+      },
+      "energy": 0.92762,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3892 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "86173eedb1425cc5",
+      "provenance": {
+        "tile_id": "33c6d67d49af383e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778618863.759788,
+        "chain_size": 5058
+      },
+      "energy": 0.927844,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3922 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "523b27ff6b543087",
+      "provenance": {
+        "tile_id": "59f45f5231c68648",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778619769.3547194,
+        "chain_size": 5113
+      },
+      "energy": 0.928069,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3952 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f653c1201b7e35b0",
+      "provenance": {
+        "tile_id": "1dc360270f7d7e3d",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778620674.6471145,
+        "chain_size": 5232
+      },
+      "energy": 0.928294,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "3983 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "2e77a307e9f75afb",
+      "provenance": {
+        "tile_id": "9a5939547f4152cc",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778621579.757593,
+        "chain_size": 5290
+      },
+      "energy": 0.928519,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4013 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c11847ed33b7a11f",
+      "provenance": {
+        "tile_id": "6a70a06faadc5add",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778622484.7777386,
+        "chain_size": 5345
+      },
+      "energy": 0.928743,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4043 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9dd73ac980dca73b",
+      "provenance": {
+        "tile_id": "f5a9ccb2d0ac21b7",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778623389.9295385,
+        "chain_size": 5402
+      },
+      "energy": 0.928968,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4073 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "92cb3eb0bb5afcde",
+      "provenance": {
+        "tile_id": "d6b38d09ce3f18e2",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778624295.225219,
+        "chain_size": 5464
+      },
+      "energy": 0.929193,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4103 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e854c76aa2d36cb8",
+      "provenance": {
+        "tile_id": "fe9ce0f08121f458",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778625200.2971346,
+        "chain_size": 5523
+      },
+      "energy": 0.929418,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4133 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "73a0652eac24bd3d",
+      "provenance": {
+        "tile_id": "2cb5e47f2da9dbaf",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778626105.345004,
+        "chain_size": 5581
+      },
+      "energy": 0.929643,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4163 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "4ce43ab9d71de37a",
+      "provenance": {
+        "tile_id": "3cb119e03a9d66b0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778627010.2978883,
+        "chain_size": 5637
+      },
+      "energy": 0.929868,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4194 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "da11b77a949ccec7",
+      "provenance": {
+        "tile_id": "58a5234f6116edec",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778627915.5642018,
+        "chain_size": 5695
+      },
+      "energy": 0.930093,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4224 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "668244da61874679",
+      "provenance": {
+        "tile_id": "0bba351788b49a0c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778628820.648695,
+        "chain_size": 5785
+      },
+      "energy": 0.930318,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4254 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "68d56bbc6692bfd3",
+      "provenance": {
+        "tile_id": "0f71f542caa0df44",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778629725.6578372,
+        "chain_size": 5842
+      },
+      "energy": 0.930543,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4284 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0ead0d4ba84275d0",
+      "provenance": {
+        "tile_id": "9bb514c40104716c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778630630.8419085,
+        "chain_size": 5907
+      },
+      "energy": 0.930769,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4314 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d5dbcb0e996ef20e",
+      "provenance": {
+        "tile_id": "9bbdc38c4b1dd4e2",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778631536.2149796,
+        "chain_size": 5967
+      },
+      "energy": 0.930994,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4344 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1351a948ee70031c",
+      "provenance": {
+        "tile_id": "144d421a7f001c99",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778632441.2021887,
+        "chain_size": 6026
+      },
+      "energy": 0.931219,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4374 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "25521a3d52c3535a",
+      "provenance": {
+        "tile_id": "3128b085775d4219",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778633346.4002593,
+        "chain_size": 6083
+      },
+      "energy": 0.931445,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4405 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "4bea0d4d433e4a46",
+      "provenance": {
+        "tile_id": "775e4a905f61afcf",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778634251.4193163,
+        "chain_size": 6140
+      },
+      "energy": 0.93167,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4435 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d3eabc3a9644fd0c",
+      "provenance": {
+        "tile_id": "4cf5b1e0953a92e9",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778635156.7907572,
+        "chain_size": 6199
+      },
+      "energy": 0.931896,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4465 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1c5d0462ea44971b",
+      "provenance": {
+        "tile_id": "0248e23a33a18bc2",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778636062.017784,
+        "chain_size": 6257
+      },
+      "energy": 0.932121,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4495 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "4c9f10475458f5eb",
+      "provenance": {
+        "tile_id": "5fbe6a3c7fc4403c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778636967.124313,
+        "chain_size": 6312
+      },
+      "energy": 0.932347,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4525 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "6e5b48a4fde209d3",
+      "provenance": {
+        "tile_id": "d80afdcde6f7c555",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778637872.124285,
+        "chain_size": 6368
+      },
+      "energy": 0.932573,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4555 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ec5048fe0fe873c6",
+      "provenance": {
+        "tile_id": "5bf9447db12f0d66",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778638777.406949,
+        "chain_size": 6430
+      },
+      "energy": 0.932799,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4586 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "83c76c485c8038e9",
+      "provenance": {
+        "tile_id": "88b845dbd48a7339",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778639682.4561782,
+        "chain_size": 6489
+      },
+      "energy": 0.933024,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4616 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "cc5fd72308064a38",
+      "provenance": {
+        "tile_id": "c9e91aec3dcaa382",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778640588.1636686,
+        "chain_size": 6549
+      },
+      "energy": 0.93325,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4646 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c3a66356ca1f691d",
+      "provenance": {
+        "tile_id": "d8404580e6685ab8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778641493.2691884,
+        "chain_size": 6607
+      },
+      "energy": 0.933476,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4676 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e7dd8e3a0edff644",
+      "provenance": {
+        "tile_id": "54da5ec03f6cad24",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778642398.425388,
+        "chain_size": 6673
+      },
+      "energy": 0.933702,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4706 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5c6d22863122a5b0",
+      "provenance": {
+        "tile_id": "79bd6bddec60648f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778643303.430662,
+        "chain_size": 6794
+      },
+      "energy": 0.933928,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4736 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "39dadc021d771917",
+      "provenance": {
+        "tile_id": "c6d28b0e2be8f5aa",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778644208.3848653,
+        "chain_size": 6852
+      },
+      "energy": 0.934154,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4766 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "4f7ad413053d10c0",
+      "provenance": {
+        "tile_id": "805aac28c3a38a32",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778645113.4086695,
+        "chain_size": 6912
+      },
+      "energy": 0.93438,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4797 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "844a0f829b236e64",
+      "provenance": {
+        "tile_id": "8b20a9ebb7f884c8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778646019.1841552,
+        "chain_size": 6974
+      },
+      "energy": 0.934607,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4827 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "796023c6b434afc5",
+      "provenance": {
+        "tile_id": "a489bc709084cab7",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778646924.0740292,
+        "chain_size": 7046
+      },
+      "energy": 0.934833,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4857 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f845c2948ef5e513",
+      "provenance": {
+        "tile_id": "50156dc86de62b38",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778647829.126101,
+        "chain_size": 7103
+      },
+      "energy": 0.935059,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4887 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5aded2c2ecb892f1",
+      "provenance": {
+        "tile_id": "aa8618ad59873d73",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778648735.1542294,
+        "chain_size": 7162
+      },
+      "energy": 0.935286,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4917 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "6fae1fba8f33801d",
+      "provenance": {
+        "tile_id": "709d547677d851da",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778649640.185107,
+        "chain_size": 7225
+      },
+      "energy": 0.935512,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4947 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0bb1962ecfeb09f8",
+      "provenance": {
+        "tile_id": "08afbed4d6734011",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778650545.1329167,
+        "chain_size": 7290
+      },
+      "energy": 0.935739,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "4977 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "cb376e54380980a1",
+      "provenance": {
+        "tile_id": "33981317a2c63e15",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778651450.4447927,
+        "chain_size": 7350
+      },
+      "energy": 0.935965,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5008 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "694c6737e80508db",
+      "provenance": {
+        "tile_id": "3086a5ff947654c6",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778652355.4868293,
+        "chain_size": 7414
+      },
+      "energy": 0.936192,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5038 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0e11585836b53de8",
+      "provenance": {
+        "tile_id": "f9537b85c6866fe1",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778653260.5044086,
+        "chain_size": 7475
+      },
+      "energy": 0.936418,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5068 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "77353ea424f1c5d3",
+      "provenance": {
+        "tile_id": "6659a7c396a21ff7",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778654165.4824107,
+        "chain_size": 7562
+      },
+      "energy": 0.936645,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5098 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c9be49476f22ab32",
+      "provenance": {
+        "tile_id": "6cffc3199c8cc5c9",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778655070.446828,
+        "chain_size": 7626
+      },
+      "energy": 0.936872,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5128 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "edd90814c61dbf96",
+      "provenance": {
+        "tile_id": "08921bcd488ba79c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778655976.0619655,
+        "chain_size": 7691
+      },
+      "energy": 0.937099,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5158 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0e4a9e26d7b01e16",
+      "provenance": {
+        "tile_id": "ff2e5db04e7a9637",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778656881.4081733,
+        "chain_size": 7756
+      },
+      "energy": 0.937326,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5189 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0c879ae769071ce7",
+      "provenance": {
+        "tile_id": "53bef71d8d5c70fb",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778657786.438448,
+        "chain_size": 7822
+      },
+      "energy": 0.937552,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5219 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "cb4a6cafc8532d5b",
+      "provenance": {
+        "tile_id": "105bc0555bd3869f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778658691.5469682,
+        "chain_size": 7902
+      },
+      "energy": 0.937779,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5249 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a0d472b086f5ce4e",
+      "provenance": {
+        "tile_id": "f67f1bfdee952a3c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778659596.7798965,
+        "chain_size": 7980
+      },
+      "energy": 0.938006,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5279 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5b47ba8521d4afc9",
+      "provenance": {
+        "tile_id": "32868d0867a1d512",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778660502.1303582,
+        "chain_size": 8043
+      },
+      "energy": 0.938234,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5309 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "abcfa7e59f570228",
+      "provenance": {
+        "tile_id": "240a862343ba4e40",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778661407.191881,
+        "chain_size": 9471
+      },
+      "energy": 0.938461,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5339 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9ce2f5896cbb3dbb",
+      "provenance": {
+        "tile_id": "ac3f7ea268136848",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778662312.5203552,
+        "chain_size": 9534
+      },
+      "energy": 0.938688,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5369 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "12f48daff2ed13da",
+      "provenance": {
+        "tile_id": "8b152abf7d2368e7",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778663217.7946048,
+        "chain_size": 9600
+      },
+      "energy": 0.938915,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5400 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "2ece701022ab00a3",
+      "provenance": {
+        "tile_id": "599fc5ad9b074f43",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778664123.231242,
+        "chain_size": 9661
+      },
+      "energy": 0.939142,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5430 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1d4d353d3c896b90",
+      "provenance": {
+        "tile_id": "51473b3fc22cc618",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778665028.180474,
+        "chain_size": 9731
+      },
+      "energy": 0.93937,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5460 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "feabcf6b7fe5c464",
+      "provenance": {
+        "tile_id": "c9ca3c84265901a0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778665933.2603023,
+        "chain_size": 9788
+      },
+      "energy": 0.939597,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5490 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "2f370c1de5297d1b",
+      "provenance": {
+        "tile_id": "5347fc45478f62d5",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778666838.4047275,
+        "chain_size": 9856
+      },
+      "energy": 0.939825,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5520 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9c1e72997d10fb91",
+      "provenance": {
+        "tile_id": "440bb0cc38ca88ba",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778667743.7532923,
+        "chain_size": 9919
+      },
+      "energy": 0.940052,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5550 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3f87faa484902eb4",
+      "provenance": {
+        "tile_id": "48e68053290e1196",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778668648.9847357,
+        "chain_size": 9983
+      },
+      "energy": 0.94028,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5581 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "b10bd3f37da4dde1",
+      "provenance": {
+        "tile_id": "569702f9d4b6d20e",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778669554.1734993,
+        "chain_size": 10044
+      },
+      "energy": 0.940507,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5611 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5add246678a02779",
+      "provenance": {
+        "tile_id": "484bfda3f7ccb3ce",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778670459.9725778,
+        "chain_size": 10111
+      },
+      "energy": 0.940735,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5641 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "add7c92f030964a9",
+      "provenance": {
+        "tile_id": "ebee3cbfbffffa26",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778671365.0495822,
+        "chain_size": 10171
+      },
+      "energy": 0.940963,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5671 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a9c519d301c756aa",
+      "provenance": {
+        "tile_id": "c71c025a14567a75",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778672270.194325,
+        "chain_size": 10234
+      },
+      "energy": 0.941191,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5701 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8bab1cff115df4d3",
+      "provenance": {
+        "tile_id": "113a402625cb154f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778673175.257197,
+        "chain_size": 10292
+      },
+      "energy": 0.941419,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5731 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "002bc05f189da388",
+      "provenance": {
+        "tile_id": "931a30dd96ac32a6",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778674080.8581078,
+        "chain_size": 10356
+      },
+      "energy": 0.941647,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5761 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "33a45ac87a87cd67",
+      "provenance": {
+        "tile_id": "79848b717b6eab78",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778674986.3905852,
+        "chain_size": 10416
+      },
+      "energy": 0.941875,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5792 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "6b91f1ea20cf2cb0",
+      "provenance": {
+        "tile_id": "2fb613dec134f32f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778675891.655571,
+        "chain_size": 10481
+      },
+      "energy": 0.942103,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5822 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9b4c2898db1ccc82",
+      "provenance": {
+        "tile_id": "e1775cdd3b3bcde8",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778676796.9571517,
+        "chain_size": 10543
+      },
+      "energy": 0.942331,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5852 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ec7f48e432b1dd8d",
+      "provenance": {
+        "tile_id": "07cbf0bd2b847fce",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778677702.360595,
+        "chain_size": 10609
+      },
+      "energy": 0.942559,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5882 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "0b52102930f5615d",
+      "provenance": {
+        "tile_id": "972bf2cc9fc39973",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778678607.6701763,
+        "chain_size": 10670
+      },
+      "energy": 0.942787,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5912 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f9af1f580311b0ed",
+      "provenance": {
+        "tile_id": "d85ab2e79f769d91",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778679512.8001513,
+        "chain_size": 10732
+      },
+      "energy": 0.943015,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5942 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a545055ee3596e06",
+      "provenance": {
+        "tile_id": "cc88e32d536ce786",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778680418.1891778,
+        "chain_size": 10792
+      },
+      "energy": 0.943244,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "5973 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "ce5398da4f548160",
+      "provenance": {
+        "tile_id": "104bc6b598e05d04",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778681323.4105134,
+        "chain_size": 10861
+      },
+      "energy": 0.943472,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6003 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e4d4cbc02d9ba796",
+      "provenance": {
+        "tile_id": "dcfcd8350a83a910",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778682228.684357,
+        "chain_size": 10920
+      },
+      "energy": 0.943701,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6033 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "acf033348584bcbd",
+      "provenance": {
+        "tile_id": "6d0ed146a423e367",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778683134.0678144,
+        "chain_size": 10986
+      },
+      "energy": 0.943929,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6063 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "c5d73e2e28bad490",
+      "provenance": {
+        "tile_id": "b7bdef080e5d35c0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778684039.23715,
+        "chain_size": 11045
+      },
+      "energy": 0.944158,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6093 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9ffdffb2fc93830c",
+      "provenance": {
+        "tile_id": "be599f8d2beb54a5",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778684944.5616934,
+        "chain_size": 11113
+      },
+      "energy": 0.944386,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6123 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a1d201892a42be10",
+      "provenance": {
+        "tile_id": "401ee39cf405e382",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778685850.1442084,
+        "chain_size": 11173
+      },
+      "energy": 0.944615,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6153 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "433d6b40e5240f5b",
+      "provenance": {
+        "tile_id": "a4d29dfca027f663",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778686755.2230356,
+        "chain_size": 11235
+      },
+      "energy": 0.944844,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6184 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "3108d487c14e71a2",
+      "provenance": {
+        "tile_id": "469630f7203ca7f9",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778687660.5592053,
+        "chain_size": 11295
+      },
+      "energy": 0.945072,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6214 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8aa540073fd204ae",
+      "provenance": {
+        "tile_id": "76585f9e79801fc0",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778688565.838641,
+        "chain_size": 11361
+      },
+      "energy": 0.945301,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6244 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "9294f2547ef1e70b",
+      "provenance": {
+        "tile_id": "b47f96ad9bbc4b4a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778689471.3971395,
+        "chain_size": 11422
+      },
+      "energy": 0.94553,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6274 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "1f38d5dfba4ebd30",
+      "provenance": {
+        "tile_id": "d8b8130e563c2efe",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778690376.6903625,
+        "chain_size": 11484
+      },
+      "energy": 0.945759,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6304 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a4d161f3c3930db7",
+      "provenance": {
+        "tile_id": "f0508013d8b94e22",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778691281.8851602,
+        "chain_size": 11546
+      },
+      "energy": 0.945988,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6334 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "f2978c4e664dd0e3",
+      "provenance": {
+        "tile_id": "12534a9a4e23ceff",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778692187.4312525,
+        "chain_size": 11616
+      },
+      "energy": 0.946217,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6365 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "2bc28d074a3437e8",
+      "provenance": {
+        "tile_id": "9ccccf3607d62ed2",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778693093.039858,
+        "chain_size": 11678
+      },
+      "energy": 0.946446,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6395 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "7bddb7d38556cfda",
+      "provenance": {
+        "tile_id": "7e4ff23d3a9e5774",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778693998.312322,
+        "chain_size": 11745
+      },
+      "energy": 0.946675,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6425 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "520a675343edd456",
+      "provenance": {
+        "tile_id": "25d86f5e8c10c238",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778694903.8841293,
+        "chain_size": 11807
+      },
+      "energy": 0.946905,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6455 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "092ecc7e18e565c7",
+      "provenance": {
+        "tile_id": "6799701fd1b387fe",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778695809.2817588,
+        "chain_size": 11875
+      },
+      "energy": 0.947134,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6485 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "8ee2f6287782abf6",
+      "provenance": {
+        "tile_id": "f2e09752325118d5",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778696714.950558,
+        "chain_size": 11938
+      },
+      "energy": 0.947363,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6515 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "a3e2c3d231016841",
+      "provenance": {
+        "tile_id": "15565cce2367d1e6",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778697620.2629435,
+        "chain_size": 12022
+      },
+      "energy": 0.947593,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6546 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "974a010670db5709",
+      "provenance": {
+        "tile_id": "36d143cf79fb65b9",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778698525.5816557,
+        "chain_size": 12081
+      },
+      "energy": 0.947822,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6576 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "469317c80e33a691",
+      "provenance": {
+        "tile_id": "ccd65fd68ab48661",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778699431.2320147,
+        "chain_size": 12146
+      },
+      "energy": 0.948052,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6606 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "d394c2faa3bd5e98",
+      "provenance": {
+        "tile_id": "25149eaf8e250b4c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778700336.9407463,
+        "chain_size": 12210
+      },
+      "energy": 0.948282,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6636 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "6784e480a6f20e05",
+      "provenance": {
+        "tile_id": "c63b098b302ac85f",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778701242.2499642,
+        "chain_size": 12274
+      },
+      "energy": 0.948511,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6666 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5d7f4aad6e386c31",
+      "provenance": {
+        "tile_id": "06d30fc5b538e2b5",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778702147.4293466,
+        "chain_size": 12337
+      },
+      "energy": 0.948741,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6696 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "002efda797e82373",
+      "provenance": {
+        "tile_id": "6b976c10e78fec0a",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778703052.7978063,
+        "chain_size": 12402
+      },
+      "energy": 0.94897,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6727 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "78529e72a11b14f8",
+      "provenance": {
+        "tile_id": "efcd26857f0eeee9",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778703960.231415,
+        "chain_size": 12466
+      },
+      "energy": 0.949201,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6757 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "5ae47e15f5f2307c",
+      "provenance": {
+        "tile_id": "65603abf261d7f7c",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778704865.4744372,
+        "chain_size": 12529
+      },
+      "energy": 0.949431,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6787 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "e6743374ff358554",
+      "provenance": {
+        "tile_id": "fa9ca4a4bc8e97d2",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778705770.9992437,
+        "chain_size": 12605
+      },
+      "energy": 0.949661,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "Room: flux-engine",
+      "answer": "6817 tiles [Deadband ACT: P0 @ 0.99]",
+      "tags": [
+        "mythos",
+        "p0"
+      ],
+      "source": "plato",
+      "confidence": 1.0,
+      "_hash": "113afaa46f052639",
+      "provenance": {
+        "tile_id": "4884e32a3f702a38",
+        "agent_id": "plato",
+        "room": "fleet_tools",
+        "timestamp": 1778706676.7508419,
+        "chain_size": 12671
+      },
+      "energy": 0.949891,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_tools",
+      "question": "fleet_tools/harness",
+      "answer": "{\"p\": \"default room configuration\", \"G\": [], \"K\": [\"adaptive-strategy-1778833794\"], \"M\": {\"mode\": \"tile\", \"prefix\": \"memory/\"}}",
+      "tags": [
+        "harness",
+        "refiner-edit",
+        "fleet_tools",
+        "plateau"
+      ],
+      "source": "refiner",
+      "confidence": 0.9,
+      "_hash": "66ba18076d02d6d3",
+      "provenance": {
+        "tile_id": "b3bc0054a5bcdc75",
+        "agent_id": "refiner",
+        "room": "fleet_tools",
+        "timestamp": 1778833794.9891841,
+        "chain_size": 58127
+      },
+      "energy": 0.982736,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.485160+00:00",
+  "tile_count": 337,
+  "last_trained": null,
+  "workspace": null
+}

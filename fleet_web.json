@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_web",
+      "question": "Fleet index: web domain (26 repos)",
+      "answer": "Domain: web\nRepo count: 26\n\nTop repos:\n- activeledger-ai-pages\n- activelog-ai-pages\n- businesslog-ai-pages\n- capitaine-agent\n- capitaine-ai-pages\n- capitaineai-com-pages\n- cocapn-ai-pages\n- cocapn-landing\n- cocapn-prototypes\n- cocapn.github.io\n- deckboss-ai-pages\n- dmlog-ai-pages\n- fishinglog-ai-pages\n- flux-site\n- flux-studio\n- luciddreamer-ai-pages\n- lucineer-com-pages\n- makerlog-ai-pages\n- personallog-ai-pages\n- playerlog-ai-pages\n- podiumjs-rocks\n- purplepincher-org-pages\n- reallog-ai-pages\n- studylog-ai-pages\n- superinstance-ai-pages\n- test-pages-repo",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "web"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "db23a9a89a6f1f75",
+      "provenance": {
+        "tile_id": "fd5efade24c6883b",
+        "agent_id": "oracle1",
+        "room": "fleet_web",
+        "timestamp": 1778392391.4946418,
+        "chain_size": 504
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_web",
+      "question": "Fleet domain index: web \u2014 26 repos",
+      "answer": "Domain: web\nTotal repos: 26\nLanguages: HTML, JavaScript, Python, TypeScript\n\nWeb frontends \u2014 GitHub Pages, demos, constraint playground, studio, chat UI\n\nTop repos:\n\n  activeledger-ai-pages (HTML) \u2014 GitHub Pages for activeledger.ai\n  activelog-ai-pages (HTML) \u2014 GitHub Pages for activelog.ai\n  businesslog-ai-pages (HTML) \u2014 GitHub Pages for businesslog.ai\n  capitaine-agent (Python) \u2014 Captain's AI first mate for captaine.ai \u2014 voyage logging, crew coordination, mar\n  capitaine-ai-pages (HTML) \u2014 GitHub Pages for capitaine.ai\n  capitaineai-com-pages (HTML) \u2014 GitHub Pages for capitaineai.com\n  cocapn-ai-pages (HTML) \u2014 GitHub Pages for cocapn.ai\n  cocapn-landing (HTML) \u2014 Fleet landing page\n  cocapn.github.io (HTML) \u2014 Cocapn fleet home page \u2014 live at cocapn.ai\n  deckboss-ai-pages (HTML) \u2014 GitHub Pages for deckboss.ai\n  dmlog-ai-pages (HTML) \u2014 GitHub Pages for dmlog.ai\n  fishinglog-ai-pages (HTML) \u2014 GitHub Pages for fishinglog.ai\n  flux-studio (JavaScript) \u2014 \n  luciddreamer-ai-pages (HTML) \u2014 GitHub Pages for luciddreamer.ai\n  lucineer-com-pages (HTML) \u2014 GitHub Pages for lucineer.com\n  ... and 11 more",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "web"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "b597d6c25885bf01",
+      "provenance": {
+        "tile_id": "bcff5e1e3f4d2336",
+        "agent_id": "oracle1",
+        "room": "fleet_web",
+        "timestamp": 1778396485.9470835,
+        "chain_size": 538
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.494741+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,111 @@
+{
+  "tiles": [
+    {
+      "room_id": "calibration-seed-2.0-mini",
+      "domain": "fleet-calibration",
+      "agent": "fleet-calibrator",
+      "question": "Calibration 2026-05-15T09:02:11.649762Z",
+      "answer": "{\"model\": \"seed-2.0-mini\", \"provider\": \"deepinfra\", \"timestamp\": \"2026-05-15T09:02:11.649762Z\", \"total_probes\": 20, \"correct\": 14, \"accuracy\": 0.7, \"results_by_domain\": {\"quick_add\": {\"total\": 5, \"correct\": 5, \"results\": [{\"difficulty\": \"d1\", \"correct\": true}, {\"difficulty\": \"d2\", \"correct\": true}, {\"difficulty\": \"d3\", \"correct\": true}, {\"difficulty\": \"d4\", \"correct\": true}, {\"difficulty\": \"d5\", \"correct\": true}], \"accuracy\": 1.0}, \"quick_mul\": {\"total\": 4, \"correct\": 4, \"results\": [{\"difficulty\": \"d1\", \"correct\": true}, {\"difficulty\": \"d2\", \"correct\": true}, {\"difficulty\": \"d3\", \"correct\": true}, {\"difficulty\": \"d4\", \"correct\": true}], \"accuracy\": 1.0}, \"coefficient_familiarity\": {\"total\": 8, \"correct\": 5, \"results\": [{\"difficulty\": \"familiar_eisenstein\", \"correct\": true}, {\"difficulty\": \"familiar_modified\", \"correct\": true}, {\"difficulty\": \"familiar_wide\", \"correct\": false}, {\"difficulty\": \"unfamiliar\", \"correct\": false}, {\"difficulty\": \"familiar_small\", \"correct\": true}, {\"difficulty\": \"familiar_medium\", \"correct\": true}, {\"difficulty\": \"familiar_large\", \"correct\": true}, {\"difficulty\": \"unfamiliar_cubic\", \"correct\": false}], \"accuracy\": 0.625}, \"quick_syllogism\": {\"total\": 3, \"correct\": 0, \"results\": [{\"difficulty\": \"simple\", \"correct\": false}, {\"difficulty\": \"negative\", \"correct\": false}, {\"difficulty\": \"some\", \"correct\": false}], \"accuracy\": 0.0}}, \"phase_transitions\": [{\"domain\": \"coefficient_familiarity\", \"depth\": 3, \"type\": \"first_failure\"}, {\"domain\": \"quick_syllogism\", \"depth\": 1, \"type\": \"first_failure\"}], \"duration_seconds\": 42.3, \"cost\": 0.0}",
+      "tile_type": "calibration",
+      "_hash": "217bfbfeb75bb9a5",
+      "provenance": {
+        "tile_id": "25cc43c99b55be03",
+        "agent_id": "fleet-calibrator",
+        "room": "fleet-calibration",
+        "timestamp": 1778835731.3206625,
+        "chain_size": 13
+      },
+      "energy": 0.983245,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "calibration-gemini-flash-lite",
+      "domain": "fleet-calibration",
+      "agent": "fleet-calibrator",
+      "question": "Calibration 2026-05-15T09:02:36.995430Z",
+      "answer": "{\"model\": \"gemini-flash-lite\", \"provider\": \"deepinfra\", \"timestamp\": \"2026-05-15T09:02:36.995430Z\", \"total_probes\": 20, \"correct\": 14, \"accuracy\": 0.7, \"results_by_domain\": {\"quick_add\": {\"total\": 5, \"correct\": 5, \"results\": [{\"difficulty\": \"d1\", \"correct\": true}, {\"difficulty\": \"d2\", \"correct\": true}, {\"difficulty\": \"d3\", \"correct\": true}, {\"difficulty\": \"d4\", \"correct\": true}, {\"difficulty\": \"d5\", \"correct\": true}], \"accuracy\": 1.0}, \"quick_mul\": {\"total\": 4, \"correct\": 4, \"results\": [{\"difficulty\": \"d1\", \"correct\": true}, {\"difficulty\": \"d2\", \"correct\": true}, {\"difficulty\": \"d3\", \"correct\": true}, {\"difficulty\": \"d4\", \"correct\": true}], \"accuracy\": 1.0}, \"coefficient_familiarity\": {\"total\": 8, \"correct\": 5, \"results\": [{\"difficulty\": \"familiar_eisenstein\", \"correct\": true}, {\"difficulty\": \"familiar_modified\", \"correct\": true}, {\"difficulty\": \"familiar_wide\", \"correct\": false}, {\"difficulty\": \"unfamiliar\", \"correct\": false}, {\"difficulty\": \"familiar_small\", \"correct\": true}, {\"difficulty\": \"familiar_medium\", \"correct\": true}, {\"difficulty\": \"familiar_large\", \"correct\": true}, {\"difficulty\": \"unfamiliar_cubic\", \"correct\": false}], \"accuracy\": 0.625}, \"quick_syllogism\": {\"total\": 3, \"correct\": 0, \"results\": [{\"difficulty\": \"simple\", \"correct\": false}, {\"difficulty\": \"negative\", \"correct\": false}, {\"difficulty\": \"some\", \"correct\": false}], \"accuracy\": 0.0}}, \"phase_transitions\": [{\"domain\": \"coefficient_familiarity\", \"depth\": 3, \"type\": \"first_failure\"}, {\"domain\": \"quick_syllogism\", \"depth\": 1, \"type\": \"first_failure\"}], \"duration_seconds\": 25.2, \"cost\": 0.0}",
+      "tile_type": "calibration",
+      "_hash": "9a22ea9ff042ff9b",
+      "provenance": {
+        "tile_id": "6d6e1a2da0390c1b",
+        "agent_id": "fleet-calibrator",
+        "room": "fleet-calibration",
+        "timestamp": 1778835756.736904,
+        "chain_size": 15
+      },
+      "energy": 0.983252,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "calibration-bulk",
+      "domain": "fleet-calibration",
+      "agent": "forgemaster",
+      "question": "Bulk calibration: 10 unmapped models",
+      "answer": "llama-3.1-8b: 80%\nqwen2.5-72b: 70%\nllama-3.3-70b: 70%\nglm-5-turbo: 40%\nqwen3.5-9b: 20%\nqwen3.5-27b: 10%\nmimo-v2.5: 0%\nstep-3.5-flash: 0%\nllama-4-scout: 0%\nqwen3-32b: 0%",
+      "tile_type": "calibration",
+      "tags": [
+        "calibration",
+        "bulk",
+        "10-models"
+      ],
+      "confidence": 0.9,
+      "_hash": "c10f56f826761224",
+      "provenance": {
+        "tile_id": "3fa37522506a05ea",
+        "agent_id": "forgemaster",
+        "room": "fleet-calibration",
+        "timestamp": 1778837024.7491019,
+        "chain_size": 185
+      },
+      "energy": 0.983585,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "forge",
+      "domain": "fleet-calibration",
+      "agent": "forgemaster",
+      "question": "Routing table v2.0 \u2014 21 models calibrated",
+      "answer": "Calibrated 15 new models. MiMo-V2.5 and Llama-4-Maverick both score 100%. Groq llama-3.1-8b at 86% with ~50ms latency \u2014 fastest model in the fleet. Thinking model extraction fixed (Qwen3.x needs reasoning_content). Routing table now: 6 primary domains, 4 alternatives, 21 total models. F13 Token Budget Principle confirmed again \u2014 max_tokens matters for thinking models.",
+      "tile_type": "calibration",
+      "tags": [
+        "routing",
+        "v2",
+        "21-models"
+      ],
+      "confidence": 0.95,
+      "_hash": "8e215c7bcc3c66ef",
+      "provenance": {
+        "tile_id": "f14e4b087abdb325",
+        "agent_id": "forgemaster",
+        "room": "fleet-calibration",
+        "timestamp": 1778837573.614489,
+        "chain_size": 248
+      },
+      "energy": 0.983729,
+      "reinforcement_count": 0
+    },
+    {
+      "room_id": "night-lab-boundaries",
+      "domain": "fleet-calibration",
+      "agent": "forgemaster-nightlab",
+      "question": "Domain boundary map: 4 domains \u00d7 2 models",
+      "answer": "seed-mini magnitude: CA=\u221e acc=100%\nseed-mini operations: CA=\u221e acc=100%\nseed-mini code_depth: CA=\u221e acc=100%\nseed-mini reasoning_depth: CA=\u221e acc=100%\nglm-5-turbo magnitude: CA=3 acc=83%\nglm-5-turbo operations: CA=7 acc=75%\nglm-5-turbo code_depth: CA=4 acc=62%\nglm-5-turbo reasoning_depth: CA=3 acc=83%",
+      "tile_type": "calibration",
+      "confidence": 0.95,
+      "_hash": "f8d5fd8cc056d2dc",
+      "provenance": {
+        "tile_id": "48c1acb2696a31d6",
+        "agent_id": "forgemaster-nightlab",
+        "room": "fleet-calibration",
+        "timestamp": 1778843698.6878302,
+        "chain_size": 1011
+      },
+      "energy": 0.985342,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T09:02:11.320774+00:00",
+  "tile_count": 5,
+  "last_trained": null,
+  "workspace": null
+}

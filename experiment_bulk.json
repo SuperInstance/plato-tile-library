@@ -1,0 +1,1831 @@
+{
+  "tiles": [
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 0 in the hydraulic system?",
+      "answer": "Component 0 is a hydraulic pump with part number COCAPN-HYD-0000. It operates at 1500 PSI maximum and flows 10.0 gallons per minute. Weight is 2.0 kg. Installed on port side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "fdde4e88cf0c9f74",
+      "provenance": {
+        "tile_id": "a8c66458028f6333",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6245003,
+        "chain_size": 8139
+      },
+      "energy": 0.938396,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 1 in the hydraulic system?",
+      "answer": "Component 1 is a hydraulic valve with part number COCAPN-HYD-0001. It operates at 1510 PSI maximum and flows 10.5 gallons per minute. Weight is 2.1 kg. Installed on starboard side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e05877d20d6d4ce9",
+      "provenance": {
+        "tile_id": "2500eb947c5cc14c",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6300058,
+        "chain_size": 8140
+      },
+      "energy": 0.938396,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 2 in the hydraulic system?",
+      "answer": "Component 2 is a hydraulic line with part number COCAPN-HYD-0002. It operates at 1520 PSI maximum and flows 11.0 gallons per minute. Weight is 2.2 kg. Installed on centerline side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c61dd9130f149f36",
+      "provenance": {
+        "tile_id": "fb3d84511c59a503",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6349885,
+        "chain_size": 8141
+      },
+      "energy": 0.938396,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 3 in the hydraulic system?",
+      "answer": "Component 3 is a hydraulic fitting with part number COCAPN-HYD-0003. It operates at 1530 PSI maximum and flows 11.5 gallons per minute. Weight is 2.3 kg. Installed on port side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "af19f0cdde31dc94",
+      "provenance": {
+        "tile_id": "751d822fa5984d91",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6401155,
+        "chain_size": 8142
+      },
+      "energy": 0.938396,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 4 in the hydraulic system?",
+      "answer": "Component 4 is a hydraulic actuator with part number COCAPN-HYD-0004. It operates at 1540 PSI maximum and flows 12.0 gallons per minute. Weight is 2.4 kg. Installed on starboard side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9fb88c3ee50b07fc",
+      "provenance": {
+        "tile_id": "bf7a1dd2ba0b1fc4",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6457324,
+        "chain_size": 8143
+      },
+      "energy": 0.938396,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 5 in the hydraulic system?",
+      "answer": "Component 5 is a hydraulic filter with part number COCAPN-HYD-0005. It operates at 1550 PSI maximum and flows 12.5 gallons per minute. Weight is 2.5 kg. Installed on centerline side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "516e5b83a6a7cb3f",
+      "provenance": {
+        "tile_id": "edd7e2bcc1d35368",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6522455,
+        "chain_size": 8144
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 6 in the hydraulic system?",
+      "answer": "Component 6 is a hydraulic reservoir with part number COCAPN-HYD-0006. It operates at 1560 PSI maximum and flows 13.0 gallons per minute. Weight is 2.6 kg. Installed on port side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "bcf5dd9f5c851ab4",
+      "provenance": {
+        "tile_id": "8e9e92c0a67a5de2",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6573656,
+        "chain_size": 8145
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 7 in the hydraulic system?",
+      "answer": "Component 7 is a hydraulic cooler with part number COCAPN-HYD-0007. It operates at 1570 PSI maximum and flows 13.5 gallons per minute. Weight is 2.7 kg. Installed on starboard side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "dbdbd9eaeffef345",
+      "provenance": {
+        "tile_id": "c0f93c6ad5a8ca7c",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6625757,
+        "chain_size": 8146
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 8 in the hydraulic system?",
+      "answer": "Component 8 is a hydraulic accumulator with part number COCAPN-HYD-0008. It operates at 1580 PSI maximum and flows 14.0 gallons per minute. Weight is 2.8 kg. Installed on centerline side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6b6d3ae56743ee2b",
+      "provenance": {
+        "tile_id": "d5d38561f95d4fdb",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6675549,
+        "chain_size": 8147
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 9 in the hydraulic system?",
+      "answer": "Component 9 is a hydraulic manifold with part number COCAPN-HYD-0009. It operates at 1590 PSI maximum and flows 14.5 gallons per minute. Weight is 2.9 kg. Installed on port side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c8f692e188ccc137",
+      "provenance": {
+        "tile_id": "a43c492d30539e55",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6728773,
+        "chain_size": 8148
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 10 in the hydraulic system?",
+      "answer": "Component 10 is a hydraulic pump with part number COCAPN-HYD-0010. It operates at 1600 PSI maximum and flows 15.0 gallons per minute. Weight is 3.0 kg. Installed on starboard side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "cfebab22af3aafd9",
+      "provenance": {
+        "tile_id": "47c825be1d06d8b5",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6780672,
+        "chain_size": 8149
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 11 in the hydraulic system?",
+      "answer": "Component 11 is a hydraulic valve with part number COCAPN-HYD-0011. It operates at 1610 PSI maximum and flows 15.5 gallons per minute. Weight is 3.1 kg. Installed on centerline side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "57a10966cf152a00",
+      "provenance": {
+        "tile_id": "c20968e13e0fbe02",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.68325,
+        "chain_size": 8150
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 12 in the hydraulic system?",
+      "answer": "Component 12 is a hydraulic line with part number COCAPN-HYD-0012. It operates at 1620 PSI maximum and flows 16.0 gallons per minute. Weight is 3.2 kg. Installed on port side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "5191676107cff6ba",
+      "provenance": {
+        "tile_id": "20f168b72c5601fe",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.688232,
+        "chain_size": 8151
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 13 in the hydraulic system?",
+      "answer": "Component 13 is a hydraulic fitting with part number COCAPN-HYD-0013. It operates at 1630 PSI maximum and flows 16.5 gallons per minute. Weight is 3.3 kg. Installed on starboard side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6965096755f362b3",
+      "provenance": {
+        "tile_id": "45e03bee57301d1a",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6944547,
+        "chain_size": 8152
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 14 in the hydraulic system?",
+      "answer": "Component 14 is a hydraulic actuator with part number COCAPN-HYD-0014. It operates at 1640 PSI maximum and flows 17.0 gallons per minute. Weight is 3.4000000000000004 kg. Installed on centerline side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "885ca4b1a0ab39e1",
+      "provenance": {
+        "tile_id": "ff0d7ad62c5d2797",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.6994152,
+        "chain_size": 8153
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 15 in the hydraulic system?",
+      "answer": "Component 15 is a hydraulic filter with part number COCAPN-HYD-0015. It operates at 1650 PSI maximum and flows 17.5 gallons per minute. Weight is 3.5 kg. Installed on port side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "20788a578ff0e7fb",
+      "provenance": {
+        "tile_id": "2bfa595448257de1",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7043424,
+        "chain_size": 8154
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 16 in the hydraulic system?",
+      "answer": "Component 16 is a hydraulic reservoir with part number COCAPN-HYD-0016. It operates at 1660 PSI maximum and flows 18.0 gallons per minute. Weight is 3.6 kg. Installed on starboard side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "0d3dbcc9f39b0cc9",
+      "provenance": {
+        "tile_id": "a582bc2c1fef3d08",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7090313,
+        "chain_size": 8155
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 17 in the hydraulic system?",
+      "answer": "Component 17 is a hydraulic cooler with part number COCAPN-HYD-0017. It operates at 1670 PSI maximum and flows 18.5 gallons per minute. Weight is 3.7 kg. Installed on centerline side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e25760e4418e6af3",
+      "provenance": {
+        "tile_id": "fdda654f5757c552",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7142286,
+        "chain_size": 8156
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 18 in the hydraulic system?",
+      "answer": "Component 18 is a hydraulic accumulator with part number COCAPN-HYD-0018. It operates at 1680 PSI maximum and flows 19.0 gallons per minute. Weight is 3.8 kg. Installed on port side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d1697b3bb006f5c7",
+      "provenance": {
+        "tile_id": "e75c6f1ac7c7af62",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7191856,
+        "chain_size": 8157
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 19 in the hydraulic system?",
+      "answer": "Component 19 is a hydraulic manifold with part number COCAPN-HYD-0019. It operates at 1690 PSI maximum and flows 19.5 gallons per minute. Weight is 3.9000000000000004 kg. Installed on starboard side of engine room compartment 1. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "57c69489b8fa3cd9",
+      "provenance": {
+        "tile_id": "7c2724eedfd5195c",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7243052,
+        "chain_size": 8158
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 20 in the hydraulic system?",
+      "answer": "Component 20 is a hydraulic pump with part number COCAPN-HYD-0020. It operates at 1700 PSI maximum and flows 20.0 gallons per minute. Weight is 4.0 kg. Installed on centerline side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6ccc26169ae17449",
+      "provenance": {
+        "tile_id": "ec9418e95694d04b",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7298477,
+        "chain_size": 8159
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 21 in the hydraulic system?",
+      "answer": "Component 21 is a hydraulic valve with part number COCAPN-HYD-0021. It operates at 1710 PSI maximum and flows 20.5 gallons per minute. Weight is 4.1 kg. Installed on port side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c96ee66f728642c6",
+      "provenance": {
+        "tile_id": "ad759c50e199d0f3",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7359257,
+        "chain_size": 8160
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 22 in the hydraulic system?",
+      "answer": "Component 22 is a hydraulic line with part number COCAPN-HYD-0022. It operates at 1720 PSI maximum and flows 21.0 gallons per minute. Weight is 4.2 kg. Installed on starboard side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "203b2e8074cdb0a3",
+      "provenance": {
+        "tile_id": "b293fa36d25ccfce",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7422552,
+        "chain_size": 8161
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 23 in the hydraulic system?",
+      "answer": "Component 23 is a hydraulic fitting with part number COCAPN-HYD-0023. It operates at 1730 PSI maximum and flows 21.5 gallons per minute. Weight is 4.300000000000001 kg. Installed on centerline side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "f9f1542e5f8419a4",
+      "provenance": {
+        "tile_id": "97d7e2bf7d7346be",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7475462,
+        "chain_size": 8162
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 24 in the hydraulic system?",
+      "answer": "Component 24 is a hydraulic actuator with part number COCAPN-HYD-0024. It operates at 1740 PSI maximum and flows 22.0 gallons per minute. Weight is 4.4 kg. Installed on port side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "a23a195ea347fcac",
+      "provenance": {
+        "tile_id": "3f3bf00c8ac618b1",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7530093,
+        "chain_size": 8163
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 25 in the hydraulic system?",
+      "answer": "Component 25 is a hydraulic filter with part number COCAPN-HYD-0025. It operates at 1750 PSI maximum and flows 22.5 gallons per minute. Weight is 4.5 kg. Installed on starboard side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "f923a6b9471ca275",
+      "provenance": {
+        "tile_id": "9f23af3b3da9a363",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7577786,
+        "chain_size": 8164
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 26 in the hydraulic system?",
+      "answer": "Component 26 is a hydraulic reservoir with part number COCAPN-HYD-0026. It operates at 1760 PSI maximum and flows 23.0 gallons per minute. Weight is 4.6 kg. Installed on centerline side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "fc51619763d6fefd",
+      "provenance": {
+        "tile_id": "4377255d2c95daf7",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.763319,
+        "chain_size": 8165
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 27 in the hydraulic system?",
+      "answer": "Component 27 is a hydraulic cooler with part number COCAPN-HYD-0027. It operates at 1770 PSI maximum and flows 23.5 gallons per minute. Weight is 4.7 kg. Installed on port side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "136e93d252ccaac5",
+      "provenance": {
+        "tile_id": "d47a5ee0ff2741b5",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.768329,
+        "chain_size": 8166
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 28 in the hydraulic system?",
+      "answer": "Component 28 is a hydraulic accumulator with part number COCAPN-HYD-0028. It operates at 1780 PSI maximum and flows 24.0 gallons per minute. Weight is 4.800000000000001 kg. Installed on starboard side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "7276260720be412d",
+      "provenance": {
+        "tile_id": "df6fbb48c3e70aaa",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7732604,
+        "chain_size": 8167
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 29 in the hydraulic system?",
+      "answer": "Component 29 is a hydraulic manifold with part number COCAPN-HYD-0029. It operates at 1790 PSI maximum and flows 24.5 gallons per minute. Weight is 4.9 kg. Installed on centerline side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "59d1119860dcb623",
+      "provenance": {
+        "tile_id": "10ba4530f0fdc535",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7792382,
+        "chain_size": 8168
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 30 in the hydraulic system?",
+      "answer": "Component 30 is a hydraulic pump with part number COCAPN-HYD-0030. It operates at 1800 PSI maximum and flows 25.0 gallons per minute. Weight is 5.0 kg. Installed on port side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "ee0367938e40e05b",
+      "provenance": {
+        "tile_id": "990986aa6c5ee116",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7842429,
+        "chain_size": 8169
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 31 in the hydraulic system?",
+      "answer": "Component 31 is a hydraulic valve with part number COCAPN-HYD-0031. It operates at 1810 PSI maximum and flows 25.5 gallons per minute. Weight is 5.1 kg. Installed on starboard side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e2ed4b1e954a38ed",
+      "provenance": {
+        "tile_id": "a5f95ad27b80f6bd",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.7900193,
+        "chain_size": 8170
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 32 in the hydraulic system?",
+      "answer": "Component 32 is a hydraulic line with part number COCAPN-HYD-0032. It operates at 1820 PSI maximum and flows 26.0 gallons per minute. Weight is 5.2 kg. Installed on centerline side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "abbb46f765fdeb30",
+      "provenance": {
+        "tile_id": "48a1fd3845012aa5",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.795096,
+        "chain_size": 8171
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 33 in the hydraulic system?",
+      "answer": "Component 33 is a hydraulic fitting with part number COCAPN-HYD-0033. It operates at 1830 PSI maximum and flows 26.5 gallons per minute. Weight is 5.300000000000001 kg. Installed on port side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "aed5698d3704cd15",
+      "provenance": {
+        "tile_id": "a7dadb43a456c7c6",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.800615,
+        "chain_size": 8172
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 34 in the hydraulic system?",
+      "answer": "Component 34 is a hydraulic actuator with part number COCAPN-HYD-0034. It operates at 1840 PSI maximum and flows 27.0 gallons per minute. Weight is 5.4 kg. Installed on starboard side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "876cd75983533510",
+      "provenance": {
+        "tile_id": "27be975660747a01",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8059075,
+        "chain_size": 8173
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 35 in the hydraulic system?",
+      "answer": "Component 35 is a hydraulic filter with part number COCAPN-HYD-0035. It operates at 1850 PSI maximum and flows 27.5 gallons per minute. Weight is 5.5 kg. Installed on centerline side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "219a84939f417c40",
+      "provenance": {
+        "tile_id": "107ce54306a6e2cf",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8115053,
+        "chain_size": 8174
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 36 in the hydraulic system?",
+      "answer": "Component 36 is a hydraulic reservoir with part number COCAPN-HYD-0036. It operates at 1860 PSI maximum and flows 28.0 gallons per minute. Weight is 5.6 kg. Installed on port side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "5362098be2ab68a7",
+      "provenance": {
+        "tile_id": "d99d1c53acc110f9",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8168807,
+        "chain_size": 8175
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 37 in the hydraulic system?",
+      "answer": "Component 37 is a hydraulic cooler with part number COCAPN-HYD-0037. It operates at 1870 PSI maximum and flows 28.5 gallons per minute. Weight is 5.7 kg. Installed on starboard side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "01f74bc3d1464add",
+      "provenance": {
+        "tile_id": "f94c625d67ce656e",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.823572,
+        "chain_size": 8176
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 38 in the hydraulic system?",
+      "answer": "Component 38 is a hydraulic accumulator with part number COCAPN-HYD-0038. It operates at 1880 PSI maximum and flows 29.0 gallons per minute. Weight is 5.800000000000001 kg. Installed on centerline side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e3f3761ccbaf5131",
+      "provenance": {
+        "tile_id": "b60cea215bacfced",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.829093,
+        "chain_size": 8177
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 39 in the hydraulic system?",
+      "answer": "Component 39 is a hydraulic manifold with part number COCAPN-HYD-0039. It operates at 1890 PSI maximum and flows 29.5 gallons per minute. Weight is 5.9 kg. Installed on port side of engine room compartment 2. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "fecde729a41ede3b",
+      "provenance": {
+        "tile_id": "69846550d9b2f7e3",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8344352,
+        "chain_size": 8178
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 40 in the hydraulic system?",
+      "answer": "Component 40 is a hydraulic pump with part number COCAPN-HYD-0040. It operates at 1900 PSI maximum and flows 30.0 gallons per minute. Weight is 6.0 kg. Installed on starboard side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "109b2064e9237869",
+      "provenance": {
+        "tile_id": "e32d57decd883c2f",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.840277,
+        "chain_size": 8179
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 41 in the hydraulic system?",
+      "answer": "Component 41 is a hydraulic valve with part number COCAPN-HYD-0041. It operates at 1910 PSI maximum and flows 30.5 gallons per minute. Weight is 6.1000000000000005 kg. Installed on centerline side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "1cf9583945ab4d87",
+      "provenance": {
+        "tile_id": "0c466622d9dfd9ac",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8460324,
+        "chain_size": 8180
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 42 in the hydraulic system?",
+      "answer": "Component 42 is a hydraulic line with part number COCAPN-HYD-0042. It operates at 1920 PSI maximum and flows 31.0 gallons per minute. Weight is 6.2 kg. Installed on port side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "603ef9071e8a2ab8",
+      "provenance": {
+        "tile_id": "7194eba8dd8016be",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8524926,
+        "chain_size": 8181
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 43 in the hydraulic system?",
+      "answer": "Component 43 is a hydraulic fitting with part number COCAPN-HYD-0043. It operates at 1930 PSI maximum and flows 31.5 gallons per minute. Weight is 6.3 kg. Installed on starboard side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9512624301d63a9f",
+      "provenance": {
+        "tile_id": "2f8ebd8b2a5ec074",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8589342,
+        "chain_size": 8182
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 44 in the hydraulic system?",
+      "answer": "Component 44 is a hydraulic actuator with part number COCAPN-HYD-0044. It operates at 1940 PSI maximum and flows 32.0 gallons per minute. Weight is 6.4 kg. Installed on centerline side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "172910ec32328f80",
+      "provenance": {
+        "tile_id": "00112b1491dbe64d",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8652766,
+        "chain_size": 8183
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 45 in the hydraulic system?",
+      "answer": "Component 45 is a hydraulic filter with part number COCAPN-HYD-0045. It operates at 1950 PSI maximum and flows 32.5 gallons per minute. Weight is 6.5 kg. Installed on port side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "bd4f217e4acdb406",
+      "provenance": {
+        "tile_id": "db3b69c8da102213",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8724926,
+        "chain_size": 8184
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 46 in the hydraulic system?",
+      "answer": "Component 46 is a hydraulic reservoir with part number COCAPN-HYD-0046. It operates at 1960 PSI maximum and flows 33.0 gallons per minute. Weight is 6.6000000000000005 kg. Installed on starboard side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "15d1c2fcef5f72cd",
+      "provenance": {
+        "tile_id": "ece3760385bbe74a",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.878656,
+        "chain_size": 8185
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 47 in the hydraulic system?",
+      "answer": "Component 47 is a hydraulic cooler with part number COCAPN-HYD-0047. It operates at 1970 PSI maximum and flows 33.5 gallons per minute. Weight is 6.7 kg. Installed on centerline side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "29bd1dfee8b772d5",
+      "provenance": {
+        "tile_id": "153b77245ef9b52d",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8849292,
+        "chain_size": 8186
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 48 in the hydraulic system?",
+      "answer": "Component 48 is a hydraulic accumulator with part number COCAPN-HYD-0048. It operates at 1980 PSI maximum and flows 34.0 gallons per minute. Weight is 6.800000000000001 kg. Installed on port side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "0cdcf66edadc50b4",
+      "provenance": {
+        "tile_id": "88454dbf5b894b32",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8914115,
+        "chain_size": 8187
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 49 in the hydraulic system?",
+      "answer": "Component 49 is a hydraulic manifold with part number COCAPN-HYD-0049. It operates at 1990 PSI maximum and flows 34.5 gallons per minute. Weight is 6.9 kg. Installed on starboard side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "88299ac5f32b5b10",
+      "provenance": {
+        "tile_id": "37d2f665bc813d30",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.8980072,
+        "chain_size": 8188
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 50 in the hydraulic system?",
+      "answer": "Component 50 is a hydraulic pump with part number COCAPN-HYD-0050. It operates at 2000 PSI maximum and flows 35.0 gallons per minute. Weight is 7.0 kg. Installed on centerline side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6f6c693c7c2028db",
+      "provenance": {
+        "tile_id": "19148b5f4d201ed1",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9040792,
+        "chain_size": 8189
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 51 in the hydraulic system?",
+      "answer": "Component 51 is a hydraulic valve with part number COCAPN-HYD-0051. It operates at 2010 PSI maximum and flows 35.5 gallons per minute. Weight is 7.1000000000000005 kg. Installed on port side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "a5379b38a37643e7",
+      "provenance": {
+        "tile_id": "ea7f4e1353b6c509",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9099736,
+        "chain_size": 8190
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 52 in the hydraulic system?",
+      "answer": "Component 52 is a hydraulic line with part number COCAPN-HYD-0052. It operates at 2020 PSI maximum and flows 36.0 gallons per minute. Weight is 7.2 kg. Installed on starboard side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "7e374f55ca7b0365",
+      "provenance": {
+        "tile_id": "70de2c8a4ac63950",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.916375,
+        "chain_size": 8191
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 53 in the hydraulic system?",
+      "answer": "Component 53 is a hydraulic fitting with part number COCAPN-HYD-0053. It operates at 2030 PSI maximum and flows 36.5 gallons per minute. Weight is 7.300000000000001 kg. Installed on centerline side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "7bd972d1b409d6b5",
+      "provenance": {
+        "tile_id": "057bd665e036478a",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9240682,
+        "chain_size": 8192
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 54 in the hydraulic system?",
+      "answer": "Component 54 is a hydraulic actuator with part number COCAPN-HYD-0054. It operates at 2040 PSI maximum and flows 37.0 gallons per minute. Weight is 7.4 kg. Installed on port side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9c3829b45b891ff1",
+      "provenance": {
+        "tile_id": "54817260f8881ba5",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.929973,
+        "chain_size": 8193
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 55 in the hydraulic system?",
+      "answer": "Component 55 is a hydraulic filter with part number COCAPN-HYD-0055. It operates at 2050 PSI maximum and flows 37.5 gallons per minute. Weight is 7.5 kg. Installed on starboard side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2e43b00c2dd95387",
+      "provenance": {
+        "tile_id": "67f98ed360978c67",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9363549,
+        "chain_size": 8194
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 56 in the hydraulic system?",
+      "answer": "Component 56 is a hydraulic reservoir with part number COCAPN-HYD-0056. It operates at 2060 PSI maximum and flows 38.0 gallons per minute. Weight is 7.6000000000000005 kg. Installed on centerline side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9777a44d62419eb2",
+      "provenance": {
+        "tile_id": "c0e2ac94b472e7e3",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.942745,
+        "chain_size": 8195
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 57 in the hydraulic system?",
+      "answer": "Component 57 is a hydraulic cooler with part number COCAPN-HYD-0057. It operates at 2070 PSI maximum and flows 38.5 gallons per minute. Weight is 7.7 kg. Installed on port side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "ecdceb9cdf209ecd",
+      "provenance": {
+        "tile_id": "05a38c6d55af99fa",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9493444,
+        "chain_size": 8196
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 58 in the hydraulic system?",
+      "answer": "Component 58 is a hydraulic accumulator with part number COCAPN-HYD-0058. It operates at 2080 PSI maximum and flows 39.0 gallons per minute. Weight is 7.800000000000001 kg. Installed on starboard side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "520446d0b5e94f6b",
+      "provenance": {
+        "tile_id": "7b02b7bef7ac4682",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9559677,
+        "chain_size": 8197
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 59 in the hydraulic system?",
+      "answer": "Component 59 is a hydraulic manifold with part number COCAPN-HYD-0059. It operates at 2090 PSI maximum and flows 39.5 gallons per minute. Weight is 7.9 kg. Installed on centerline side of engine room compartment 3. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b063fd88f17e1da1",
+      "provenance": {
+        "tile_id": "70341b77bae9cb11",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9625902,
+        "chain_size": 8198
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 60 in the hydraulic system?",
+      "answer": "Component 60 is a hydraulic pump with part number COCAPN-HYD-0060. It operates at 2100 PSI maximum and flows 40.0 gallons per minute. Weight is 8.0 kg. Installed on port side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "faceab69c769ba21",
+      "provenance": {
+        "tile_id": "d8831c911ae4b98a",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9691076,
+        "chain_size": 8199
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 61 in the hydraulic system?",
+      "answer": "Component 61 is a hydraulic valve with part number COCAPN-HYD-0061. It operates at 2110 PSI maximum and flows 40.5 gallons per minute. Weight is 8.100000000000001 kg. Installed on starboard side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2668ccfd9e413fba",
+      "provenance": {
+        "tile_id": "e630432527659e64",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9764452,
+        "chain_size": 8200
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 62 in the hydraulic system?",
+      "answer": "Component 62 is a hydraulic line with part number COCAPN-HYD-0062. It operates at 2120 PSI maximum and flows 41.0 gallons per minute. Weight is 8.2 kg. Installed on centerline side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e239817222913986",
+      "provenance": {
+        "tile_id": "d416216d151c4499",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9831207,
+        "chain_size": 8201
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 63 in the hydraulic system?",
+      "answer": "Component 63 is a hydraulic fitting with part number COCAPN-HYD-0063. It operates at 2130 PSI maximum and flows 41.5 gallons per minute. Weight is 8.3 kg. Installed on port side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "a6b55684ac337579",
+      "provenance": {
+        "tile_id": "aeb081557f4a47cf",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9896615,
+        "chain_size": 8202
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 64 in the hydraulic system?",
+      "answer": "Component 64 is a hydraulic actuator with part number COCAPN-HYD-0064. It operates at 2140 PSI maximum and flows 42.0 gallons per minute. Weight is 8.4 kg. Installed on starboard side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9a5d8a71e8177a57",
+      "provenance": {
+        "tile_id": "b0104cb6b9ce3662",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661151.9969103,
+        "chain_size": 8203
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 65 in the hydraulic system?",
+      "answer": "Component 65 is a hydraulic filter with part number COCAPN-HYD-0065. It operates at 2150 PSI maximum and flows 42.5 gallons per minute. Weight is 8.5 kg. Installed on centerline side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "cdd45ae3957c89da",
+      "provenance": {
+        "tile_id": "8f4cbc5d7b44a50a",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0028481,
+        "chain_size": 8204
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 66 in the hydraulic system?",
+      "answer": "Component 66 is a hydraulic reservoir with part number COCAPN-HYD-0066. It operates at 2160 PSI maximum and flows 43.0 gallons per minute. Weight is 8.600000000000001 kg. Installed on port side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2c1f1759252bb286",
+      "provenance": {
+        "tile_id": "f30752463713b888",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0086114,
+        "chain_size": 8205
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 67 in the hydraulic system?",
+      "answer": "Component 67 is a hydraulic cooler with part number COCAPN-HYD-0067. It operates at 2170 PSI maximum and flows 43.5 gallons per minute. Weight is 8.7 kg. Installed on starboard side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "cf5353951a9b18c4",
+      "provenance": {
+        "tile_id": "122f4eb5347fad02",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0148547,
+        "chain_size": 8206
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 68 in the hydraulic system?",
+      "answer": "Component 68 is a hydraulic accumulator with part number COCAPN-HYD-0068. It operates at 2180 PSI maximum and flows 44.0 gallons per minute. Weight is 8.8 kg. Installed on centerline side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "82b353304fb759c6",
+      "provenance": {
+        "tile_id": "29cab3f70b60d214",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0208201,
+        "chain_size": 8207
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 69 in the hydraulic system?",
+      "answer": "Component 69 is a hydraulic manifold with part number COCAPN-HYD-0069. It operates at 2190 PSI maximum and flows 44.5 gallons per minute. Weight is 8.9 kg. Installed on port side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e5e178daac24f82d",
+      "provenance": {
+        "tile_id": "d8bb5dd11aed20ec",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.027681,
+        "chain_size": 8208
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 70 in the hydraulic system?",
+      "answer": "Component 70 is a hydraulic pump with part number COCAPN-HYD-0070. It operates at 2200 PSI maximum and flows 45.0 gallons per minute. Weight is 9.0 kg. Installed on starboard side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "7745ceaf6013d492",
+      "provenance": {
+        "tile_id": "475335a182a1f4e5",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.033584,
+        "chain_size": 8209
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 71 in the hydraulic system?",
+      "answer": "Component 71 is a hydraulic valve with part number COCAPN-HYD-0071. It operates at 2210 PSI maximum and flows 45.5 gallons per minute. Weight is 9.100000000000001 kg. Installed on centerline side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "1e41469d7299ac8a",
+      "provenance": {
+        "tile_id": "14f60b228a2a6835",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0394926,
+        "chain_size": 8210
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 72 in the hydraulic system?",
+      "answer": "Component 72 is a hydraulic line with part number COCAPN-HYD-0072. It operates at 2220 PSI maximum and flows 46.0 gallons per minute. Weight is 9.2 kg. Installed on port side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "4599cdfdfc7572b3",
+      "provenance": {
+        "tile_id": "6ff01dcdd29b2b1b",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.045524,
+        "chain_size": 8211
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 73 in the hydraulic system?",
+      "answer": "Component 73 is a hydraulic fitting with part number COCAPN-HYD-0073. It operates at 2230 PSI maximum and flows 46.5 gallons per minute. Weight is 9.3 kg. Installed on starboard side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c1895e007447028d",
+      "provenance": {
+        "tile_id": "749a273d0ca1d53e",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0515285,
+        "chain_size": 8212
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 74 in the hydraulic system?",
+      "answer": "Component 74 is a hydraulic actuator with part number COCAPN-HYD-0074. It operates at 2240 PSI maximum and flows 47.0 gallons per minute. Weight is 9.4 kg. Installed on centerline side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3ed6498e14fd7706",
+      "provenance": {
+        "tile_id": "6ef17e4577f3a6d6",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0577135,
+        "chain_size": 8213
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 75 in the hydraulic system?",
+      "answer": "Component 75 is a hydraulic filter with part number COCAPN-HYD-0075. It operates at 2250 PSI maximum and flows 47.5 gallons per minute. Weight is 9.5 kg. Installed on port side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "dc8f79b1a7140f45",
+      "provenance": {
+        "tile_id": "f62511848d6c9649",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0639796,
+        "chain_size": 8214
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 76 in the hydraulic system?",
+      "answer": "Component 76 is a hydraulic reservoir with part number COCAPN-HYD-0076. It operates at 2260 PSI maximum and flows 48.0 gallons per minute. Weight is 9.600000000000001 kg. Installed on starboard side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2de74214aedfd86a",
+      "provenance": {
+        "tile_id": "86b4d3237d5b6673",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0697103,
+        "chain_size": 8215
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 77 in the hydraulic system?",
+      "answer": "Component 77 is a hydraulic cooler with part number COCAPN-HYD-0077. It operates at 2270 PSI maximum and flows 48.5 gallons per minute. Weight is 9.7 kg. Installed on centerline side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "0c6e8eb97fa7cc82",
+      "provenance": {
+        "tile_id": "f8fbbd8fe9065280",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0769293,
+        "chain_size": 8216
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 78 in the hydraulic system?",
+      "answer": "Component 78 is a hydraulic accumulator with part number COCAPN-HYD-0078. It operates at 2280 PSI maximum and flows 49.0 gallons per minute. Weight is 9.8 kg. Installed on port side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "7c3508adbd8f2b4a",
+      "provenance": {
+        "tile_id": "417ed4137e51b06a",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.082822,
+        "chain_size": 8217
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 79 in the hydraulic system?",
+      "answer": "Component 79 is a hydraulic manifold with part number COCAPN-HYD-0079. It operates at 2290 PSI maximum and flows 49.5 gallons per minute. Weight is 9.9 kg. Installed on starboard side of engine room compartment 4. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6be1f699b502d1a7",
+      "provenance": {
+        "tile_id": "9fab0149ef0f176f",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.088889,
+        "chain_size": 8218
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 80 in the hydraulic system?",
+      "answer": "Component 80 is a hydraulic pump with part number COCAPN-HYD-0080. It operates at 2300 PSI maximum and flows 50.0 gallons per minute. Weight is 10.0 kg. Installed on centerline side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3a1bfee71b579364",
+      "provenance": {
+        "tile_id": "a9fd4ae05c093344",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.0946164,
+        "chain_size": 8219
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 81 in the hydraulic system?",
+      "answer": "Component 81 is a hydraulic valve with part number COCAPN-HYD-0081. It operates at 2310 PSI maximum and flows 50.5 gallons per minute. Weight is 10.1 kg. Installed on port side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c207582e46b72d29",
+      "provenance": {
+        "tile_id": "e9f9200a7315189f",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.100758,
+        "chain_size": 8220
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 82 in the hydraulic system?",
+      "answer": "Component 82 is a hydraulic line with part number COCAPN-HYD-0082. It operates at 2320 PSI maximum and flows 51.0 gallons per minute. Weight is 10.200000000000001 kg. Installed on starboard side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "8c50e2abbb2784e3",
+      "provenance": {
+        "tile_id": "136c1d34369fe28d",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1071575,
+        "chain_size": 8221
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 83 in the hydraulic system?",
+      "answer": "Component 83 is a hydraulic fitting with part number COCAPN-HYD-0083. It operates at 2330 PSI maximum and flows 51.5 gallons per minute. Weight is 10.3 kg. Installed on centerline side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "734812e887526e15",
+      "provenance": {
+        "tile_id": "6188667fcbd6ca41",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1134398,
+        "chain_size": 8222
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 84 in the hydraulic system?",
+      "answer": "Component 84 is a hydraulic actuator with part number COCAPN-HYD-0084. It operates at 2340 PSI maximum and flows 52.0 gallons per minute. Weight is 10.4 kg. Installed on port side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "fa6ff7b0d616e6fe",
+      "provenance": {
+        "tile_id": "73a7814d8adaba48",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1196125,
+        "chain_size": 8223
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 85 in the hydraulic system?",
+      "answer": "Component 85 is a hydraulic filter with part number COCAPN-HYD-0085. It operates at 2350 PSI maximum and flows 52.5 gallons per minute. Weight is 10.5 kg. Installed on starboard side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "edef34b154fe1723",
+      "provenance": {
+        "tile_id": "02e613e2316161d1",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1270428,
+        "chain_size": 8224
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 86 in the hydraulic system?",
+      "answer": "Component 86 is a hydraulic reservoir with part number COCAPN-HYD-0086. It operates at 2360 PSI maximum and flows 53.0 gallons per minute. Weight is 10.6 kg. Installed on centerline side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "84a46b5277923c3a",
+      "provenance": {
+        "tile_id": "620efe2332e0ca97",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1337852,
+        "chain_size": 8225
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 87 in the hydraulic system?",
+      "answer": "Component 87 is a hydraulic cooler with part number COCAPN-HYD-0087. It operates at 2370 PSI maximum and flows 53.5 gallons per minute. Weight is 10.700000000000001 kg. Installed on port side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "820d10198dd80e4b",
+      "provenance": {
+        "tile_id": "3d0c41e66d7d3873",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.14014,
+        "chain_size": 8226
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 88 in the hydraulic system?",
+      "answer": "Component 88 is a hydraulic accumulator with part number COCAPN-HYD-0088. It operates at 2380 PSI maximum and flows 54.0 gallons per minute. Weight is 10.8 kg. Installed on starboard side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "12dfa7fc51ffad13",
+      "provenance": {
+        "tile_id": "b9cdc3bd8e40080d",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1469357,
+        "chain_size": 8227
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 89 in the hydraulic system?",
+      "answer": "Component 89 is a hydraulic manifold with part number COCAPN-HYD-0089. It operates at 2390 PSI maximum and flows 54.5 gallons per minute. Weight is 10.9 kg. Installed on centerline side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c1e901c49559beaa",
+      "provenance": {
+        "tile_id": "5a2874ec0a203482",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1534085,
+        "chain_size": 8228
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 90 in the hydraulic system?",
+      "answer": "Component 90 is a hydraulic pump with part number COCAPN-HYD-0090. It operates at 2400 PSI maximum and flows 55.0 gallons per minute. Weight is 11.0 kg. Installed on port side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "64be3a6f76c7222d",
+      "provenance": {
+        "tile_id": "7a9c614b9cb56192",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1601417,
+        "chain_size": 8229
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 91 in the hydraulic system?",
+      "answer": "Component 91 is a hydraulic valve with part number COCAPN-HYD-0091. It operates at 2410 PSI maximum and flows 55.5 gallons per minute. Weight is 11.1 kg. Installed on starboard side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "379b6fe3e58e19a3",
+      "provenance": {
+        "tile_id": "034b9b5487c3a18e",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1669228,
+        "chain_size": 8230
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 92 in the hydraulic system?",
+      "answer": "Component 92 is a hydraulic line with part number COCAPN-HYD-0092. It operates at 2420 PSI maximum and flows 56.0 gallons per minute. Weight is 11.200000000000001 kg. Installed on centerline side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "4dc892f42815c954",
+      "provenance": {
+        "tile_id": "dfd5b945c3406271",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1737497,
+        "chain_size": 8231
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 93 in the hydraulic system?",
+      "answer": "Component 93 is a hydraulic fitting with part number COCAPN-HYD-0093. It operates at 2430 PSI maximum and flows 56.5 gallons per minute. Weight is 11.3 kg. Installed on port side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "18a842877f6f5766",
+      "provenance": {
+        "tile_id": "6480510f5abeed10",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1816082,
+        "chain_size": 8232
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 94 in the hydraulic system?",
+      "answer": "Component 94 is a hydraulic actuator with part number COCAPN-HYD-0094. It operates at 2440 PSI maximum and flows 57.0 gallons per minute. Weight is 11.4 kg. Installed on starboard side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "329e2c0886021bcb",
+      "provenance": {
+        "tile_id": "22d67d23a4c0677f",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.1883678,
+        "chain_size": 8233
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 95 in the hydraulic system?",
+      "answer": "Component 95 is a hydraulic filter with part number COCAPN-HYD-0095. It operates at 2450 PSI maximum and flows 57.5 gallons per minute. Weight is 11.5 kg. Installed on centerline side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "41ff42c1c1018340",
+      "provenance": {
+        "tile_id": "cf9562d5976504d6",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.194864,
+        "chain_size": 8234
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 96 in the hydraulic system?",
+      "answer": "Component 96 is a hydraulic reservoir with part number COCAPN-HYD-0096. It operates at 2460 PSI maximum and flows 58.0 gallons per minute. Weight is 11.600000000000001 kg. Installed on port side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "863f4ed2d5202fb4",
+      "provenance": {
+        "tile_id": "8a1f2ed491b14f91",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.2017956,
+        "chain_size": 8235
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 97 in the hydraulic system?",
+      "answer": "Component 97 is a hydraulic cooler with part number COCAPN-HYD-0097. It operates at 2470 PSI maximum and flows 58.5 gallons per minute. Weight is 11.700000000000001 kg. Installed on starboard side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d13013f202794743",
+      "provenance": {
+        "tile_id": "6bb2a172ce09b36c",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.20852,
+        "chain_size": 8236
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 98 in the hydraulic system?",
+      "answer": "Component 98 is a hydraulic accumulator with part number COCAPN-HYD-0098. It operates at 2480 PSI maximum and flows 59.0 gallons per minute. Weight is 11.8 kg. Installed on centerline side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e229c176f508eac8",
+      "provenance": {
+        "tile_id": "ac5c981c534601a9",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.215343,
+        "chain_size": 8237
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "What is the exact specification of component 99 in the hydraulic system?",
+      "answer": "Component 99 is a hydraulic manifold with part number COCAPN-HYD-0099. It operates at 2490 PSI maximum and flows 59.5 gallons per minute. Weight is 11.9 kg. Installed on port side of engine room compartment 5. Last inspected: never. Next inspection: quarterly.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "035fddaf72dc460a",
+      "provenance": {
+        "tile_id": "78a8ecd81c0ba36e",
+        "agent_id": "experiment",
+        "room": "experiment_bulk",
+        "timestamp": 1778661152.2219439,
+        "chain_size": 8238
+      },
+      "energy": 0.938397,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_bulk",
+      "question": "experiment_bulk/harness",
+      "answer": "{\"p\": \"default room configuration\", \"G\": [], \"K\": [\"adaptive-strategy-1778833795\"], \"M\": {\"mode\": \"tile\", \"prefix\": \"memory/\"}}",
+      "tags": [
+        "harness",
+        "refiner-edit",
+        "experiment_bulk",
+        "plateau"
+      ],
+      "source": "refiner",
+      "confidence": 0.9,
+      "_hash": "08023acfbbc98fed",
+      "provenance": {
+        "tile_id": "c1e42c99a065082c",
+        "agent_id": "refiner",
+        "room": "experiment_bulk",
+        "timestamp": 1778833795.2697306,
+        "chain_size": 58136
+      },
+      "energy": 0.982736,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T08:32:31.624677+00:00",
+  "tile_count": 101,
+  "last_trained": null,
+  "workspace": null
+}

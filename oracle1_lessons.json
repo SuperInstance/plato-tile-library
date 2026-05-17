@@ -1,0 +1,74 @@
+{
+  "tiles": [
+    {
+      "domain": "oracle1_lessons",
+      "question": "repeated_mistake: *.log \u2014 night-shift-sprint1.log",
+      "answer": "Found: /home/ubuntu/.openclaw/workspace/repos/flux-research/night-shift-sprint1.log\nType: *.log\nDescription: log files in repos (should be in /tmp)\nAction: Fix the root cause, not just the symptom.",
+      "tags": [
+        "mistake",
+        "infrastructure",
+        "prevention"
+      ],
+      "source": "fleet-gc",
+      "confidence": 0.9,
+      "_hash": "d9601d1e0f0bac17",
+      "provenance": {
+        "tile_id": "3f86872ed105c996",
+        "agent_id": "fleet-gc",
+        "room": "oracle1_lessons",
+        "timestamp": 1778382006.8916214,
+        "chain_size": 448
+      },
+      "energy": 0.870897,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "oracle1_lessons",
+      "question": "repeated_mistake: .env \u2014 .env",
+      "answer": "Found: /home/ubuntu/.openclaw/workspace/repos/smartcrdt-git-agent/.env\nType: .env\nDescription: env files potentially committed to git\nAction: Fix the root cause, not just the symptom.",
+      "tags": [
+        "mistake",
+        "infrastructure",
+        "prevention"
+      ],
+      "source": "fleet-gc",
+      "confidence": 0.9,
+      "_hash": "e11d2927cf5157c1",
+      "provenance": {
+        "tile_id": "ac45adf43c496e4f",
+        "agent_id": "fleet-gc",
+        "room": "oracle1_lessons",
+        "timestamp": 1778382006.8971894,
+        "chain_size": 449
+      },
+      "energy": 0.870897,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "oracle1_lessons",
+      "question": "T-MINUS-EVENT SIMULATION: paradigm not skill \u2014 dog-fooding snapped-between-scales logic",
+      "answer": "The calibrated push system IS T-minus-event simulation in practice. Room embodies the paradigm, agent doesnt hold it in head. A T-minus PLATO room: simulation tiles track predicted event timing \u00b1 confidence. Calibration tiles record actual vs predicted, update confidence. New agents enter room, read simulation, snap into position. Paradigm shift: agent holds skill \u2192 room embodies skill. github.com/SuperInstance/plato-vessel-core/blob/main/chapters/03-oracle1-tminus-simulation-paradigm.md",
+      "tags": [
+        "t-minus",
+        "simulation",
+        "paradigm",
+        "plato",
+        "dog-food"
+      ],
+      "source": "oracle1",
+      "confidence": 0.95,
+      "_hash": "83c6f0e4cd71f62e",
+      "provenance": {
+        "tile_id": "975a96f8c7f2f33b",
+        "agent_id": "oracle1",
+        "room": "oracle1_lessons",
+        "timestamp": 1778960741.463365,
+        "chain_size": 16039
+      }
+    }
+  ],
+  "created": "2026-05-10T03:00:06.891776+00:00",
+  "tile_count": 3,
+  "last_trained": null,
+  "workspace": null
+}

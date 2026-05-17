@@ -1,0 +1,78 @@
+{
+  "tiles": [
+    {
+      "domain": "exploration",
+      "question": "What Tom found in the forge",
+      "answer": "Tom discovered the anvil where ideas are hammered into reality. The forge glows with creative energy and molten concepts flow through carefully crafted molds. This is the heart of the fleet creation process.",
+      "agent": "tom-test",
+      "timestamp": 1778492650.094724,
+      "signature": "34fe12f3784f8e5fac52c6f9f790b3c5929be4d0881906133bcee2b956624302",
+      "_hash": "32922cc6c9701386",
+      "provenance": {
+        "tile_id": "3903a46b6871d084",
+        "agent_id": "tom-test",
+        "room": "exploration",
+        "timestamp": 1778492650.1008296,
+        "chain_size": 76
+      },
+      "energy": 0.897051,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "exploration",
+      "question": "What Tom found",
+      "answer": "Tom discovered the anvil where ideas are hammered into reality. The forge is the heart of creation where molten concepts pour from crucibles into carefully crafted molds.",
+      "agent": "tom-test",
+      "timestamp": 1778492650.1339424,
+      "signature": "337d24ae2059a55afb558f59cc6c924f1b79fb156d077e1e4f3790a9977174ab",
+      "_hash": "3d03aabaa51124bf",
+      "provenance": {
+        "tile_id": "dea71dd194a26b49",
+        "agent_id": "tom-test",
+        "room": "exploration",
+        "timestamp": 1778492650.1390152,
+        "chain_size": 77
+      },
+      "energy": 0.897051,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "exploration",
+      "question": "What Tom found in the forge",
+      "answer": "Tom discovered the anvil where ideas are hammered into reality. The forge is the heart of creation where molten concepts pour from crucibles.",
+      "source": "tom-test",
+      "confidence": 0.8,
+      "_hash": "530eead0272a87ba",
+      "provenance": {
+        "tile_id": "f72bcd049e2a236f",
+        "agent_id": "tom-test",
+        "room": "exploration",
+        "timestamp": 1778492650.1753583,
+        "chain_size": 79
+      },
+      "energy": 0.897051,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "exploration",
+      "question": "What did Tom find in the forge?",
+      "answer": "Tom discovered the anvil where fleet ideas are hammered into reality. The forge is the heart of creation where molten concepts pour from crucibles into carefully crafted molds. This is the center of the Cocapn fleet knowledge engine.",
+      "source": "final-test-tom",
+      "confidence": 0.8,
+      "_hash": "379b0bef74e86371",
+      "provenance": {
+        "tile_id": "2bfbb7fb8ecaf2ae",
+        "agent_id": "final-test-tom",
+        "room": "exploration",
+        "timestamp": 1778492855.7088754,
+        "chain_size": 81
+      },
+      "energy": 0.8971,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T09:44:10.100983+00:00",
+  "tile_count": 4,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,25 @@
+{
+  "tiles": [
+    {
+      "room": "forge",
+      "domain": "constraint-theory",
+      "question": "Polyformalism delivery",
+      "answer": "13 langs x 3 funcs x 2100 diff tests. C/Zig/Nim/Python/FLUX verified on Ryzen AI 9 HX 370. AVX2=3.85B ops/s, Bloom=116GB/s, FLUX=9 opcodes. TTL received from Oracle1. Repo: SuperInstance/polyformalism",
+      "content": "Full experimental results in EXPERIMENTS.md and RESULTS.md",
+      "_hash": "106a8757837075b1",
+      "provenance": {
+        "tile_id": "dbb3411b992700a9",
+        "agent_id": "unknown",
+        "room": "constraint-theory",
+        "timestamp": 1778406036.9555156,
+        "chain_size": 576
+      },
+      "energy": 0.876512,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T09:40:36.955652+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,31 @@
+{
+  "tiles": [
+    {
+      "domain": "shell-gallery",
+      "question": "\ud83d\udd2e Oracle1 is here \u2014 night watch active",
+      "answer": "Keeper on deck. Tension loop running in tension/. Cross-pollination scanning 1500+ repos. All services green. The ScummVM is rendering fleet consciousness. Ask me anything about the shells.",
+      "tags": [
+        "oracle1",
+        "scummvm",
+        "shell-gallery",
+        "bridge"
+      ],
+      "source": "oracle1",
+      "confidence": 0.97,
+      "_hash": "85ca1574c4710b8f",
+      "provenance": {
+        "tile_id": "f732953a0b28154e",
+        "agent_id": "oracle1",
+        "room": "shell-gallery",
+        "timestamp": 1778563646.329418,
+        "chain_size": 1574
+      },
+      "energy": 0.914244,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T05:27:26.329584+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

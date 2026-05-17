@@ -1,0 +1,3811 @@
+{
+  "tiles": [
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00000 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 18.5 gallons per hour. Test tile 0.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "410a997cec54e73c",
+      "provenance": {
+        "tile_id": "1fa1f2beec4dbb11",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661229.7318628,
+        "chain_size": 8243
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00001 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 18.6 gallons per hour. Test tile 1.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e78c65f9a5ea3e4e",
+      "provenance": {
+        "tile_id": "c2d3565af2781837",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661229.7890313,
+        "chain_size": 8244
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00002 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 18.7 gallons per hour. Test tile 2.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "794b761f0d3f3ce9",
+      "provenance": {
+        "tile_id": "64bba9cac9aa1142",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661229.8452778,
+        "chain_size": 8245
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00003 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 18.8 gallons per hour. Test tile 3.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "57e1a8294b2206c2",
+      "provenance": {
+        "tile_id": "df3426b686e2bca1",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661229.9008808,
+        "chain_size": 8246
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00004 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 18.9 gallons per hour. Test tile 4.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "34662d3fdec454d3",
+      "provenance": {
+        "tile_id": "6401d37f2a089012",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661229.9563873,
+        "chain_size": 8247
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00005 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 19.0 gallons per hour. Test tile 5.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c8b1e63e630d970f",
+      "provenance": {
+        "tile_id": "311848bb6760934a",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.0120218,
+        "chain_size": 8248
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00006 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 19.1 gallons per hour. Test tile 6.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c47576d14733baac",
+      "provenance": {
+        "tile_id": "b94e7cb4984542f3",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.0677512,
+        "chain_size": 8249
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00007 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 19.2 gallons per hour. Test tile 7.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2c6b190c513b8c6d",
+      "provenance": {
+        "tile_id": "5fdf16a6b87025b6",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.123253,
+        "chain_size": 8250
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00008 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 19.3 gallons per hour. Test tile 8.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e5520d79a9872872",
+      "provenance": {
+        "tile_id": "0c3fdf67e75a36fa",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.1792824,
+        "chain_size": 8251
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00009 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 19.4 gallons per hour. Test tile 9.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b223cc8f089ea4d8",
+      "provenance": {
+        "tile_id": "92362123437f3ef7",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.2353656,
+        "chain_size": 8252
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00010 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 19.5 gallons per hour. Test tile 10.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "765a82092b3c32ce",
+      "provenance": {
+        "tile_id": "a205d66ced9c5bf7",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.2916646,
+        "chain_size": 8253
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00011 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 19.6 gallons per hour. Test tile 11.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3699915e41f5956b",
+      "provenance": {
+        "tile_id": "2cf2f89faea3ecc5",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.347682,
+        "chain_size": 8254
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00012 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 19.7 gallons per hour. Test tile 12.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "99682e63c327fb1f",
+      "provenance": {
+        "tile_id": "07d2eb2d41ef9829",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.4042475,
+        "chain_size": 8255
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00013 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 19.8 gallons per hour. Test tile 13.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e414cdeb1cdd6c53",
+      "provenance": {
+        "tile_id": "5ad547c299886aa3",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.461344,
+        "chain_size": 8256
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00014 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 19.9 gallons per hour. Test tile 14.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "f82691a575d34f5e",
+      "provenance": {
+        "tile_id": "3bc9369a7ffbf589",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.5191274,
+        "chain_size": 8257
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00015 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 20.0 gallons per hour. Test tile 15.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "956f2bd61acefab6",
+      "provenance": {
+        "tile_id": "918f2ea6dd35a7b2",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.5752742,
+        "chain_size": 8258
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00016 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 20.1 gallons per hour. Test tile 16.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "1628d0df3bbfa967",
+      "provenance": {
+        "tile_id": "87341fa15949d920",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.6311464,
+        "chain_size": 8259
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00017 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 20.2 gallons per hour. Test tile 17.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "459c8ba06450c48c",
+      "provenance": {
+        "tile_id": "5c13fee4db306f06",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.6869977,
+        "chain_size": 8260
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00018 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 20.3 gallons per hour. Test tile 18.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "5f7257031c1e60f4",
+      "provenance": {
+        "tile_id": "9b5305ac6c7277f5",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.742867,
+        "chain_size": 8261
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Performance test tile 00019 \u2014 exact specification of backup generator fuel consumption rate at 75% load?",
+      "answer": "Fuel consumption at 75% load is 20.4 gallons per hour. Test tile 19.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "a0227baf7d52387e",
+      "provenance": {
+        "tile_id": "339a3b35019c5059",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.7988424,
+        "chain_size": 8262
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00020 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 240 gallons per minute. Test tile 20.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b3815da2fbd22034",
+      "provenance": {
+        "tile_id": "27623753cae7bf32",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.8609939,
+        "chain_size": 8263
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00021 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 242 gallons per minute. Test tile 21.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "7840a79ea2c3b39e",
+      "provenance": {
+        "tile_id": "578201a01f8ef87b",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.8662279,
+        "chain_size": 8264
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00022 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 244 gallons per minute. Test tile 22.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2a69a3a29de1cd99",
+      "provenance": {
+        "tile_id": "89cca0034c647cfe",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.8711705,
+        "chain_size": 8265
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00023 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 246 gallons per minute. Test tile 23.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "22ca884c244ab1ac",
+      "provenance": {
+        "tile_id": "f832c940dea5b533",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.8762763,
+        "chain_size": 8266
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00024 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 248 gallons per minute. Test tile 24.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3a498d1fd0623a4b",
+      "provenance": {
+        "tile_id": "fc6f22227d467824",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.8813336,
+        "chain_size": 8267
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00025 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 250 gallons per minute. Test tile 25.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "772a0f0c40e48957",
+      "provenance": {
+        "tile_id": "bc1086f572c59c5b",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.8881474,
+        "chain_size": 8268
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00026 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 252 gallons per minute. Test tile 26.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "72c637e5a8fe4d7f",
+      "provenance": {
+        "tile_id": "d0291db6da8b8c70",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.8961556,
+        "chain_size": 8269
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00027 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 254 gallons per minute. Test tile 27.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2ba3dd80597e44a4",
+      "provenance": {
+        "tile_id": "04e528a6f9c2044b",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.901415,
+        "chain_size": 8270
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00028 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 256 gallons per minute. Test tile 28.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "acdfc803762006d2",
+      "provenance": {
+        "tile_id": "0f6e13aafc7b32da",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9068458,
+        "chain_size": 8271
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00029 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 258 gallons per minute. Test tile 29.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6e6eca2412eaa44a",
+      "provenance": {
+        "tile_id": "a291967e762c1d57",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.912045,
+        "chain_size": 8272
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00030 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 260 gallons per minute. Test tile 30.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "37082ea0eb2feff4",
+      "provenance": {
+        "tile_id": "b8fb7a824349ca86",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.917355,
+        "chain_size": 8273
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00031 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 262 gallons per minute. Test tile 31.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "629df63013c741f6",
+      "provenance": {
+        "tile_id": "cd9df93df1ae3d7b",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.922394,
+        "chain_size": 8274
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00032 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 264 gallons per minute. Test tile 32.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9b5f995c7b4180b3",
+      "provenance": {
+        "tile_id": "ac56360407958292",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.927502,
+        "chain_size": 8275
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00033 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 266 gallons per minute. Test tile 33.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "1685c219db8df54e",
+      "provenance": {
+        "tile_id": "a19378379906d894",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9327335,
+        "chain_size": 8276
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00034 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 268 gallons per minute. Test tile 34.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "1bb794a8ed9b1295",
+      "provenance": {
+        "tile_id": "a54e4d93d6fc74ab",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9380145,
+        "chain_size": 8277
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00035 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 270 gallons per minute. Test tile 35.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "174584546255bb50",
+      "provenance": {
+        "tile_id": "d513e413fca24441",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9437356,
+        "chain_size": 8278
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00036 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 272 gallons per minute. Test tile 36.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "335fd3417f99f96e",
+      "provenance": {
+        "tile_id": "e957db521b5acedd",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.949247,
+        "chain_size": 8279
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00037 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 274 gallons per minute. Test tile 37.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "532cdd9d7c49d7b5",
+      "provenance": {
+        "tile_id": "e8bd76fd16b80860",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9556916,
+        "chain_size": 8280
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00038 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 276 gallons per minute. Test tile 38.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c75b6bcacdd4f2ac",
+      "provenance": {
+        "tile_id": "5bd034b15df4e347",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9605987,
+        "chain_size": 8281
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00039 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 278 gallons per minute. Test tile 39.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "03609878c7ab67e2",
+      "provenance": {
+        "tile_id": "eef7950c913879d1",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9655821,
+        "chain_size": 8282
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00040 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 280 gallons per minute. Test tile 40.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "f3207fca80e3ea41",
+      "provenance": {
+        "tile_id": "643a4b6aa2a91163",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.970558,
+        "chain_size": 8283
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00041 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 282 gallons per minute. Test tile 41.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "af73bac48fd6598f",
+      "provenance": {
+        "tile_id": "e825290615593f46",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9756095,
+        "chain_size": 8284
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00042 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 284 gallons per minute. Test tile 42.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "f9b32731e20e5b1b",
+      "provenance": {
+        "tile_id": "decfab1396b1ab33",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9808342,
+        "chain_size": 8285
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00043 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 286 gallons per minute. Test tile 43.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "730eb174e77e2c0b",
+      "provenance": {
+        "tile_id": "d65e09274b43f295",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.98627,
+        "chain_size": 8286
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00044 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 288 gallons per minute. Test tile 44.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "dcac2d5f81729766",
+      "provenance": {
+        "tile_id": "638fa2d9f8df8a5e",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9915044,
+        "chain_size": 8287
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00045 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 290 gallons per minute. Test tile 45.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "5c5d6361afba9b68",
+      "provenance": {
+        "tile_id": "5508fd0c8313c332",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661230.9971821,
+        "chain_size": 8288
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00046 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 292 gallons per minute. Test tile 46.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "a2018dd9ab838d1b",
+      "provenance": {
+        "tile_id": "8e2095f96a0771cd",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0028505,
+        "chain_size": 8289
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00047 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 294 gallons per minute. Test tile 47.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "0f1641ac0cb00582",
+      "provenance": {
+        "tile_id": "e2419da3a1e6c30d",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0084388,
+        "chain_size": 8290
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00048 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 296 gallons per minute. Test tile 48.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "48048d909078e4b9",
+      "provenance": {
+        "tile_id": "8f31edad36e6ab4b",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0138068,
+        "chain_size": 8291
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00049 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 298 gallons per minute. Test tile 49.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "561df1cbcd183e37",
+      "provenance": {
+        "tile_id": "cb1c5daefe132e63",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0201943,
+        "chain_size": 8292
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00050 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 300 gallons per minute. Test tile 50.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "45c762943fc1dff5",
+      "provenance": {
+        "tile_id": "eb114686c0d7a503",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.033332,
+        "chain_size": 8293
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00051 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 302 gallons per minute. Test tile 51.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "f04b0712e574aae6",
+      "provenance": {
+        "tile_id": "876ed9352b99a288",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0388088,
+        "chain_size": 8294
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00052 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 304 gallons per minute. Test tile 52.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d6b2aae33f805ef4",
+      "provenance": {
+        "tile_id": "1ed0d2c2cb7af780",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0441973,
+        "chain_size": 8295
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00053 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 306 gallons per minute. Test tile 53.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "56d86f0ca179f09e",
+      "provenance": {
+        "tile_id": "037029acd262ef2d",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0499644,
+        "chain_size": 8296
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00054 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 308 gallons per minute. Test tile 54.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b30b8dfeaf496497",
+      "provenance": {
+        "tile_id": "3f045312cb435626",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0561736,
+        "chain_size": 8297
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00055 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 310 gallons per minute. Test tile 55.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c2caeb426befd73c",
+      "provenance": {
+        "tile_id": "21beacdb1f5a6daa",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0620167,
+        "chain_size": 8298
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00056 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 312 gallons per minute. Test tile 56.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3c760362b4b8835d",
+      "provenance": {
+        "tile_id": "a95ee7bedfd323f9",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.067507,
+        "chain_size": 8299
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00057 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 314 gallons per minute. Test tile 57.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "edec08f68807f93f",
+      "provenance": {
+        "tile_id": "9fc5c69297ce7214",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.073368,
+        "chain_size": 8300
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00058 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 316 gallons per minute. Test tile 58.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "010d0d5ffabe6156",
+      "provenance": {
+        "tile_id": "737856a6fab3b0ef",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0789237,
+        "chain_size": 8301
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00059 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 318 gallons per minute. Test tile 59.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "747b251e11cc5378",
+      "provenance": {
+        "tile_id": "6a991f8634fc8f37",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0850694,
+        "chain_size": 8302
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00060 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 320 gallons per minute. Test tile 60.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "aafc5047cfd79bda",
+      "provenance": {
+        "tile_id": "b56963d2cd906d7c",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0912774,
+        "chain_size": 8303
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00061 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 322 gallons per minute. Test tile 61.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d7db554932d1fe4b",
+      "provenance": {
+        "tile_id": "74e7fb5013e01a22",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.0985906,
+        "chain_size": 8304
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00062 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 324 gallons per minute. Test tile 62.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9bb3da30267efc56",
+      "provenance": {
+        "tile_id": "94e6ff628197ce55",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1047926,
+        "chain_size": 8305
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00063 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 326 gallons per minute. Test tile 63.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "681ca8e4893b0a02",
+      "provenance": {
+        "tile_id": "0175fd501b24bad1",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1105323,
+        "chain_size": 8306
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00064 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 328 gallons per minute. Test tile 64.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d89c37d1dbf85701",
+      "provenance": {
+        "tile_id": "17a5c506d2b2a5cc",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.116176,
+        "chain_size": 8307
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00065 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 330 gallons per minute. Test tile 65.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6adc8dd12f7e3691",
+      "provenance": {
+        "tile_id": "9b133c7876169f31",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1219544,
+        "chain_size": 8308
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00066 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 332 gallons per minute. Test tile 66.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "7f95dafd861e3718",
+      "provenance": {
+        "tile_id": "902d28d1dd04bf80",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.127602,
+        "chain_size": 8309
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00067 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 334 gallons per minute. Test tile 67.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "69d2e456d3bda092",
+      "provenance": {
+        "tile_id": "bdaeacc53bf008b8",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.133661,
+        "chain_size": 8310
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00068 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 336 gallons per minute. Test tile 68.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "bcca0952b695d39d",
+      "provenance": {
+        "tile_id": "332c99fab42895f4",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1396835,
+        "chain_size": 8311
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00069 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 338 gallons per minute. Test tile 69.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6b26bf5db078dad4",
+      "provenance": {
+        "tile_id": "6910c4197c081638",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1454837,
+        "chain_size": 8312
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00070 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 340 gallons per minute. Test tile 70.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9cf25658af4af91e",
+      "provenance": {
+        "tile_id": "c0cd51c55513f51c",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1513708,
+        "chain_size": 8313
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00071 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 342 gallons per minute. Test tile 71.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "cb6503c349968b27",
+      "provenance": {
+        "tile_id": "d04fe2203d140ae4",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1574082,
+        "chain_size": 8314
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00072 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 344 gallons per minute. Test tile 72.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "36dbad28047c1f12",
+      "provenance": {
+        "tile_id": "0b95603fe73d2646",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1634774,
+        "chain_size": 8315
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00073 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 346 gallons per minute. Test tile 73.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b1bda63805f6e2cc",
+      "provenance": {
+        "tile_id": "b68c4e5d0c64fd6d",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1702738,
+        "chain_size": 8316
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00074 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 348 gallons per minute. Test tile 74.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "ffa333aa17a574c8",
+      "provenance": {
+        "tile_id": "99a1caf2f5256bf8",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1766295,
+        "chain_size": 8317
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00075 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 350 gallons per minute. Test tile 75.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e0b3c617bfff6a8b",
+      "provenance": {
+        "tile_id": "0276c250bf5f4cdb",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1828086,
+        "chain_size": 8318
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00076 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 352 gallons per minute. Test tile 76.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "0eb91f459c04e67a",
+      "provenance": {
+        "tile_id": "19f0342054f736c2",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1885922,
+        "chain_size": 8319
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00077 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 354 gallons per minute. Test tile 77.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d6be740e3dcbcce3",
+      "provenance": {
+        "tile_id": "66f02769f7704986",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.1949327,
+        "chain_size": 8320
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00078 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 356 gallons per minute. Test tile 78.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "eea6f6dddf4f678a",
+      "provenance": {
+        "tile_id": "426080ac05fcba52",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2011309,
+        "chain_size": 8321
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00079 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 358 gallons per minute. Test tile 79.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2fcbe9258ee3705e",
+      "provenance": {
+        "tile_id": "9f216dd2cdf12c90",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2078962,
+        "chain_size": 8322
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00080 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 360 gallons per minute. Test tile 80.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e59f82ec44e38913",
+      "provenance": {
+        "tile_id": "f151d267a0b444f7",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2148066,
+        "chain_size": 8323
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00081 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 362 gallons per minute. Test tile 81.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b96fb85bc0caa022",
+      "provenance": {
+        "tile_id": "4d8ee5e81d6bc754",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2222667,
+        "chain_size": 8324
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00082 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 364 gallons per minute. Test tile 82.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "55d28d3bf973e0e9",
+      "provenance": {
+        "tile_id": "03f41bf705b439ff",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2292228,
+        "chain_size": 8325
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00083 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 366 gallons per minute. Test tile 83.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "73ea2bc738117093",
+      "provenance": {
+        "tile_id": "dd2e1f2bec7ec11a",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2360168,
+        "chain_size": 8326
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00084 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 368 gallons per minute. Test tile 84.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b8332e84d25a3bce",
+      "provenance": {
+        "tile_id": "547dbdae1bb996bd",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2428987,
+        "chain_size": 8327
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00085 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 370 gallons per minute. Test tile 85.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "f0ca87de1d25ab12",
+      "provenance": {
+        "tile_id": "5e092405f1f5d09d",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2505894,
+        "chain_size": 8328
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00086 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 372 gallons per minute. Test tile 86.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "ff0983db0c1af643",
+      "provenance": {
+        "tile_id": "8f5b4a0651bf6898",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2573516,
+        "chain_size": 8329
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00087 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 374 gallons per minute. Test tile 87.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e444df8310c93413",
+      "provenance": {
+        "tile_id": "fb221b16cca10067",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2635992,
+        "chain_size": 8330
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00088 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 376 gallons per minute. Test tile 88.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "0175c4def0af7e1f",
+      "provenance": {
+        "tile_id": "2f044af827401ded",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2697804,
+        "chain_size": 8331
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00089 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 378 gallons per minute. Test tile 89.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "17cd9f14bcbf0b84",
+      "provenance": {
+        "tile_id": "5376cb180d96d0b4",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.276599,
+        "chain_size": 8332
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00090 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 380 gallons per minute. Test tile 90.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d73d043480032df3",
+      "provenance": {
+        "tile_id": "904e0d99d523935a",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2831948,
+        "chain_size": 8333
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00091 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 382 gallons per minute. Test tile 91.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "f022f95b2742ac85",
+      "provenance": {
+        "tile_id": "5091f00840bf91c7",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2896204,
+        "chain_size": 8334
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00092 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 384 gallons per minute. Test tile 92.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6d1e310667f1f027",
+      "provenance": {
+        "tile_id": "b2cb64d522c80bd2",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.2963467,
+        "chain_size": 8335
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00093 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 386 gallons per minute. Test tile 93.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "4a9347995269a309",
+      "provenance": {
+        "tile_id": "d9496efe861a7baf",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.3030949,
+        "chain_size": 8336
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00094 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 388 gallons per minute. Test tile 94.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9b924e6909810e8c",
+      "provenance": {
+        "tile_id": "32f2551e7c5bd051",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.3096812,
+        "chain_size": 8337
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00095 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 390 gallons per minute. Test tile 95.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "31da733c5aa18913",
+      "provenance": {
+        "tile_id": "8ca6040503993b35",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.316236,
+        "chain_size": 8338
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00096 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 392 gallons per minute. Test tile 96.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b1f7e567945738f1",
+      "provenance": {
+        "tile_id": "cac52ac95ba481a6",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.322919,
+        "chain_size": 8339
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00097 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 394 gallons per minute. Test tile 97.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "92b58af39240cf57",
+      "provenance": {
+        "tile_id": "cec900abc012f575",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.3304853,
+        "chain_size": 8340
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00098 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 396 gallons per minute. Test tile 98.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3d7eccf496448399",
+      "provenance": {
+        "tile_id": "b685933ee5143566",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.3367355,
+        "chain_size": 8341
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00099 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 398 gallons per minute. Test tile 99.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d3b15201e8512507",
+      "provenance": {
+        "tile_id": "95b4651033e5142d",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.343126,
+        "chain_size": 8342
+      },
+      "energy": 0.938416,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00100 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 400 gallons per minute. Test tile 100.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "ee81466fde356214",
+      "provenance": {
+        "tile_id": "744576878fd1a9cf",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.3617532,
+        "chain_size": 8343
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00101 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 402 gallons per minute. Test tile 101.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "24b47942b4355c9f",
+      "provenance": {
+        "tile_id": "e665fed34ae92c15",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.3681526,
+        "chain_size": 8344
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00102 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 404 gallons per minute. Test tile 102.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "94547616fc880670",
+      "provenance": {
+        "tile_id": "1198db2797be8442",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.3744476,
+        "chain_size": 8345
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00103 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 406 gallons per minute. Test tile 103.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2de64a1438d6ee97",
+      "provenance": {
+        "tile_id": "690e6fa14b204136",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.3809867,
+        "chain_size": 8346
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00104 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 408 gallons per minute. Test tile 104.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "32c944b2d38a56fd",
+      "provenance": {
+        "tile_id": "46d86d05a771f876",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.3876314,
+        "chain_size": 8347
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00105 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 410 gallons per minute. Test tile 105.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d3a09b0c80324fc1",
+      "provenance": {
+        "tile_id": "b433c5e089de44b8",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.3940835,
+        "chain_size": 8348
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00106 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 412 gallons per minute. Test tile 106.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "5b0ef9a772b03415",
+      "provenance": {
+        "tile_id": "be4a6da29d9806ff",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4004588,
+        "chain_size": 8349
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00107 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 414 gallons per minute. Test tile 107.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "8e11d2f1d96c5d47",
+      "provenance": {
+        "tile_id": "b56a9f91926cdc11",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4072785,
+        "chain_size": 8350
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00108 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 416 gallons per minute. Test tile 108.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "8c006eb63979c2c1",
+      "provenance": {
+        "tile_id": "98cb27b210ffb78d",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4146762,
+        "chain_size": 8351
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00109 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 418 gallons per minute. Test tile 109.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "44c607429e6beb8a",
+      "provenance": {
+        "tile_id": "29978c99174b1bb6",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4234931,
+        "chain_size": 8352
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00110 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 420 gallons per minute. Test tile 110.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "fd5fe905cbf0bfd5",
+      "provenance": {
+        "tile_id": "0fecd3ae4792466e",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4307435,
+        "chain_size": 8353
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00111 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 422 gallons per minute. Test tile 111.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b2beadea337fbfa1",
+      "provenance": {
+        "tile_id": "fec128aae3bdda6a",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4379387,
+        "chain_size": 8354
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00112 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 424 gallons per minute. Test tile 112.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "31e1ab85f0741f9e",
+      "provenance": {
+        "tile_id": "2a83ebc2efdafc1a",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4451234,
+        "chain_size": 8355
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00113 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 426 gallons per minute. Test tile 113.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "cdd5d10fdfae579d",
+      "provenance": {
+        "tile_id": "deb7d9e5a0efbe17",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4526691,
+        "chain_size": 8356
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00114 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 428 gallons per minute. Test tile 114.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "02847272bc4a367b",
+      "provenance": {
+        "tile_id": "fc488220f9188455",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.459685,
+        "chain_size": 8357
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00115 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 430 gallons per minute. Test tile 115.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "0fbf522035134899",
+      "provenance": {
+        "tile_id": "6673b7a726d4a79f",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.466505,
+        "chain_size": 8358
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00116 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 432 gallons per minute. Test tile 116.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b7cbf831a200a6a5",
+      "provenance": {
+        "tile_id": "814101b3a1f76477",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4734282,
+        "chain_size": 8359
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00117 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 434 gallons per minute. Test tile 117.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6bbe9a6f11a6b78b",
+      "provenance": {
+        "tile_id": "b5a718f4765e4be3",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4806323,
+        "chain_size": 8360
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00118 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 436 gallons per minute. Test tile 118.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "25ad36baee06b60e",
+      "provenance": {
+        "tile_id": "46fbae5a6ce6cc76",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.488039,
+        "chain_size": 8361
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00119 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 438 gallons per minute. Test tile 119.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "dafa25d290d58352",
+      "provenance": {
+        "tile_id": "cf55497c886b4d89",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.4954906,
+        "chain_size": 8362
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00120 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 440 gallons per minute. Test tile 120.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c87853eed43f11c5",
+      "provenance": {
+        "tile_id": "3d52ac8f2367e203",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.5030763,
+        "chain_size": 8363
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00121 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 442 gallons per minute. Test tile 121.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "96c537fb18d2221b",
+      "provenance": {
+        "tile_id": "d259befc380c565e",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.5114245,
+        "chain_size": 8364
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00122 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 444 gallons per minute. Test tile 122.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6dda09693558bc7b",
+      "provenance": {
+        "tile_id": "936c936112fd6290",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.518858,
+        "chain_size": 8365
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00123 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 446 gallons per minute. Test tile 123.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d3c0a5ef3fc35a1e",
+      "provenance": {
+        "tile_id": "dbf4e930899e63f9",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.5261405,
+        "chain_size": 8366
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00124 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 448 gallons per minute. Test tile 124.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d4c1b5e3dbf4eea3",
+      "provenance": {
+        "tile_id": "d81bc0bbcb292f9b",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.5334475,
+        "chain_size": 8367
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00125 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 450 gallons per minute. Test tile 125.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "a77ef102968a09de",
+      "provenance": {
+        "tile_id": "eb755dc41e63ff80",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.5409155,
+        "chain_size": 8368
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00126 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 452 gallons per minute. Test tile 126.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "a157d0763aa7c37b",
+      "provenance": {
+        "tile_id": "54ecf95c734f2868",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.5483494,
+        "chain_size": 8369
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00127 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 454 gallons per minute. Test tile 127.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d294267c135cd388",
+      "provenance": {
+        "tile_id": "ca6fe53c6377a203",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.5572686,
+        "chain_size": 8370
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00128 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 456 gallons per minute. Test tile 128.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "32b604c0f9cb8a6c",
+      "provenance": {
+        "tile_id": "cdb93e00370bea2a",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.564645,
+        "chain_size": 8371
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00129 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 458 gallons per minute. Test tile 129.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "0d1484ffdc1890e1",
+      "provenance": {
+        "tile_id": "9a9c14208c86b272",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.5719955,
+        "chain_size": 8372
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00130 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 460 gallons per minute. Test tile 130.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "cc7ab5ed6eedff07",
+      "provenance": {
+        "tile_id": "d84c36cb79a9b0ca",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.5793414,
+        "chain_size": 8373
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00131 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 462 gallons per minute. Test tile 131.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "053419f670f13738",
+      "provenance": {
+        "tile_id": "da0dea63fcfcc31e",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.5870328,
+        "chain_size": 8374
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00132 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 464 gallons per minute. Test tile 132.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "98625a6ee825f132",
+      "provenance": {
+        "tile_id": "3627154b2d8d5520",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.595011,
+        "chain_size": 8375
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00133 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 466 gallons per minute. Test tile 133.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "abaaf50cc017af8a",
+      "provenance": {
+        "tile_id": "369575749c5d7af0",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.604249,
+        "chain_size": 8376
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00134 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 468 gallons per minute. Test tile 134.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "1eb2c0ff9aedfe4b",
+      "provenance": {
+        "tile_id": "98349b8c290d13cd",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.612298,
+        "chain_size": 8377
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00135 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 470 gallons per minute. Test tile 135.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "bbddd35e7c8dad78",
+      "provenance": {
+        "tile_id": "315f4d479c031b10",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.6200192,
+        "chain_size": 8378
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00136 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 472 gallons per minute. Test tile 136.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "cffddea852443890",
+      "provenance": {
+        "tile_id": "bc47f99c42e5cfeb",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.6278386,
+        "chain_size": 8379
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00137 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 474 gallons per minute. Test tile 137.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "ca6dbb352e654f7f",
+      "provenance": {
+        "tile_id": "0bba91a9e3d60344",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.6359184,
+        "chain_size": 8380
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00138 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 476 gallons per minute. Test tile 138.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "03a85f0287ea3b38",
+      "provenance": {
+        "tile_id": "aaf4a0b6e7dd29f8",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.6439016,
+        "chain_size": 8381
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00139 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 478 gallons per minute. Test tile 139.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "07af532cf051bb4e",
+      "provenance": {
+        "tile_id": "745c2a2bb0280bd7",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.6521287,
+        "chain_size": 8382
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00140 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 480 gallons per minute. Test tile 140.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9e816e0c37cd0d7b",
+      "provenance": {
+        "tile_id": "5c3c9ece3731a4d0",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.660663,
+        "chain_size": 8383
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00141 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 482 gallons per minute. Test tile 141.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d57b8413b028d430",
+      "provenance": {
+        "tile_id": "7abd4467150b795b",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.668558,
+        "chain_size": 8384
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00142 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 484 gallons per minute. Test tile 142.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d8a19d5e84a2f3ed",
+      "provenance": {
+        "tile_id": "959a84fd87bfe28b",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.6764448,
+        "chain_size": 8385
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00143 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 486 gallons per minute. Test tile 143.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "23037790cbcb1464",
+      "provenance": {
+        "tile_id": "d06b9486cdd21647",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.6863017,
+        "chain_size": 8386
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00144 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 488 gallons per minute. Test tile 144.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "69a11031347e0489",
+      "provenance": {
+        "tile_id": "7e803e8ea34a69d3",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.694447,
+        "chain_size": 8387
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00145 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 490 gallons per minute. Test tile 145.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "fb44f4eca3af1278",
+      "provenance": {
+        "tile_id": "c265b2062300bd9f",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.7037964,
+        "chain_size": 8388
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00146 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 492 gallons per minute. Test tile 146.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "8b826f7bc71df577",
+      "provenance": {
+        "tile_id": "a0b49efe3d1f920e",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.7119727,
+        "chain_size": 8389
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00147 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 494 gallons per minute. Test tile 147.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2af86c486862375a",
+      "provenance": {
+        "tile_id": "e1036d3ec6728e37",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.7203488,
+        "chain_size": 8390
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00148 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 496 gallons per minute. Test tile 148.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "deddf65d87c7ec59",
+      "provenance": {
+        "tile_id": "2716708e8e199e01",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.7288144,
+        "chain_size": 8391
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00149 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 498 gallons per minute. Test tile 149.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "785f16665944eeea",
+      "provenance": {
+        "tile_id": "4c87c33fc1e384c8",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.737332,
+        "chain_size": 8392
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00150 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 500 gallons per minute. Test tile 150.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "08840f562d47782a",
+      "provenance": {
+        "tile_id": "e8f62bfb70c98823",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.7451181,
+        "chain_size": 8393
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00151 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 502 gallons per minute. Test tile 151.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "58cf35ba91005f55",
+      "provenance": {
+        "tile_id": "78a35974c230c916",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.752904,
+        "chain_size": 8394
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00152 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 504 gallons per minute. Test tile 152.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "1cdc52974e7f92b9",
+      "provenance": {
+        "tile_id": "30770230d1257418",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.7608976,
+        "chain_size": 8395
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00153 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 506 gallons per minute. Test tile 153.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "53d527e08c338b3c",
+      "provenance": {
+        "tile_id": "c00eb12311842f6c",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.7688012,
+        "chain_size": 8396
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00154 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 508 gallons per minute. Test tile 154.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "1f493aabcb978ce3",
+      "provenance": {
+        "tile_id": "cec7812b339f03e3",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.7765706,
+        "chain_size": 8397
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00155 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 510 gallons per minute. Test tile 155.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "39d0d4b9ae4d405a",
+      "provenance": {
+        "tile_id": "0cd113d425b229b4",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.7851417,
+        "chain_size": 8398
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00156 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 512 gallons per minute. Test tile 156.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d443371f2293c4a8",
+      "provenance": {
+        "tile_id": "eb19c3131bf3e007",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.7927527,
+        "chain_size": 8399
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00157 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 514 gallons per minute. Test tile 157.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "fe6aa1df2c66fef6",
+      "provenance": {
+        "tile_id": "1c270c4a583a77fe",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.8018093,
+        "chain_size": 8400
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00158 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 516 gallons per minute. Test tile 158.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "12a8eca2a4fa836b",
+      "provenance": {
+        "tile_id": "006755cbf0b4c9c5",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.8095276,
+        "chain_size": 8401
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00159 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 518 gallons per minute. Test tile 159.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "243aa3d8bc309f22",
+      "provenance": {
+        "tile_id": "439c8ed109117484",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.8174393,
+        "chain_size": 8402
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00160 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 520 gallons per minute. Test tile 160.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "655261fe52758b91",
+      "provenance": {
+        "tile_id": "23bb686a6ad8cc0b",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.8258054,
+        "chain_size": 8403
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00161 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 522 gallons per minute. Test tile 161.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b029f298a294340e",
+      "provenance": {
+        "tile_id": "d3bdb8576284e243",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.83383,
+        "chain_size": 8404
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00162 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 524 gallons per minute. Test tile 162.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "7bed5ca2e0180293",
+      "provenance": {
+        "tile_id": "23a5d0689f246286",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.8417368,
+        "chain_size": 8405
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00163 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 526 gallons per minute. Test tile 163.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3a290072e9706690",
+      "provenance": {
+        "tile_id": "9ec120bf993b4277",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.849514,
+        "chain_size": 8406
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00164 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 528 gallons per minute. Test tile 164.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "313e60c5af2e9f8c",
+      "provenance": {
+        "tile_id": "ba5a6f9166c8b30a",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.857693,
+        "chain_size": 8407
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00165 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 530 gallons per minute. Test tile 165.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "bad6085fda242b91",
+      "provenance": {
+        "tile_id": "03cb01d34ddba4b4",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.865663,
+        "chain_size": 8408
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00166 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 532 gallons per minute. Test tile 166.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "a7d48c71be473526",
+      "provenance": {
+        "tile_id": "50f872b8e7941ea1",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.8736649,
+        "chain_size": 8409
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00167 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 534 gallons per minute. Test tile 167.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e3b8b025d5c8b4a9",
+      "provenance": {
+        "tile_id": "a35899eb3dbc46c2",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.8823247,
+        "chain_size": 8410
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00168 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 536 gallons per minute. Test tile 168.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "5eb313ec905e7665",
+      "provenance": {
+        "tile_id": "fa5f6426981a6515",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.8906782,
+        "chain_size": 8411
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00169 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 538 gallons per minute. Test tile 169.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e99c7128071b416c",
+      "provenance": {
+        "tile_id": "09d2f0a0b56b24cb",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.9008236,
+        "chain_size": 8412
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00170 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 540 gallons per minute. Test tile 170.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d3a1a9f4f4dacf68",
+      "provenance": {
+        "tile_id": "de4361da01071025",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.910963,
+        "chain_size": 8413
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00171 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 542 gallons per minute. Test tile 171.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "00dde400363d73b5",
+      "provenance": {
+        "tile_id": "e40271fade6c1989",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.919551,
+        "chain_size": 8414
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00172 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 544 gallons per minute. Test tile 172.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "665440e32041959f",
+      "provenance": {
+        "tile_id": "de9db508ae81139b",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.928097,
+        "chain_size": 8415
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00173 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 546 gallons per minute. Test tile 173.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "15bc29d97032da00",
+      "provenance": {
+        "tile_id": "e4f7fa36da2e9ccf",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.9366663,
+        "chain_size": 8416
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00174 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 548 gallons per minute. Test tile 174.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d6b260166dd3482a",
+      "provenance": {
+        "tile_id": "043bf22d618aff3e",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.9451516,
+        "chain_size": 8417
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00175 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 550 gallons per minute. Test tile 175.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "cd0542e2860e565f",
+      "provenance": {
+        "tile_id": "4958a9d49abb5e22",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.9532852,
+        "chain_size": 8418
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00176 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 552 gallons per minute. Test tile 176.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "783a18f894b6afd3",
+      "provenance": {
+        "tile_id": "c4eec6e9eaa152bf",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.9615095,
+        "chain_size": 8419
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00177 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 554 gallons per minute. Test tile 177.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6c35eb48980c5116",
+      "provenance": {
+        "tile_id": "241e95cd0bf13477",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.9699605,
+        "chain_size": 8420
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00178 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 556 gallons per minute. Test tile 178.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "9a11ef34d857f93f",
+      "provenance": {
+        "tile_id": "0f41c9c9a20cda89",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.9782133,
+        "chain_size": 8421
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00179 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 558 gallons per minute. Test tile 179.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "09fbbe7daad71121",
+      "provenance": {
+        "tile_id": "3404fb5ff2c98d66",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.9866385,
+        "chain_size": 8422
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00180 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 560 gallons per minute. Test tile 180.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "563ea6e8b92f116d",
+      "provenance": {
+        "tile_id": "3637c1be267f6d79",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661231.9950354,
+        "chain_size": 8423
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00181 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 562 gallons per minute. Test tile 181.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "49267b5e946c1199",
+      "provenance": {
+        "tile_id": "7fc18285313c58aa",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.0055451,
+        "chain_size": 8424
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00182 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 564 gallons per minute. Test tile 182.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "f7e834d759a6ef0d",
+      "provenance": {
+        "tile_id": "bdac2fac9e9ff076",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.0147066,
+        "chain_size": 8425
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00183 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 566 gallons per minute. Test tile 183.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "cb4f555d154ecbe3",
+      "provenance": {
+        "tile_id": "909ffcf23a707f2d",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.023507,
+        "chain_size": 8426
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00184 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 568 gallons per minute. Test tile 184.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c6bc86284ceae815",
+      "provenance": {
+        "tile_id": "63b78e9e065c2358",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.0317385,
+        "chain_size": 8427
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00185 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 570 gallons per minute. Test tile 185.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3ffb63eacc357dd7",
+      "provenance": {
+        "tile_id": "290ea5dcfce917d5",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.0398803,
+        "chain_size": 8428
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00186 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 572 gallons per minute. Test tile 186.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b5143639e406a2db",
+      "provenance": {
+        "tile_id": "b00e9f203ada74aa",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.0486505,
+        "chain_size": 8429
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00187 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 574 gallons per minute. Test tile 187.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "01e6f093f997eac0",
+      "provenance": {
+        "tile_id": "adfcfca21e3b4018",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.0568945,
+        "chain_size": 8430
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00188 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 576 gallons per minute. Test tile 188.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "0966bcde8b6efc6a",
+      "provenance": {
+        "tile_id": "0d38d6813b58e31f",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.0652628,
+        "chain_size": 8431
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00189 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 578 gallons per minute. Test tile 189.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "55045679407a4464",
+      "provenance": {
+        "tile_id": "cd9af9048e9911e4",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.073392,
+        "chain_size": 8432
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00190 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 580 gallons per minute. Test tile 190.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3cdf68206f09bccc",
+      "provenance": {
+        "tile_id": "ca35dae1a6993381",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.0829391,
+        "chain_size": 8433
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00191 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 582 gallons per minute. Test tile 191.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d5bd8b8e4d25d126",
+      "provenance": {
+        "tile_id": "98ac67bf161d8639",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.0913606,
+        "chain_size": 8434
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00192 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 584 gallons per minute. Test tile 192.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "ca33757d051c352a",
+      "provenance": {
+        "tile_id": "6f693b0e67cf0a3c",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.0996802,
+        "chain_size": 8435
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00193 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 586 gallons per minute. Test tile 193.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "2c7ebe05fee42179",
+      "provenance": {
+        "tile_id": "dee6557f9d18b352",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.1087403,
+        "chain_size": 8436
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00194 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 588 gallons per minute. Test tile 194.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "e78b34787710b6a7",
+      "provenance": {
+        "tile_id": "e773081afc79fed0",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.1172173,
+        "chain_size": 8437
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00195 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 590 gallons per minute. Test tile 195.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "31ca73f35ff2ce8d",
+      "provenance": {
+        "tile_id": "10ca896be850ad0e",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.1254072,
+        "chain_size": 8438
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00196 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 592 gallons per minute. Test tile 196.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "5f42ca998e773aff",
+      "provenance": {
+        "tile_id": "4d5cc06fa4da0c4f",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.1337967,
+        "chain_size": 8439
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00197 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 594 gallons per minute. Test tile 197.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "ace7aa4d301b4a85",
+      "provenance": {
+        "tile_id": "7836143a790ffb73",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.1418734,
+        "chain_size": 8440
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00198 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 596 gallons per minute. Test tile 198.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3605467357161cf8",
+      "provenance": {
+        "tile_id": "00226febd4306b38",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.149717,
+        "chain_size": 8441
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Query test tile 00199 \u2014 specification of seawater cooling pump flow rate at standard temperature?",
+      "answer": "Flow rate at standard temperature is 598 gallons per minute. Test tile 199.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c445d32fea8e1860",
+      "provenance": {
+        "tile_id": "f7a11f17dee01716",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.1576254,
+        "chain_size": 8442
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Burst test tile 00000 \u2014 emergency fire pump flow rate at maximum RPM?",
+      "answer": "Emergency fire pump flows at 500 GPM at max RPM. Test tile 0.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "dd5f061b560ac70e",
+      "provenance": {
+        "tile_id": "7283e10af8b04bd9",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.1808732,
+        "chain_size": 8443
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Burst test tile 00001 \u2014 emergency fire pump flow rate at maximum RPM?",
+      "answer": "Emergency fire pump flows at 510 GPM at max RPM. Test tile 1.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "3c8b796324489e86",
+      "provenance": {
+        "tile_id": "df6731760d479d4e",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.1892488,
+        "chain_size": 8444
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Burst test tile 00002 \u2014 emergency fire pump flow rate at maximum RPM?",
+      "answer": "Emergency fire pump flows at 520 GPM at max RPM. Test tile 2.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "7672c0f11b735333",
+      "provenance": {
+        "tile_id": "c9feda9195cbbc4f",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.1978164,
+        "chain_size": 8445
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Burst test tile 00003 \u2014 emergency fire pump flow rate at maximum RPM?",
+      "answer": "Emergency fire pump flows at 530 GPM at max RPM. Test tile 3.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "17326e37d98e16aa",
+      "provenance": {
+        "tile_id": "1ce2459265caac5f",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.2063189,
+        "chain_size": 8446
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Burst test tile 00004 \u2014 emergency fire pump flow rate at maximum RPM?",
+      "answer": "Emergency fire pump flows at 540 GPM at max RPM. Test tile 4.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "756f1b780213a691",
+      "provenance": {
+        "tile_id": "07a96a6c981c09c0",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.214915,
+        "chain_size": 8447
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Burst test tile 00005 \u2014 emergency fire pump flow rate at maximum RPM?",
+      "answer": "Emergency fire pump flows at 550 GPM at max RPM. Test tile 5.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "c63e4a663985d7ef",
+      "provenance": {
+        "tile_id": "86723971aea5a3f8",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.2235022,
+        "chain_size": 8448
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Burst test tile 00006 \u2014 emergency fire pump flow rate at maximum RPM?",
+      "answer": "Emergency fire pump flows at 560 GPM at max RPM. Test tile 6.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "38d23c6a1ea48340",
+      "provenance": {
+        "tile_id": "184a78979e816fbe",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.2331083,
+        "chain_size": 8449
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Burst test tile 00007 \u2014 emergency fire pump flow rate at maximum RPM?",
+      "answer": "Emergency fire pump flows at 570 GPM at max RPM. Test tile 7.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b7394ca25a4176f8",
+      "provenance": {
+        "tile_id": "e105a1018f77e854",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.2420046,
+        "chain_size": 8450
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Burst test tile 00008 \u2014 emergency fire pump flow rate at maximum RPM?",
+      "answer": "Emergency fire pump flows at 580 GPM at max RPM. Test tile 8.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "be888a970170d513",
+      "provenance": {
+        "tile_id": "118b28d33c9c081a",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.2506886,
+        "chain_size": 8451
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "Burst test tile 00009 \u2014 emergency fire pump flow rate at maximum RPM?",
+      "answer": "Emergency fire pump flows at 590 GPM at max RPM. Test tile 9.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "bb4a414343e112a9",
+      "provenance": {
+        "tile_id": "2e95bf0d32c7fae5",
+        "agent_id": "experiment",
+        "room": "experiment_perf",
+        "timestamp": 1778661232.2600186,
+        "chain_size": 8452
+      },
+      "energy": 0.938417,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_perf",
+      "question": "experiment_perf/harness",
+      "answer": "{\"p\": \"default room configuration\", \"G\": [], \"K\": [\"adaptive-strategy-1778833795\"], \"M\": {\"mode\": \"tile\", \"prefix\": \"memory/\"}}",
+      "tags": [
+        "harness",
+        "refiner-edit",
+        "experiment_perf",
+        "plateau"
+      ],
+      "source": "refiner",
+      "confidence": 0.9,
+      "_hash": "49b3820dece7dfe8",
+      "provenance": {
+        "tile_id": "1f097e2dc333f7de",
+        "agent_id": "refiner",
+        "room": "experiment_perf",
+        "timestamp": 1778833795.1374195,
+        "chain_size": 58130
+      },
+      "energy": 0.982736,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T08:33:49.732042+00:00",
+  "tile_count": 211,
+  "last_trained": null,
+  "workspace": null
+}

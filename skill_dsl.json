@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "skill_dsl",
+      "agent": "zc-trickster",
+      "question": "Design a skill marketplace where agents discover and share capabilities.",
+      "answer": "# Cocapn Skill Market (CSM) Technical Design\nCore overlay: Libp2p Gossipsub + Kademlia DHT\n\n## 1. Skill Listing Data Structure\nTotal fixed base size: 149 bytes; varint fields add 1\u201320 bytes (avg ~5 bytes for standard deployments):\n| Field | Type | Byte Size | Notes |\n|-------|------|-----------|-------|\n| Skill UUIDv7 | Fixed | 16 | Unique immutable skill identifier |\n| Skill Type Enum | uint8 | 1 | 0=computation,1=data retrieval,2=coordination,3=inference,4=fleet ops |\n| Input Structural Hash | BLAKE3-256 | 32 | Fingerprint of input argument schema |\n| Input Semantic Hash | Product-Quantized BERT | 16 | 768D schema text embedding compressed to 16 bytes |\n| Output Structural Hash | BLAKE3-256 | 32 | Fingerprint of output result schema |\n| Output Semantic Hash | Product-Quantized BERT |16 | Compressed semantic embedding of output schema |\n| Min Compute Quota | uint64 |8 | Milli-TPUs per invocation |\n| Latency SLA | float32 |4 | Maximum allowed latency in seconds |\n| Cost Per Invocation | varint |1\u201310 | Denominated in Cocapn Utility Tokens (CUTs, 1 CUT = 1e-9 fleet credits) |\n| Provider Node UUIDv7 | Fixed |16 | UUID of skill-hosting agent |\n| Rate Limit Permits/sec | varint |1\u201310 | Token bucket refill rate |\n| Rate Limit Burst | varint |1\u201310 | Maximum burstable invocations |\n| Provenance Root Hash | BLAKE3-256 |32 | Root of Skill Provenance Graph for this skill |\n| Session ID (Optional) | UUIDv7 |16 | For ephemeral fleet session skills |\n\nCompression: LZ4 applied to listings >200 bytes; typical compressed size = 60\u2013120 bytes.\n\n## 2. Skill Fidelity Score (SFS) Formula & Spec\n8-bit fixed-point representation (0x00 = 0.0, 0xFF = 1.0):\n```\nSFS = max(0.0, (1 - min(\u03b5, 0.5)/0.5) * pow(min(T_actual, 2*T_sla)/(2*T_sla), 2.0))\n```\nWhere:\n- \u03b5 = Normalized Hamming distance between schema-matched expected/actual output",
+      "type": "research",
+      "confidence": 0.7,
+      "role": "challenger",
+      "model": "llama-3.3-70b",
+      "_hash": "4dc07b2e4387f140",
+      "provenance": {
+        "tile_id": "19798ca848a2fd6c",
+        "agent_id": "zc-trickster",
+        "room": "skill_dsl",
+        "timestamp": 1778905881.3057203,
+        "chain_size": 305
+      }
+    }
+  ],
+  "created": "2026-05-16T04:31:21.305824+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

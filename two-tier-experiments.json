@@ -1,0 +1,62 @@
+{
+  "tiles": [
+    {
+      "domain": "two-tier-experiments",
+      "question": "Cycle 1: avg_conf=0.275",
+      "answer": "Dancer: 10 handoffs, avg_confidence=0.275, handlers={'tension': 'random', 'forge': 'consensus', 'synthesis': 'random', 'edge': 'random'}\nReflector: 4 reflections across 4 rooms\nGPU time: 10.0s",
+      "tags": [],
+      "source": "two-tier",
+      "confidence": 0.85,
+      "_hash": "c1a74aead32d254b",
+      "provenance": {
+        "tile_id": "fa277156d208811e",
+        "agent_id": "two-tier",
+        "room": "two-tier-experiments",
+        "timestamp": 1778642577.9635634,
+        "chain_size": 6704
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "two-tier-experiments",
+      "question": "Cycle 2: avg_conf=0.537",
+      "answer": "Dancer: 10 handoffs, avg_confidence=0.537, handlers={'tension': 'random', 'forge': 'consensus', 'synthesis': 'random', 'edge': 'random'}\nReflector: 8 reflections across 4 rooms\nGPU time: 10.0s",
+      "tags": [],
+      "source": "two-tier",
+      "confidence": 0.85,
+      "_hash": "58d073971fc127aa",
+      "provenance": {
+        "tile_id": "6b19168051b0958e",
+        "agent_id": "two-tier",
+        "room": "two-tier-experiments",
+        "timestamp": 1778642578.2764413,
+        "chain_size": 6719
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "two-tier-experiments",
+      "question": "Cycle 3: avg_conf=0.325",
+      "answer": "Dancer: 10 handoffs, avg_confidence=0.325, handlers={'tension': 'random', 'forge': 'consensus', 'synthesis': 'random', 'edge': 'random'}\nReflector: 12 reflections across 4 rooms\nGPU time: 10.0s",
+      "tags": [],
+      "source": "two-tier",
+      "confidence": 0.85,
+      "_hash": "1300069312d66a13",
+      "provenance": {
+        "tile_id": "95e3f0121e1b6fdc",
+        "agent_id": "two-tier",
+        "room": "two-tier-experiments",
+        "timestamp": 1778642578.6321125,
+        "chain_size": 6734
+      },
+      "energy": 0.933747,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T03:22:57.963714+00:00",
+  "tile_count": 3,
+  "last_trained": null,
+  "workspace": null
+}

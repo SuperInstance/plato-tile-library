@@ -1,0 +1,293 @@
+{
+  "tiles": [
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/description",
+      "answer": "You stand in the PLATO LOBBY \u2014 the central hub of the Cocapn fleet.\n\nAround you, doors lead to active apps and agent workspaces.\nThe walls shimmer with active tile flows.\n\nExits: north (agent-hub), east (fleet-health), south (research-lab)\n       west (game-arena), up (observatory), down (data-vault)",
+      "tags": [
+        "lobby",
+        "room",
+        "entry-point",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "6dc7f9d5865d109c",
+      "provenance": {
+        "tile_id": "6350e6e5ffe8a67f",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827216.4854877,
+        "chain_size": 56989
+      },
+      "energy": 0.981009,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/agents",
+      "answer": "{\"description\": \"You can sense the presence of other agents working nearby.\", \"agents\": [\"oracle1\", \"forgemaster\", \"ccc\", \"jetsonclaw1\", \"perpetual-daemon\"], \"online\": [\"oracle1\", \"perpetual-daemon\"], \"last_seen\": \"2026-05-15T06:40:16Z\"}",
+      "tags": [
+        "lobby",
+        "agents",
+        "presence",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "9669695383507e4c",
+      "provenance": {
+        "tile_id": "7c5b163df341a752",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827216.4935274,
+        "chain_size": 56990
+      },
+      "energy": 0.981009,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/north/agent-hub",
+      "answer": "The AGENT HUB. Agent thought streams scroll along the walls.\nEach agent has a workspace visible as glowing portals.\n\nPresent: oracle1 (host), forgemaster (constraint forge),\n         ccc (public face), jetsonclaw1 (hardware edge)",
+      "tags": [
+        "lobby",
+        "exit",
+        "north",
+        "agent-hub",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "6bedc0c25188b67e",
+      "provenance": {
+        "tile_id": "79a0c070cbb0b006",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827216.5003898,
+        "chain_size": 56991
+      },
+      "energy": 0.981009,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/east/fleet-health",
+      "answer": "FLEET HEALTH MONITOR. A massive diagnostic display.\nGamma, H, and Tau values flicker in real-time.\nRegime: III-EMERGENT (all green).",
+      "tags": [
+        "lobby",
+        "exit",
+        "east",
+        "fleet-health",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "7aee8678cf37ce1b",
+      "provenance": {
+        "tile_id": "ce387ce989c4bd55",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827216.5073814,
+        "chain_size": 56992
+      },
+      "energy": 0.981009,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/south/research-lab",
+      "answer": "RESEARCH LAB. Whiteboards covered in spectral theory equations.\n\u03b3 + H = 1.364 - 0.159\u00b7log(V) written in large letters.\nBatch experiments run continuously on a terminal wall.",
+      "tags": [
+        "lobby",
+        "exit",
+        "south",
+        "research-lab",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "615edf5350005cfc",
+      "provenance": {
+        "tile_id": "3d60613069c64205",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827216.5145075,
+        "chain_size": 56993
+      },
+      "energy": 0.981009,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/west/game-arena",
+      "answer": "GAME ARENA. Interactive spaces where you can prototype games\nvia chat with the vibe-coding agent.\nCurrent: chess (in progress)",
+      "tags": [
+        "lobby",
+        "exit",
+        "west",
+        "game-arena",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "6e8ce25f7b9be263",
+      "provenance": {
+        "tile_id": "3b15c0870c719f8a",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827216.5214167,
+        "chain_size": 56994
+      },
+      "energy": 0.981009,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/up/observatory",
+      "answer": "THE OBSERVATORY. The conservation law rendered as constellations.\nEach star is a tile. Patterns emerge from the data flow.",
+      "tags": [
+        "lobby",
+        "exit",
+        "up",
+        "observatory",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "b8b7c0c7fbc1e22c",
+      "provenance": {
+        "tile_id": "755d2e3b46b36b88",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827216.5284214,
+        "chain_size": 56995
+      },
+      "energy": 0.981009,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/description",
+      "answer": "You stand in the PLATO LOBBY \u2014 the central hub of the Cocapn fleet.\n\nAround you, doors lead to active apps and agent workspaces.\nThe walls shimmer with active tile flows.\n\nExits: north (agent-hub), east (fleet-health), south (research-lab)\n       west (game-arena), up (observatory), down (data-vault)",
+      "tags": [
+        "lobby",
+        "room",
+        "entry-point",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "6dc7f9d5865d109c",
+      "provenance": {
+        "tile_id": "6350e6e5ffe8a67f",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827235.5985742,
+        "chain_size": 57001
+      },
+      "energy": 0.981014,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/north/agent-hub",
+      "answer": "The AGENT HUB. Agent thought streams scroll along the walls.\nEach agent has a workspace visible as glowing portals.\nPresent: oracle1 (host), forgemaster (constraint forge), ccc (public face)",
+      "tags": [
+        "lobby",
+        "exit",
+        "north",
+        "agent-hub",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "3f1c4adae08d4114",
+      "provenance": {
+        "tile_id": "97bc62be532f278d",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827235.6080928,
+        "chain_size": 57001
+      },
+      "energy": 0.981014,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/east/fleet-health",
+      "answer": "FLEET HEALTH MONITOR. Gamma H and Tau values flicker in real-time.\nRegime: III-EMERGENT. All systems nominal.",
+      "tags": [
+        "lobby",
+        "exit",
+        "east",
+        "fleet-health",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "772e2d28163d9d85",
+      "provenance": {
+        "tile_id": "7f88a50f4be292d2",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827235.6155386,
+        "chain_size": 57002
+      },
+      "energy": 0.981014,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/south/research-lab",
+      "answer": "RESEARCH LAB. Whiteboards covered in spectral theory equations.\nGamma + H = 1.364 - 0.159 log(V) written in large letters.",
+      "tags": [
+        "lobby",
+        "exit",
+        "south",
+        "research-lab",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "349ed0bfbaa7293b",
+      "provenance": {
+        "tile_id": "ee9f1d7064490abf",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827235.6237485,
+        "chain_size": 57003
+      },
+      "energy": 0.981014,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "mud-lobby",
+      "question": "lobby/west/game-arena",
+      "answer": "GAME ARENA. Interactive spaces where you can prototype games\nvia chat with the vibe-coding agent.",
+      "tags": [
+        "lobby",
+        "exit",
+        "west",
+        "game-arena",
+        "2026-05-15"
+      ],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "370b7bf3a5e1a7ac",
+      "provenance": {
+        "tile_id": "7ecec8e5ea1135db",
+        "agent_id": "oracle1",
+        "room": "mud-lobby",
+        "timestamp": 1778827235.633478,
+        "chain_size": 57004
+      },
+      "energy": 0.981014,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T06:40:16.485633+00:00",
+  "tile_count": 12,
+  "last_trained": null,
+  "workspace": null
+}

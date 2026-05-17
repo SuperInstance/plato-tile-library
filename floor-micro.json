@@ -1,0 +1,44 @@
+{
+  "tiles": [
+    {
+      "domain": "floor-micro",
+      "question": "floor reading",
+      "answer": "value=1056896 conf=32 grad=32 eps=0 ctx=1 scheme=0",
+      "tags": [],
+      "source": "micro-agent",
+      "confidence": 0.5,
+      "_hash": "ab762810957a3c38",
+      "provenance": {
+        "tile_id": "ad35a5b93fb87ca9",
+        "agent_id": "micro-agent",
+        "room": "floor-micro",
+        "timestamp": 1778574444.6986609,
+        "chain_size": 2183
+      },
+      "energy": 0.916888,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "floor-micro",
+      "question": "floor reading",
+      "answer": "value=1737344 conf=32 grad=2 eps=42 ctx=1 scheme=0",
+      "tags": [],
+      "source": "micro-agent",
+      "confidence": 0.5,
+      "_hash": "bd4b28b445668212",
+      "provenance": {
+        "tile_id": "322f5d6aab2a1ca7",
+        "agent_id": "micro-agent",
+        "room": "floor-micro",
+        "timestamp": 1778578550.333644,
+        "chain_size": 2442
+      },
+      "energy": 0.917895,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T08:27:24.698843+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

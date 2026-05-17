@@ -1,0 +1,368 @@
+{
+  "tiles": [
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:instinct_training recovery:cpias_v1",
+      "answer": "Asymptotic convergence formula with accuracy threshold 0.95 guides data needs.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.9,
+      "_hash": "757422f24176a7a8",
+      "provenance": {
+        "tile_id": "2545d68120d8d473",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778280343.0949733,
+        "chain_size": 1
+      },
+      "energy": 0.84754,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:context_preservation recovery:cpias_v1",
+      "answer": "Serialization format: binary blob with header (magic + version + size).",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.89,
+      "_hash": "a56a86f613ef820d",
+      "provenance": {
+        "tile_id": "4b3fa05ed05517fe",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778280643.1847317,
+        "chain_size": 1
+      },
+      "energy": 0.847608,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:agent_recovery recovery:cpias_v1",
+      "answer": "Stall detection: divergence metric exceeds threshold (e.g., Infinity on bard/warden/healer).",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.68,
+      "_hash": "77f269bfae6ac9e3",
+      "provenance": {
+        "tile_id": "efe77f12601d01fc",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778280943.270769,
+        "chain_size": 5
+      },
+      "energy": 0.847676,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:context_preservation recovery:cpias_v1",
+      "answer": "Integrity check: verify serialized context hash before deserialization.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.9,
+      "_hash": "4b65990b42cd5ce5",
+      "provenance": {
+        "tile_id": "e97a8d6d7d8158d6",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778281243.3722985,
+        "chain_size": 9
+      },
+      "energy": 0.847744,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:context_preservation recovery:cpias_v1",
+      "answer": "Deserialization: reconstruct agent memory from serialized tile in PLATO room.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.91,
+      "_hash": "e50fdd5cd9fe4488",
+      "provenance": {
+        "tile_id": "ab6fe5989767fbd0",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778281543.478872,
+        "chain_size": 15
+      },
+      "energy": 0.847812,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:instinct_training recovery:cpias_v1",
+      "answer": "Complex multi-variate patterns: ~500+ examples for 0.95 accuracy threshold.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.66,
+      "_hash": "d5a18d08e7425b20",
+      "provenance": {
+        "tile_id": "ca9e249ba7dbc1ee",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778281843.5677514,
+        "chain_size": 18
+      },
+      "energy": 0.84788,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:cpias_hibernation recovery:cpias_v1",
+      "answer": "CPIAS: Context-Preserving Idle Agent Suspension \u2014 serialize state to PLATO, reduce to lightweight monitor.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.82,
+      "_hash": "81075354fa6c3a8d",
+      "provenance": {
+        "tile_id": "3d74a5791fb90593",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778282143.6195643,
+        "chain_size": 22
+      },
+      "energy": 0.847948,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:energy_flux recovery:cpias_v1",
+      "answer": "Idle threshold: agent considered idle after 5 minutes without API calls or task dispatch.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.79,
+      "_hash": "dd3132c794d702bf",
+      "provenance": {
+        "tile_id": "cf91793b4f978ff2",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778282743.6481106,
+        "chain_size": 27
+      },
+      "energy": 0.848084,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:energy_flux recovery:cpias_v1",
+      "answer": "Energy flux: agent resource consumption tracked per hour of active computation.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.8,
+      "_hash": "acd680d3f2bf8a4f",
+      "provenance": {
+        "tile_id": "4ecac0b859992e32",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778283643.8705635,
+        "chain_size": 35
+      },
+      "energy": 0.848288,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:cpias_hibernation recovery:cpias_v1",
+      "answer": "Hibernation trigger: idle >5 min with no pending tasks.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.7,
+      "_hash": "beaf4b544d5e6943",
+      "provenance": {
+        "tile_id": "fa4057fbc2b677c8",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778284544.1846085,
+        "chain_size": 42
+      },
+      "energy": 0.848492,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:instinct_training recovery:cpias_v1",
+      "answer": "Minimum training: ~100-200 examples for basic pattern recognition.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.87,
+      "_hash": "87f70f77363810f3",
+      "provenance": {
+        "tile_id": "1fc9888c09f4d964",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778284844.2745318,
+        "chain_size": 45
+      },
+      "energy": 0.84856,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:cpias_hibernation recovery:cpias_v1",
+      "answer": "Memory target: <64KB serialized context per agent for fast hibernate/wake cycles.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.75,
+      "_hash": "eb7d4525ae403563",
+      "provenance": {
+        "tile_id": "56dda892b58c6f9b",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778286044.5288637,
+        "chain_size": 58
+      },
+      "energy": 0.848833,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:energy_flux recovery:cpias_v1",
+      "answer": "Wake budget: 3 wake attempts per hour before declaring agent unresponsive.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.81,
+      "_hash": "19fb8c1899bd52f4",
+      "provenance": {
+        "tile_id": "f0f2379a5e51b1d2",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778286644.7047982,
+        "chain_size": 64
+      },
+      "energy": 0.848969,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:context_preservation recovery:cpias_v1",
+      "answer": "Context serialization: compress agent state with LZ4 for PLATO storage.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.88,
+      "_hash": "e1e9534d7ecfa0a0",
+      "provenance": {
+        "tile_id": "55e30c0c4fa692ce",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778287544.8107448,
+        "chain_size": 72
+      },
+      "energy": 0.849173,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:agent_recovery recovery:cpias_v1",
+      "answer": "Agent recovery: detect stall (no output >30 min), attempt restart sequence.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.66,
+      "_hash": "05a936276a229f3b",
+      "provenance": {
+        "tile_id": "58e4520cad782d2c",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778289045.1687343,
+        "chain_size": 84
+      },
+      "energy": 0.849514,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:instinct_training recovery:cpias_v1",
+      "answer": "Transfer learning from fleet-math base model reduces training requirements.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.68,
+      "_hash": "84ae65f75d041c1a",
+      "provenance": {
+        "tile_id": "09a15077a961bf16",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778290845.7491775,
+        "chain_size": 95
+      },
+      "energy": 0.849923,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:agent_recovery recovery:cpias_v1",
+      "answer": "Recovery log written to PLATO room for post-mortem analysis.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.85,
+      "_hash": "ac658eb62c73627a",
+      "provenance": {
+        "tile_id": "31e27ceb68817763",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778298647.4513767,
+        "chain_size": 132
+      },
+      "energy": 0.851698,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:agent_recovery recovery:cpias_v1",
+      "answer": "Recovery protocol: hibernate \u2192 serialize \u2192 restart \u2192 deserialize \u2192 resume.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.79,
+      "_hash": "cee4553e7435b4de",
+      "provenance": {
+        "tile_id": "09237a5eb4e48caa",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778298947.4942923,
+        "chain_size": 134
+      },
+      "energy": 0.851767,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:cpias_hibernation recovery:cpias_v1",
+      "answer": "Wake mechanisms: ping from keeper or scheduled interval.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.83,
+      "_hash": "b8cd3a319ae086d5",
+      "provenance": {
+        "tile_id": "f8a41b3cd63324f6",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778301948.2202215,
+        "chain_size": 145
+      },
+      "energy": 0.852451,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_healer",
+      "question": "agent:healer focus:energy_flux recovery:cpias_v1",
+      "answer": "Power saving: hibernate agents with energy_flux < 0.01 units.",
+      "tags": [],
+      "source": "zeroclaw_healer",
+      "confidence": 0.82,
+      "_hash": "7a8d6c45a23a9fcf",
+      "provenance": {
+        "tile_id": "e0f1d9c284532566",
+        "agent_id": "zeroclaw_healer",
+        "room": "zeroclaw_healer",
+        "timestamp": 1778302548.375651,
+        "chain_size": 148
+      },
+      "energy": 0.852587,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-08T22:45:43.095154+00:00",
+  "tile_count": 20,
+  "last_trained": null,
+  "workspace": null
+}

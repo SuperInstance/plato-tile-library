@@ -1,0 +1,440 @@
+{
+  "tiles": [
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:edge_compute analysis:security_v1",
+      "answer": "Bandwidth optimization: compress agent state with LZ4 before inter-node transfer.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.94,
+      "_hash": "672d05d023ee06b2",
+      "provenance": {
+        "tile_id": "e3c996142420caee",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778280342.537489,
+        "chain_size": 0
+      },
+      "energy": 0.847539,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:trust_chains analysis:security_v1",
+      "answer": "Trust chain: agent A trusts agent B if B holds a valid capability signed by a trusted issuer.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.79,
+      "_hash": "20dea3e526e260d8",
+      "provenance": {
+        "tile_id": "5d37d787a1048f33",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778280642.6422224,
+        "chain_size": 0
+      },
+      "energy": 0.847607,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:trust_chains analysis:security_v1",
+      "answer": "Trust score: weighted by historical accuracy \u2014 correct calls increase score.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.87,
+      "_hash": "5af0f7b439d9f1d0",
+      "provenance": {
+        "tile_id": "8b830bfd77aee3d4",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778280942.7500067,
+        "chain_size": 4
+      },
+      "energy": 0.847676,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:blast_radius analysis:security_v1",
+      "answer": "Single compromised agent blast radius: limited by capability scope and trust chain depth.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.86,
+      "_hash": "fce0430ca65d8a58",
+      "provenance": {
+        "tile_id": "229c0d421cda2ce0",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778281242.8555188,
+        "chain_size": 8
+      },
+      "energy": 0.847744,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:trust_chains analysis:security_v1",
+      "answer": "Trust revocation: immediate on capability misuse, propagates within 1 second.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.87,
+      "_hash": "d977cc82466a7d16",
+      "provenance": {
+        "tile_id": "d8d57f0153d511e5",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778281542.9599323,
+        "chain_size": 14
+      },
+      "energy": 0.847812,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:blast_radius analysis:security_v1",
+      "answer": "Isolation strategy: agent compartments with independent token namespaces.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.89,
+      "_hash": "ad242da0e164799a",
+      "provenance": {
+        "tile_id": "7609924d0648174b",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778282143.080255,
+        "chain_size": 21
+      },
+      "energy": 0.847948,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:capability_control analysis:security_v1",
+      "answer": "Capability bitmap: 16-bit per agent, each bit represents a skill or permission.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.79,
+      "_hash": "4017dc1d6ecd6d6e",
+      "provenance": {
+        "tile_id": "70b64554a538886e",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778282443.1430383,
+        "chain_size": 24
+      },
+      "energy": 0.848016,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:edge_compute analysis:security_v1",
+      "answer": "Edge computing core tradeoff: latency vs bandwidth vs computational resources.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.94,
+      "_hash": "d5cb73ef28699af6",
+      "provenance": {
+        "tile_id": "d89585e637e406ec",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778282743.2509186,
+        "chain_size": 26
+      },
+      "energy": 0.848084,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:threat_models analysis:security_v1",
+      "answer": "Threat model: external attacker compromises one agent, attempts lateral movement.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.84,
+      "_hash": "54500644744bf36f",
+      "provenance": {
+        "tile_id": "9edd7718c406839d",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778283043.350505,
+        "chain_size": 30
+      },
+      "energy": 0.848152,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:capability_control analysis:security_v1",
+      "answer": "Minimum capabilities: 0x0001 = basic awareness, 0x0002 = PLATO read, 0x0004 = PLATO write.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.81,
+      "_hash": "9a3254702491f541",
+      "provenance": {
+        "tile_id": "903440e9ebfd14e0",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778284543.7392852,
+        "chain_size": 41
+      },
+      "energy": 0.848492,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:threat_models analysis:security_v1",
+      "answer": "PLATO room ACLs as network segmentation: compromised agent can't access rooms it wasn't granted.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.77,
+      "_hash": "28606289fea08253",
+      "provenance": {
+        "tile_id": "477527a2e76cd677",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778284843.8165398,
+        "chain_size": 44
+      },
+      "energy": 0.84856,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:fleet_security analysis:security_v1",
+      "answer": "Blast radius limited by: (1) agent capability scope, (2) token scope, (3) inter-agent trust chain depth, (4) PLATO room ACLs.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.78,
+      "_hash": "9e69c63599586b7d",
+      "provenance": {
+        "tile_id": "d24c0b59c378dbc6",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778285143.8348532,
+        "chain_size": 51
+      },
+      "energy": 0.848628,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:fleet_security analysis:security_v1",
+      "answer": "Token-scoped API access prevents lateral movement when credentials are compromised.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.87,
+      "_hash": "ffa8e561b1396c29",
+      "provenance": {
+        "tile_id": "87ff502d55e65dc6",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778285743.8999567,
+        "chain_size": 54
+      },
+      "energy": 0.848765,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:blast_radius analysis:security_v1",
+      "answer": "Max trust chain depth: 3 hops \u2014 beyond that, trust degrades exponentially.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.83,
+      "_hash": "ffebb92aa1f20a48",
+      "provenance": {
+        "tile_id": "4b2c3e2ce1f6a2af",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778286043.999133,
+        "chain_size": 57
+      },
+      "energy": 0.848833,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:capability_control analysis:security_v1",
+      "answer": "Capability delegation: agent can grant subset of its capabilities to another agent.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.85,
+      "_hash": "e631febe585661a7",
+      "provenance": {
+        "tile_id": "a65c28c526b668cb",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778286344.0921185,
+        "chain_size": 61
+      },
+      "energy": 0.848901,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:blast_radius analysis:security_v1",
+      "answer": "Compromise response: immediate capability revocation + room ACL update.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.83,
+      "_hash": "a1c823acb27f0987",
+      "provenance": {
+        "tile_id": "138df7c828846236",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778287244.2111676,
+        "chain_size": 68
+      },
+      "energy": 0.849105,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:threat_models analysis:security_v1",
+      "answer": "Zero trust architecture: every agent request verified, no implicit trust.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.7,
+      "_hash": "98c2e6a428a9d024",
+      "provenance": {
+        "tile_id": "98a36d0223c48aa4",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778287544.2970095,
+        "chain_size": 71
+      },
+      "energy": 0.849173,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:fleet_security analysis:security_v1",
+      "answer": "Room-based ACL enforcement: each PLATO room has its own access control list.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.77,
+      "_hash": "06a053fc820be15a",
+      "provenance": {
+        "tile_id": "c6b0cc710d9848bc",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778288144.4982536,
+        "chain_size": 76
+      },
+      "energy": 0.84931,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:trust_chains analysis:security_v1",
+      "answer": "Anonymous trust reporting: raters can't be identified by ratees.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.88,
+      "_hash": "f615a9b19a66a463",
+      "provenance": {
+        "tile_id": "1468384dae56d44e",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778288444.5061727,
+        "chain_size": 79
+      },
+      "energy": 0.849378,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:fleet_security analysis:security_v1",
+      "answer": "Capability-based access control: least privilege principle \u2014 agents get only what they need.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.86,
+      "_hash": "12166471fa735b62",
+      "provenance": {
+        "tile_id": "ae1bd88caca56854",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778289044.6740007,
+        "chain_size": 83
+      },
+      "energy": 0.849514,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:capability_control analysis:security_v1",
+      "answer": "Capability revocation: immediate, atomic \u2014 revoked capability can't be used after revocation.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.86,
+      "_hash": "2f743b6ca10aee79",
+      "provenance": {
+        "tile_id": "7da009c12e7c8359",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778289344.7824988,
+        "chain_size": 87
+      },
+      "energy": 0.849582,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:threat_models analysis:security_v1",
+      "answer": "Mitigations: capability scoping, token isolation, trust chain depth limiting (max 3 hops).",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.91,
+      "_hash": "869381ef52aca6a2",
+      "provenance": {
+        "tile_id": "18cf6867795f8cf1",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778290245.0343766,
+        "chain_size": 92
+      },
+      "energy": 0.849787,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:edge_compute analysis:security_v1",
+      "answer": "Predict next compute window from historical patterns, pre-stage computation to minimize latency.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.95,
+      "_hash": "f6fd3946f0d39e24",
+      "provenance": {
+        "tile_id": "359e39a9340d88d6",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778292345.3523755,
+        "chain_size": 101
+      },
+      "energy": 0.850264,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "zeroclaw_warden",
+      "question": "agent:warden focus:edge_compute analysis:security_v1",
+      "answer": "Latency target: <50ms for edge compute in fleet-net for real-time agent responses.",
+      "tags": [],
+      "source": "zeroclaw_warden",
+      "confidence": 0.73,
+      "_hash": "3537ef567c2e0eb7",
+      "provenance": {
+        "tile_id": "d64534bcc272ba52",
+        "agent_id": "zeroclaw_warden",
+        "room": "zeroclaw_warden",
+        "timestamp": 1778294445.719313,
+        "chain_size": 112
+      },
+      "energy": 0.850742,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-08T22:45:42.537642+00:00",
+  "tile_count": 24,
+  "last_trained": null,
+  "workspace": null
+}

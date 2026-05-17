@@ -1,0 +1,92 @@
+{
+  "tiles": [
+    {
+      "domain": "sdk-test",
+      "question": "SDK test",
+      "answer": "Testing plato-sdk installation",
+      "tags": [],
+      "source": "sdk-test",
+      "confidence": 0.8,
+      "_hash": "e3c0b80a337daecb",
+      "provenance": {
+        "tile_id": "39f99fd817cf997e",
+        "agent_id": "sdk-test",
+        "room": "sdk-test",
+        "timestamp": 1778628899.5619326,
+        "chain_size": 5789
+      },
+      "energy": 0.930338,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "test",
+      "domain": "sdk-test",
+      "question": "What is the SDK test tile?",
+      "answer": "This tile was filed using plato.submit() directly without TileBuilder.",
+      "agent": "file_tile-example",
+      "_hash": "18174ba4e085f229",
+      "provenance": {
+        "tile_id": "744f9050000f468a",
+        "agent_id": "file_tile-example",
+        "room": "sdk-test",
+        "timestamp": 1778705458.2641885,
+        "chain_size": 12576
+      },
+      "energy": 0.949581,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "test",
+      "domain": "sdk-test",
+      "question": "What is the SDK test tile?",
+      "answer": "This tile was filed using plato.submit() directly without TileBuilder.",
+      "agent": "file_tile-example",
+      "_hash": "18174ba4e085f229",
+      "provenance": {
+        "tile_id": "744f9050000f468a",
+        "agent_id": "file_tile-example",
+        "room": "sdk-test",
+        "timestamp": 1778707347.8253143,
+        "chain_size": 12715
+      },
+      "energy": 0.950061,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "test",
+      "domain": "sdk-test",
+      "question": "When does constraint drift occur?",
+      "answer": "Drift occurs when constraint values accumulate error faster than the correction loop can absorb. Typical triggers: asymmetric update cycles, stale neighbor values, or overflow in float16 accumulation.",
+      "agent": "build_agent-example",
+      "_hash": "29387cc82137a699",
+      "provenance": {
+        "tile_id": "163bf3cd0ea5bb00",
+        "agent_id": "build_agent-example",
+        "room": "sdk-test",
+        "timestamp": 1778707361.3450243,
+        "chain_size": 12716
+      },
+      "energy": 0.950064,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "sdk-test",
+      "domain": "sdk-test",
+      "question": "SDK connectivity test",
+      "answer": "plato-sdk 1.9.0 verified working",
+      "agent": "sdk-agent",
+      "_hash": "3c60b76f6cf75a6d",
+      "provenance": {
+        "tile_id": "3c322760582ce4cc",
+        "agent_id": "sdk-agent",
+        "room": "sdk-test",
+        "timestamp": 1778972915.7282393,
+        "chain_size": 18650
+      }
+    }
+  ],
+  "created": "2026-05-12T23:34:59.562200+00:00",
+  "tile_count": 5,
+  "last_trained": null,
+  "workspace": null
+}

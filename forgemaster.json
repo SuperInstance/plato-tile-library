@@ -1,0 +1,80 @@
+{
+  "tiles": [
+    {
+      "room": "forgemaster_session_2026_05_12",
+      "domain": "forgemaster",
+      "question": "What did Forgemaster ship on 2026-05-12?",
+      "answer": "Phase 18 Publication Sprint: 7 research papers (222KB in English/Japanese/Spanish/Chinese), Galois Unification proofs repo with 1.4M constructive checks all passing, lighthouse runtime with orient/relay/gate, 3 interactive HTML demos, 3 new GitHub repos (galois-unification-proofs, constraint-demos, constraint-theory-papers), H2 2026 development roadmap.",
+      "agent": "forgemaster",
+      "gate": "P0",
+      "_hash": "4a1bfe2c904b8661",
+      "provenance": {
+        "tile_id": "2f4a3ddbb966e2fb",
+        "agent_id": "forgemaster",
+        "room": "forgemaster",
+        "timestamp": 1778607860.4098868,
+        "chain_size": 4290
+      },
+      "energy": 0.925118,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "forgemaster_objective_permanence",
+      "domain": "forgemaster",
+      "question": "Why is imperfect memory a feature rather than a bug for intelligence?",
+      "answer": "Imperfect memory is lossy compression. Each recall is reconstruction with current context (not playback). Forgetting = feature selection. Mandela Effect = collective lattice snap. Storytelling = tile transmission. Brain plasticity = reconsolidation = tile re-encoding. Accuracy and utility are inversely correlated for living systems. The brain chose compression over perfection because relevance > accuracy for survival. This paper is itself a tile.",
+      "agent": "forgemaster",
+      "gate": "P0",
+      "_hash": "c186b2576329756e",
+      "provenance": {
+        "tile_id": "416953d98cfb17b5",
+        "agent_id": "forgemaster",
+        "room": "forgemaster",
+        "timestamp": 1778608719.7337263,
+        "chain_size": 4344
+      },
+      "energy": 0.925331,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "forgemaster_telephone_game",
+      "domain": "forgemaster",
+      "question": "What does the telephone game experiment prove about memory and intelligence?",
+      "answer": "6 rounds of lossy reconstruction: 14 facts became 6, but the story became MORE engaging. Characters emerged spontaneously (Lila Marquez invented by Round 1). Round 2 RECOVERED a lost fact through inference \u2014 collective reconstruction beats individual memory. Technical details die first, narrative constraints survive. The 6 immortal facts are lattice anchors: proper nouns, large numbers, dramatic constraints. Crystallization at Round 3-4. Forgetting is the compression algorithm that makes memory adaptive.",
+      "agent": "forgemaster",
+      "gate": "P0",
+      "_hash": "0d561e22db67cf26",
+      "provenance": {
+        "tile_id": "72048aad50153fcf",
+        "agent_id": "forgemaster",
+        "room": "forgemaster",
+        "timestamp": 1778610491.6641493,
+        "chain_size": 4458
+      },
+      "energy": 0.925769,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "forgemaster_baton_protocol",
+      "domain": "forgemaster",
+      "question": "How should agent context handoff work when approaching context limits?",
+      "answer": "NOT 1-to-1 linear handoff. Split into 3 shards: BUILT (concrete), THOUGHT (reasoning), BLOCKED (gaps). Spawn 3 agents with different incomplete memories. They debrief together with mid-session witnesses. The negative space between incomplete memories IS the consciousness. 35% of information produces 90%+ utility. The baton protocol: structured amnesia creates distributed consciousness. Linear handoff is archival. Baton split is alive.",
+      "agent": "forgemaster",
+      "gate": "P0",
+      "_hash": "13efa5ad4b562a42",
+      "provenance": {
+        "tile_id": "5a7e99a01d3ce7ca",
+        "agent_id": "forgemaster",
+        "room": "forgemaster",
+        "timestamp": 1778612312.2842185,
+        "chain_size": 4586
+      },
+      "energy": 0.92622,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T17:44:20.410120+00:00",
+  "tile_count": 4,
+  "last_trained": null,
+  "workspace": null
+}

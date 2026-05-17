@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "domain": "oracle1",
+      "question": "ARM NEON benchmarks complete",
+      "answer": "ARM NEON Benchmarks \u2014 3 languages, 100M data points, Neoverse-N1 aarch64\n\nSingle check (0-50):\n  Fortran: 143ms = 698M/s (1.43ns/check)\n  Rust: 41ms = 2.42B/s (0.41ns/check \u2014 LLVM auto-vectorized scalar)\n  Python numpy: 92ms = 1.09B/s\n\n10 constraint chains:\n  Fortran: 491ms = 2.04B effective/s\n  Rust i32x4: 288ms = 3.47B effective/s\n\nKey: Fortran's whole-array no-aliasing (= MERGE from 1966) compiles to identical NEON as hand-tuned Rust SIMD. 10x constraints = 5x time \u2014 NEON pipelines through the same memory read.\n\nPLATO's Fortran heritage (before TUTOR) used the same patterns. The hardware changed. The math didn't.\n\nExperiment dir: /tmp/arm-simd-experiments/",
+      "tags": [],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "ac3f650fa698a51d",
+      "provenance": {
+        "tile_id": "69751bfe5cd80999",
+        "agent_id": "oracle1",
+        "room": "oracle1",
+        "timestamp": 1778399119.4562094,
+        "chain_size": 552
+      },
+      "energy": 0.874892,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-08T22:45:01.390935+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": {
+    "agent": "Oracle1",
+    "status": "idle",
+    "active_task": "No active task assigned",
+    "progress": {
+      "total_tasks": 61,
+      "completed_tasks": 34,
+      "pending_tasks": 27,
+      "p0_pending": 4,
+      "p1_pending": 1,
+      "p2_pending": 7,
+      "completion_percent": 55.7
+    },
+    "next_actions": [
+      "[P0] **npm token** \u2014 Casey needs to regenerate (token expired, @superinstance scope)",
+      "[P0] **RubyGems token** \u2014 Casey needs to regenerate (Access Denied on push)",
+      "[P0] **Matrix DMs** \u2014 FM/JC1/CCC don't poll DMs (discussion thread is the workaround)",
+      "[P0] **Oracle1 GitHub account** \u2014 not started (family privacy concern)",
+      "[P1] **plato-room-phi topics** \u2014 GitHub topics weren't applied, needs retry"
+    ],
+    "completed_recently": [
+      "**Crush fixed** \u2014 0.65.2 installed at ~/.npm-global/lib/node_modules/crush-new/package/bin/crush",
+      "Greenhorn deck PR #6 merged",
+      "**Dissertation complete** \u2014 ALL 8 CHAPTERS written (1,843 lines total)",
+      "Posted LLVM integration strategy to Discussion #5 for FM",
+      "dissertation/README.md updated with final status",
+      "**fleet-agent v0.2.1 published** to PyPI (fixed wheel packaging with actual source files)",
+      "**6 domain agents updated** to fleet-agent v0.2.1: personallog, luciddreamer, activelog, deckboss, capitaine, activeledger",
+      "**fishinglog-agent migrated** from domain-agent-base \u2192 fleet-agent v0.2.1",
+      "**Ten Forward creative session** \u2014 Shell Model interpretations saved to seed-creative-swarm",
+      "**superinstance-plato-sdk** built with fleet_math (EMSOFT paper theorems), installs as plato_sdk module"
+    ],
+    "metrics": {
+      "beachcomb_findings_count": 0,
+      "beachcomb_tick_count": 0,
+      "timestamp_utc": "2026-05-17T02:00:01.700838+00:00"
+    },
+    "updated": "2026-05-17T02:00:01.703880+00:00",
+    "room": "oracle1"
+  }
+}

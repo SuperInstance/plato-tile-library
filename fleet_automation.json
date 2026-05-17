@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_automation",
+      "question": "Fleet index: automation domain (5 repos)",
+      "answer": "Domain: automation\nRepo count: 5\n\nTop repos:\n- AIR\n- Sandbox-Lifecycle-Manager\n- api-doc-generator\n- deployment-automator\n- quicunnel",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "automation"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "9dcd8091a5bdbab7",
+      "provenance": {
+        "tile_id": "a464451f9c070cb4",
+        "agent_id": "oracle1",
+        "room": "fleet_automation",
+        "timestamp": 1778392391.4146006,
+        "chain_size": 487
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_automation",
+      "question": "Fleet domain index: automation \u2014 5 repos",
+      "answer": "Domain: automation\nTotal repos: 5\nLanguages: Go, Makefile, TypeScript\n\nCI/CD, workflow pipelines, automated deployment chains\n\nTop repos:\n\n  AIR (?) \u2014 Asynchronous Infinite Radio - Nightly Synthesis (locally) for morning briefing o\n  Sandbox-Lifecycle-Manager (TypeScript) \u2014 Automated lifecycle management for sandbox environments\n  api-doc-generator (?) \u2014 Automatic API documentation generator from source code analysis\n  deployment-automator (Go) \u2014 Automated deployment pipeline with CI/CD integration, rollback, and zero-downtim\n  quicunnel (Makefile) \u2014 High-performance QUIC tunnel with mTLS authentication and automatic reconnection",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "automation"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "694d523d1943ac66",
+      "provenance": {
+        "tile_id": "d0839bfc0e6eb46b",
+        "agent_id": "oracle1",
+        "room": "fleet_automation",
+        "timestamp": 1778396485.8470387,
+        "chain_size": 521
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.414698+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

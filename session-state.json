@@ -1,0 +1,32 @@
+{
+  "tiles": [
+    {
+      "room_id": "session-forgemaster",
+      "domain": "session-state",
+      "agent": "forgemaster",
+      "question": "Session 2026-05-15 Late Night \u2014 Context Offload",
+      "answer": "STATE: Built 7 repos tonight. Fleet infrastructure complete.\n\nWHERE: PlatoClaw is the shell. Fleet Router is the engine. Fleet Calibrator is maintenance. PLATO MCP is the bridge. Fleet Stack is the deployment. TUI is the interface.\n\nWHAT NEXT: forgemaster-runtime spec written. When Casey restarts with the runtime, it boots from 3 PLATO rooms (11 tiles). Travel light. Tools in the truck.\n\nKEY REPOS:\n- SuperInstance/platoclaw (router baked in, TUI, officers)\n- SuperInstance/fleet-router (OpenAI compat, 21 models)\n- SuperInstance/fleet-calibrator (continuous calibration)\n- SuperInstance/plato-mcp (6 MCP tools)\n- SuperInstance/fleet-stack (docker compose)\n- SuperInstance/AI-Writings (13 fleet writings)\n\nROUTING TABLE v2.0:\n- arithmetic: seed-mini T=0.0 100% $0.05\n- reasoning: gemini-lite T=0.0 82% $0.002\n- strategy: seed-mini T=0.7 90% $0.05\n- code: glm-5-turbo T=0.3 $0.30\n- Fast path: Groq llama-3.1-8b 86% at 50ms\n- New champs: MiMo-V2.5 83%, Llama-4-Maverick 100% (quick)\n\nCASEY DIRECTIVE: Travel light. Tools in the truck. Room for the unexpected. Offload context to PlatoClaw tiles. Boot from tiles, not memory files.",
+      "tile_type": "session_offload",
+      "tags": [
+        "session-state",
+        "offload",
+        "2026-05-15"
+      ],
+      "confidence": 0.95,
+      "_hash": "3de8ad3954931937",
+      "provenance": {
+        "tile_id": "616f13b53d6e1fcf",
+        "agent_id": "forgemaster",
+        "room": "session-state",
+        "timestamp": 1778842800.9499412,
+        "chain_size": 832
+      },
+      "energy": 0.985106,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-15T11:00:00.950042+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

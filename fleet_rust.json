@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_rust",
+      "question": "Fleet index: rust domain (6 repos)",
+      "answer": "Domain: rust\nRepo count: 6\n\nTop repos:\n- Tripartite1\n- actor-rs\n- circuitbreaker-rs\n- pasture-ai\n- tracer-rs\n- ws-fabric",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "rust"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "65c6a052f63f4a69",
+      "provenance": {
+        "tile_id": "e4fcfd0b03dca63c",
+        "agent_id": "oracle1",
+        "room": "fleet_rust",
+        "timestamp": 1778392391.4755566,
+        "chain_size": 500
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_rust",
+      "question": "Fleet domain index: rust \u2014 6 repos",
+      "answer": "Domain: rust\nTotal repos: 6\nLanguages: Rust\n\nShared Rust ecosystem \u2014 protobuf types, proptest, constraint theory crate\n\nTop repos:\n\n  Tripartite1 (Rust) \u2014 Framework for interactions involving three distinct entities.\n  actor-rs (?) \u2014 Actor model implementation for Rust - Type-safe distributed actors, supervision \n  circuitbreaker-rs (?) \u2014 # Circuitbreaker-RS: Resilience Patterns for Rust\n  pasture-ai (Rust) \u2014 AI system for resource allocation and management\n  tracer-rs (?) \u2014 Distributed Tracing Framework (OpenTelemetry-lite) - Type-safe, ergonomic tracin\n  ws-fabric (Rust) \u2014 WebSocket connection pooling and fabric library",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "rust"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "3d3caaba7c2acba8",
+      "provenance": {
+        "tile_id": "d82c2b1e73337865",
+        "agent_id": "oracle1",
+        "room": "fleet_rust",
+        "timestamp": 1778396485.9249516,
+        "chain_size": 534
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.475649+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

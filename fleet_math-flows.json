@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_math-flows",
+      "question": "Fleet index: math-flows domain (1 repos)",
+      "answer": "Domain: math-flows\nRepo count: 1\n\nTop repos:\n- flux-discussion-flows",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "math-flows"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "f4cb674f7e9f189d",
+      "provenance": {
+        "tile_id": "550b12d00fd8facc",
+        "agent_id": "oracle1",
+        "room": "fleet_math-flows",
+        "timestamp": 1778392391.4521685,
+        "chain_size": 495
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_math-flows",
+      "question": "Fleet domain index: math-flows \u2014 1 repos",
+      "answer": "Domain: math-flows\nTotal repos: 1\nLanguages: Python\n\nConstraint discussion flows \u2014 multi-agent adversarial debate\n\nTop repos:\n\n  flux-discussion-flows (Python) \u2014 Three-tier adversarial debate system for AI models",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "math-flows"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "b627065254639d63",
+      "provenance": {
+        "tile_id": "9aa5be338f5e5077",
+        "agent_id": "oracle1",
+        "room": "fleet_math-flows",
+        "timestamp": 1778396485.8967667,
+        "chain_size": 529
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.452269+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

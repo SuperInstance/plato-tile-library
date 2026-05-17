@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_agent",
+      "question": "Fleet index: agent domain (28 repos)",
+      "answer": "Domain: agent\nRepo count: 28\n\nTop repos:\n- Equipment-Consensus-Engine-PHP\n- Equipment-Consensus-Engine-Ruby\n- Equipment-Swarm-Coordinator-Ruby\n- activeledger-agent\n- activelog-agent\n- businesslog-agent\n- dmlog-agent\n- domain-agent-base\n- fishinglog-agent\n- fleet-agent\n- fleet-agent-core\n- fleet-vessel\n- forgemaster-shell\n- git-agent-flux-pipeline\n- luciddreamer-agent\n- makerlog-agent\n- personallog-agent\n- playerlog-agent\n- purplepincher\n- purplepincher-shell-library\n- python-agent-shell\n- reallog-agent\n- smart-agent-shell\n- studylog-agent\n- tripartite-room\n- vessel-prototype\n- zeroclaw-agent\n- zeroclaw-plato",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "agent"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "61bc5e0fb51920ed",
+      "provenance": {
+        "tile_id": "6076e97b5131f43a",
+        "agent_id": "oracle1",
+        "room": "fleet_agent",
+        "timestamp": 1778392391.4099126,
+        "chain_size": 486
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_agent",
+      "question": "Fleet domain index: agent \u2014 28 repos",
+      "answer": "Domain: agent\nTotal repos: 28\nLanguages: HTML, PHP, Python, Ruby, Rust\n\nAutonomous bot frameworks \u2014 domain agents, fleet agents, shells, scouts, and coordinators\n\nTop repos:\n\n  Equipment-Swarm-Coordinator-Ruby (Ruby) \u2014 Ruby gem of Equipment-Swarm-Coordinator - Agent orchestration with asymmetric kn\n  Equipment-Consensus-Engine-PHP (PHP) \u2014 PHP port of Equipment-Consensus-Engine - Multi-agent deliberation with Pathos/Lo\n  Equipment-Consensus-Engine-Ruby (Ruby) \u2014 Specification only \u2014 not yet implemented. Planned Ruby gem for multi-agent delib\n  activeledger-agent (Python) \u2014 activeledger domain agent for PLATO fleet\n  activelog-agent (Python) \u2014 Vision/Fitness Turbo-Shell for cocapn domain\n  businesslog-agent (Python) \u2014 businesslog domain agent for PLATO fleet\n  dmlog-agent (Python) \u2014 AI dungeon master tools for D&D and tabletop RPG campaigns. Track NPCs, factions\n  domain-agent-base (Python) \u2014 Shared base class for all Cocapn fleet domain agents \u2014 PLATO integration, tile s\n  fishinglog-agent (Python) \u2014 AI-powered commercial fishing intelligence. Track catches, weather, tides, and m\n  fleet-agent (Python) \u2014 \n  forgemaster-shell (?) \u2014 \u2692\ufe0f OpenClaw Power Armor \u2014 Don the Forgemaster Shell and become a relentless exec\n  git-agent-flux-pipeline (?) \u2014 Pipeline connecting git-agent repo analysis to FLUX bytecode compilation and exe\n  luciddreamer-agent (Python) \u2014 AI creative exploration through lucid dreaming themed rooms. Generate poetry, fi\n  makerlog-agent (Python) \u2014 AI-powered maker logging for project tracking and build streaks. Log commits, de\n  personallog-agent (Python) \u2014 personallog domain agent for PLATO fleet\n  ... and 13 more",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "agent"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "cc06bdebad4f0bb9",
+      "provenance": {
+        "tile_id": "64284e54585c988f",
+        "agent_id": "oracle1",
+        "room": "fleet_agent",
+        "timestamp": 1778396485.841242,
+        "chain_size": 520
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.410091+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

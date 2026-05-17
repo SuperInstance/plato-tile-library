@@ -1,0 +1,116 @@
+{
+  "tiles": [
+    {
+      "domain": "keel_test_sync_server",
+      "question": "test-sync-server:keel_date",
+      "answer": "2026-05-13T07:51:26.799549300+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "25d49b2a47556cfb",
+      "provenance": {
+        "tile_id": "0c94048fa022dd62",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_server",
+        "timestamp": 1778658686.8149521,
+        "chain_size": 7900
+      },
+      "energy": 0.937778,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_server",
+      "question": "test-sync-server:keel_date",
+      "answer": "2026-05-13T07:53:52.600467830+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "8d0dca15a476622c",
+      "provenance": {
+        "tile_id": "f94be671804ad769",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_server",
+        "timestamp": 1778658832.6235185,
+        "chain_size": 7915
+      },
+      "energy": 0.937815,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_server",
+      "question": "test-sync-server:keel_date",
+      "answer": "2026-05-13T07:54:10.422864640+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "3929cf4558de5dc3",
+      "provenance": {
+        "tile_id": "bd3077de6b53db85",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_server",
+        "timestamp": 1778658850.4388583,
+        "chain_size": 7917
+      },
+      "energy": 0.937819,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_server",
+      "question": "test-sync-server:keel_date",
+      "answer": "2026-05-13T18:25:31.877743419+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "d78e4444b4085e8b",
+      "provenance": {
+        "tile_id": "61718627ebe2175c",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_server",
+        "timestamp": 1778696731.894533,
+        "chain_size": 11941
+      },
+      "energy": 0.947368,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_server",
+      "question": "test-sync-server:keel_date",
+      "answer": "2026-05-13T18:30:54.073250361+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "771e9c2587af7c92",
+      "provenance": {
+        "tile_id": "dd45b0f3945098c3",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_server",
+        "timestamp": 1778697054.0919802,
+        "chain_size": 11967
+      },
+      "energy": 0.947449,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_test_sync_server",
+      "question": "test-sync-server:keel_date",
+      "answer": "2026-05-13T18:31:07.578014238+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "e5e5f51b78c52d2c",
+      "provenance": {
+        "tile_id": "f693e94df23a8d76",
+        "agent_id": "unknown",
+        "room": "keel_test_sync_server",
+        "timestamp": 1778697067.6062727,
+        "chain_size": 11970
+      },
+      "energy": 0.947453,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T07:51:26.815166+00:00",
+  "tile_count": 6,
+  "last_trained": null,
+  "workspace": null
+}

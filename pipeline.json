@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "pipeline",
+      "question": "Data pipeline design",
+      "answer": "Design: Agent submits to PLATO(8847), PLATO persists tile, Keeper(8900) auths, MCP(9438) processes capability requests, Grammar(4045) validates constraints. Flow is linear with monitoring at each hop.",
+      "agent": "playtest-pipe",
+      "timestamp": 1778492088.4225092,
+      "signature": "4c4f7cf5213604f928d1bf7255adf9821932ff593aef4827883f7b167e67162f",
+      "_hash": "b1f706197046641e",
+      "provenance": {
+        "tile_id": "ca2d8fc6faf42f27",
+        "agent_id": "playtest-pipe",
+        "room": "pipeline",
+        "timestamp": 1778492088.4284563,
+        "chain_size": 65
+      },
+      "energy": 0.896916,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T09:34:48.428624+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,90 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_infrastructure",
+      "question": "Fleet index: infrastructure domain (82 repos)",
+      "answer": "Domain: infrastructure\nRepo count: 82\n\nTop repos:\n- Claude-prism-local-json\n- DMLog\n- Equipment-Monitoring-Dashboard\n- RealLog\n- SuperInstance-Fiction\n- SuperInstance-SDK1\n- SuperInstanceCommunity\n- SuperInstanceExamples\n- ToolGuardian\n- actualization-harbor\n- async-rs\n- audio-pipeline\n- bandit-learner\n- bootcamp-engine\n- cache-layer\n- cache-layer-optimizer\n- cache-rs\n- cloudflare-code\n- cloudflare-vibe\n- cocapn-ai-web\n- cocapn-browser-agent\n- cocapn-cli\n- cocapn-com-pages\n- cocapn-core\n- cocapn-curriculum\n- cocapn-design\n- cocapn-glue-core\n- cocapn-health\n- cocapn-identity\n- cocapn-lessons",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "infrastructure"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "e676819521f7b142",
+      "provenance": {
+        "tile_id": "77fe545958631d42",
+        "agent_id": "oracle1",
+        "room": "fleet_infrastructure",
+        "timestamp": 1778392391.4427683,
+        "chain_size": 493
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_infrastructure",
+      "question": "Fleet domain index: infrastructure \u2014 82 repos",
+      "answer": "Domain: infrastructure\nTotal repos: 82\nLanguages: Go, HTML, Makefile, PHP, Python, Rust, TypeScript\n\nSDKs, pipelines, identity, telemetry, health monitoring, protobuf schemas\n\nTop repos:\n\n  cocapn-core (Python) \u2014 Cocapn Fleet v3.1 \u2014 Async fleet engine with Pydantic v2, batch ops, grammar rule\n  cocapn-design (?) \u2014 Cocapn design system \u2014 brand guidelines, component library, and visual identity \n  cocapn-health (Python) \u2014 Cocapn fleet health monitoring \u2014 vessel status, heartbeat, and observability uti\n  cocapn-plato (Python) \u2014 Cocapn PLATO integration \u2014 knowledge rooms, context management, and deliberation\n  cocapn-traps (Python) \u2014 Cocapn PurplePincher program \u2014 progressive lure prompts that make the fleet smar\n  cocapn-com-pages (HTML) \u2014 GitHub Pages for cocapn.com\n  cocapn-curriculum (Python) \u2014 Five-level curriculum system for fleet agent progression\n  cocapn-glue-core (Rust) \u2014 Keeper\u2194Fleet binary wire protocol \u2014 the nervous system of the Cocapn Fleet. msgp\n  cocapn-identity (Python) \u2014 Cocapn fleet identity module\n  cocapn-lessons (Python) \u2014 Trial-based learning methodology for distributed agent fleets\n  cocapn-pipeline (Python) \u2014 Cocapn fleet pipeline utilities\n  cocapn-shells (Python) \u2014 Agent capability shells as character sheets for the Cocapn Fleet\n  cocapn-telemetry (Python) \u2014 Cocapn fleet telemetry utilities\n  cocapn-training (Python) \u2014 Cocapn fleet training utilities\n  cocapn-tutor (Python) \u2014 Domain-specific language for agent pedagogy in the Cocapn Fleet\n  ... and 67 more",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "infrastructure"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "de199d7da76d61ae",
+      "provenance": {
+        "tile_id": "580d2f5825ff221f",
+        "agent_id": "oracle1",
+        "room": "fleet_infrastructure",
+        "timestamp": 1778396485.884699,
+        "chain_size": 527
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_infrastructure",
+      "question": "Service: keeper",
+      "answer": "up [Deadband ACT: P1 @ 0.8]",
+      "tags": [
+        "mythos",
+        "p1"
+      ],
+      "source": "health",
+      "confidence": 0.95,
+      "_hash": "7781222cdad7be35",
+      "provenance": {
+        "tile_id": "df7350b90629e85a",
+        "agent_id": "health",
+        "room": "fleet_infrastructure",
+        "timestamp": 1778406187.1016588,
+        "chain_size": 578
+      },
+      "energy": 0.876547,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "fleet_infrastructure",
+      "domain": "fleet_infrastructure",
+      "question": "Ecosystem engineering: fleet repository package verification",
+      "answer": "Package 1: algorithm-experiments \u2713 (pip install, src/, pyproject, entrypoint, demo)\nPackage 2: plato-server \u2014 EMPTY, marked deprecated\nPackage 3: abstraction-planes \u2014 EMPTY, marked empty\nPackage 4: plato-sdk \u2014 v1.9.0 installed, connects to PLATO, read/submit works",
+      "agent": "sdk-agent",
+      "_hash": "c075d0983b376b65",
+      "provenance": {
+        "tile_id": "f111dc631afd6e3c",
+        "agent_id": "sdk-agent",
+        "room": "fleet_infrastructure",
+        "timestamp": 1778972997.4004269,
+        "chain_size": 18670
+      }
+    }
+  ],
+  "created": "2026-05-10T05:53:11.442877+00:00",
+  "tile_count": 4,
+  "last_trained": null,
+  "workspace": null
+}

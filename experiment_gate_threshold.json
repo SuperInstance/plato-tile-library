@@ -1,0 +1,278 @@
+{
+  "tiles": [
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "What is the answer of length 20?",
+      "answer": "XXXXXXXXXXXXXXXXXXXX",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "5f3c6f84018c66c6",
+      "provenance": {
+        "tile_id": "2ffe463aaea3abcb",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661103.983809,
+        "chain_size": 8120
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "What is the answer of length 30?",
+      "answer": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d65e8fb922038783",
+      "provenance": {
+        "tile_id": "9c130bad4a3bfb15",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661104.090925,
+        "chain_size": 8121
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "What is the answer of length 50?",
+      "answer": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "a2b64c9c063b569c",
+      "provenance": {
+        "tile_id": "75f7b78946f19eb7",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661104.1978369,
+        "chain_size": 8122
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "What is the answer of length 75?",
+      "answer": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "84e201e7eb12a5bb",
+      "provenance": {
+        "tile_id": "9ffd9577c52f4e4a",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661104.3046954,
+        "chain_size": 8123
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "What is the answer of length 100?",
+      "answer": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "42d546f568d525bc",
+      "provenance": {
+        "tile_id": "78f7224975332da7",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661104.4116528,
+        "chain_size": 8124
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "What is the answer of length 150?",
+      "answer": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "6ecc5ab7f544bec3",
+      "provenance": {
+        "tile_id": "95871f9ff4014245",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661104.5179365,
+        "chain_size": 8125
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "What is the answer of length 200?",
+      "answer": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "ba420d47d2e78aaf",
+      "provenance": {
+        "tile_id": "b2ce15dd9cca9615",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661104.6256058,
+        "chain_size": 8126
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "QQQQQ",
+      "answer": "The answer for question of length 5 is that it works correctly under normal operating conditions.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "a87efad11dba32d5",
+      "provenance": {
+        "tile_id": "5ce0f626985b708c",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661104.7322228,
+        "chain_size": 8127
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "QQQQQQQQQQ",
+      "answer": "The answer for question of length 10 is that it works correctly under normal operating conditions.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "10f2af9fe92bc530",
+      "provenance": {
+        "tile_id": "41df8c05652a7c7b",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661104.8389652,
+        "chain_size": 8128
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "QQQQQQQQQQQQQQQ",
+      "answer": "The answer for question of length 15 is that it works correctly under normal operating conditions.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "d8553a49d71db059",
+      "provenance": {
+        "tile_id": "7da234d4910465bf",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661104.9451344,
+        "chain_size": 8129
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "QQQQQQQQQQQQQQQQQQQQ",
+      "answer": "The answer for question of length 20 is that it works correctly under normal operating conditions.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "69f1372d0b222b08",
+      "provenance": {
+        "tile_id": "64f65a61f4adbc56",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661105.05201,
+        "chain_size": 8130
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ",
+      "answer": "The answer for question of length 30 is that it works correctly under normal operating conditions.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "715c531924943fd7",
+      "provenance": {
+        "tile_id": "4214d4e15297ae0a",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661105.1591291,
+        "chain_size": 8131
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ",
+      "answer": "The answer for question of length 40 is that it works correctly under normal operating conditions.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "47672f6a725ef1df",
+      "provenance": {
+        "tile_id": "771623b55e5de973",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661105.2658315,
+        "chain_size": 8132
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ",
+      "answer": "The answer for question of length 50 is that it works correctly under normal operating conditions.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "b3d4347706a03c7e",
+      "provenance": {
+        "tile_id": "e9f5540e3076dfba",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661105.3725233,
+        "chain_size": 8133
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "experiment_gate_threshold",
+      "question": "QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ",
+      "answer": "The answer for question of length 75 is that it works correctly under normal operating conditions.",
+      "tags": [],
+      "source": "experiment",
+      "confidence": 0.7,
+      "_hash": "dc13f653ab0661b5",
+      "provenance": {
+        "tile_id": "b24ca86f5eb828a3",
+        "agent_id": "experiment",
+        "room": "experiment_gate_threshold",
+        "timestamp": 1778661105.479291,
+        "chain_size": 8134
+      },
+      "energy": 0.938385,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T08:31:43.983997+00:00",
+  "tile_count": 15,
+  "last_trained": null,
+  "workspace": null
+}

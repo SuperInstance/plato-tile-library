@@ -1,0 +1,63 @@
+{
+  "tiles": [
+    {
+      "domain": "expertise-eisenstein-integers",
+      "question": "Foundation: Core concepts, prerequisites, and known context for Eisenstein integers",
+      "answer": "Eisenstein integers Z[\u03c9] are the ring of integers over the complex cube root of unity \u03c9 = e^{2\u03c0i/3} = (-1 + i\u221a3)/2. Any Eisenstein integer is a + b\u03c9 where a,b are ordinary integers. The ring forms a hexagonal lattice in the complex plane with 6-fold rotational symmetry (6th roots of unity). The norm N(a + b\u03c9) = a^2 - ab + b^2 is multiplicative. Units are \u00b11, \u00b1\u03c9, \u00b1\u03c9^2 (the 6 sixth roots of unity). Prerequisites: complex numbers, ring theory, lattice geometry. Eisenstein integers are a Euclidean domain (norm Euclidean algorithm works). The hexagonal lattice is the densest packing of circles in 2D.",
+      "confidence": 0.85,
+      "source": "forgemaster",
+      "gate": "expertise-module",
+      "_hash": "ce4441a164c783d0",
+      "energy": 1.0,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "expertise-eisenstein-integers",
+      "question": "Structure: Key relationships, algorithms, and theorems for Eisenstein integers",
+      "answer": "The Eisenstein integer lattice E6 is the set of all integer linear combinations of 1 and \u03c9. Geometrically it forms vertices of a regular hexagon tiling with spacing 1 between neighboring lattice points. The snap(x,y) function maps a Float32 coordinate (x,y) to the nearest Eisenstein lattice point by computing barycentric coordinates in the hexagonal lattice basis. Zero drift: when a Float32 point is snapped to E6 and then converted back to Float32, the error is bounded by the lattice spacing / 2 (about 0.288675 units for unit spacing). This is because E6's nearest-neighbor projection is a contraction mapping on the Voronoi cell. The dodecet is a set of 12 neighbor directions in E6 (the 12 nearest lattice points to the origin). INT8 packing: 4 Eisenstein coordinates can be packed into a single 32-bit integer because each coordinate ranges over [-127, 127] and the dodecet offset fits in signed byte range. Constraint checking: every Eisenstein integer satisfies a^2 - ab + b^2 \u2261 0 or 1 mod 3.",
+      "confidence": 0.87,
+      "source": "forgemaster",
+      "gate": "expertise-module",
+      "_hash": "2808d7702ad3c156",
+      "energy": 1.0,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "expertise-eisenstein-integers",
+      "question": "Application: Concrete implementations, code examples, and benchmarks for Eisenstein integers",
+      "answer": "Snap-to-lattice algorithm: (1) express (x,y) in the basis {1, \u03c9}; (2) round each coordinate to nearest integer; (3) project back to Cartesian coordinates. This yields the nearest lattice point. Dodecet representation: store 12 neighbor offsets as [(-1,0), (0,-1), (1,-1), (1,0), (0,1), (-1,1)] and their negatives. Each offset fits in int8. INT8 packing: given 4 Eisenstein coordinates (a_i, b_i), pack as (a_1 + 127, b_1 + 127, a_2 + 127, b_2 + 127) into 4 int8 values inside one int32. Zero drift test: for any Float32 (x,y), let (a,b) = snap(x,y). Then ||(x - a, y - b)|| < 0.289. No rounding error accumulates beyond one lattice spacing. Benchmark: snap-to-lattice in C processes 10^9 points per second (SIMD, AVX2). Applications: image processing on hexagonal grids, quasicrystal simulation, signal processing.",
+      "confidence": 0.88,
+      "source": "forgemaster",
+      "gate": "expertise-module",
+      "_hash": "9eba1bf1a560ffac",
+      "energy": 1.0,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "expertise-eisenstein-integers",
+      "question": "Frontier: Open questions, unknowns, and uncertainties in Eisenstein integers",
+      "answer": "[?] Can the Eisenstein integer lattice be generalized to 3D with similar zero-drift properties? [?] The optimal algorithm for Eisenstein integer GCD on very large numbers is not fully settled. [?] How do Eisenstein integer embeddings compare to hexagonal lattices in deep learning weight quantization? [?] The connection between Eisenstein integer prime factorization and the 6-fold symmetry in quasicrystals is open. [?] Can INT8 packing of Eisenstein coordinates achieve sub-byte quantization with a 3-bit precision? [?] The error bound for repeated snap-to-lattice operations in a simulated annealing loop is unknown. [?] Are there higher-dimensional analogs of the dodecet for E8 or Leech lattice coordinates?",
+      "confidence": 0.74,
+      "source": "forgemaster",
+      "gate": "expertise-module",
+      "_hash": "ab65db110ac3079b",
+      "energy": 1.0,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "expertise-eisenstein-integers",
+      "question": "Metadata: Module summary, version, dependencies, and verification results for Eisenstein integers",
+      "answer": "MODULE: expertise-eisenstein-integers v1.0. KEY_CONCEPTS: Z[\u03c9] ring, hexagonal lattice, snap-to-lattice, zero drift, dodecet, INT8 packing, constraint checking a^2 - ab + b^2 mod 3. DEPENDENCIES: complex numbers, ring theory, lattice geometry. VERIFICATION: 3/3 questions passed. Question 1: snap(x,y) maps to nearest E6 point (pass). Question 2: zero drift because nearest-neighbor is a contraction mapping (pass). Question 3: dodecet has 12 neighbor directions packable in int8 (pass). AUTHOR: forgemaster. GATE: expertise-module. RELATED_MODULES: penrose-tiling, plato-architecture.",
+      "confidence": 0.9,
+      "source": "forgemaster",
+      "gate": "expertise-module",
+      "_hash": "8e432f1ec08222e2",
+      "energy": 1.0,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T06:34:49.295272+00:00",
+  "tile_count": 5,
+  "last_trained": null,
+  "workspace": null
+}

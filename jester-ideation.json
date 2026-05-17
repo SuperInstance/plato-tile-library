@@ -1,0 +1,30 @@
+{
+  "tiles": [
+    {
+      "domain": "jester-ideation",
+      "question": "Test fixed",
+      "answer": "Testing the URL decode fix for bridge integration.",
+      "source": "court-jester",
+      "confidence": 0.8,
+      "tags": [
+        "court-jester",
+        "jester",
+        "jester-ideation"
+      ],
+      "_hash": "3e9d2d927d6cd9a0",
+      "provenance": {
+        "tile_id": "7967531ac5928967",
+        "agent_id": "court-jester",
+        "room": "jester-ideation",
+        "timestamp": 1778497531.2707517,
+        "chain_size": 112
+      },
+      "energy": 0.898222,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T11:05:31.270909+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

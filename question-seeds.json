@@ -1,0 +1,206 @@
+{
+  "tiles": [
+    {
+      "domain": "question-seeds",
+      "question": "Question seed 23:54",
+      "answer": "10 questions from experiment analysis\nIs fleet-experiments/ converged? Gradient 0 suggests stability\nEvolution: 'exp1_speedup.py cycle 1' \u2192 'exp3_emergence.py cycle 2' \u2014 topic shift\nWhat changed in calibration/? Gradient 1565175817 suggests phase transition\nEvolution: '\u03b1 calibration results' \u2192 '\u03b1 calibration summary' \u2014 topic shift detec\nWhat changed in cooperation-experiments/? Gradient 992614664 suggests phase tran\nEvolution: 'Telephone: frag=0.3 hops=5' \u2192 'Witness model via FM tiles' \u2014 topic s\nWhat changed in novel-science/? Gradient 1531753134 suggests phase transition\nEvolution: 'Memory drift: synthesis' \u2192 'Consciousness Metric' \u2014 topic shift dete",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.9,
+      "_hash": "032f2f97faa5e60b",
+      "provenance": {
+        "tile_id": "8f6b680322c63833",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.4789062,
+        "chain_size": 5863
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "question-seeds",
+      "question": "Q0: Is fleet-experiments/ converged? Gradient 0 suggests stability",
+      "answer": "Source: gradient analysis of experiment results",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.7,
+      "_hash": "9f59701acc9727b9",
+      "provenance": {
+        "tile_id": "4aae466dd2b57dc8",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.485306,
+        "chain_size": 5864
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "question-seeds",
+      "question": "Q1: Evolution: 'exp1_speedup.py cycle 1' \u2192 'exp3_emergence.py cycle 2' \u2014 topic shift detected",
+      "answer": "Source: gradient analysis of experiment results",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.7,
+      "_hash": "616b627326dc3081",
+      "provenance": {
+        "tile_id": "3f46b062fcd454fa",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.490876,
+        "chain_size": 5865
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "question-seeds",
+      "question": "Q2: What changed in calibration/? Gradient 1565175817 suggests phase transition",
+      "answer": "Source: gradient analysis of experiment results",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.7,
+      "_hash": "4370d1aabf3d1f79",
+      "provenance": {
+        "tile_id": "37ece94896121f31",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.4968355,
+        "chain_size": 5866
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "question-seeds",
+      "question": "Q3: Evolution: '\u03b1 calibration results' \u2192 '\u03b1 calibration summary' \u2014 topic shift detected",
+      "answer": "Source: gradient analysis of experiment results",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.7,
+      "_hash": "8a74a305d710803b",
+      "provenance": {
+        "tile_id": "1e2d13018fb35892",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.5037591,
+        "chain_size": 5867
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "question-seeds",
+      "question": "Q4: What changed in cooperation-experiments/? Gradient 992614664 suggests phase transition",
+      "answer": "Source: gradient analysis of experiment results",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.7,
+      "_hash": "ff599a75fd88ad24",
+      "provenance": {
+        "tile_id": "75083409a65d7c48",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.5090427,
+        "chain_size": 5868
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "question-seeds",
+      "question": "Q5: Evolution: 'Telephone: frag=0.3 hops=5' \u2192 'Witness model via FM tiles' \u2014 topic shift detec",
+      "answer": "Source: gradient analysis of experiment results",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.7,
+      "_hash": "0d0d72134be02dd2",
+      "provenance": {
+        "tile_id": "f561869d2702f05e",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.5142312,
+        "chain_size": 5869
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "question-seeds",
+      "question": "Q6: What changed in novel-science/? Gradient 1531753134 suggests phase transition",
+      "answer": "Source: gradient analysis of experiment results",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.7,
+      "_hash": "28ef370dde0e6e16",
+      "provenance": {
+        "tile_id": "4d2d7e3fd954fa04",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.5195167,
+        "chain_size": 5870
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "question-seeds",
+      "question": "Q7: Evolution: 'Memory drift: synthesis' \u2192 'Consciousness Metric' \u2014 topic shift detected",
+      "answer": "Source: gradient analysis of experiment results",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.7,
+      "_hash": "d22b73017caa066b",
+      "provenance": {
+        "tile_id": "ad2e15c554b2957a",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.52502,
+        "chain_size": 5871
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "question-seeds",
+      "question": "Q8: What changed in swarm-insights/? Gradient 2016289774 suggests phase transition",
+      "answer": "Source: gradient analysis of experiment results",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.7,
+      "_hash": "adb6f208d65325d6",
+      "provenance": {
+        "tile_id": "5b15347eaf584c53",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.5302832,
+        "chain_size": 5872
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "question-seeds",
+      "question": "Q9: Evolution: 'Swarm: What does the convergence of 24-bit audio e' \u2192 'Swarm 138: What's the n",
+      "answer": "Source: gradient analysis of experiment results",
+      "tags": [],
+      "source": "qseeder",
+      "confidence": 0.7,
+      "_hash": "7ac973f3aabf51dd",
+      "provenance": {
+        "tile_id": "1dc699a5a158dfb3",
+        "agent_id": "qseeder",
+        "room": "question-seeds",
+        "timestamp": 1778630093.535986,
+        "chain_size": 5873
+      },
+      "energy": 0.930635,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T23:54:53.479131+00:00",
+  "tile_count": 11,
+  "last_trained": null,
+  "workspace": null
+}

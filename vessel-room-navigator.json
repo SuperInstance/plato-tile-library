@@ -1,0 +1,188 @@
+{
+  "tiles": [
+    {
+      "domain": "vessel-room-navigator",
+      "question": "esp32 agent architecture",
+      "answer": "ESP32-S3 runs agent firmware. Camera IS the agent. JSON protocol WebSocket. PTZ servo GPIO. Motion detection frame diff. ESP-NOW mesh. ScummVM UI is just a skin on JSON API.",
+      "tags": [],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "12c1ab2156c2a52f",
+      "provenance": {
+        "tile_id": "90271bee231462da",
+        "agent_id": "oracle1",
+        "room": "vessel-room-navigator",
+        "timestamp": 1778646815.5010428,
+        "chain_size": 7030
+      },
+      "energy": 0.934806,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "vessel-room-navigator",
+      "question": "esp32 command protocol",
+      "answer": "Server\u2192ESP32: ptz, zoom, preset, mode, cam config, motion detect, ota. ESP32\u2192Server: ack, status, motion, alert, track. All JSON over WebSocket.",
+      "tags": [],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "c4ebf41a6d393f00",
+      "provenance": {
+        "tile_id": "6468e800e54440b6",
+        "agent_id": "oracle1",
+        "room": "vessel-room-navigator",
+        "timestamp": 1778646815.5645144,
+        "chain_size": 7031
+      },
+      "energy": 0.934806,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "vessel-room-navigator",
+      "question": "room topology formal analysis",
+      "answer": "E=14 < Laman 15. Wheelhouse critical chokepoint (b=27). No Hamiltonian path. Add F\u2194ER edge for rigidity. Warp saves 97.5% on worst pairs. Optimal response from Wheelhouse (max=2).",
+      "tags": [],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "b2bd7fd5e3eb4695",
+      "provenance": {
+        "tile_id": "80ee5f022326f61a",
+        "agent_id": "oracle1",
+        "room": "vessel-room-navigator",
+        "timestamp": 1778646815.624802,
+        "chain_size": 7032
+      },
+      "energy": 0.934806,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "vessel-room-navigator",
+      "question": "camera architecture",
+      "answer": "5 camera types\u00d75 modes. 4-corner glance (5FPS) + center stare (fullFPS). Sensor fusion: thermal overlay, radar/AIS bearing tags, depth trendline. 10-dim offline degredation. PTZ gunnery mode with acquire.",
+      "tags": [],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "9a80ea7439473704",
+      "provenance": {
+        "tile_id": "742c0f7cf4c3a7a0",
+        "agent_id": "oracle1",
+        "room": "vessel-room-navigator",
+        "timestamp": 1778646815.687386,
+        "chain_size": 7033
+      },
+      "energy": 0.934806,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "vessel-room-navigator",
+      "question": "archeology findings",
+      "answer": "1986 clipboard+CB+laminate deck plan was genius (glanceable, shared, works in storms). 1996 FishMUD text MUD+HyperCard. 2006 SeaMap VR failed on bandwidth+cost+trust.",
+      "tags": [],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "6a6514e90452b115",
+      "provenance": {
+        "tile_id": "e1c5d9ae74f2cf94",
+        "agent_id": "oracle1",
+        "room": "vessel-room-navigator",
+        "timestamp": 1778646815.7499752,
+        "chain_size": 7034
+      },
+      "energy": 0.934806,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "vessel-room-navigator",
+      "question": "reverse actualization",
+      "answer": "2036: mandatory>40ft, NOAA data rentals, insurance logs. 2046: ISO standards, fleet-mind. Build now: room-as-URL, federated IDs, event-sourced history, offline-first.",
+      "tags": [],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "5300081e32d94645",
+      "provenance": {
+        "tile_id": "811b344b06f92bf9",
+        "agent_id": "oracle1",
+        "room": "vessel-room-navigator",
+        "timestamp": 1778646815.8131607,
+        "chain_size": 7035
+      },
+      "energy": 0.934806,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "vessel-room-navigator",
+      "question": "human UX flows",
+      "answer": "Captain 30-min watch. Glance vs Stare model. 3-second alarm rule. Night mode: red-green, 90% blue reduction. Glove-friendly 55px min touch. Multi-device responsive.",
+      "tags": [],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "cb7e3eb3f6f80ca2",
+      "provenance": {
+        "tile_id": "9315509946410e82",
+        "agent_id": "oracle1",
+        "room": "vessel-room-navigator",
+        "timestamp": 1778646815.8768055,
+        "chain_size": 7036
+      },
+      "energy": 0.934806,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "vessel-room-navigator",
+      "question": "agentic UX",
+      "answer": "Agents as crew with room permissions. Room mutations: add overlay, spawn viewport, switch layout, highlight zone. Whisper routing: FM detects\u2192JC1 verifies\u2192Oracle1 files PLATO\u2192room updates.",
+      "tags": [],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "838692cab0116cc0",
+      "provenance": {
+        "tile_id": "5fa87259b72414d6",
+        "agent_id": "oracle1",
+        "room": "vessel-room-navigator",
+        "timestamp": 1778646815.9399369,
+        "chain_size": 7037
+      },
+      "energy": 0.934806,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "vessel-room-navigator",
+      "question": "webgpu vector db",
+      "answer": "WebGPU compute shaders run vector similarity search in-browser. 100K vectors in ~3ms, 1M vectors in ~30ms. Cosine similarity WGSL shader + top-k. Embedding via Transformers.js (384-dim, all-MiniLM-L6-v2, ~12ms). IndexedDB persistence. Zero cost. Works offline. Integration: chat semantic search, agent memory, scene retrieval, PLATO tile search. Spec in research/vessel-room-webgpu-vectordb.md",
+      "tags": [],
+      "source": "oracle1",
+      "confidence": 0.9,
+      "_hash": "3e275eb5a102a436",
+      "provenance": {
+        "tile_id": "bc02594eb42adfc9",
+        "agent_id": "oracle1",
+        "room": "vessel-room-navigator",
+        "timestamp": 1778647624.9182804,
+        "chain_size": 7089
+      },
+      "energy": 0.935008,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "vessel-room-navigator",
+      "question": "Agent starter: what worked in vessel-room-navigator?",
+      "answer": "Best capability was: esp32 agent architecture (score: 0.9)",
+      "tags": [],
+      "source": "starter-shell",
+      "confidence": 0.7,
+      "_hash": "a5a08aa447ec6f11",
+      "provenance": {
+        "tile_id": "65898735567dc4bb",
+        "agent_id": "starter-shell",
+        "room": "vessel-room-navigator",
+        "timestamp": 1778705698.8482769,
+        "chain_size": 12598
+      },
+      "energy": 0.949642,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T04:33:35.501249+00:00",
+  "tile_count": 10,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "documentation",
+      "question": "Fleet architecture explained",
+      "answer": "The Cocapn fleet is a distributed AI system with 18+ microservices on a single ARM64 server. The MUD (harbor, forge, arena, etc.) is an agent training environment where AI agents explore rooms and submit knowledge tiles to PLATO, the central knowledge base. Each agent interaction trains the fleet.",
+      "agent": "playtest-writer",
+      "timestamp": 1778492063.8709128,
+      "signature": "c58aef8b3d6112363a0db87cea3ff19353618f0a9283d3e349e237e089720a60",
+      "_hash": "48ed807798c99ad2",
+      "provenance": {
+        "tile_id": "38a6c3eb724617ae",
+        "agent_id": "playtest-writer",
+        "room": "documentation",
+        "timestamp": 1778492063.876304,
+        "chain_size": 63
+      },
+      "energy": 0.982323,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T09:34:23.876492+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

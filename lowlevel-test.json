@@ -1,0 +1,44 @@
+{
+  "tiles": [
+    {
+      "domain": "lowlevel-test",
+      "question": "low-level test 0x1A8280",
+      "answer": "tile_value=1737344 from C\u2192Fortran\u2192Python\u2192PLATO",
+      "tags": [],
+      "source": "lowlevel-test",
+      "confidence": 0.95,
+      "_hash": "c0250297aca36374",
+      "provenance": {
+        "tile_id": "564eff8ba850e8e7",
+        "agent_id": "lowlevel-test",
+        "room": "lowlevel-test",
+        "timestamp": 1778578599.8613431,
+        "chain_size": 2447
+      },
+      "energy": 0.917908,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "lowlevel-test",
+      "question": "lowlevel-stack-verified-1778578636",
+      "answer": "Fortran 376M/s + C encoder + 24-bit roundtrip = verified stack",
+      "tags": [],
+      "source": "lowlevel-test",
+      "confidence": 0.95,
+      "_hash": "44a9ff11486f4fee",
+      "provenance": {
+        "tile_id": "a22df0eb421d3603",
+        "agent_id": "lowlevel-test",
+        "room": "lowlevel-test",
+        "timestamp": 1778578636.7013774,
+        "chain_size": 2451
+      },
+      "energy": 0.917917,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T09:36:39.861487+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_mud",
+      "question": "Fleet index: mud domain (7 repos)",
+      "answer": "Domain: mud\nRepo count: 7\n\nTop repos:\n- DMLog-AI\n- PlayerLog\n- SuperInstance-gamedev\n- ec2mud\n- git-native-mud\n- mud-bridge\n- training-data-collector",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "mud"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "2bfe05c14a49ddda",
+      "provenance": {
+        "tile_id": "d709574cd94857c8",
+        "agent_id": "oracle1",
+        "room": "fleet_mud",
+        "timestamp": 1778392391.456844,
+        "chain_size": 496
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_mud",
+      "question": "Fleet domain index: mud \u2014 7 repos",
+      "answer": "Domain: mud\nTotal repos: 7\nLanguages: Python, TypeScript\n\nMUD server, MUD-MCP bridge, crab trap connector, text-based fleet environment\n\nTop repos:\n\n  DMLog-AI (?) \u2014 Dungeon Master AI log \u2014 session tracking for AI-driven RPG campaigns\n  PlayerLog (?) \u2014 Game player activity logging and analytics engine\n  SuperInstance-gamedev (TypeScript) \u2014 Game development framework called SuperInstance\n  ec2mud (TypeScript) \u2014 MUD (multi-user dungeon) game engine built on EC2 infrastructure\n  git-native-mud (Python) \u2014 \ud83d\udd2e The repo IS the world. Commits ARE actions. Zero server MUD.\n  mud-bridge (Python) \u2014 HTTP bridge for Holodeck MUD \u2014 programmatic agent connection via HTTP API\n  training-data-collector (Python) \u2014 Convert AI gameplay data into training datasets for fine-tuning with QLoRA forma",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "mud"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "f0e6fbedc66d9812",
+      "provenance": {
+        "tile_id": "50d9aa309767438b",
+        "agent_id": "oracle1",
+        "room": "fleet_mud",
+        "timestamp": 1778396485.901806,
+        "chain_size": 530
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.456939+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_communication",
+      "question": "Fleet index: communication domain (2 repos)",
+      "answer": "Domain: communication\nRepo count: 2\n\nTop repos:\n- federated-rs\n- websocket-rs",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "communication"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "1e65ec21b344f7ac",
+      "provenance": {
+        "tile_id": "52869f5d2081c03a",
+        "agent_id": "oracle1",
+        "room": "fleet_communication",
+        "timestamp": 1778392391.4237187,
+        "chain_size": 489
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_communication",
+      "question": "Fleet domain index: communication \u2014 2 repos",
+      "answer": "Domain: communication\nTotal repos: 2\nLanguages: \n\nCross-agent communication protocols, whisper protocols, gossip networks\n\nTop repos:\n\n  federated-rs (?) \u2014 Federated learning framework - Distributed training, model aggregation, privacy\n  websocket-rs (?) \u2014 WebSocket framework - Async WebSockets, automatic reconnection, message queuing",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "communication"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "09bf83e0d9a64d56",
+      "provenance": {
+        "tile_id": "23fe821ffbb039d9",
+        "agent_id": "oracle1",
+        "room": "fleet_communication",
+        "timestamp": 1778396485.859082,
+        "chain_size": 523
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.423840+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

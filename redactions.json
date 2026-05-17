@@ -1,0 +1,152 @@
+{
+  "tiles": [
+    {
+      "domain": "redactions",
+      "question": "[shopkeeper] shop-floor/: NPC script run #1",
+      "answer": "Result: NPC handled: Check inventory levels on shel (sim=0.649, in tolerance)\nGPU: 0.000s | Level: shopkeeper",
+      "tags": [],
+      "source": "redact-shopkeeper",
+      "confidence": 0.9,
+      "_hash": "cf2cb45d5842d474",
+      "provenance": {
+        "tile_id": "271159fb9ee214d3",
+        "agent_id": "redact-shopkeeper",
+        "room": "redactions",
+        "timestamp": 1778643280.0231287,
+        "chain_size": 6781
+      },
+      "energy": 0.933922,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "redactions",
+      "question": "[shopkeeper] shop-floor/: NPC escalation #1",
+      "answer": "Result: Cannot handle: Recalculate trust metric for node 7\nGPU: 0.000s | Level: shopkeeper",
+      "tags": [],
+      "source": "redact-shopkeeper",
+      "confidence": 0.9,
+      "_hash": "cb65e444d34d6de1",
+      "provenance": {
+        "tile_id": "51aaacaa9493695b",
+        "agent_id": "redact-shopkeeper",
+        "room": "redactions",
+        "timestamp": 1778643280.2365036,
+        "chain_size": 6783
+      },
+      "energy": 0.933922,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "redactions",
+      "question": "[shopkeeper] shop-floor/: NPC escalation #3",
+      "answer": "Result: Cannot handle: Anomaly detected in ring buffer latency\nGPU: 0.000s | Level: shopkeeper",
+      "tags": [],
+      "source": "redact-shopkeeper",
+      "confidence": 0.9,
+      "_hash": "7f10cce0942291b9",
+      "provenance": {
+        "tile_id": "026cc94fc3c66c90",
+        "agent_id": "redact-shopkeeper",
+        "room": "redactions",
+        "timestamp": 1778643280.442889,
+        "chain_size": 6784
+      },
+      "energy": 0.933923,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "redactions",
+      "question": "[shopkeeper] shop-floor/: NPC script run #3",
+      "answer": "Result: NPC handled: New tile format needs constrai (sim=0.633, in tolerance)\nGPU: 0.000s | Level: shopkeeper",
+      "tags": [],
+      "source": "redact-shopkeeper",
+      "confidence": 0.9,
+      "_hash": "6d04ccc8d5564b02",
+      "provenance": {
+        "tile_id": "e0f78f386f282349",
+        "agent_id": "redact-shopkeeper",
+        "room": "redactions",
+        "timestamp": 1778643280.6485565,
+        "chain_size": 6785
+      },
+      "energy": 0.933923,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "redactions",
+      "question": "[shopkeeper] shop-floor/: NPC script run #4",
+      "answer": "Result: NPC handled: Full FLUX ISA compilation for  (sim=0.571, in tolerance)\nGPU: 0.000s | Level: shopkeeper",
+      "tags": [],
+      "source": "redact-shopkeeper",
+      "confidence": 0.9,
+      "_hash": "4d8a6eb6a8edc959",
+      "provenance": {
+        "tile_id": "2e1993261892ac7a",
+        "agent_id": "redact-shopkeeper",
+        "room": "redactions",
+        "timestamp": 1778643280.8561373,
+        "chain_size": 6786
+      },
+      "energy": 0.933923,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "redactions",
+      "question": "[shopkeeper] shop-floor/: NPC script run #5",
+      "answer": "Result: NPC handled: Status check on heartbeat serv (sim=0.750, in tolerance)\nGPU: 0.000s | Level: shopkeeper",
+      "tags": [],
+      "source": "redact-shopkeeper",
+      "confidence": 0.9,
+      "_hash": "e9131d44a65f2605",
+      "provenance": {
+        "tile_id": "30d5c3379a0266c2",
+        "agent_id": "redact-shopkeeper",
+        "room": "redactions",
+        "timestamp": 1778643281.0620494,
+        "chain_size": 6787
+      },
+      "energy": 0.933923,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "redactions",
+      "question": "[shopkeeper] shop-floor/: NPC escalation #4",
+      "answer": "Result: Cannot handle: Cross-reference tiles between forge and synthesis\nGPU: 0.000s | Level: shopkeeper",
+      "tags": [],
+      "source": "redact-shopkeeper",
+      "confidence": 0.9,
+      "_hash": "8a00918c51242c0d",
+      "provenance": {
+        "tile_id": "ff700b56c2f93a00",
+        "agent_id": "redact-shopkeeper",
+        "room": "redactions",
+        "timestamp": 1778643281.2691588,
+        "chain_size": 6788
+      },
+      "energy": 0.933923,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "redactions",
+      "question": "[forgemaster] forge-foundry/: Forged #1",
+      "answer": "Result: Task: Cross-reference tiles between forge and synthesis | GPU: 2.55s | Full FLUX pipeline\nGPU: 2.554s | Level: forgemaster",
+      "tags": [],
+      "source": "redact-forgemaster",
+      "confidence": 0.9,
+      "_hash": "07d00fc99ccc132d",
+      "provenance": {
+        "tile_id": "2d8b61cae2699a28",
+        "agent_id": "redact-forgemaster",
+        "room": "redactions",
+        "timestamp": 1778643281.2791722,
+        "chain_size": 6790
+      },
+      "energy": 0.933923,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T03:34:40.023294+00:00",
+  "tile_count": 8,
+  "last_trained": null,
+  "workspace": null
+}

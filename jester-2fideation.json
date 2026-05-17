@@ -1,0 +1,30 @@
+{
+  "tiles": [
+    {
+      "domain": "jester-2fideation",
+      "question": "Test2",
+      "answer": "Another test tile for the PLATO bridge integration.",
+      "source": "court-jester",
+      "confidence": 0.8,
+      "tags": [
+        "court-jester",
+        "jester",
+        "jester-2fideation"
+      ],
+      "_hash": "1c9a1ffc796e79d4",
+      "provenance": {
+        "tile_id": "d30e039783e76f2e",
+        "agent_id": "court-jester",
+        "room": "jester-2fideation",
+        "timestamp": 1778497482.1684027,
+        "chain_size": 111
+      },
+      "energy": 0.89821,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T11:04:42.168551+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

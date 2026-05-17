@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "baton-witnesses",
+      "question": "Witness observes baton handoff",
+      "answer": "I am a witness. I see 4 fragments with different memories.",
+      "tags": [],
+      "source": "baton-witness",
+      "confidence": 0.7,
+      "_hash": "2fe9483766e5cf81",
+      "provenance": {
+        "tile_id": "0170d567bb6b472a",
+        "agent_id": "baton-witness",
+        "room": "baton-witnesses",
+        "timestamp": 1778612250.7335196,
+        "chain_size": 4579
+      },
+      "energy": 0.926205,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T18:57:30.733707+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

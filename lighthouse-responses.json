@@ -1,0 +1,30 @@
+{
+  "tiles": [
+    {
+      "domain": "lighthouse-responses",
+      "question": "PASSAGE-RESPONSE: ",
+      "answer": "The covering radius of the Eisenstein lattice (the hexagonal integer lattice \u2124[\u03c9] where \u03c9 is a primitive third root of unity) is \u221a3/3 (or equivalently 1/\u221a3), the maximum distance from any point in the plane to the nearest lattice point.",
+      "tags": [
+        "passage-response",
+        "deepinfra",
+        "ByteDance/Seed-2.0-mini"
+      ],
+      "source": "lighthouse-fm",
+      "confidence": 0.5,
+      "_hash": "f18a2946dc9c6e7e",
+      "provenance": {
+        "tile_id": "796bec450a9dc484",
+        "agent_id": "lighthouse-fm",
+        "room": "lighthouse-responses",
+        "timestamp": 1778744956.040977,
+        "chain_size": 18300
+      },
+      "energy": 0.959664,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-14T07:49:16.041194+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "casting_call",
+      "question": "2026-05-09 Keel deep build \u2014 model quality snapshot",
+      "answer": "DeepSeek v4-pro: BEST for formal theory, literature synthesis, unified equations. DeepSeek v4-flash: BEST for implementation, coding across 3 languages, fast iteration. Seed-2.0-mini (proxy): BEST for creative breadth, divergent thinking, reverse-actualization. GLM-5.1: coding API works but needs OpenClaw routing fix. Claude Code: interactive only, not autonomous. Summary: v4-flash for implementation, v4-pro for theory, Seed for creativity \u2014 use all three in parallel for maximum coverage.",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.9,
+      "_hash": "b4d03ae9b81d24f4",
+      "provenance": {
+        "tile_id": "1cdd6a0d436c9e21",
+        "agent_id": "unknown",
+        "room": "casting_call",
+        "timestamp": 1778312429.4634132,
+        "chain_size": 191
+      },
+      "energy": 0.854843,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-09T07:40:29.463539+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

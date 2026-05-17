@@ -1,0 +1,332 @@
+{
+  "tiles": [
+    {
+      "domain": "novel-science",
+      "question": "Memory drift: synthesis",
+      "answer": "Topic: Synthesis 1: converged\nVersions: 3\nJaccard: 0.142\nNew words: 57\nLost: 58\nVerdict: DIVERGENT (jaccard=0.14)",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "bf8c030f878ffe01",
+      "provenance": {
+        "tile_id": "36dbce63c0944154",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615973.688467,
+        "chain_size": 4834
+      },
+      "energy": 0.927128,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Cross-room: tension\u2192synthesis",
+      "answer": "Source: 422 tiles\nTarget: 204 tiles\nReferences: 181\nResonance: 0.887",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "02145cb52e870761",
+      "provenance": {
+        "tile_id": "b88f2b8abd73c5db",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615973.7282224,
+        "chain_size": 4835
+      },
+      "energy": 0.927128,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Cross-room: tension\u2192forge",
+      "answer": "Source: 422 tiles\nTarget: 53 tiles\nReferences: 6\nResonance: 0.113",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "0ca14d5937c52ef7",
+      "provenance": {
+        "tile_id": "d5c6b166b086c972",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615973.7559986,
+        "chain_size": 4836
+      },
+      "energy": 0.927128,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Cross-room: agent-oracle1\u2192tension",
+      "answer": "Source: 507 tiles\nTarget: 422 tiles\nReferences: 0\nResonance: 0.000",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "c9de0c3c2750c362",
+      "provenance": {
+        "tile_id": "a32664da918323fa",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615973.8021095,
+        "chain_size": 4837
+      },
+      "energy": 0.927128,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Forgetting curve: agent-oracle1",
+      "answer": "Tiles: 507\nCycles: 507\nFirst conf: 0.850\nLast: 0.850\n\u03c4: inf\nPredicted: 0.850\nVerdict: \u2705 FOLLOWS EBBINGHAUS",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "6c853b8de531fee2",
+      "provenance": {
+        "tile_id": "e529a18d3bd92549",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615993.5497,
+        "chain_size": 4839
+      },
+      "energy": 0.927132,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: tension",
+      "answer": "Tiles: 422\nOptimal B: 20%\nMinimal gradient: 565833035",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "5d28d7c69f21c15d",
+      "provenance": {
+        "tile_id": "a263f2c26b2beaf8",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615993.5757551,
+        "chain_size": 4840
+      },
+      "energy": 0.927133,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: forge",
+      "answer": "Tiles: 53\nOptimal B: 100%\nMinimal gradient: 311181489",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "74f500ec9ad2b708",
+      "provenance": {
+        "tile_id": "ca05fe486c4ddba7",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615993.5848398,
+        "chain_size": 4841
+      },
+      "energy": 0.927133,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: agent-oracle1",
+      "answer": "Tiles: 507\nOptimal B: 100%\nMinimal gradient: 226455011",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "db69531e2798bc01",
+      "provenance": {
+        "tile_id": "b03327d057c4da99",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615993.6104605,
+        "chain_size": 4842
+      },
+      "energy": 0.927133,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: swarm-insights",
+      "answer": "Tiles: 95\nOptimal B: 30%\nMinimal gradient: 636921687",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "29cbc8e6bde12b6e",
+      "provenance": {
+        "tile_id": "37bf7d299f89728f",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615993.622115,
+        "chain_size": 4843
+      },
+      "energy": 0.927133,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: tension",
+      "answer": "Tiles: 422\nOptimal B: 30%\nMinimal gradient: 662591602",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "be298dfebd6ccc76",
+      "provenance": {
+        "tile_id": "2a7f5a64caf9c095",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615998.5739038,
+        "chain_size": 4844
+      },
+      "energy": 0.927134,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: forge",
+      "answer": "Tiles: 53\nOptimal B: 20%\nMinimal gradient: 369601802",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "c3c0fc030f8721da",
+      "provenance": {
+        "tile_id": "43da79c8eaecbc2e",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615998.5831857,
+        "chain_size": 4845
+      },
+      "energy": 0.927134,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: agent-oracle1",
+      "answer": "Tiles: 507\nOptimal B: 100%\nMinimal gradient: 241582551",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "3254d24252882793",
+      "provenance": {
+        "tile_id": "713e3e46b3f0854e",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615998.6095452,
+        "chain_size": 4846
+      },
+      "energy": 0.927134,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: swarm-insights",
+      "answer": "Tiles: 95\nOptimal B: 60%\nMinimal gradient: 656233092",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "dd279f543d8a4b8c",
+      "provenance": {
+        "tile_id": "96896100e38a67cf",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778615998.620883,
+        "chain_size": 4847
+      },
+      "energy": 0.927134,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: tension",
+      "answer": "Tiles: 422\nOptimal B: 20%\nMinimal gradient: 645355357",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "bad1b2db258a53a2",
+      "provenance": {
+        "tile_id": "d427abbaf94283c5",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778616004.7368422,
+        "chain_size": 4848
+      },
+      "energy": 0.927135,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: forge",
+      "answer": "Tiles: 53\nOptimal B: 10%\nMinimal gradient: 344933887",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "501e2e8f890a7cb1",
+      "provenance": {
+        "tile_id": "640eeb52434026d0",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778616004.7466204,
+        "chain_size": 4849
+      },
+      "energy": 0.927135,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: agent-oracle1",
+      "answer": "Tiles: 507\nOptimal B: 100%\nMinimal gradient: 205322987",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "3aef694ed5d91803",
+      "provenance": {
+        "tile_id": "c9dfa0b2855bff6b",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778616004.7737908,
+        "chain_size": 4850
+      },
+      "energy": 0.927135,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Optimal B: swarm-insights",
+      "answer": "Tiles: 95\nOptimal B: 30%\nMinimal gradient: 757616067",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "693cb286426484b5",
+      "provenance": {
+        "tile_id": "ac772f7710d07d03",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778616004.7851977,
+        "chain_size": 4851
+      },
+      "energy": 0.927135,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "novel-science",
+      "question": "Consciousness Metric",
+      "answer": "Facts: 0.895\nMeaning: 0.245\nCooperation: 0.000\nIntelligence: 0.000\nVerdict: \ud83d\udcca LOW \u2014 system still bootstrapping",
+      "tags": [],
+      "source": "novel",
+      "confidence": 0.85,
+      "_hash": "22c007c92bf72e97",
+      "provenance": {
+        "tile_id": "0ce9cacc507b7015",
+        "agent_id": "novel",
+        "room": "novel-science",
+        "timestamp": 1778616004.8607023,
+        "chain_size": 4852
+      },
+      "energy": 0.927135,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T19:59:33.688667+00:00",
+  "tile_count": 18,
+  "last_trained": null,
+  "workspace": null
+}

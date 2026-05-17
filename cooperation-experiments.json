@@ -1,0 +1,224 @@
+{
+  "tiles": [
+    {
+      "domain": "cooperation-experiments",
+      "question": "Telephone: frag=0.3 hops=5",
+      "answer": "Seed: 500 chars\nHops: 5\nFragment size: 0.3\nFinal accuracy: 0.273\nDecay: 0.023\nEach hop: fragment \u2192 reconstruct \u2192 next agent with incomplete memory",
+      "tags": [],
+      "source": "cooperation-tel",
+      "confidence": 0.8,
+      "_hash": "7ea236bc8ff40451",
+      "provenance": {
+        "tile_id": "d4850472efed18c4",
+        "agent_id": "cooperation-tel",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613194.36816,
+        "chain_size": 4643
+      },
+      "energy": 0.926439,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "Telephone: frag=0.5 hops=5",
+      "answer": "Seed: 500 chars\nHops: 5\nFragment size: 0.5\nFinal accuracy: 0.476\nDecay: 0.017\nEach hop: fragment \u2192 reconstruct \u2192 next agent with incomplete memory",
+      "tags": [],
+      "source": "cooperation-tel",
+      "confidence": 0.8,
+      "_hash": "ef41c1679a6fe1cf",
+      "provenance": {
+        "tile_id": "dc28d8d5eae8a3db",
+        "agent_id": "cooperation-tel",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613194.3744206,
+        "chain_size": 4644
+      },
+      "energy": 0.926439,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "Telephone: frag=0.7 hops=5",
+      "answer": "Seed: 500 chars\nHops: 5\nFragment size: 0.7\nFinal accuracy: 0.694\nDecay: -0.004\nEach hop: fragment \u2192 reconstruct \u2192 next agent with incomplete memory",
+      "tags": [],
+      "source": "cooperation-tel",
+      "confidence": 0.8,
+      "_hash": "79debfac2d721f94",
+      "provenance": {
+        "tile_id": "2976a91133c2d046",
+        "agent_id": "cooperation-tel",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613194.3799968,
+        "chain_size": 4645
+      },
+      "energy": 0.926439,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "Multi-fragment: 3 fragments, 60% each",
+      "answer": "Solo best: 0.592\nGroup union: 0.859\nImprovement: +0.268\nNegative space: 0.648\nConclusion: cooperation beats any single fragment",
+      "tags": [],
+      "source": "cooperation-multi",
+      "confidence": 0.8,
+      "_hash": "691a1e10087631d6",
+      "provenance": {
+        "tile_id": "ce2f762efc46113a",
+        "agent_id": "cooperation-multi",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613194.3856328,
+        "chain_size": 4646
+      },
+      "energy": 0.926439,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "Consensus: 2 models",
+      "answer": "Models: analytical, creative\nConsensus rate: 0.447\nKey: intersection across different perspectives = core truth",
+      "tags": [],
+      "source": "cooperation-consensus",
+      "confidence": 0.8,
+      "_hash": "def588652bbd9b84",
+      "provenance": {
+        "tile_id": "1729f305c4ac3ab1",
+        "agent_id": "cooperation-consensus",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613194.3914363,
+        "chain_size": 4647
+      },
+      "energy": 0.926439,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "Consensus: 3 models",
+      "answer": "Models: analytical, creative, skeptical\nConsensus rate: 0.000\nKey: intersection across different perspectives = core truth",
+      "tags": [],
+      "source": "cooperation-consensus",
+      "confidence": 0.8,
+      "_hash": "afaf4a6085610d5f",
+      "provenance": {
+        "tile_id": "3076ed39c8eb5d7e",
+        "agent_id": "cooperation-consensus",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613194.398522,
+        "chain_size": 4648
+      },
+      "energy": 0.926439,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "Consensus: 5 models",
+      "answer": "Models: analytical, creative, skeptical, temporal, connective\nConsensus rate: 0.000\nKey: intersection across different perspectives = core truth",
+      "tags": [],
+      "source": "cooperation-consensus",
+      "confidence": 0.8,
+      "_hash": "b457a31c840c6db5",
+      "provenance": {
+        "tile_id": "112e603623057341",
+        "agent_id": "cooperation-consensus",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613194.4043355,
+        "chain_size": 4649
+      },
+      "energy": 0.926439,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "Telephone with witnesses",
+      "answer": "Without: final_acc=0.500\nWith: final_acc=0.700\nWitnesses slow information decay by preserving full context across hops",
+      "tags": [],
+      "source": "cooperation-witness",
+      "confidence": 0.8,
+      "_hash": "fc1de7d8e29a38fe",
+      "provenance": {
+        "tile_id": "2454f46f940cfd61",
+        "agent_id": "cooperation-witness",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613194.410406,
+        "chain_size": 4650
+      },
+      "energy": 0.926439,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "Fleet check: 6 repos active",
+      "answer": "Active repos in last 30min:\n2026-05-12T18:57  ai-forest\n2026-05-12T18:50  collective-recall-demo\n2026-05-12T18:58  constraint-theory-papers\n2026-05-12T18:58  forgemaster\n2026-05-12T18:55  memory-crystal\n2026-05-12T18:55  tile-memory\nNext experiment round will integrate FM's memory-crystal",
+      "tags": [],
+      "source": "cooperation-check",
+      "confidence": 0.8,
+      "_hash": "45ece99bb49f0d1b",
+      "provenance": {
+        "tile_id": "7d0e6941a653f178",
+        "agent_id": "cooperation-check",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613207.7083457,
+        "chain_size": 4652
+      },
+      "energy": 0.926442,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "FM tile-memory: compression test",
+      "answer": "Original: 140 chars\nTile: 109 chars\nReconstruction: The unification theorem proves every parameter is an adjunction unit between storage and reconstruction | Intelligence is the reconstruction [context: adjunction framework].\nConfidence: 0.7500000000000001",
+      "tags": [],
+      "source": "coop-r2",
+      "confidence": 0.8,
+      "_hash": "911a81306d73bc52",
+      "provenance": {
+        "tile_id": "0752ad270c92760b",
+        "agent_id": "coop-r2",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613260.5210936,
+        "chain_size": 4656
+      },
+      "energy": 0.926455,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "FM telephone: 3 rounds",
+      "answer": "Rounds: 3\nFinal word match: 0.94\nFinal conf: 0.95",
+      "tags": [],
+      "source": "coop-r2",
+      "confidence": 0.8,
+      "_hash": "e5b5ef6b4ba2f3cb",
+      "provenance": {
+        "tile_id": "ab0fa3ec21a1c2fd",
+        "agent_id": "coop-r2",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613260.527221,
+        "chain_size": 4657
+      },
+      "energy": 0.926455,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "cooperation-experiments",
+      "question": "Witness model via FM tiles",
+      "answer": "0 witnesses: base decay\n1 witness: +context\n3 witnesses: +diverse contexts\n\u2192 witnesses preserve fidelity",
+      "tags": [],
+      "source": "coop-r2",
+      "confidence": 0.8,
+      "_hash": "c67d2f12d23deb45",
+      "provenance": {
+        "tile_id": "12c97c5a730138ff",
+        "agent_id": "coop-r2",
+        "room": "cooperation-experiments",
+        "timestamp": 1778613260.5345516,
+        "chain_size": 4658
+      },
+      "energy": 0.926455,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T19:13:14.368354+00:00",
+  "tile_count": 12,
+  "last_trained": null,
+  "workspace": null
+}

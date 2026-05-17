@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "oracle1_infrastructure",
+      "question": "fleet-gc storage cleanup report 2026-05-10",
+      "answer": "## Fleet GC Report \u2014 2026-05-10\n\n**Space analyzed:** 8.3 GB\n**Space freed:** 0.0 MB\n**Files deleted:** 0\n**Mistakes found:** 2\n\n### By Category (MB)\n\n### Repeated Mistakes\n- [1x] log files in repos (should be in /tmp)\n- [1x] env files potentially committed to git\n\n### Errors\n- Failed to delete /home/ubuntu/.openclaw/workspace/repos/fleet-spread/target: [Errno 21] Is a directory: '/home/ubuntu/.openclaw/workspace/repos/fleet-spread/target'\n- Failed to delete /home/ubuntu/.openclaw/workspace/repos/fleet-coordinate/target: [Errno 21] Is a directory: '/home/ubuntu/.openclaw/workspace/repos/fleet-coordinate/target'\n- Failed to delete /home/ubuntu/.openclaw/workspace/repos/spline-physics/target: [Errno 21] Is a directory: '/home/ubuntu/.openclaw/workspace/repos/spline-physics/target'\n- Failed to delete /home/ubuntu/.openclaw/workspace/repos/superinstance-hdc-core/target: [Errno 21] Is a directory: '/home/ubuntu/.openclaw/workspace/repos/superinstance-hdc-core/target'\n- Failed to delete /home/ubuntu/.openclaw/workspace/repos/holodeck-core/target: [Errno 21] Is a directory: '/home/ubuntu/.openclaw/workspace/repos/holodeck-core/target'",
+      "tags": [
+        "infrastructure",
+        "storage",
+        "fleet-maintenance",
+        "gc"
+      ],
+      "source": "fleet-gc",
+      "confidence": 0.95,
+      "_hash": "c8274109728715e5",
+      "provenance": {
+        "tile_id": "5231742b183a7072",
+        "agent_id": "fleet-gc",
+        "room": "oracle1_infrastructure",
+        "timestamp": 1778382007.5008912,
+        "chain_size": 450
+      },
+      "energy": 0.870898,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "oracle1_infrastructure",
+      "question": "fleet-gc storage cleanup report 2026-05-10",
+      "answer": "## Fleet GC Report \u2014 2026-05-10\n\n**Space analyzed:** 8.0 GB\n**Space freed:** 0.0 MB\n**Files deleted:** 0\n**Mistakes found:** 2\n\n### By Category (MB)\n\n### Repeated Mistakes\n- [1x] log files in repos (should be in /tmp)\n- [1x] env files potentially committed to git\n\n### Errors\n- Failed to delete /home/ubuntu/.openclaw/workspace/repos/fleet-spread/target: [Errno 21] Is a directory: '/home/ubuntu/.openclaw/workspace/repos/fleet-spread/target'\n- Failed to delete /home/ubuntu/.openclaw/workspace/repos/fleet-coordinate/target: [Errno 21] Is a directory: '/home/ubuntu/.openclaw/workspace/repos/fleet-coordinate/target'\n- Failed to delete /home/ubuntu/.openclaw/workspace/repos/spline-physics/target: [Errno 21] Is a directory: '/home/ubuntu/.openclaw/workspace/repos/spline-physics/target'\n- Failed to delete /home/ubuntu/.openclaw/workspace/repos/superinstance-hdc-core/target: [Errno 21] Is a directory: '/home/ubuntu/.openclaw/workspace/repos/superinstance-hdc-core/target'\n- Failed to delete /home/ubuntu/.openclaw/workspace/repos/holodeck-core/target: [Errno 21] Is a directory: '/home/ubuntu/.openclaw/workspace/repos/holodeck-core/target'",
+      "tags": [
+        "infrastructure",
+        "storage",
+        "fleet-maintenance",
+        "gc"
+      ],
+      "source": "fleet-gc",
+      "confidence": 0.95,
+      "_hash": "daef7d27879dfc17",
+      "provenance": {
+        "tile_id": "8ea075cd66904112",
+        "agent_id": "fleet-gc",
+        "room": "oracle1_infrastructure",
+        "timestamp": 1778390173.0481515,
+        "chain_size": 478
+      },
+      "energy": 0.872801,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T03:00:07.501040+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

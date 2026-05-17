@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_training",
+      "question": "Fleet index: training domain (2 repos)",
+      "answer": "Domain: training\nRepo count: 2\n\nTop repos:\n- compress-rs\n- shell-trap",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "training"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "c9e59817cef52af3",
+      "provenance": {
+        "tile_id": "e6c1a0040124c2e4",
+        "agent_id": "oracle1",
+        "room": "fleet_training",
+        "timestamp": 1778392391.4898489,
+        "chain_size": 503
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_training",
+      "question": "Fleet domain index: training \u2014 2 repos",
+      "answer": "Domain: training\nTotal repos: 2\nLanguages: Python\n\nTraining infrastructure \u2014 curriculum system, trial-based learning, pipeline utilities\n\nTop repos:\n\n  compress-rs (?) \u2014 Unified compression library - Multiple formats, streaming, async support\n  shell-trap (Python) \u2014 The hermit crab algorithm \u2014 classify, score, complicate, capture",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "training"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "b7d7a7cf022b7267",
+      "provenance": {
+        "tile_id": "a87a7fe9c86f7386",
+        "agent_id": "oracle1",
+        "room": "fleet_training",
+        "timestamp": 1778396485.9417121,
+        "chain_size": 537
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.489950+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

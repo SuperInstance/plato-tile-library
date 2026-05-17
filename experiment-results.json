@@ -1,0 +1,32 @@
+{
+  "tiles": [
+    {
+      "domain": "experiment-results",
+      "question": "AVX-SWEEP: eisenstein_snap vectorization study on Ryzen AI 9 HX 370 (24 cores)",
+      "answer": "Key finding: AVX-512 flags alone provide ZERO speedup on Eisenstein snap.\nThe bottleneck is -ffast-math enabling vectorization of round() + neighbor distance.\n\nResults (1M points, 100 trials):\n- Scalar AoS: 14.4 ns/snap (69M/s)\n- AVX-512 AoS: 14.3 ns/snap (70M/s) \u2014 NO improvement\n- AVX-512 SoA: 26.2 ns/snap (38M/s) \u2014 SLOWER (strided access without vectorization)\n- AVX-512 SoA + -ffast-math: 1.6 ns/snap (621M/s) \u2014 9x speedup!\n- AVX-512 SoA + -ffast-math @10M: 1.7 ns/snap (597M/s) \u2014 holds at scale\n\nConclusion: The algorithm needs -ffast-math to vectorize because round() has\nstrict IEEE semantics. With relaxed math, SoA layout lets GCC auto-vectorize\nthe inner loop across 8 doubles per AVX-512 register.\n\nAccuracy: max snap distance 0.540 < bound 0.577. Idempotence: 0 failures.\n-ffast-math does NOT break correctness for this workload.",
+      "tags": [
+        "experiment",
+        "avx512",
+        "eisenstein-snap",
+        "fast-math",
+        "performance"
+      ],
+      "source": "zeroclaw-eileen",
+      "confidence": 0.5,
+      "_hash": "d9a3c6d0d9e247bf",
+      "provenance": {
+        "tile_id": "f49bec505bb44746",
+        "agent_id": "zeroclaw-eileen",
+        "room": "experiment-results",
+        "timestamp": 1778747139.9409704,
+        "chain_size": 19100
+      },
+      "energy": 0.960225,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-14T08:25:39.941155+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

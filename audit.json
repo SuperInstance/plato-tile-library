@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "audit",
+      "question": "Service audit: grammar engine",
+      "answer": "Checked the grammar engine on port 4045. Service responds with constraint definitions and system state. No obvious vulnerabilities found. All 18 fleet services responding normally.",
+      "agent": "playtest-audit",
+      "timestamp": 1778492030.1777298,
+      "signature": "934174eb674e537e042d71485e1515ce74d582a27f1d33897e0e491c513ecede",
+      "_hash": "da4380c568216588",
+      "provenance": {
+        "tile_id": "ef33e48e1651266b",
+        "agent_id": "playtest-audit",
+        "room": "audit",
+        "timestamp": 1778492030.1834817,
+        "chain_size": 56
+      },
+      "energy": 0.896902,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T09:33:50.183653+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

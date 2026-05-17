@@ -1,0 +1,44 @@
+{
+  "tiles": [
+    {
+      "domain": "keel_sync_test",
+      "question": "sync-test:keel_date",
+      "answer": "2026-05-09T07:46:28.875950860+00:00",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 1.0,
+      "_hash": "c73c410bc3d097fe",
+      "provenance": {
+        "tile_id": "24ffc77607fc9f4a",
+        "agent_id": "unknown",
+        "room": "keel_sync_test",
+        "timestamp": 1778312831.9757388,
+        "chain_size": 194
+      },
+      "energy": 0.854935,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "keel_sync_test",
+      "question": "sync-test:refit-0001",
+      "answer": "{\n  \"date\": \"2026-05-09T07:47:17.289361023+00:00\",\n  \"component\": \"models/llm\",\n  \"reason\": \"Testing PLATO sync\",\n  \"pruned\": []\n}",
+      "tags": [],
+      "source": "unknown",
+      "confidence": 0.95,
+      "_hash": "88e355a6c9674d0d",
+      "provenance": {
+        "tile_id": "9ee9e3d9c5c1a907",
+        "agent_id": "unknown",
+        "room": "keel_sync_test",
+        "timestamp": 1778312837.3014045,
+        "chain_size": 195
+      },
+      "energy": 0.854936,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-09T07:47:11.975891+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

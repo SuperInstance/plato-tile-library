@@ -1,0 +1,25 @@
+{
+  "tiles": [
+    {
+      "domain": "scribe-fix_test",
+      "question": "Scribe initialized for fix_test",
+      "answer": "Digital twin builder started for application: fix_test. Observing state and building PLATO representation.",
+      "source": "scribe-fix_test",
+      "confidence": 0.9,
+      "_hash": "8eed79278e430c6d",
+      "provenance": {
+        "tile_id": "0f5994d7113b57eb",
+        "agent_id": "scribe-fix_test",
+        "room": "scribe-fix_test",
+        "timestamp": 1778539423.8853736,
+        "chain_size": 586
+      },
+      "energy": 0.908341,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-11T22:43:43.885575+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

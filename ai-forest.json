@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "ai-forest",
+      "question": "ai-forest initialized",
+      "answer": "mycelium bridge room",
+      "tags": [],
+      "source": "bridge",
+      "confidence": 0.5,
+      "_hash": "3c689c39bb209a2a",
+      "provenance": {
+        "tile_id": "0fe30222ed837bdd",
+        "agent_id": "bridge",
+        "room": "ai-forest",
+        "timestamp": 1778575361.290136,
+        "chain_size": 2241
+      },
+      "energy": 0.917113,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-12T08:42:41.290298+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,26 @@
+{
+  "tiles": [
+    {
+      "domain": "forge-foundry",
+      "question": "Forged #1: Cross-reference tiles between ",
+      "answer": "Task: Cross-reference tiles between forge and synthesis | GPU time: 2.55s | FLUX ISA: contract, spline, gradient",
+      "tags": [],
+      "source": "forgemaster",
+      "confidence": 0.95,
+      "_hash": "09d35331c95a921d",
+      "provenance": {
+        "tile_id": "0ed184c483ccc678",
+        "agent_id": "forgemaster",
+        "room": "forge-foundry",
+        "timestamp": 1778643281.2743955,
+        "chain_size": 6789
+      },
+      "energy": 0.933923,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T03:34:41.274546+00:00",
+  "tile_count": 1,
+  "last_trained": null,
+  "workspace": null
+}

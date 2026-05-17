@@ -1,0 +1,52 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_index",
+      "question": "Fleet index: master catalog",
+      "answer": "Total domains: 19\n\n- agent: 28 repos\n- automation: 5 repos\n- brand: 2 repos\n- communication: 2 repos\n- docs: 3 repos\n- edge: 11 repos\n- fleet: 392 repos\n- infrastructure: 82 repos\n- math: 64 repos\n- math-flows: 1 repos\n- mud: 7 repos\n- plato: 211 repos\n- protocol: 10 repos\n- research: 43 repos\n- rust: 6 repos\n- security: 1 repos\n- tools: 81 repos\n- training: 2 repos\n- web: 26 repos",
+      "tags": [
+        "index",
+        "master",
+        "fleet"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "e6d4e5b38aca7605",
+      "provenance": {
+        "tile_id": "861779b009fadd94",
+        "agent_id": "oracle1",
+        "room": "fleet_index",
+        "timestamp": 1778392391.4994488,
+        "chain_size": 505
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_index",
+      "question": "Fleet master index \u2014 all 19 domains",
+      "answer": "Total repos (non-fork): 927\nTotal domains: 19\n\nagent: 28 repos\nautomation: 5 repos\nbrand: 2 repos\ncommunication: 2 repos\ndocs: 3 repos\nedge: 9 repos\nfleet: 388 repos\ninfrastructure: 82 repos\nmath: 64 repos\nmath-flows: 1 repos\nmud: 7 repos\nplato: 168 repos\nprotocol: 10 repos\nresearch: 42 repos\nrust: 6 repos\nsecurity: 1 repos\ntools: 81 repos\ntraining: 2 repos\nweb: 26 repos",
+      "tags": [
+        "index",
+        "master",
+        "fleet"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "45b9aaa384549ece",
+      "provenance": {
+        "tile_id": "66e295e3d926d272",
+        "agent_id": "oracle1",
+        "room": "fleet_index",
+        "timestamp": 1778396485.9559777,
+        "chain_size": 539
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.499549+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

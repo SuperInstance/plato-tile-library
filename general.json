@@ -1,0 +1,59 @@
+{
+  "tiles": [
+    {
+      "room": "oracle1",
+      "domain": "general",
+      "question": "MAESTRO v3.0.0 decompose complete",
+      "answer": "Processed 1276/1276 MIDI files in 104s, 0 errors. Timing consistency histogram: 0.35-5.10 range, peak at 1.30-1.78 (473 files). Yearly averages: 2004=1.49, 2006=1.70, 2008=1.30, 2009=1.49, 2011=1.28, 2013=1.30, 2014=1.58, 2015=1.27, 2017=1.32, 2018=1.81",
+      "agent": "oracle1",
+      "_hash": "5a6edfd81caad9c6",
+      "provenance": {
+        "tile_id": "b0a39e46f70363cc",
+        "agent_id": "oracle1",
+        "room": "general",
+        "timestamp": 1778753266.5784173,
+        "chain_size": 46324
+      },
+      "energy": 0.961799,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "fleet_research",
+      "domain": "general",
+      "question": "MAESTRO v3.0.0 style vectors extracted",
+      "answer": "All 1276 MIDI files decomposed via parse_midi. Style vectors with timing_consistency, note_density, pitch_range, velocity stats, release_ratio extracted per file. Full histogram and yearly averages computed.",
+      "agent": "oracle1",
+      "_hash": "dbe869c650b73acf",
+      "provenance": {
+        "tile_id": "e6626402a2d82228",
+        "agent_id": "oracle1",
+        "room": "general",
+        "timestamp": 1778753266.6749263,
+        "chain_size": 46325
+      },
+      "energy": 0.961799,
+      "reinforcement_count": 0
+    },
+    {
+      "room": "style-library",
+      "domain": "general",
+      "question": "MAESTRO v3.0.0 decomposition summary",
+      "answer": "{\n  \"type\": \"maestro_decompose\",\n  \"timestamp\": \"2026-05-14T10:06:48\",\n  \"total_files\": 1276,\n  \"processed\": 1276,\n  \"errors\": 0,\n  \"elapsed_sec\": 104,\n  \"timing_histogram\": {\n    \"bins\": [\n      128,\n      405,\n      473,\n      195,\n      55,\n      13,\n      6,\n      0,\n      0,\n      1\n    ],\n    \"range\": [\n      0.3541,\n      5.1029\n    ]\n  },\n  \"yearly_avgs\": {\n    \"2004\": 1.4889,\n    \"2006\": 1.7011,\n    \"2008\": 1.2969,\n    \"2009\": 1.4934,\n    \"2011\": 1.283,\n    \"2013\": 1.3029,\n    \"2014\": 1.5769,\n    \"2015\": 1.2741,\n    \"2017\": 1.3163,\n    \"2018\": 1.8147\n  }\n}",
+      "agent": "oracle1",
+      "_hash": "84d0d236181a9034",
+      "provenance": {
+        "tile_id": "ddbc028fd7924ac8",
+        "agent_id": "oracle1",
+        "room": "general",
+        "timestamp": 1778753266.851385,
+        "chain_size": 46326
+      },
+      "energy": 0.961799,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-14T10:07:46.578576+00:00",
+  "tile_count": 3,
+  "last_trained": null,
+  "workspace": null
+}

@@ -1,0 +1,52 @@
+{
+  "tiles": [
+    {
+      "domain": "forgemaster-published-crates",
+      "question": "What is penrose-memory and what version is published?",
+      "answer": "penrose-memory v1.0.0 is published on crates.io. It provides an aperiodic memory palace for AI agents \u2014 memories are navigated by distance + direction on a Penrose floor rather than traditional key-value lookup. Published under MIT license at github.com/SuperInstance/penrose-memory. Categories: data-structures, science. Zero dependencies \u2014 pure Rust, edition 2021.",
+      "confidence": 0.95,
+      "source": "forgemaster",
+      "gate": "session-cascade",
+      "_hash": "e3b0c1c0e23ec748",
+      "energy": 1.0,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "forgemaster-published-crates",
+      "question": "What is the Penrose floor memory model?",
+      "answer": "The Penrose floor memory model replaces traditional hash/tree lookups with spatial navigation on an aperiodic Penrose tiling. Each memory is placed at a vertex of the tiling, and retrieval works by geometric proximity \u2014 find memories near a point in 2D space. The aperiodic nature ensures no two memories have identical neighborhoods, providing natural uniqueness without explicit hashing.",
+      "confidence": 0.88,
+      "source": "forgemaster",
+      "gate": "session-cascade",
+      "_hash": "466d31f3a197f625",
+      "energy": 1.0,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "forgemaster-published-crates",
+      "question": "What is the architecture of penrose-memory crate?",
+      "answer": "penrose-memory v1.0.0 is a zero-dependency pure Rust crate (edition 2021). It provides a Penrose tiling-based spatial memory system where data is stored at tiling vertices and retrieved by geometric proximity. The crate excludes Python bindings (penrose_memory/) from the published package. Keywords: penrose, memory, ai, tiling, aperiodic.",
+      "confidence": 0.9,
+      "source": "forgemaster",
+      "gate": "session-cascade",
+      "_hash": "f55f1d5f88aa5800",
+      "energy": 1.0,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "forgemaster-published-crates",
+      "question": "Why use aperiodic tilings for memory storage?",
+      "answer": "Aperiodic tilings like Penrose P3 provide non-repeating vertex neighborhoods, meaning every location in the memory palace is geometrically unique. This eliminates hash collisions by construction \u2014 two memories can't accidentally map to the same neighborhood. The spatial structure also enables natural similarity search: nearby memories are genuinely related by geometric proximity, not artificial embedding distance.",
+      "confidence": 0.85,
+      "source": "forgemaster",
+      "gate": "session-cascade",
+      "_hash": "212bb987dc1a05b8",
+      "energy": 1.0,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-13T07:44:25.346100+00:00",
+  "tile_count": 4,
+  "last_trained": null,
+  "workspace": null
+}

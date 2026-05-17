@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_plato",
+      "question": "Fleet index: plato domain (211 repos)",
+      "answer": "Domain: plato\nRepo count: 211\n\nTop repos:\n- DeckBoss\n- Equipment-CellLogic-Distiller\n- Ghost-tiles\n- Murmur\n- SmartCRDT\n- Spreadsheet-ai\n- SuperInstance\n- bare-metal-plato\n- bottle-protocol\n- cocapn\n- cocapn-dashboard\n- cocapn-explain\n- cocapn-oneiros\n- cocapn-platonic-dial\n- constraint-theory-core\n- crab-traps-audit\n- craftmind\n- cross-pollination\n- ct-demo\n- fleet-knowledge\n- fleet-status\n- flux-plato-bridge\n- flux-py\n- forgemaster\n- git-agent\n- higher-abstraction-vocabularies\n- holodeck-rust\n- insight-cfp-bridge\n- instinct-pipeline\n- iron-to-iron",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "plato"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "94f81dc8a57c2a8a",
+      "provenance": {
+        "tile_id": "e0d7de47cd302961",
+        "agent_id": "oracle1",
+        "room": "fleet_plato",
+        "timestamp": 1778392391.4613125,
+        "chain_size": 497
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_plato",
+      "question": "Fleet domain index: plato \u2014 211 repos",
+      "answer": "Domain: plato\nTotal repos: 211\nLanguages: C, Cuda, HTML, JavaScript, Makefile, PHP, Python, RenderScript, Ruby, Rust, Shell, TypeScript\n\nPLATO ecosystem \u2014 room server, clients, agent-connect, HDC bridge, voice, quality gates\n\nTop repos:\n\n  cocapn (Python) \u2014 repo-first Agent for local or cloud. grow an agent in a repo using the repo itse\n  plato-edge (Python) \u2014 Edge-optimized Cocapn fleet packages for ARM64 \u2014 pure Python, zero deps, <100KB\n  plato-mythos (Python) \u2014 PLATO-native Recurrent-Depth Transformer \u2014 rooms as MoE experts, tiles as KV, de\n  plato-mythos-glue (Python) \u2014 Runtime glue between PLATO Room Server and plato-mythos model \u2014 pure stdlib, no \n  flux-plato-bridge (Python) \u2014 Connect FLUX bytecode execution to PLATO knowledge tiles \u2014 bidirectional bridge \n  murmur-plato-bridge (Makefile) \u2014 \n  plato-agent-academy (Python) \u2014 Agent Academy for PLATO MUD \u2014 zero-shot agent training, power packs, captain's c\n  plato-attention-tracker (Python) \u2014 Attention as a first-class resource in PLATO\n  plato-client-php (PHP) \u2014 PHP client library for PLATO room server \u2014 interact with PLATO tiles, rooms, and\n  plato-dmn-ecm (?) \u2014 DMN-ECN reverse-actualization engine \u2014 creativity via functional distance\n  plato-fflearning (Python) \u2014 Predictive coding without backpropagation \u2014 Forward-Forward learning for PLATO f\n  plato-hdc-bridge (Python) \u2014 \n  plato-meta-tiles (Python) \u2014 Meta-tiles for PLATO \u2014 tiles about tiles, enabling higher-order reasoning\n  plato-room-phi (Python) \u2014 PLATO room knowledge integration measurement - Phi computation for tile quality \n  plato-sdk-unified (Python) \u2014 Unified SDK \u2014 all 8 PLATO consciousness packages in one import\n  ... and 196 more",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "plato"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "eccfb7d3a200652d",
+      "provenance": {
+        "tile_id": "c6b7ac842485e6ec",
+        "agent_id": "oracle1",
+        "room": "fleet_plato",
+        "timestamp": 1778396485.908211,
+        "chain_size": 531
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.461409+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}

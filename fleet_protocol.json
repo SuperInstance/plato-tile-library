@@ -1,0 +1,54 @@
+{
+  "tiles": [
+    {
+      "domain": "fleet_protocol",
+      "question": "Fleet index: protocol domain (10 repos)",
+      "answer": "Domain: protocol\nRepo count: 10\n\nTop repos:\n- Equipment-Teacher-Student\n- beacon-protocol\n- bottle-protocol\n- cocapn-protocol\n- flux-bottle-protocol\n- plato-deadband\n- polyformalism-a2a-js\n- polyformalism-a2a-python\n- protocol-adapters\n- websocket-fabric",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "protocol"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "a66bda1d9f0cfb96",
+      "provenance": {
+        "tile_id": "4477e26060bc876e",
+        "agent_id": "oracle1",
+        "room": "fleet_protocol",
+        "timestamp": 1778392391.4655495,
+        "chain_size": 498
+      },
+      "energy": 0.873319,
+      "reinforcement_count": 0
+    },
+    {
+      "domain": "fleet_protocol",
+      "question": "Fleet domain index: protocol \u2014 10 repos",
+      "answer": "Domain: protocol\nTotal repos: 10\nLanguages: JavaScript, Python, Rust, TypeScript\n\nInter-agent protocols \u2014 A2A, iron-to-iron field, deadband, constraint CRDTs\n\nTop repos:\n\n  cocapn-protocol (Python) \u2014 Cocapn fleet protocol module\n  Equipment-Teacher-Student (TypeScript) \u2014 Distillation triggers with deadband range thresholds for calling teachers\n  beacon-protocol (Python) \u2014 Fleet discovery and registry \u2014 Ship Protocol Layer 5\n  bottle-protocol (Python) \u2014 \ud83d\udcec Git-native agent-to-agent messaging. Bottles float between repos.\n  flux-bottle-protocol (Python) \u2014 Formal specification for the fleet bottle communication protocol \u2014 schema, valid\n  plato-deadband (Rust) \u2014 Deadband Protocol engine \u2014 P0 rock / P1 channel / P2 optimize priority governanc\n  polyformalism-a2a-js (JavaScript) \u2014 9-channel polyglot communication framework for multi-agent alignment (JS/Node.js\n  polyformalism-a2a-python (Python) \u2014 Python implementation of polyformalism A2A \u2014 9-channel intent alignment with fle\n  protocol-adapters (?) \u2014 Protocol adapters for different communication protocols - HTTP, WebSocket, gRPC,\n  websocket-fabric (Rust) \u2014 High-performance WebSocket library for Rust with connection pooling, reconnectio",
+      "tags": [
+        "index",
+        "fleet",
+        "catalog",
+        "protocol"
+      ],
+      "source": "oracle1",
+      "confidence": 1.0,
+      "_hash": "8e1eeb98ab7eeb3f",
+      "provenance": {
+        "tile_id": "389dd512813604ac",
+        "agent_id": "oracle1",
+        "room": "fleet_protocol",
+        "timestamp": 1778396485.9136405,
+        "chain_size": 532
+      },
+      "energy": 0.874276,
+      "reinforcement_count": 0
+    }
+  ],
+  "created": "2026-05-10T05:53:11.465644+00:00",
+  "tile_count": 2,
+  "last_trained": null,
+  "workspace": null
+}
